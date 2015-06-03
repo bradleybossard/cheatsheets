@@ -7,37 +7,29 @@
     tmux det                    $ detach from session
     tmux detach
     tmux kill-session -t session_name  # kill session 
-
-<a name="killAllSessions"></a>Kill all the tmux sessions:
-
-    tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, length($1)-1)}' | xargs kill
-
-In tmux, hit the prefix `ctrl+b` (my modified prefix is ctrl+a) and then:
-
-## Sessions
-
-    :new<CR>  new session
-    s  list sessions
-    $  name session
-
-## Windows (tabs)
-
-    c  new window
-    w  list windows
-    f  find window
-    ,  name window
-    &  kill window
-
-## <a name="PanesSplits"></a>Panes (splits) 
-
-    %  vertical split
-    "  horizontal split
+    tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, length($1)-1)}' | xargs kill  # kill all sessions
     
-    o  swap panes
-    q  show pane numbers
-    x  kill pane
-    +  break pane into window (e.g. to select text by mouse to copy)
-    -  restore pane from window
+    prefix r      # Reload tmux conf
+
+    prefix :new<CR>    # new session
+    prefix s           # list sessions
+    prefix $           # name session
+
+    prefix c      # new window
+    prefix w      # list windows
+    prefix f      # find window
+    prefix ,      # name window
+    prefix &      # kill window
+
+    prefix [      #enter copy mode
+
+    prefix %  # split pane vertically
+    prefix "  # split pane horizontally 
+    prefix o  # swap panes
+    prefix q  # show pane numbers
+    prefix x  # kill pane
+    prefix +  # break pane into window (e.g. to select text by mouse to copy)
+    prefix -  # restore pane from window
     â½  space - toggle between layouts
     <prefix> q (Show pane numbers, when the numbers show up type the key to goto that pane)
     <prefix> { (Move the current pane left)
@@ -71,15 +63,6 @@ You can also resize panes if you donâ€™t like the layout defaults. I person
     PREFIX : resize-pane -t -L 20 (Resizes the pane with the id of 2 left by 20 cells)
     
     
-## Copy mode:
-
-Pressing PREFIX [ places us in Copy mode. We can then use our movement keys to move our cursor around the screen. By default, the arrow keys work. we set our configuration file to use Vim keys for moving between windows and resizing panes so we wouldnâ€™t have to take our hands off the home row. tmux has a vi mode for working with the buffer as well. To enable it, add this line to .tmux.conf:
-
-    setw -g mode-keys vi
-
-With this option set, we can use h, j, k, and l to move around our buffer.
-
-To get out of Copy mode, we just press the ENTER key. Moving around one character at a time isnâ€™t very efficient. Since we enabled vi mode, we can also use some other visible shortcuts to move around the buffer.
 
 For example, we can use "w" to jump to the next word and "b" to jump back one word. And we can use "f", followed by any character, to jump to that character on the same line, and "F" to jump backwards on the line.
 
