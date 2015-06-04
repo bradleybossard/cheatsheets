@@ -23,8 +23,10 @@
 
     prefix [      #enter copy mode
 
-    prefix %  # split pane vertically
-    prefix "  # split pane horizontally 
+    prefix %         # split pane vertically
+    prefix "         # split pane horizontally 
+    prefix alt+down  # resize panel down
+    prefix alt+up    # resize panel down
     prefix o  # swap panes
     prefix q  # show pane numbers
     prefix x  # kill pane
