@@ -1,17 +1,16 @@
     tmux                        # start new session
     tmux new -s session_name    # new session with name 
     tmux a                      # attach to last opened session    
-    tmux attach
     tmux a -t session_name      # attach to session    
     tmux ls                     # list sessions
     tmux det                    $ detach from session
     tmux detach
     tmux kill-session -t session_name  # kill session 
-    tmux ls | grep : | cut -d. -f1 | awk '{print substr($1, 0, length($1)-1)}' | xargs kill  # kill all sessions
     
     prefix r      # Reload tmux conf
 
     prefix :new<CR>    # new session
+    prefix d           # detach from session
     prefix s           # list sessions
     prefix $           # name session
 
