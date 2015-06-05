@@ -27,8 +27,6 @@
     prefix alt+down  # resize panel down
     prefix alt+up    # resize panel down
 
-    prefix o  # swap panes
-    prefix q  # show pane numbers
     prefix x  # kill pane
     prefix +  # break pane into window (e.g. to select text by mouse to copy)
     prefix -  # restore pane from window
@@ -37,6 +35,7 @@
     <prefix> { (Move the current pane left)
     <prefix> } (Move the current pane right)
     <prefix> z toggle pane zoom
+
 
 ## <a name="syncPanes"></a>Sync Panes 
 
@@ -48,8 +47,9 @@ You can do this by switching to the appropriate window, typing your Tmux prefix 
 
 You can optionally add on or off to specify which state you want; otherwise the option is simply toggled. This option is specific to one window, so it wonâ€™t change the way your other sessions or windows operate. When youâ€™re done, toggle it off again by repeating the command. [tip source](http://blog.sanctum.geek.nz/sync-tmux-panes/)
 
-
-    d  detach
+## Little used - to probably be deleted.
+    prefix o  # swap panes
+    prefix q  # show pane numbers
     t  big clock
     ?  list shortcuts
     :  prompt
