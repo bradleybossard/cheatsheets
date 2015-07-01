@@ -24,8 +24,9 @@
 
     prefix %         # split pane vertically
     prefix "         # split pane horizontally 
-    prefix alt+down  # resize panel down
-    prefix alt+up    # resize panel down
+    prefix alt+down  # resize pane in down direction 
+    prefix alt+up    # resize pane in up direction
+    prefix + {       # swap panes
 
     prefix x  # kill pane
     prefix +  # break pane into window (e.g. to select text by mouse to copy)
