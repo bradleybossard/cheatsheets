@@ -3,5 +3,7 @@
     git log -S "line-of-code"           # find which commit a certain line of code was added.
     git log origin/master..new          # see what you have not pushed yet
 
+    git grep -n <search_term>           # search and show line numbers 
+
     git count-objects -v                # see stats about your git database
     git gc                              # run garbage collection on your database
