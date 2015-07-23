@@ -5,7 +5,10 @@
     docker history <image-name + tab>        # Show image history, tab complete on image name
 
     docker run --rm -it ubuntu bash          # Pull down Ubuntu image and open a shell in it
-    docker run --rm -it busybox bash         # Pull down Ubuntu image and open a shell in it
+    docker run --rm -it busybox bash         # Pull down Busybox image and open a shell in it
+    
+    docker run --rm -ti yikaus/alpine-bash /bin/bash  # Pull down Alpine Linux and open a shell in it
+    apk update; apk search <package-name>             # Alpine use apk.  Must update first before search works.
 
     docker rm <container-hash + tab>         # Tab complete container hash
     docker rm $(docker ps -a -q)             # Remove all containers
