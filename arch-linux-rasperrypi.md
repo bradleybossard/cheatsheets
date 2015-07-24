@@ -5,5 +5,7 @@
 
     pacman -Syu                                   # update all packages
     pacman-db-upgrade                             # update database are updating all packages
+    
+    pacman -S openssh                             # install openssh
 
     pacman -S docker
