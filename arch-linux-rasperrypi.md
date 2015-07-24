@@ -4,4 +4,6 @@
     passwd <username>                             # change password for user
 
     pacman -Syu                                   # update all packages
+    pacman-db-upgrade                             # update database are updating all packages
+
     pacman -S docker
