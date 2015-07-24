@@ -5,6 +5,7 @@
 
     pacman -Syu                                   # update all packages
     pacman-db-upgrade                             # update database are updating all packages
+    # add rw to /boot/cmdline.txt
     
     pacman -S openssh                             # install openssh
 
