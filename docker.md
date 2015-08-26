@@ -6,6 +6,8 @@
 
     docker run --rm -it ubuntu bash          # Pull down Ubuntu image and open a shell in it
     docker run --rm -it busybox bash         # Pull down Busybox image and open a shell in it
+
+    docker run -p <outside_port>:<inside_port> <image_name>  # Forward an interior port to the outside 
     
     docker run --rm -ti yikaus/alpine-bash /bin/bash  # Pull down Alpine Linux and open a shell in it
     apk update;                                       # Update Alpine package manager.
