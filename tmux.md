@@ -36,3 +36,10 @@
     <prefix> } (Move the current pane right)
     <prefix> z toggle pane zoom
 
+## Plugins shortcuts
+
+    prefix + /            # Search
+    prefix + ctrl-f       # Filename search
+    prefix + ctrl-u       # Url search
+    enter                 # Copy, when in highlight mode
+
