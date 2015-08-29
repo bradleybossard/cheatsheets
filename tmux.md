@@ -8,6 +8,7 @@
     tmux kill-session -t session_name  # kill session 
     
     prefix r      # Reload tmux conf
+    prefix I      # Install plugins, reload tmux conf
 
     prefix :new<CR>    # new session
     prefix d           # detach from session
