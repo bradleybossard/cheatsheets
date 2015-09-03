@@ -2,6 +2,18 @@
 
     sudo service nginx reload  # Reload nginx.conf 
 
+
+#### Create a .htpasswd file and use it in a rule
+    htpasswd /path/to/.htpasswd file <username> 
+
+    server {
+        location / {
+            auth_basic "Restricted";
+            auth_basic_user_file /path/to/.htpasswd;
+        }
+    }
+
+
 #### Debug only rewrite rules, sends rewrite debug messages to error_log with [notice]
 
     server {
