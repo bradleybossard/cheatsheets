@@ -21,7 +21,10 @@
     prefix ,      # name window
     prefix &      # kill window
 
-    prefix [      #enter copy mode
+    prefix [      # enter scroll mode
+    prefix space  # enter visual copy mode
+    prefix enter  # end scroll mode, copies any seletct text to tmux clipboard 
+    prefix ]      # paste from clipboard
 
     prefix %         # split pane vertically
     prefix "         # split pane horizontally 
