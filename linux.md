@@ -23,6 +23,7 @@
 ###disk
 
     df                         # Report file system disk usage
+    ncdu                       # Ncurses disk usage (quite awesome for analyzing entire drive usage)
 
 ###text
 
