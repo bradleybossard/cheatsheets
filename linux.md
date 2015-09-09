@@ -6,7 +6,10 @@
 ### users
 
      sudo useradd -m -g <groups> -d </path/to/homedir> -s </path/to/shell> -U <username>   # path to shell i.e. /bin/bash 
+
      sudo passwd <username>    # Set userpasswd
+     passwd -l <username>      # Lock user 
+     passwd -u <username>      # Unlock user 
 
 ###process
 
@@ -16,15 +19,15 @@
     jobs                       # show processes running in background
     fg <job-no>                # bring background job to foreground
 
-###files
+### files
 
     lsof                       # List open files
 
-###disk
+### disk
 
     df                         # Report file system disk usage
     ncdu                       # Ncurses disk usage (quite awesome for analyzing entire drive usage)
 
-###text
+### text
 
     nl <text-file>             # cat with line numbers
