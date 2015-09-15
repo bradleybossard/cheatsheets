@@ -13,6 +13,7 @@
     prefix :new<CR>    # new session
     prefix d           # detach from session
     prefix s           # list sessions
+    prefix L           # go to last session
     prefix $           # name session
 
     prefix c      # new window
