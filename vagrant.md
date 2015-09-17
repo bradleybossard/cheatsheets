@@ -1,5 +1,5 @@
-    vagrant init <boxname>        # Create a Vagrantfile in directory for the boxname
-    vagrant init precise64        # Create a Ubuntu Precise 64 machine
+    vagrant init <boxname>        # Create a Vagrantfile in directory for the boxname, i.e. ubuntu/trusty64
+    vagrant init ubuntu/trusty64  # Create a Ubuntu Trusty 64 machine
     vagrant up                    # Bring the machine described in the Vagrant file up on this machine
     vagrant ssh                   # SSH in the machine decribed by the Vagrantfile in the current directory
     vagrant destroy               # Destroy this machine
