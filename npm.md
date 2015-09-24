@@ -8,3 +8,11 @@ npm set save-exact <true|false>     # Set exact library versions when adding
 npm adduser                         # Log into npmjs.com
 
 npm init                            # Create a package.json file
+
+npm publish                         # Publish current version to npmjs.com
+npm publish --tag beta              # Publish a beta version
+
+npm info
+
+npm install <library-name>
+npm install <library-name>@beta     # Download beta version (if libary was published with --tag beta)
