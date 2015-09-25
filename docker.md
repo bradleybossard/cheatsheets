@@ -14,6 +14,9 @@
     apk search <package-name>                # Search for package.  'apk update' required prior.
     apk install <package-name>               # Install package.
 
+    docker build --no-cache                  # Build the image from scratch without using cache
+                                             # Useful well pulling in github repos to image
+
     docker rm <container-hash + tab>                  # Tab complete container hash
     docker rm $(docker ps -a -q)                      # Remove all containers
     docker rmi $(docker images -q -f dangling=true)   # Remove dangling containers
