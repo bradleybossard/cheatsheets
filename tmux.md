@@ -12,6 +12,7 @@
 
     prefix :new<CR>    # new session
     prefix d           # detach from session
+    prefix D           # brings up menu to select which client to detach
     prefix s           # list sessions
     prefix L           # go to last session
     prefix $           # name session
