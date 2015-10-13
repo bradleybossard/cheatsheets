@@ -25,3 +25,5 @@ Part of my "one app" i.e. Chrome development workflow, necessary to get all the 
 ### Open the Javascript console and run
 
      term_.command.removeAllKnownHosts()
+
+### Ctrl+Alt+W instead of Ctrl+W to switch between views in vim.
