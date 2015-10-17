@@ -20,10 +20,11 @@ Part of my "one app" i.e. Chrome development workflow, necessary to get all the 
 ### In Chrome SSH, next to identity, click "Import", then navigate to your .ssh directory and select both the keys
 
 
-## Delete all known hosts
+## Delete known hosts
 
 ### Open the Javascript console and run
 
-     term_.command.removeAllKnownHosts()
+     term_.command.removeAllKnownHosts()          // Delete all known hosts
+     term_.command.removeKnownHostByIndex(index)  // Delete a particular index
 
 ### Ctrl+Alt+W instead of Ctrl+W to switch between views in vim.
