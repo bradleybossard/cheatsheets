@@ -8,6 +8,8 @@ After this install, add your user to the `docker` group
 ### Install Docker Compose (1.4.2)
     curl -L https://github.com/docker/compose/releases/download/1.4.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
     chmod +x /usr/local/bin/docker-compose
+    
+### Commands
 
     docker ps -a                             # See all processes
     docker exec -it <container-name> bash    # Open bash shell on running container
