@@ -46,4 +46,6 @@
     console.table(<array>, <header1>, <header2>);     # Print an array of objects in a table, filtering by properties
     $_                                                # Access next result
 
+### Other links
 
+[Chrome Devtools tips and tricks](http://mo.github.io/2015/10/19/chrome-devtools.html)
