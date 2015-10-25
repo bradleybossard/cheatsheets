@@ -49,3 +49,5 @@
 ### Other links
 
 [Chrome Devtools tips and tricks](http://mo.github.io/2015/10/19/chrome-devtools.html)
+
+[20+ Questions to learn Chrome Developer Tools — Advanced Level](https://medium.com/@cihadturhan/20-questions-to-learn-chrome-developer-tools-advanced-level-55023f5fa802#.d4tlpqq1d)
