@@ -5,7 +5,7 @@
 
 ### users
 
-     sudo useradd -m -g <groups> -d </path/to/homedir> -s </path/to/shell> -U <username>   # path to shell i.e. /bin/bash 
+     sudo useradd -m -g <groups> -d </path/to/homedir> -s </path/to/shell> -U <username>   # path to shell i.e. /bin/bash
     sudo adduser <username> sudo    # Add user to sudoers
      sudo passwd <username>    # Set userpasswd
      passwd -l <username>      # Lock user 
