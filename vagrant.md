@@ -1,3 +1,11 @@
+## Install on Linux
+
+    sudo apt-get install virtualbox
+    sudo apt-get install vagrant
+    sudo apt-get install virtualbox-dkms
+
+## Commands
+
     vagrant init <boxname>        # Create a Vagrantfile in directory for the boxname, i.e. ubuntu/trusty64
     vagrant init ubuntu/trusty64  # Create a Ubuntu Trusty 64 machine
     vagrant up                    # Bring the machine described in the Vagrant file up on this machine
