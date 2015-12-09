@@ -9,3 +9,6 @@
     vagrant box list              # list of boxes locally available
     vagrant box add <boxname>     # fetch a box
     vagrant box remove <boxname>  # delete a local box image
+    
+    vagrant plugin install vagrant-list   # install vagrant-list plugin for listing all and running vms
+    vagrant list                          # list vagrant boxes
