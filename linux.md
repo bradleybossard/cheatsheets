@@ -1,6 +1,7 @@
 ### os
 
-    uname                      # Get OS name
+    uname -a                # Get OS name
+    lsb_release -a          # Linux distribution name, i.e. Trusty or Vivid
     whatis <application-name>  # describes an application
 
 ### users
