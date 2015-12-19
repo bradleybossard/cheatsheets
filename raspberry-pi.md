@@ -23,3 +23,7 @@
     tmpfs /tmp  tmpfs nodev,nosuid,mode=1777  0 0
     //worldbook2.bossard.lan/Public4TB2 /mnt/worldbook2 cifs username=username,password=password 0 0
     //worldbook1.bossard.lan/Public4TB1 /mnt/worldbook1 cifs username=username,password=password 0 0
+
+#### Remount drives
+
+    sudo mount -a
