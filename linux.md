@@ -1,7 +1,8 @@
 ### os
 
-    uname -a                # Get OS name
-    lsb_release -a          # Linux distribution name, i.e. Trusty or Vivid
+    uname -a                   # Get OS name
+    lsb_release -a             # Linux distribution name, i.e. Trusty or Vivid
+    cat /etc/os-release        # More detailed OS description
     whatis <application-name>  # describes an application
 
 ### users
