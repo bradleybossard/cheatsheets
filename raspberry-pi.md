@@ -16,7 +16,7 @@
 
 #### Install cifs-utils
 
-    sudo apt-get install cifs-utils
+    sudo apt install -y cifs-utils
     
 #### Add the following to your /etc/fstab
 
