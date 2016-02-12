@@ -13,18 +13,17 @@
     echo 0 > /sys/class/gpio/gpio4/value          # Set pin voltage to low
     
 ## Auto-mounting an SMB drive at boot
-
-#### Install cifs-utils
-
     sudo apt install -y cifs-utils
-    
-#### Add the following to your /etc/fstab
-
+    # Add the following 4 lines to your /etc/fstab to mount network partitions
     tmpfs /tmp  tmpfs nodev,nosuid,mode=1777  0 0
     //worldbook1.bossard.lan/Public4TB1 /mnt/worldbook1 cifs username=username,password=password 0 0
     //worldbook2.bossard.lan/Public4TB2 /mnt/worldbook2 cifs username=username,password=password 0 0
     //worldbook3.bossard.lan/tb3        /mnt/worldbook3 cifs username=username,password=password 0 0
+    sudo mount -a   # Remount drives
 
-#### Remount drives
-
-    sudo mount -a
+## Burning .img images on Linux
+    sudo fdisk -l              # List mounted drives ('diskutil list' on OSX)
+    sudo umount /dev/<drive>   # Unmount sd card drive  <drive> = sdc1 (or whever card is mounted)
+    sudo umount /dev/sdc1      # Check that drive is no longer mounted
+    sudo dd if=image.img of=/dev/sdc bs=4M   # Burn .img to disk where <drive> is the <drive> from step 2
+    sync
