@@ -24,6 +24,6 @@
 ## Burning .img images on Linux
     sudo fdisk -l              # List mounted drives ('diskutil list' on OSX)
     sudo umount /dev/<drive>   # Unmount sd card drive  <drive> = sdc1 (or whever card is mounted)
-    sudo umount /dev/sdc1      # Check that drive is no longer mounted
-    sudo dd if=image.img of=/dev/sdc bs=4M   # Burn .img to disk where <drive> is the <drive> from step 2
+    mount | grep <drive>       # Check that drive is no longer mounted
+    sudo dd if=image.img of=/dev/<drive> bs=4M   # Burn .img to disk where <drive> is the <drive> from step 2
     sync
