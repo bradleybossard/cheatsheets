@@ -25,5 +25,5 @@
     sudo fdisk -l              # List mounted drives ('diskutil list' on OSX)
     sudo umount /dev/<drive>   # Unmount sd card drive  <drive> = sdc1 (or whever card is mounted)
     mount | grep <drive>       # Check that drive is no longer mounted
-    sudo dd if=image.img of=/dev/<drive> bs=4M   # Burn .img to disk where <drive> is the <drive> from step 2
+    sudo dd if=image.img of=/dev/<drive-base> bs=4M   # Burn .img to disk where <drive-base> is the /dev/sdb if <drive> was /dev/sdb1
     sync
