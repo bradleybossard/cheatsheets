@@ -7,8 +7,12 @@ After this install, add your user to the `docker` group
 
 ### Install Docker Compose (1.6.2)
 
-    sudo bash -c "curl -L https://github.com/docker/compose/releases/download/1.6.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose"    
+    sudo bash -c "curl -L https://github.com/docker/compose/releases/download/1.6.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose"
+    chmod +x /usr/local/bin/docker-compose
     
+### Add Docker Compose BASH completion
+    
+    sudo bash -c  " curl -L https://raw.githubusercontent.com/docker/compose/$(docker-compose version --short)/contrib/completion/bash/docker-compose > /etc/bash_completion.d/docker-compose"
 
 ### Commands
 
