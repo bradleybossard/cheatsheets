@@ -7,7 +7,7 @@ After this install, add your user to the `docker` group
 
 ### Install Docker Compose (1.6.2)
 
-    curl -L https://github.com/docker/compose/releases/download/1.6.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+    sudo bash -c "curl -L https://github.com/docker/compose/releases/download/1.6.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose"    
     
 
 ### Commands
