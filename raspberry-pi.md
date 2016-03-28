@@ -1,9 +1,16 @@
-## Burning an RPi .img file on OSX
+## Burning .img images on OSX
 
     diskutil list                                 # Insert your SD card, then this command will help identify it.
     diskutil unmountdisk /dev/disk#               # Unmount the SD card, where # is 1,2,etc from previous command
-    sudo dd if=/path/to/img of=/dev/rdisk# bs=1m  # Burn the .img to the disk.  Note the r in front of disk.
+    sudo dd if=<path to .img> of=/dev/rdisk# bs=1m  # Burn the .img to the disk.  Note the r in front of disk.
     diskutil eject /dev/disk#                     # Eject disk after burning
+
+## Burning .img images on Linux
+    sudo fdisk -l              # List mounted drives
+    sudo umount /dev/<drive>   # Unmount sd card drive  <drive> = sdc1 (or whever card is mounted)
+    mount | grep <drive>       # Check that drive is no longer mounted
+    sudo dd if=<path to .img> of=/dev/<drive-base> bs=4M   # Burn .img to disk where <drive-base> is the /dev/sdb if <drive> was /dev/sdb1
+    sync
 
 ## Turning on/off LED
 
@@ -20,10 +27,3 @@
     //worldbook2.bossard.lan/Public4TB2 /mnt/worldbook2 cifs username=username,password=password 0 0
     //worldbook3.bossard.lan/tb3        /mnt/worldbook3 cifs username=username,password=password 0 0
     sudo mount -a   # Remount drives
-
-## Burning .img images on Linux
-    sudo fdisk -l              # List mounted drives ('diskutil list' on OSX)
-    sudo umount /dev/<drive>   # Unmount sd card drive  <drive> = sdc1 (or whever card is mounted)
-    mount | grep <drive>       # Check that drive is no longer mounted
-    sudo dd if=image.img of=/dev/<drive-base> bs=4M   # Burn .img to disk where <drive-base> is the /dev/sdb if <drive> was /dev/sdb1
-    sync
