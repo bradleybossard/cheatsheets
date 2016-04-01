@@ -15,7 +15,8 @@
 #### Find all Raspberry Pis on the network
 
     sudo nmap -sP 192.168.0.0/24 | awk '/^Nmap/{ip=$NF}/B8:27:EB/{print ip}'  # 192.168.0.* is your local network mask
-
+    arp -na | grep -i b8:27:eb                                                # works faster
+    
 #### Turning on/off LED
 
     echo 9 > /sys/class/gpio/export               # Set up pin 9, change 9 to whatever number for a different pin
