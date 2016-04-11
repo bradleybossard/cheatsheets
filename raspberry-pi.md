@@ -16,6 +16,11 @@
 
     sudo nmap -sP 192.168.0.0/24 | awk '/^Nmap/{ip=$NF}/B8:27:EB/{print ip}'  # 192.168.0.* is your local network mask
     arp -na | grep -i b8:27:eb                                                # works faster
+
+#### Updating firmware
+
+    sudo apt-get install rpi-update
+    sudo rpi-update
     
 #### Turning on/off LED
 
