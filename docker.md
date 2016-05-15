@@ -5,7 +5,7 @@
 After this install, add your user to the `docker` group
 
 
-### Install Docker Compose (1.6.2)
+### Install Docker Compose (1.7.0)
 
     sudo bash -c "curl -L https://github.com/docker/compose/releases/download/1.7.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose"
     sudo chmod +x /usr/local/bin/docker-compose
