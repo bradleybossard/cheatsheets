@@ -1,1 +1,2 @@
-⇧⌘O  # Open quickly
+⇧⌘O          # Open quickly
+⌘{ / ⌘}      # Cycle tabs
