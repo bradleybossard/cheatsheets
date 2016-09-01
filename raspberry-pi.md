@@ -7,15 +7,15 @@
 
 #### Burning .img images on Linux
     sudo fdisk -l              # List mounted drives
-    sudo umount /dev/<drive>   # Unmount sd card drive  <drive> = sdc1 (or whever card is mounted)
+    sudo umount /dev/<drive>*   # Unmount sd card drive, i.e. <drive> = sdc1
     mount | grep <drive>       # Check that drive is no longer mounted
-    sudo dd if=<path to .img> of=/dev/<drive-base> bs=4M   # Burn .img to disk where <drive-base> is the /dev/sdb if <drive> was /dev/sdb1
+    sudo dd if=<path/to/.img> of=/dev/<drive-base> bs=4M   # Burn .img to disk, i.e. <drive> = sdb
     sync
+    sudo umount /dev/<drive>*  # Run again before removing
 
 #### Find all Raspberry Pis on the network
 
     sudo nmap -sP 192.168.0.0/24 | awk '/^Nmap/{ip=$NF}/B8:27:EB/{print ip}'  # 192.168.0.* is your local network mask
-    arp -na | grep -i b8:27:eb                                                # works faster
 
 #### Updating firmware
 
