@@ -37,3 +37,10 @@
     //worldbook2.bossard.lan/Public4TB2 /mnt/worldbook2 cifs username=username,password=password 0 0
     //worldbook3.bossard.lan/tb3        /mnt/worldbook3 cifs username=username,password=password 0 0
     sudo mount -a   # Remount drives
+
+#### Determine board version
+     cat /proc/cpuinfo | grep 'Revision' | awk '{print $3}' | sed 's/^1000//'
+
+Take the code and match them to the table here
+
+    http://elinux.org/RPi_HardwareHistory#Board_Revision_History
