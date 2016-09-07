@@ -44,3 +44,8 @@
 Take the code and match them to the table here
 
     http://elinux.org/RPi_HardwareHistory#Board_Revision_History
+
+#### Get MAC address
+
+    ifconfig eth0 | grep -Eo ..\(\:..\){5}  # Get eth0 MAC
+    ifconfig wlan | grep -Eo ..\(\:..\){5}  # Get wlan MAC
