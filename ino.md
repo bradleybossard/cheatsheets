@@ -14,3 +14,9 @@
 ### Links
 
 * [Quick start — Ino 0.3 documentation](http://inotool.org/quickstart)
+
+### Instructions for nano328
+
+    ino init -t blink
+    ino build -m nano328
+    ino upload -m nano328
