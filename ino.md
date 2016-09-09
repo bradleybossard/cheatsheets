@@ -1,4 +1,5 @@
-    sudo pip install ino        # Install ino
+    sudo apt-get install arduino   # Install Arduino Studio
+    sudo pip install ino           # Install ino
 
     ino init                    # Initialize ino directory structure in current dir
     ino list-models             # List models ino supports
