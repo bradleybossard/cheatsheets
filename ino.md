@@ -1,3 +1,5 @@
+    sudo pip install ino        # Install ino
+
     ino init                    # Initialize ino directory structure in current dir
     ino list-models             # List models ino supports
     ino build -m <board-name>   # Build current directory for <board-name>, i.e. ino build -m nano328 for Arduino Nano
