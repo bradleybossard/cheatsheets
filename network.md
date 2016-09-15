@@ -3,3 +3,12 @@
     fuser <port>/<protocol>        #  Determine pid from port, protocol usually 'tcp' 
 
     dig <dns-name>                 #  DNS lookup
+    
+    traceroute
+    host <hostname>                #  Trace route to host, i.e. www.google.com
+    host <i.p>                     #  Trace route to IP address
+    
+    ifconfig                       #  Configure network interface
+    iwconfig                       #  Configure wireless interface
+    
+    
