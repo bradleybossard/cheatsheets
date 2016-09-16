@@ -29,3 +29,12 @@
     hugoinitpublish                     # Sets up subtree for publishing
     # Add more posts/build/commit
     hugopublish                         # More commits to subtree gh-pages
+
+
+##### Links
+
+[Hugo - Hosting on GitHub Pages](https://gohugo.io/tutorials/github-pages-blog/)
+
+[Hugo - Automated deployments with Wercker](http://gohugo.io/tutorials/automated-deployments/)
+
+[Hugo - Hosting on GitLab Pages](https://gohugo.io/tutorials/hosting-on-gitlab/)
