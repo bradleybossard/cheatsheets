@@ -18,7 +18,7 @@
     hugo --theme=hugo_theme_robust
 
 
-#### Workflow using my aliases
+#### Workflow using my aliases (for Github only)
     hugo new site <sitename>
     cd <sitename>
     gitinitrepo <path-to-github-repo>   # Adds all files, commits, sets remote url, pushes
@@ -30,11 +30,23 @@
     # Add more posts/build/commit
     hugopublish                         # More commits to subtree gh-pages
 
+#### Workflow for Gitlab
+    hugo new site <sitename>
+    cd <sitename>
+    echo "/public" >> .gitignore
+    # Add .gitlab-ci.yml from https://gist.github.com/bradleybossard/62f315571f582756d1f69504e3d4884d
+    cd themes && git clone <git-path-to-theme>
+    cd <theme-name> && rm -rf .git     # Very important and not well documented.  Gitlabl CI is looking for a static
+                                         version of the theme.  Having a nested git repo will mess up the publish
+    cd ../..                           # Back to root
 
-##### Links
+##### Edit the config.toml, update information and add the following lines    
+    theme = "hugo_theme_robust"
+    googleAnalytics= = ""
+    buildDrafts = true
 
-[Hugo - Hosting on GitHub Pages](https://gohugo.io/tutorials/github-pages-blog/)
+    TODO: More params to add https://gohugo.io/overview/configuration/
 
-[Hugo - Automated deployments with Wercker](http://gohugo.io/tutorials/automated-deployments/)
+##### Lastly, commmit the repo
 
-[Hugo - Hosting on GitLab Pages](https://gohugo.io/tutorials/hosting-on-gitlab/)
+    gitinitrepo <path-to-github-repo>
