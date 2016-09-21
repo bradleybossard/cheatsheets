@@ -16,3 +16,9 @@ Start->Run, type "shell:startup".  Paste an app shortcut into folder opened.
 2.  Start bash and edit your .bashrc  `echo "export DISPLAY=:0.0" >> ~/.bashrc`
 3.  `sudo sed -i 's$<listen>.*</listen>$<listen>tcp:host=localhost,port=0</listen>$' /etc/dbus-1/session.conf`
 4.  Restart bash
+
+### Uninstall Ubuntu for Windows 10
+
+    lxrun /uninstall        ## Uninstall
+    
+    lxrun /uninstall /full  ## Remove home dir as well
