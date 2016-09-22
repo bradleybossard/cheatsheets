@@ -1,3 +1,5 @@
+## Using Windows 10
+
 ### Hotkeys
     Win+Tab                       # Windows and desktops overview
     Alt+Tab                       # Cycle through windows on current desktop
@@ -10,6 +12,15 @@
 
 ### Add a program to startup
 Start->Run, type "shell:startup".  Paste an app shortcut into folder opened.
+
+## Ubuntu for Windows 10 subsystem
+
+### Disable beeping on bash
+    sudo vi /etc/inputrc
+    ## uncomment line set bell-style none
+
+### Disable beeping on programs like vim
+    echo setterm -blength 0 >> .bashrc
 
 ### Run xServer on Ubuntu for Windows
 1.  Install Xming https://sourceforge.net/projects/xming/?source=typ_redirect
