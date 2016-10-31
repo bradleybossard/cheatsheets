@@ -13,7 +13,7 @@
     passwd -l <username>      # Lock user 
     passwd -u <username>      # Unlock user 
 
-###process
+### process
 
     ps -aux                    # List all processes
     ls -l /proc/<pid>/cwd      # Determine current working directory of process
@@ -33,3 +33,7 @@
 ### text
 
     nl <text-file>             # cat with line numbers
+
+### misc
+
+    stress --cpu 2 --timeout 60  # Stress 2 cpus for 60 seconds
