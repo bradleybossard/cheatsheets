@@ -6,6 +6,8 @@ npm set init-author-url 'url'       # Set default author url, i.e. 'http://bradl
 npm set init-license 'license'      # Set default license, i.e. 'MIT'
 npm set save-exact <true|false>     # Set exact library versions when adding
 
+npm list --global --depth=0         # See all globally installed packages
+
 npm adduser                         # Log into npmjs.com
 
 npm init                            # Create a package.json file
