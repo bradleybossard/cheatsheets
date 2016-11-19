@@ -1,3 +1,4 @@
+```
 npm set <property-name>             # Used to set properties in ~/.npmrc file
 npm set init-author-name 'name'     # Set default author name, i.e. 'Bradley Bossard'
 npm set init-author-email 'email'   # Set default author email
@@ -16,3 +17,4 @@ npm info
 
 npm install <library-name>
 npm install <library-name>@beta     # Download beta version (if libary was published with --tag beta)
+```
