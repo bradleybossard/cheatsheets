@@ -4,3 +4,5 @@
     workon <env-name>           # change environment (supports bash tab completion)
 
     lssitepackages              # shows installed packages for the current environment
+
+    rmvirtualenv <env-name>     # removes virtual env
