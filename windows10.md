@@ -21,8 +21,9 @@ Start->Run, type "shell:startup".  Paste an app shortcut into folder opened.
 * Select For Developers Tab, then enable the Developer Mode radio button, select Yes to modal
 * Reboot computer
 * Go to Control Panel from Win 10 search
-* Under Programs and Features, select "Turn Windows features on or off"
+* Under Programs, select "Turn Windows features on or off"
 * Select "Windows Subsystem for Linux"
+* Reboot computer again
 
 ### Disable beeping on bash
     sudo vi /etc/inputrc
