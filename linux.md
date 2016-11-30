@@ -5,6 +5,10 @@
     cat /etc/os-release        # More detailed OS description
     whatis <application-name>  # describes an application
 
+### hardware
+    cat /proc/cpuinfo          # get CPU information
+    sudo dmidecode --type 17   # get memory information
+
 ### users
 
     sudo adduser --home /home/<username> --shell /bin/bash <username>
