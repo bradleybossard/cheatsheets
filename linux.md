@@ -6,8 +6,10 @@
     whatis <application-name>  # describes an application
 
 ### hardware
-    cat /proc/cpuinfo          # get CPU information
-    sudo dmidecode --type 17   # get memory information
+    cat /proc/cpuinfo              # get CPU information
+    sudo lshw -short               # get hardware information
+    sudo dmidecode --type memory   # get memory information
+    sudo lshw -short -C memory     # get memory Class hardware info
 
 ### users
 
