@@ -21,7 +21,12 @@
     
 ### ssh key setup    
     ssh-copy-id -i /path/to/key.pub user@host        # install public key on remote machine
-    sudo vim +/PermitRootLogin /etc/ssh/sshd_config  # on remote, edit sshd_config and change PermitRootLogin from 'yes' to 'no'
+    sudo vim +/PermitRootLogin /etc/ssh/sshd_config  # edit sshd_config
+    # change PermitRootLogin from 'yes' to 'no'
+    # change ChallengeResponseAuthentication no
+    # PasswordAuthentication no
+    # UsePAM no
+    # save and exit
     sudo service sshd restart                        # restart sshd to take effect
 
 ### process
