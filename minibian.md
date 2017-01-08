@@ -16,3 +16,28 @@ Then delete partitions with d and create a new with n. You can view the existing
     resize2fs /dev/mmcblk0p2    # resize new partition
     df -h                       # verify it worked
 ```    
+
+### Update OS and install sudo (as root)
+
+     apt-get update --fix-missing                # update os, fix any broken linkages
+     apt-get install --yes sudo tmux vim git     # install the basics
+     
+     
+
+### Create user (as root)
+
+    adduser --home /home/<username> --shell /bin/bash <username>
+    adduser <username> sudo    # Add user to sudoers
+    passwd    # Change root passwd
+
+### Lock down OS from root login (as root)
+    vim +/PermitRootLogin /etc/ssh/sshd_config  # edit sshd_config
+    # change PermitRootLogin from 'yes' to 'no'
+    # change ChallengeResponseAuthentication no
+    # PasswordAuthentication no
+    # UsePAM no
+    # save and exit
+    service sshd restart                        # reboot sshd for changes to take effect
+
+### Install ssh key (as user)
+    ssh-copy-id -i /path/to/key.pub user@host
