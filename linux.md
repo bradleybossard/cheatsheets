@@ -17,7 +17,8 @@
     sudo adduser <username> sudo    # Add user to sudoers
     sudo passwd <username>    # Set userpasswd
     passwd -l <username>      # Lock user 
-    passwd -u <username>      # Unlock user 
+    passwd -u <username>      # Unlock user
+    ssh-copy-id -i $HOME/.ssh/id_rsa.pub user@host   # install public key on remote machine
 
 ### process
 
