@@ -18,7 +18,11 @@
     sudo passwd <username>    # Set userpasswd
     passwd -l <username>      # Lock user 
     passwd -u <username>      # Unlock user
-    ssh-copy-id -i $HOME/.ssh/id_rsa.pub user@host   # install public key on remote machine
+    
+### ssh key setup    
+    ssh-copy-id -i /path/to/key.pub user@host        # install public key on remote machine
+    sudo vim +/PermitRootLogin /etc/ssh/sshd_config  # on remote, edit sshd_config and change PermitRootLogin from 'yes' to 'no'
+    sudo service sshd restart                        # restart sshd to take effect
 
 ### process
 
