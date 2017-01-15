@@ -11,6 +11,10 @@
     sudo dmidecode --type memory   # get memory information
     sudo lshw -short -C memory     # get memory Class hardware info
 
+### power
+    sudo reboot      # Reboot machine
+    sudo poweroff    # Shut down machine
+    
 ### users
 
     sudo adduser --home /home/<username> --shell /bin/bash <username>
