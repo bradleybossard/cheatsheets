@@ -30,6 +30,9 @@ Then delete partitions with d and create a new with n. You can view the existing
     adduser <username> sudo    # Add user to sudoers
     passwd    # Change root passwd
 
+### Install ssh key (as user)
+    ssh-copy-id -i /path/to/key.pub user@host
+
 ### Lock down OS from root login (as root)
     vim +/PermitRootLogin /etc/ssh/sshd_config  # edit sshd_config
     # change PermitRootLogin from 'yes' to 'no'
@@ -39,5 +42,3 @@ Then delete partitions with d and create a new with n. You can view the existing
     # save and exit
     service sshd restart                        # reboot sshd for changes to take effect
 
-### Install ssh key (as user)
-    ssh-copy-id -i /path/to/key.pub user@host
