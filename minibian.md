@@ -34,7 +34,7 @@ Then delete partitions with d and create a new with n. You can view the existing
     ssh-copy-id -i /path/to/key.pub user@host
 
 ### Lock down OS from root login (as root)
-    vim +/PermitRootLogin /etc/ssh/sshd_config  # edit sshd_config
+    vi /etc/ssh/sshd_config  # edit sshd_config
     # change PermitRootLogin from 'yes' to 'no'
     # change ChallengeResponseAuthentication no
     # PasswordAuthentication no
