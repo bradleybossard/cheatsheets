@@ -49,3 +49,11 @@ Take the code and match them to the table here
 
     ifconfig eth0 | grep -Eo ..\(\:..\){5}  # Get eth0 MAC
     ifconfig wlan | grep -Eo ..\(\:..\){5}  # Get wlan MAC
+    
+#### Enable vncserver
+
+    sudo apt-get update
+    sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+    sudo systemctl start vncserver-x11-serviced.service   # Start vncserver now
+    sudo systemctl enable vncserver-x11-serviced.service  # Start vncserver on subsequent reboots
+    
