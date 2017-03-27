@@ -54,6 +54,6 @@ Take the code and match them to the table here
 
     sudo apt-get update
     sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
-    sudo systemctl start vncserver-x11-serviced.service   # Start vncserver now
-    sudo systemctl enable vncserver-x11-serviced.service  # Start vncserver on subsequent reboots
+    sudo systemctl start vncserver-x11-serviced.service   # Start vncserver now
+    sudo systemctl enable vncserver-x11-serviced.service  # Start vncserver on subsequent reboots
     
