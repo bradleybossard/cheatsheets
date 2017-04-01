@@ -1,3 +1,6 @@
+## General
+spacebar          - Search for function/hotkey
+
 ## Navigation
 ```
 ctrl+up           - Toggle maximize view
@@ -16,10 +19,18 @@ numpad 4 or 6     - Orbit view left/right
 numpad 2 or 8     - Oribit view up/down
 ```
 
+## Selection
+```
+a                 - Toggle between select all/select none
+b                 - Box select (drag a box to select objects)
+c                 - Circle select (select an object at a time, add to list, esc to exit)
+ctrl+i            - Inverse selection
+ctrl+lmb          - lasso select
+```
+
 ## All modes
 ```
 A     - Add object  
-a     - Toggle between select all/select none  
 tab   - Toggle between Object and Edit modes  
 Z     - Toggle between solid and rendered mode  
 z     - Toggle between solid and wireframes
@@ -28,11 +39,6 @@ z     - Toggle between solid and wireframes
 ## Edit mode
 ```
 ctrl+tab  - Select between verts/edges/faces
-```
-
-## Selecting
-```
-ctrl+lmb - lasso select
 ```
 
 ## General Tips
