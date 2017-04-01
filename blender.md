@@ -11,3 +11,6 @@ ctrl + tab  - Select between verts/edges/faces
 
 ## Selecting
 ctrl+left click - lasso select
+
+## General Tips
+Preferences -> Input -> Emulate Numpad for top row numbers to act as numpad on laptop
