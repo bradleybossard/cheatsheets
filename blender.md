@@ -1,3 +1,7 @@
+## Navigation
+Numpad keys - Cycle through views
+Ctrl+Up - Toggle maximize view
+
 ## All modes
 
 A     - Add object  
