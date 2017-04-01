@@ -1,8 +1,19 @@
 ## Navigation
 ```
-Numpad keys - Cycle through views
-ctrl+up - Toggle maximize view
-ctrl+alt+q - Toggle quad view
+ctrl+up           - Toggle maximize view
+ctrl+alt+q        - Toggle quad view
+mmb+drag          - Orbit object
+ctrl+mmb+drag     - Zoom
+shift+mmb+drag    - Pan
+C                 - Center cursor and view all
+numpad 5          - Toggle ortho/perspective
+numpad 1          - Front view
+numpad 3          - Right view
+numpad 7          - Top view
+numpad 9          - Bottom view
+numpad 0          - Camera view
+numpad 4 or 6     - Orbit view left/right
+numpad 2 or 8     - Oribit view up/down
 ```
 
 ## All modes
