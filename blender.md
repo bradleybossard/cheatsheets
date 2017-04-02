@@ -19,6 +19,13 @@ numpad 4 or 6     - Orbit view left/right
 numpad 2 or 8     - Oribit view up/down
 ```
 
+## Translating Objects
+```
+select, then g                   - Translate item
+select, then g and x,y or z      - Translate constrained to x, y or z
+
+```
+
 ## Selection
 ```
 a                 - Toggle between select all/select none
@@ -44,4 +51,6 @@ ctrl+tab  - Select between verts/edges/faces
 ## General Tips
 ```
 Preferences -> Input -> Emulate Numpad for top row numbers to act as numpad on laptop
+To constrain object movement to a plane, select top view (7), then ortho (5), and grab (g)
+
 ```
