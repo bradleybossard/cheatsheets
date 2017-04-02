@@ -47,16 +47,22 @@ select, then s                   - Scale item
 select, then s and x,y or z      - Scale constrained to x, y or z
 ```
 
-## All modes
+## Add/Remove Objects
 ```
-A     - Add object  
-tab   - Toggle between Object and Edit modes  
+A                                - Add object
+select, then x                   - Delete object
+```
+
+
+## Render options
+```
 Z     - Toggle between solid and rendered mode  
 z     - Toggle between solid and wireframes
 ```
 
 ## Edit mode
 ```
+tab   - Toggle between Object and Edit modes  
 ctrl+tab  - Select between verts/edges/faces
 ```
 
