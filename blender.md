@@ -19,6 +19,15 @@ numpad 4 or 6     - Orbit view left/right
 numpad 2 or 8     - Oribit view up/down
 ```
 
+## Selection
+```
+a                 - Toggle between select all/select none
+b                 - Box select (drag a box to select objects)
+c                 - Circle select (select an object at a time, add to list, esc to exit)
+ctrl+i            - Inverse selection
+ctrl+lmb          - lasso select
+```
+
 ## Translating Objects
 ```
 select, then g                   - Translate item
@@ -32,15 +41,6 @@ select, then r and x,y or z      - Rotate constrained to x, y or z
 select, then r, then r           - Rotate trackball-style
 ```
 
-
-## Selection
-```
-a                 - Toggle between select all/select none
-b                 - Box select (drag a box to select objects)
-c                 - Circle select (select an object at a time, add to list, esc to exit)
-ctrl+i            - Inverse selection
-ctrl+lmb          - lasso select
-```
 
 ## All modes
 ```
