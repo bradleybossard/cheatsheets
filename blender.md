@@ -41,6 +41,11 @@ select, then r and x,y or z      - Rotate constrained to x, y or z
 select, then r, then r           - Rotate trackball-style
 ```
 
+## Scaling
+```
+select, then s                   - Scale item
+select, then s and x,y or z      - Scale constrained to x, y or z
+```
 
 ## All modes
 ```
