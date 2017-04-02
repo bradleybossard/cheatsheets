@@ -23,8 +23,15 @@ numpad 2 or 8     - Oribit view up/down
 ```
 select, then g                   - Translate item
 select, then g and x,y or z      - Translate constrained to x, y or z
-
 ```
+
+## Rotating Objects
+```
+select, then r                   - Rotate item
+select, then r and x,y or z      - Rotate constrained to x, y or z
+select, then r, then r           - Rotate trackball-style
+```
+
 
 ## Selection
 ```
