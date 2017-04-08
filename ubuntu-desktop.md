@@ -19,5 +19,5 @@ super+w                  - Expo mode, all windows in current workpace
 ## System
 ```
 ctrl+alt+backspace       - Logout
-
+ctrl+alt+l               - Lock screen
 ```
