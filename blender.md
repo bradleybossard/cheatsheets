@@ -17,6 +17,7 @@ numpad 9          - Bottom view
 numpad 0          - Camera view
 numpad 4 or 6     - Orbit view left/right
 numpad 2 or 8     - Oribit view up/down
+numpad .          - Center on selection
 ```
 
 ## Selection
