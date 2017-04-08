@@ -70,6 +70,19 @@ ctrl+e                     - Edge edit menu
 ctrl+f                     - Face edit menu
 select vertices, ctrl+g    - Vertex group menu
 ```
+## Outliner
+```
+numpad +/-                 - Expand/collapse outliner tree
+ctrl+lmb on item name      - Rename item
+```
+
+## Object mode
+```
+select object(s), m           - Move to layer
+select objects(s), ctrl+g     - Create new group with selected objects
+select objects(s), G          - Group menu
+```
+
 
 ## General Tips
 ```
