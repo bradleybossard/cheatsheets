@@ -65,6 +65,9 @@ z     - Toggle between solid and wireframes
 tab                    - Toggle between Object and Edit modes  
 ctrl+tab               - Select between verts/edges/faces (in edit mode)
 ctrl+lmb+select handle - move selected face,edges or vertices
+ctrl+v                 - Vertex edit menu
+ctrl+e                 - Edge edit menu
+ctrl+f                 - Face edit menu
 ```
 
 ## General Tips
