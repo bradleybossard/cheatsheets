@@ -84,6 +84,10 @@ select objects(s), ctrl+g     - Create new group with selected objects
 select objects(s), G          - Group menu
 ```
 
+## Animation
+```
+hover over property, i        - Set keyframe
+```
 
 ## General Tips
 ```
