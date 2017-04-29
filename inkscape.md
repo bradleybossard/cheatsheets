@@ -15,12 +15,15 @@
     G                Objects to guides
     |                Toggle guides visibility
     
-    ctrl+D           Open document properties panel
+    ctrl+shift+d     Open document properties panel
     
     shift+F11        Hide UI chrome
     
     ctrl+N           New Layer
-    
+
+    #                Toggle grid
+    |                Toggle guides
+
     n                node tool
     
     shift+alt+drawing in pencil mode is sketch mode, averages the pencil strokes together
