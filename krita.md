@@ -15,4 +15,6 @@ x                                       Swap foreground/background color
 ```
 e                                       Toggle eraser mode
 b                                       Brush
+m                                       Mirror
+ctrl+t                                  Free transform
 ```
