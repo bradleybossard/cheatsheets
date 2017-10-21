@@ -32,6 +32,7 @@
     # UsePAM no
     # save and exit
     sudo service sshd restart                        # restart sshd to take effect
+    sudo /usr/sbin/sshd -T                           # verify /etc/ssh/sshd_config
 
 ### process
 
