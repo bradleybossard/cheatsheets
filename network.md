@@ -8,7 +8,5 @@
     host <hostname>                #  Trace route to host, i.e. www.google.com
     host <i.p>                     #  Trace route to IP address
     
-    ifconfig                       #  Configure network interface
-    iwconfig                       #  Configure wireless interface
-    
-    
+    ifconfig                       #  Configure network interface   (deprecated)
+    iwconfig                       #  Configure wireless interface  (deprecated)
