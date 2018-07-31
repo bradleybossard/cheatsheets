@@ -16,3 +16,4 @@
     curl ipinfo.io                 #  Retrieve external ip info as JSON
     curl ipinfo.io/ip              #  Retrieve simple ip address
 
+    nmcli                          #  CLI for Network Manager.  Good to see english descriptions of network adapters
