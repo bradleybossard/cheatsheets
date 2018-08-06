@@ -4,6 +4,14 @@
 
 `minikube start --vm-driver=kvm2`
 
+## Commands
+
+`minikube service list`            # List exposed services
+`minikube service <service-name>`  # Open url for service
+`minikube dashboard`               # Open dashboard in browser
+
+### Debugging
+
 If you get an error about "network 'minikube-net' is not active'", you need to
 manually start the minikube network with virsh doing the following
 
