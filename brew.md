@@ -1,4 +1,8 @@
 ## Brew services
+
+    brew list                             # list installed brew packages
+    brew leaves                           # list only top level packages (no dependencies)
+
     brew tap homebrew/services            # one time install of brew services
 
     brew services list                    # list services installed via brew
