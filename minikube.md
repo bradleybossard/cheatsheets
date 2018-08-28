@@ -23,6 +23,13 @@ quit
 minikube start --vm-driver=kvm2
 ```
 
+or the minikube network can be set to automatically start at boot time with the command
+
+```
+virsh net-autostart --network minikube-net
+```
+
+
 If minikube hangs on "Starting cluster components" during start, then run
 the following to delete and re-create the VM
 
