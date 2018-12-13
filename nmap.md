@@ -11,3 +11,4 @@ nmap -iL hosts.txt               # Scan hosts listed in a text file
 nmap -iR <number>                # Scan <number> of random ips 
 
 nmap -v -sn <ip list>            # No port scan, just single ping to see if hosts are alive
+nmap -Pn <ip-list>               # Performs post scan on every host, no using ping scan first to check if host is alive
