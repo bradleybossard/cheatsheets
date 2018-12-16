@@ -20,9 +20,10 @@
 
 ### Commands
 ```
-\conninfo         # Show connection info
-\l                # Show databases
-\d                # Show tables
-\dt <tablename>   # Describe table
-\q                # Quit
+\conninfo                # Show connection info
+\i </path/to/sqlfile>    # Read in a file
+\l                       # Show databases
+\d                       # Show tables
+\dt <tablename>          # Describe table
+\q                       # Quit
 ```
