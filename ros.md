@@ -14,7 +14,8 @@ roslaunch ros_pkg_name launch_file_name  # launch a ROS launch file, ex. roslaun
 
 rosrun ros_pkg_name node_name            # launch a ROS node, ex. rosrun roscpp_tutorials talker
 
-
+rosrun rviz rviz                         # start rviz
+rosrun rqt_gui rqt_gui                   # start rqt_gui
 ```
 
 
