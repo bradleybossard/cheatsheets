@@ -16,3 +16,14 @@ rosrun ros_pkg_name node_name            # launch a ROS node, ex. rosrun roscpp_
 
 
 ```
+
+
+### TurtleSim
+
+```
+roscore     # term 1
+rosrun turtlesim turtlesim_node     # term 2
+rosrun turtlesim turtle_teleop_key  # term 3, free draw
+rosrun turtlesim draw_square        # term 3, draw a square
+rosservice call /reset              # term 3, resets the sim
+```
