@@ -3,7 +3,8 @@
 ```
 rosversion -d         # Print ROS distro name, ensure ROS is installed
 roscore               # Start ROS master, helpful to run in dedicated term
-rosparam list         # List all available ROS parameters
+rosparam list         # List all available parameters
+rostopic list         # List all available parameters
 rosservice list       # List all available services
 
 rosparam set parameter_name value  # set a value
