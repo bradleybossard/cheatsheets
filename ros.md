@@ -18,6 +18,17 @@ rosrun rviz rviz                         # start rviz
 rosrun rqt_gui rqt_gui                   # start rqt_gui
 ```
 
+### Init workspace
+
+```
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/src
+catkin_init_workspace
+cd ..
+catkin_make
+```
+
+
 
 ### TurtleSim
 
