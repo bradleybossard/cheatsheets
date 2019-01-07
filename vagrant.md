@@ -27,3 +27,16 @@
     vagrant box add <boxname>     # fetch a box
     vagrant box remove <boxname>  # delete a local box image
 ```
+
+
+## Plugins
+
+```
+vagrant plugin install landrush      # Install landrush plugin
+
+vagrant landrush status              # See status of landrush
+vagrant landrush start               # Start landrush daemon
+vagrant landrush stop                # Stop landrush daemon
+
+vagrant landrush ls                  # List DNS entries
+```
