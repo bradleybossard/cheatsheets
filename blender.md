@@ -1,5 +1,7 @@
 ## General
+```
 spacebar          - Search for function/hotkey
+```
 
 ## Navigation
 ```
@@ -54,7 +56,6 @@ A                                - Add object
 select, then x                   - Delete object
 ```
 
-
 ## Render options
 ```
 Z     - Toggle between solid and rendered mode  
@@ -71,6 +72,7 @@ ctrl+e                     - Edge edit menu
 ctrl+f                     - Face edit menu
 select vertices, ctrl+g    - Vertex group menu
 ```
+
 ## Outliner
 ```
 numpad +/-                 - Expand/collapse outliner tree
@@ -93,5 +95,4 @@ hover over property, i        - Set keyframe
 ```
 Preferences -> Input -> Emulate Numpad for top row numbers to act as numpad on laptop
 To constrain object movement to a plane, select top view (7), then ortho (5), and grab (g)
-
 ```
