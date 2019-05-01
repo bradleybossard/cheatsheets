@@ -1,4 +1,7 @@
-### ssh key setup    
+### ssh key setup
+
+Complete these steps to install an ssh key for remote login of a non-root user, disable remote login for root and restrict login to ssh keys only.
+
 ```
     ssh-copy-id -i /path/to/key.pub user@host        # install public key on remote machine
 ```
@@ -13,6 +16,8 @@
     PasswordAuthentication no
     UsePAM no
     # save and exit
+```
+
 ```
     sudo service sshd restart                        # restart sshd to take effect
     sudo /usr/sbin/sshd -T                           # verify /etc/ssh/sshd_config
