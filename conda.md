@@ -2,9 +2,10 @@
 
 ## global commands
 ```
-conda info            # verify install, version number
-conda update conda    # update to current version
-conda env list        # list environments
+conda init <shell-name>     # initialize shell for conda (bash, zsh, etc)
+conda info                  # verify install, version number
+conda update conda          # update to current version
+conda env list              # list environments
 ```
 
 ## create/remove environments
