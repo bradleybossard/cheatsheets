@@ -1,7 +1,13 @@
-    nginx -t    # Test configuration
+# nginx cheatsheet
 
-    sudo service nginx reload  # Reload nginx.conf 
+### System control
 
+```
+sudo nginx -t                 # Test configuration
+sudo systemctl reload nginx   # Restart nginx
+```
+
+### nginx conf cookbook
 
 #### Create a .htpasswd file and use it in a rule
     htpasswd /path/to/.htpasswd file <username> 
