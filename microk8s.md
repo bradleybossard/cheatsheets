@@ -26,3 +26,8 @@ snap alias microk8s.kubectl kubectl       # Set snap shorthand alias
 snap unalias kubectl                      # Remove alias
 snap aliases                              # Lists all aliases
 ```
+
+
+### Links
+
+[User Guide | MicroK8s](https://microk8s.io/docs/)
