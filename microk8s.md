@@ -22,9 +22,12 @@ microk8s.kubectl get services
 
 ### Alias
 ```
-snap alias microk8s.kubectl kubectl       # Set snap shorthand alias
-snap unalias kubectl                      # Remove alias
-snap aliases                              # Lists all aliases
+# Note: I no longer recommended using snap to set this aliases, it
+# doesn't work well with autocompletion
+
+sudo snap alias microk8s.kubectl kubectl       # Set snap shorthand alias
+sudo snap unalias kubectl                      # Remove alias
+snap aliases                                   # Lists all aliases
 ```
 
 
