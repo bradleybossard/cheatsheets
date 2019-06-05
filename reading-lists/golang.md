@@ -17,3 +17,5 @@
 [Process synchronization monitors in go – Angad Sharma – Medium](https://medium.com/@angadsharma1016/process-synchronization-monitors-in-go-d31f4c42fce7)
 
 [Opensource and Go. What license? – Henrique Vicente de Oliveira Pinto – Medium](https://medium.com/@henvic/opensource-and-go-what-license-f6b36c201854)
+
+[Writing Web Applications - The Go Programming Language](https://golang.org/doc/articles/wiki/)
