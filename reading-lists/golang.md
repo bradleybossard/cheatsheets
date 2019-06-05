@@ -19,3 +19,27 @@
 [Opensource and Go. What license? – Henrique Vicente de Oliveira Pinto – Medium](https://medium.com/@henvic/opensource-and-go-what-license-f6b36c201854)
 
 [Writing Web Applications - The Go Programming Language](https://golang.org/doc/articles/wiki/)
+
+[golang-standards/project-layout: Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
+[Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2019](https://github.com/Alikhll/golang-developer-roadmap)
+
+[Using Go Modules - The Go Blog](https://blog.golang.org/using-go-modules)
+
+[How I structure production grade REST API’s in Golang.](https://itnext.io/structuring-a-production-grade-rest-api-in-golang-c0229b3feedc)
+
+[steelx/urlshortnr: URL Shortner with GoLang + PostgreSQL](https://github.com/steelx/urlshortnr)
+
+[Generating a New Project · Buffalo – Rapid Web Development in Go](https://gobuffalo.io/en/docs/getting-started/new-project)
+
+[Examples and Tutorials · Buffalo – Rapid Web Development in Go](https://gobuffalo.io/en/docs/examples)
+
+[Go by Example](https://gobyexample.com/)
+
+[jordan orelli](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+
+[Using Go Modules - The Go Blog](https://blog.golang.org/using-go-modules)
+
+[hashicorp/go-multierror: A Go (golang) package for representing a list of errors as a single error.](https://github.com/hashicorp/go-multierror)
+
+[Packages - The Go Programming Language](https://golang.org/pkg/)
