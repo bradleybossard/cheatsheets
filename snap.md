@@ -6,12 +6,17 @@ snap logout          # logs user out
 ``
 
 ```
-snap install <package-name>
-snap remove <package-name>
+snap find <search-text>         # find a snap package
+snap install <package-name>     # install a snap package
+snap remove <package-name>      # remove a snap package
 ```
 
 ```
 snap refresh               # update all installed packages
 snap changes               # show recent changes
 snap change <id>           # detailed log of snap change
+```
+
+```
+snap interfaces            # see hardwares snaps can access
 ```
