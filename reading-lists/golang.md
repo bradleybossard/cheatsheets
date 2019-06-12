@@ -51,3 +51,5 @@
 [campoy/mandelbrot](https://github.com/campoy/mandelbrot)
 
 [deckarep/golang-set: A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.](https://github.com/deckarep/golang-set)
+
+[fogleman/ln: 3D line art engine.](https://github.com/fogleman/ln)
