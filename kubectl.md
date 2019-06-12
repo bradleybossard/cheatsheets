@@ -33,3 +33,7 @@ kubectl describe <podname>      # describe a pod
 kubectl expose rc <rc_name> --type=LoadBalancer --name <service_name>      # create a service for an rc
 kubectl get services                                                       # list services
 ```
+
+### Links
+
+[kubectl Cheat Sheet - Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/#deleting-resources)
