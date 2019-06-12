@@ -4,5 +4,8 @@
 
 [MIT Deep Learning](https://deeplearning.mit.edu/)
 
+[Machine Learning for Beginners: An Introduction to Neural Networks - victorzhou.com](https://victorzhou.com/blog/intro-to-neural-networks/)
 
+[A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
 
+[Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
