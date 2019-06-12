@@ -43,3 +43,5 @@
 [hashicorp/go-multierror: A Go (golang) package for representing a list of errors as a single error.](https://github.com/hashicorp/go-multierror)
 
 [Packages - The Go Programming Language](https://golang.org/pkg/)
+
+[How to play Go Lang with HTTP – Chanaka Lakmal – Medium](https://medium.com/@ldclakmal/how-to-play-go-lang-with-http-5f3628e81001)
