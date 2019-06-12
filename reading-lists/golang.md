@@ -45,3 +45,7 @@
 [Packages - The Go Programming Language](https://golang.org/pkg/)
 
 [How to play Go Lang with HTTP – Chanaka Lakmal – Medium](https://medium.com/@ldclakmal/how-to-play-go-lang-with-http-5f3628e81001)
+
+[High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)
+
+[campoy/mandelbrot](https://github.com/campoy/mandelbrot)
