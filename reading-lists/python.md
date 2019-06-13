@@ -5,3 +5,5 @@
 [Numba: A High Performance Python Compiler](http://numba.pydata.org/)
 
 [conda-forge | community driven packaging for conda](https://conda-forge.org/)
+
+[Technical Documentation, Docker Container | RAPIDS](https://rapids.ai/start.html)
