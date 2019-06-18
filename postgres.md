@@ -6,9 +6,17 @@
 
 `sudo -u postgres createuser --interactive`
 
+or
+`sudo -u postgres createuser <user>`
+
+
 ### Create database
 
 `createdb <databasename>`
+
+or
+
+`sudo -u postgres createdb -O <user> <dbname>`
 
 ### Begin using database
 
