@@ -8,8 +8,6 @@
 
 [Random Compiler Experiments on Arrays | 🔐Blog of Osanda](https://osandamalith.com/2019/06/16/random-compiler-experiments-on-arrays/)
 
-
-
 [Gathering Open Source Intelligence – Posts By SpecterOps Team Members](https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05)
 
 [Posts By SpecterOps Team Members](https://posts.specterops.io/)
