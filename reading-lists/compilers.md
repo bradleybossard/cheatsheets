@@ -11,3 +11,15 @@
 [ANTLR Development Tools](https://www.antlr.org/tools.html)
 
 [Introduction · Crafting Interpreters](http://www.craftinginterpreters.com/introduction.html)
+
+## Phil Eaton
+
+[Notes by a software developer | notes.eatonphil.com](http://notes.eatonphil.com/)
+
+[Compiler basics (1): lisp to assembly | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
+
+[Compiler basics (2): user-defined functions and variables | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-functions.html)
+
+[Compiler basics (3): LLVM | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-llvm.html)
+
+[Compiler basics (4): LLVM conditionals and compiling fibonacci | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-llvm-conditionals.html)

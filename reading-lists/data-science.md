@@ -1,0 +1,1 @@
+[Iodide: an experimental tool for scientific communication and exploration on the web - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/03/iodide-an-experimental-tool-for-scientific-communicatiodide-for-scientific-communication-exploration-on-the-web/)
