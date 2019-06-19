@@ -6,6 +6,7 @@ conda init <shell-name>     # initialize shell for conda (bash, zsh, etc)
 conda info                  # verify install, version number
 conda update conda          # update to current version
 conda env list              # list environments
+conda info --env            # list environments (same as conda env list)
 ```
 
 ## create/remove environments
