@@ -1,5 +1,9 @@
 [Cross compile with CGO and GoReleaser – Rob De Feo – Medium](https://medium.com/@robdefeo/cross-compile-with-cgo-and-goreleaser-6af884731222)
 
+[Continuous Development with Docker and VSCode — Go Version](https://hackernoon.com/continuous-development-with-docker-and-vscode-go-version-164ee78d09bf)
+
+[go-delve/delve: Delve is a debugger for the Go programming language.](https://github.com/go-delve/delve)
+
 [mailgun/holster: A place to keep useful golang functions and small libraries](https://github.com/mailgun/holster)
 
 [GoReleaser](https://goreleaser.com/)
