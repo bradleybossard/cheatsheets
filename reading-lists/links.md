@@ -78,7 +78,6 @@
 
 [Swap space on Linux systems: A primer | Opensource.com](https://opensource.com/article/18/9/swap-space-linux-systems)
 
-[Understanding Check Constraints in PostgreSQL | Severalnines](https://severalnines.com/blog/understanding-check-constraints-postgresql)
 
 [Bikes &amp; Accessories](http://www.anglelakecycle.com/site/4b9894f5eb4941b3a6cfec24a703d976/default?url=http%3A%2F%2Fanglelakecycle.com%2FBikes___Accessories.html#2749)
 
@@ -90,17 +89,14 @@
 
 [How do Kubernetes Deployments work? An adversarial perspective.](https://blog-pulumi-com.cdn.ampproject.org/v/s/blog.pulumi.com/how-do-kubernetes-deployments-work-an-adversarial-perspective?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.pulumi.com%2Fhow-do-kubernetes-deployments-work-an-adversarial-perspective)
 
-[A New Way to Personalize Your PostgreSQL Monitoring with Prometheus | Severalnines](https://severalnines.com/blog/new-way-personalize-your-postgresql-monitoring-prometheus)
 
 [Introducing: Unity Machine Learning Agents Toolkit – Unity Blog](https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/)
 
-[PostgreSQL Database Administration (DBA) for Beginners](https://udemycoupon.learnviral.com/coupon/free-postgresql-database-administration-dba-beginners/)
 
 [Making Android controlled Arduino quadcopter from scratch](https://www.linkedin.com/pulse/making-android-controlled-arduino-quadcopter-from-scratch-val-smirnov)
 
 [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
 
-[Managing Freezing in PostgreSQL](https://blog.2ndquadrant.com/managing-freezing/)
 
 [Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
 
@@ -132,7 +128,6 @@
 
 [How to Backup USB Drives and Restore Them, Bootable State and All - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/guides/1721-clone-backup-usb-drive/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1721-clone-backup-usb-drive%2F)
 
-[PostgreSQL Tips: Documenting the Database - Compose Articles](https://www.compose.com/articles/postgresql-tips-documenting-the-database/)
 
 [Libre Computer&#39;s La Frite is a $20 single board computer ($5 and up during crowdfunding) - Liliputing](https://liliputing-com.cdn.ampproject.org/v/s/liliputing.com/2018/10/libre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fliliputing.com%2F2018%2F10%2Flibre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html)
 
@@ -150,7 +145,6 @@
 
 [What’s new in Angular Version 7 | InfoWorld](https://www.infoworld.com/article/3213244/angular/whats-new-in-angular-version-7-release-candidate-arrives.html)
 
-[Track PostgreSQL Row Changes Using Public/Private Key Signing - Percona Database Performance Blog](https://www.percona.com/blog/2018/10/12/track-postgresql-row-changes-using-public-private-key-signing/)
 
 [Conquering the Microservices Dependency Hell at Postman, with Postman (Part 1 — Introduction)](https://medium.com/postman-engineering/conquering-the-microservices-dependency-hell-at-postman-with-postman-part-1-introduction-a1ae019bb934)
 
@@ -166,11 +160,9 @@
 
 [Base Images - kubedex.com](https://kubedex.com/base-images/)
 
-[High Volume Space Exploration Time-Series Data Storage in PostgreSQL](https://www.infoq.com/news/2018/10/space-time-series-data)
 
 [pgSphere](https://pgsphere.github.io/)
 
-[segasai/q3c: PostgreSQL extension for spatial indexing on a sphere](https://github.com/segasai/q3c)
 
 [Latest GPU-Z detects some fake NVIDIA cards - gHacks Tech News](https://www.ghacks.net/2018/10/13/latest-gpu-z-detects-some-fake-nvidia-cards/)
 
@@ -182,7 +174,6 @@
 
 [Model-Based Machine Learning (Early Access): Table of Contents](http://mbmlbook.com/toc.html)
 
-[PG Phriday: Studying Stored Procedures in Postgres 11 |](https://blog.2ndquadrant.com/pg-phriday-stored-procedures-postgres-11/)
 
 [Tea-School.js — Generate a PDF File From HTML And CSS in Node.js](https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37)
 
@@ -352,7 +343,6 @@
 
 [eduArdo board helps you jump right in to Arduino development - Liliputing](https://liliputing.com/2018/12/eduardu-board-helps-you-jump-right-in-to-arduino-development.html)
 
-[Benchmark PostgreSQL With Linux HugePages - Percona Database Performance Blog](https://www.percona.com/blog/2018/12/20/benchmark-postgresql-with-linux-hugepages/)
 
 [First round of Amazon Echo Auto devices are shipping - CNET](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/first-round-of-amazon-echo-auto-devices-are-shipping/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Ffirst-round-of-amazon-echo-auto-devices-are-shipping%2F)
 
@@ -492,7 +482,6 @@
 
 [Try These Mobile &#39;Lemmings&#39; Games Instead of Sony&#39;s Crappy Port](https://lifehacker.com/try-these-ios-and-android-lemmings-games-instead-of-son-1831360899)
 
-[How to build a PostgreSQL database to store tweets – Towards Data Science](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)
 
 [Deep Learning](https://www.deeplearningbook.org/)
 
@@ -526,7 +515,6 @@
 
 [This neural network can swap sheep for giraffe, jeans for skirts | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/01/01/this-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F01%2F01%2Fthis-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts%2F)
 
-[An Overview of Just-in-Time Compilation (JIT) for PostgreSQL | Severalnines](https://severalnines.com/blog/overview-just-time-compilation-jit-postgresql)
 
 [The best Raspberry Pi alternatives (2019 edition) | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/pictures/the-best-raspberry-pi-alternatives-2019-edition/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Fpictures%2Fthe-best-raspberry-pi-alternatives-2019-edition%2F)
 
@@ -682,7 +670,6 @@
 
 [Use Pyspark with a Jupyter Notebook in an AWS EMR cluster](https://towardsdatascience.com/use-pyspark-with-a-jupyter-notebook-in-an-aws-emr-cluster-e5abc4cc9bdd)
 
-[Instant realtime GraphQL on Postgres | Hasura GraphQL Engine](https://hasura.io/)
 
 [Quickstart with Docker | Hasura 1.0 documentation](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)
 
@@ -722,7 +709,6 @@
 
 [retroplasma/earth-reverse-engineering: WIP](https://github.com/retroplasma/earth-reverse-engineering)
 
-[Relational databases, Express Postgres. TypeScript Express #7](https://wanago.io/2019/01/14/express-postgres-relational-databases-typeorm/)
 
 [How to start contributing to an OSS project – Coding Coach – Medium](https://medium.com/codingcoach-io/how-to-start-contributing-to-an-oss-project-e986d210dbcf)
 
@@ -820,7 +806,6 @@
 
 [Raspberry Pi Jukebox Hits All the Right Notes | Hackaday](https://hackaday.com/2019/01/22/raspberry-pi-jukebox-hits-all-the-right-notes/)
 
-[Event Storage in Postgres, Multi-tenant - DEV Community 👩‍💻👨‍💻](https://dev.to/kspeakman/event-storage-in-postgres-multi-tenant-25hc)
 
 [Flight Tracker | Real-Time Tracking | Plane Finder](https://planefinder.net/)
 
@@ -846,7 +831,6 @@
 
 [7-Segment Display is 3D Printed and Hand Cranked | Hackaday](https://hackaday.com/2019/01/26/7-segment-display-is-3d-printed-and-hand-cranked/)
 
-[What&#39;s New in Crunchy PostgreSQL Operator 3.5](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-3.5-new-features?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fcrunchy-postgresql-operator-3.5-new-features)
 
 [I started building a DApp – these were my architectural difficulties](https://medium.com/@reime005/i-started-building-a-dapp-these-were-my-architectural-difficulties-a2c7139819cf)
 
@@ -904,7 +888,6 @@
 
 [Flutter State Management has Never Been Easier. Think Statelessly then add Reactivity](https://medium.com/flutter-community/flutter-state-management-has-never-been-easier-think-statelessly-then-add-reactivity-d30c75760da0)
 
-[TypeORM Migrations with Postgres. TypeScript Express #9](https://wanago.io/2019/01/28/typeorm-migrations-postgres/)
 
 [Understanding Kubernetes Cluster Autoscaling – kubecost – Medium](https://medium.com/kubecost/understanding-kubernetes-cluster-autoscaling-675099a1db92)
 
@@ -996,7 +979,6 @@
 
 [A 3D Printer To PCB Miller Conversion | Hackaday](https://hackaday.com/2019/02/06/a-3d-printer-to-pcb-miller-conversion/)
 
-[Move fast and migrate things: how we automated migrations in Postgres](https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4)
 
 [Arduino Enters the Cloud | Hackaday](https://hackaday.com/2019/02/07/arduino-enters-the-cloud/)
 
@@ -1010,7 +992,6 @@
 
 [Stereoscopic photography with StereoPi and a Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/stereoscopic-photography-stereopi-raspberry-pi/)
 
-[Managing Databases in PostgreSQL (article) - DataCamp](https://www.datacamp.com/community/tutorials/managing-databases-sql)
 
 [What Is a DNS Cache and How Does It Work?](https://www.lifewire.com/what-is-a-dns-cache-817514)
 
@@ -1172,7 +1153,6 @@
 
 [Remote Golang job: Senior Backend Engineer at Splice (Remote, United States)](https://www.golangprojects.com/golang-go-job-cnw-Senior-Backend-Engineer-remote-work-possible-Remote-Splice.html)
 
-[sastraxi/pgsh: Branch your PostgreSQL Database like Git](https://github.com/sastraxi/pgsh)
 
 [Wi-Fi Jammer From an ESP8266 | WiFi Jammer/ Deauther: 6 Steps](https://www.instructables.com/id/Wi-Fi-Jammer-From-an-ESP8266-WiFi-Jammer-Deauther/)
 
@@ -1196,7 +1176,6 @@
 
 [TCL’s 4K Roku TV is cheaper than ever, and Amazon has discounted Fire TV devices - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/good-deals/2019/2/19/18231547/tcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fgood-deals%2F2019%2F2%2F19%2F18231547%2Ftcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal)
 
-[Geo-redundancy of PostgreSQL database backups with Barman |](https://blog.2ndquadrant.com/geo-redundancy-postgresql-database-backups-barman/)
 
 [Bank robbers flee the scene on shared electric scooters — Quartz](https://qz-com.cdn.ampproject.org/v/s/qz.com/1554101/bank-robbers-flee-the-scene-on-shared-electric-scooters/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fqz.com%2F1554101%2Fbank-robbers-flee-the-scene-on-shared-electric-scooters%2F)
 
@@ -1314,7 +1293,6 @@
 
 [How to make your first upstream Kubernetes contribution | Opensource.com](https://opensource.com/article/18/2/step-step-guide-becoming-kubernetes-contributor?intcmp=7016000000127cYAAQ)
 
-[Scaling PostgreSQL with Kubernetes Operators | Opensource.com](https://opensource.com/article/19/2/scaling-postgresql-kubernetes-operators)
 
 [Introduction to Kubeflow | Opensource.com](https://opensource.com/article/18/12/introduction-kubeflow?utm_campaign=intrel)
 
@@ -1734,7 +1712,6 @@
 
 [Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/27/solus-4-linux-gaming-report-nvidia-amd-steam/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F27%2Fsolus-4-linux-gaming-report-nvidia-amd-steam%2F)
 
-[Building Real-Time Charts With GraphQL And Postgres — Smashing Magazine](https://www.smashingmagazine.com/2019/03/realtime-charts-graphql-postgres/)
 
 [kube-aws: Highly Available, Scalable, and Secure Kubernetes on AWS | AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/kube-aws/)
 
@@ -1796,7 +1773,6 @@
 
 [NVIDIA SHIELD has a hidden split screen mode - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/nvidia-shield-has-a-hidden-split-screen-mode-02571804/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fnvidia-shield-has-a-hidden-split-screen-mode-02571804%2F)
 
-[count(*) performance improvements in PostgreSQL- Cybertec](https://www.cybertec-postgresql.com/en/count-made-fast/)
 
 [Build your own Multi-Node Kubernetes cluster with Monitoring](https://medium.com/@salqadri/build-your-own-multi-node-kubernetes-cluster-with-monitoring-346a7e2ef6e2)
 
@@ -1826,7 +1802,6 @@
 
 [KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/?m=1)
 
-[Learn PostgreSQL in Free Video Course](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/postgresql-full-course/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fpostgresql-full-course%2F)
 
 [File sharing for Git with SparkleShare | Opensource.com](https://opensource.com/article/19/4/file-sharing-git)
 
@@ -2312,7 +2287,6 @@
 
 [Advanced Deep Learning with Keras in Python | DataCamp](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 
-[Bitnami Engineering Portal: Create a Production-Ready PostgreSQL Cluster with Bitnami, Kubernetes and Helm](https://engineering.bitnami.com/articles/create-a-production-ready-postgresql-cluster-bitnami-kubernetes-and-helm.html)
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
@@ -2498,7 +2472,6 @@
 
 [An End to End Introduction to GANs – Towards Data Science](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
 
-[Bloom Indexes in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2019/06/14/bloom-indexes-in-postgresql/)
 
 [How To Test Drive 200+ Linux Distributions Without Ever Downloading Or Installing Them](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/06/15/how-to-test-drive-200-linux-distributions-without-ever-downloading-or-installing-them/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F06%2F15%2Fhow-to-test-drive-200-linux-distributions-without-ever-downloading-or-installing-them%2F)
 
