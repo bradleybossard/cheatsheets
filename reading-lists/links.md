@@ -6,7 +6,6 @@
 
 [How to create a custom Ubuntu live from scratch – ITNEXT](https://itnext.io/how-to-create-a-custom-ubuntu-live-from-scratch-dd3b3f213f81)
 
-[Will Raspberry Pi soon replace our DAWs? - gearnews.com](https://www.gearnews.com/will-raspberry-pi-soon-replace-our-daws/)
 
 [An Overview of Human Pose Estimation with Deep Learning](https://www.kdnuggets.com/2019/06/human-pose-estimation-deep-learning.html)
 
@@ -124,7 +123,6 @@
 
 [18 Most Common Python List Questions | Learn Python (article) - DataCamp](https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python)
 
-[Raspberry Pi-like price, tiny six-core NanoPi NEO4 could be the perfect pocket server | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/raspberry-pi-like-price-tiny-six-core-nanopi-neo4-could-be-the-perfect-pocket-server/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fraspberry-pi-like-price-tiny-six-core-nanopi-neo4-could-be-the-perfect-pocket-server%2F)
 
 [How to Backup USB Drives and Restore Them, Bootable State and All - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/guides/1721-clone-backup-usb-drive/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1721-clone-backup-usb-drive%2F)
 
@@ -223,7 +221,6 @@
 
 [Roku Google Assistant support arrives, how to set it up - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/10/29/roku-google-assistant-available-now/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F10%2F29%2Froku-google-assistant-available-now%2F)
 
-[Raspberry Pi: Hands-on with Kali, openSUSE, Fedora and Ubuntu MATE Linux | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/raspberry-pi-hands-on-with-kali-opensuse-fedora-and-ubuntu-mate-linux/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fraspberry-pi-hands-on-with-kali-opensuse-fedora-and-ubuntu-mate-linux%2F)
 
 [If the words &#39;Tigole&#39;, &#39;Featurettes&#39;, and &#39;Plex&#39; mean anything to you, i have some powershell scripts you may be interested in. - DataHoarder](https://www.reddit.com/r/DataHoarder/comments/9s6sln/if_the_words_tigole_featurettes_and_plex_mean/)
 
@@ -241,7 +238,6 @@
 
 [r-darwish/alma: Create Arch Linux based bootable USB drives](https://github.com/r-darwish/alma)
 
-[ESP-NOW Home Automation Esp8266 Raspberry Pi MQTT: 4 Steps](https://www.instructables.com/id/ESP-NOW-Home-Automation-Esp8266-Raspberry-Pi-MQTT/)
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
 
@@ -301,7 +297,6 @@
 
 [Amazon adds location-specific reminders and routines to Alexa](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/12/10/alexa-location-specific-reminders-and-routines/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F12%2F10%2Falexa-location-specific-reminders-and-routines%2F)
 
-[Raspberry Pi computing cluster: What I&#39;m using it for, and what I&#39;ve added to it | ZDNet](https://www.zdnet.com/google-amp/article/raspberry-pi-computing-cluster-what-im-using-it-for-and-what-ive-added-to-it/)
 
 [Patch into The Matrix at the Linux command line | Opensource.com](https://opensource.com/article/18/12/linux-toy-cmatrix)
 
@@ -329,7 +324,6 @@
 
 [Chromebooks May be Able to Run Windows in the New Year | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/computing/chromebooks-windows-dual-boot/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fchromebooks-windows-dual-boot%2F)
 
-[Raspberry Pi clusters come of age - Raspberry Pi](https://www.raspberrypi.org/blog/raspberry-pi-clusters-come-of-age/)
 
 [Announcing Gluegun 2.0 — A delightful way to build command line apps in Node](https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d)
 
@@ -401,7 +395,6 @@
 
 [How to Create a Random-Split, Cross-Validation, and Bagging Ensemble for Deep Learning in Keras](https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation-and-bagging-ensemble-for-deep-learning-in-keras/)
 
-[Where to move from Raspberry 3B+ for more reliability? - homeassistant](https://www.reddit.com/r/homeassistant/comments/a8vay7/where_to_move_from_raspberry_3b_for_more/)
 
 [Easily building WASM projects with go and go-wasm - DEV Community 👩‍💻👨‍💻](https://dev.to/swisschili/easily-building-wasm-projects-with-go-and-go-wasm-2ci2)
 
@@ -415,7 +408,6 @@
 
 [Crazyflie 2.0 - We create open platforms that enable people to explore the world of flying robotics](https://www.seeedstudio.com/crazyflie.html)
 
-[Machine Learning on Tiny Platforms Like Raspberry Pi and Arduino | Hackaday](https://hackaday.com/2018/12/25/machine-learning-on-tiny-platforms-like-raspberry-pi-and-arduino/)
 
 [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
@@ -437,7 +429,6 @@
 
 [Aura: Speeds &amp; Simplifies ALL Your Scanning Needs | Indiegogo](https://www.indiegogo.com/projects/aura-speeds-simplifies-all-your-scanning-needs/#/)
 
-[Team IoT Drops High-Powered Alternative to the Raspberry Pi with ATOMIC Pi](https://blog.hackster.io/team-iot-drops-high-powered-alternative-to-the-raspberry-pi-with-atomic-pi-bd8afff9c0a)
 
 [Linux Release Roundup: Dash to Panel, Audacious, Linux 4.20 + More - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2018/12/linux-4-20-released)
 
@@ -457,7 +448,6 @@
 
 [The package manager for React components - DEV Community 👩‍💻👨‍💻](https://dev.to/bsiscanu/the-package-manager-for-web-components-4b92)
 
-[alexellis/k8s-on-raspbian: Kubernetes on Raspbian (Raspberry Pi)](https://github.com/alexellis/k8s-on-raspbian)
 
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
 
@@ -484,7 +474,6 @@
 
 [Deep Learning](https://www.deeplearningbook.org/)
 
-[How to Run Ubuntu 18.04 or 18.10 on Raspberry Pi - Make Tech Easier](https://www.maketecheasier.com/run-ubuntu-raspberry-pi/)
 
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
 
@@ -498,7 +487,6 @@
 
 [How Google Maps Calculates The Shortest Route | Math Section](https://mathsection.com/how-google-maps-calculates-the-shortest-route/?cookie-state-change=1546220286234)
 
-[This Raspberry Pi Is A Stereo Camera And So Much More | Hackaday](https://hackaday.com/2018/12/30/this-raspberry-pi-is-a-stereo-camera-and-so-much-more/)
 
 [How to Control Your Amazon Echo from Anywhere Using Your Phone](https://www.howtogeek.com/253621/how-to-control-your-amazon-echo-from-anywhere/)
 
@@ -515,7 +503,6 @@
 [This neural network can swap sheep for giraffe, jeans for skirts | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/01/01/this-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F01%2F01%2Fthis-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts%2F)
 
 
-[The best Raspberry Pi alternatives (2019 edition) | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/pictures/the-best-raspberry-pi-alternatives-2019-edition/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Fpictures%2Fthe-best-raspberry-pi-alternatives-2019-edition%2F)
 
 [Blobmaker – a online tool that helps you create organic svg shapes - web_design](https://www.reddit.com/r/web_design/comments/abtktb/blobmaker_a_online_tool_that_helps_you_create/)
 
@@ -535,7 +522,6 @@
 
 [Brewing Crazy Awesome Beer Cheap - Mr Crazy Kicks](https://www.mrcrazykicks.com/brewing-crazy-awesome-beer-cheap/)
 
-[Took in to consideration many things mentioned on my last post for a stackable Pi-3 case and this is the result. Thanks for all the feedback on the first iteration. I appreciate any on this one as well! - raspberry_pi](https://www.reddit.com/r/raspberry_pi/comments/ac37n6/took_in_to_consideration_many_things_mentioned_on/)
 
 [Write and Deploy Your First Serverless Function Within 10 Minutes, or Less](https://codeburst.io/write-and-deploy-your-first-serverless-function-within-10-minutes-or-less-d7552fcd6550)
 
@@ -607,7 +593,6 @@
 
 [Free PBR Textures for everyone | cgbookcase.com](https://www.cgbookcase.com/)
 
-[ROS and Raspberry Pi | Tutorial for Beginners - General - ArduPilot Discourse](https://discuss.ardupilot.org/t/ros-and-raspberry-pi-tutorial-for-beginners/37032)
 
 [17 penetration testing tools the pros use | CSO Online](https://www.csoonline.com/article/2943524/network-security/17-penetration-testing-tools-the-pros-use.amp.html)
 
@@ -803,7 +788,6 @@
 
 [Hummingbird: Building Flutter for the Web – Flutter – Medium](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
 
-[Raspberry Pi Jukebox Hits All the Right Notes | Hackaday](https://hackaday.com/2019/01/22/raspberry-pi-jukebox-hits-all-the-right-notes/)
 
 
 [Flight Tracker | Real-Time Tracking | Plane Finder](https://planefinder.net/)
@@ -847,7 +831,6 @@
 
 [Game Loop · Sequencing Patterns · Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 
-[Design Your Own Raspberry Pi Compute Module PCB: 5 Steps](https://www.instructables.com/id/Design-Your-Own-Raspberry-Pi-Compute-Module-PCB/)
 
 [Casting Concrete with 3D Printed Molds | Hackaday](https://hackaday.com/2019/01/27/casting-concrete-with-3d-printed-molds/)
 
@@ -904,7 +887,6 @@
 
 [Linux Fu: Easier File Watching | Hackaday](https://hackaday.com/2019/01/31/linux-fu-easier-file-watching/)
 
-[Raspberry Pi Boot from USB #piday #raspberrypi @Raspberry_Pi « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/02/01/raspberry-pi-boot-from-usb-piday-raspberrypi-raspberry_pi/)
 
 [Android for Hackers: How to Turn an Android Phone into a Hacking Device Without Root « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/)
 
@@ -924,7 +906,6 @@
 
 [Top 5 open source network monitoring tools | Opensource.com](https://opensource.com/article/19/2/network-monitoring-tools)
 
-[Raspberry Pi computing cluster: What I&#39;m using it for, and what I&#39;ve added to it | ZDNet](https://www.zdnet.com/google-amp/article/raspberry-pi-computing-cluster-what-im-using-it-for-and-what-ive-added-to-it/)
 
 [Underwater Drone: The Story of the Madness - Hackster.io](https://www.hackster.io/ievgenii-tkachenko/underwater-drone-the-story-of-the-madness-f50ce0)
 
@@ -932,7 +913,6 @@
 
 [Install Ubuntu Alongside Windows 8.1 or Windows 10](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
 
-[Powerful Raspberry Pi rival is same price but has 2x memory, USB 3.0 and 4K support - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/powerful-raspberry-pi-rival-is-same-price-but-has-2x-memory-usb-3-0-and-4k-support/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fpowerful-raspberry-pi-rival-is-same-price-but-has-2x-memory-usb-3-0-and-4k-support%2F)
 
 [3D-Printed Tourbillon Demo Keeps the Time with Style | Hackaday](https://hackaday.com/2019/02/04/3d-printed-tourbillon-demo-keeps-the-time-with-style/)
 
@@ -988,7 +968,6 @@
 
 [Dopamine 2.0: providing more flexibility in reinforcement learning research | Google Open Source Blog](https://opensource.googleblog.com/2019/02/dopamine-2.0.html?m=1)
 
-[Stereoscopic photography with StereoPi and a Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/stereoscopic-photography-stereopi-raspberry-pi/)
 
 
 [What Is a DNS Cache and How Does It Work?](https://www.lifewire.com/what-is-a-dns-cache-817514)
@@ -1023,7 +1002,6 @@
 
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
 
-[Reddit - RetroPie - Nintendo 64 titles the raspberry pi 3 can run](https://www.google.com/amp/s/amp.reddit.com/r/RetroPie/comments/7l7dqq/nintendo_64_titles_the_raspberry_pi_3_can_run/#ampf=undefined)
 
 [Go by Example: Arrays](https://gobyexample.com/arrays)
 
@@ -1045,7 +1023,6 @@
 
 [Fashion MNIST with Keras and Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/)
 
-[Get Organized With This Raspberry Pi E-Ink Calendar | Hackaday](https://hackaday.com/2019/02/11/get-organized-with-this-raspberry-pi-e-ink-calendar/)
 
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://medium.com/@robertnishihara/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
 
@@ -1065,7 +1042,6 @@
 
 [A Better Way of Visualizing Microservice Architecture](https://articles.microservices.com/an-alternative-way-of-visualizing-microservice-architecture-837cbee575c1)
 
-[This installer lets you easily run Windows 10 on ARM on a Raspberry Pi OnMSFT.com OnMSFT.com](https://www.onmsft.com/news/this-installer-lets-you-easily-run-windows-10-on-arm-on-a-raspberry-pi)
 
 [WebGL 2.0—Why It&#39;s the Path to Stable Open Standards-based 3D Web Graphics | Architosh](https://architosh.com/2019/02/webgl-2-0-why-its-the-path-to-stable-open-standards-based-3d-web-graphics/)
 
@@ -1075,7 +1051,6 @@
 
 [3rd Installment of “Ray Tracing Gems Now Available For Free - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/3rd-installment-of-ray-tracing-gems-now-available-for-free/)
 
-[GPIO Zero v1.5 is here! - Raspberry Pi](https://www.raspberrypi.org/blog/gpio-zero-v1-5/)
 
 [How to implement runtime environment variables with create-react-app, Docker, and Nginx](https://medium.freecodecamp.org/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70)
 
@@ -1089,7 +1064,6 @@
 
 [STEPCRAFT CNC SYSTEMS - A World Leader In Affordable, High-Performance, Multi-Function CNC Systems | Stepcraft, Inc.](https://www.stepcraft.us/)
 
-[You Can Now Run Windows 10 on the Raspberry Pi 3](https://amp-tomshardware-com.cdn.ampproject.org/v/s/amp.tomshardware.com/news/windows-10-arm-raspberry-pi-3-installer,38604.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomshardware.com%2Fnews%2Fwindows-10-arm-raspberry-pi-3-installer%2C38604.html)
 
 [Chris Gammell Talks Circuit Toolboxes | Hackaday](https://hackaday.com/2019/02/11/chris-gammell-talks-circuit-toolboxes/)
 
@@ -1206,7 +1180,6 @@
 
 [bradtraversy/rust_sandbox: Fundamentals of the Rust language](https://github.com/bradtraversy/rust_sandbox)
 
-[How to turn a Raspberry Pi into an eBook server | Opensource.com](https://opensource.com/article/17/6/raspberrypi-ebook-server)
 
 [18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
 
@@ -1272,7 +1245,6 @@
 
 [Running WebAssembly 100x faster 🔥 – Wasmer – Medium](https://medium.com/wasmer/running-webassembly-100x-faster-%EF%B8%8F-a8237e9a372d)
 
-[A Raspberry Pi Grimoire For The Command Line Wizard | Hackaday](https://hackaday.com/2019/02/25/a-raspberry-pi-grimoire-for-the-command-line-wizard/)
 
 
 [Visually build and modify an OpenCV Recipe - computervision](https://www.reddit.com/r/computervision/comments/auuwq3/visually_build_and_modify_an_opencv_recipe/)
@@ -1370,7 +1342,6 @@
 
 [Holistically-Nested Edge Detection with OpenCV and Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/)
 
-[Automatic Calling System using Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/automatic-calling-system-using-raspberry-pi/)
 
 [devbox-hero/ansible-roles](https://github.com/devbox-hero/ansible-roles)
 
@@ -1396,7 +1367,6 @@
 
 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 
-[Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi | Hackaday](https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/)
 
 [Building a Flask API to Automatically Extract Named Entities Using SpaCy](https://towardsdatascience.com/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6)
 
@@ -1406,7 +1376,6 @@
 
 [Job Search Results that include the keywords &lt;strong&gt;&quot;Golang&quot;&lt;/strong&gt;](https://www.flexjobs.com/search?search=Golang&show_save=1&location=)
 
-[Pine H64 Model B: The updated Raspberry Pi alternative that starts at US$25 - NotebookCheck.net News](https://www.notebookcheck.net/Pine-H64-Model-B-The-updated-Raspberry-Pi-alternative-that-starts-at-US-25.412675.0.html)
 
 
 [3D pens: the best you can buy in 2019 | Creative Bloq](https://www.creativebloq.com/buying-guides/best-3d-pens)
@@ -1431,7 +1400,6 @@
 [React — Redux workflow in 4 steps — Beginner Friendly Guide](https://hackernoon.com/https-medium-com-heypb-react-redux-workflow-in-4-steps-beginner-friendly-guide-4aea9d56f5bd)
 
 
-[RFID Scanner With Raspberry Pi #piday #raspberrypi @Raspberry_Pi « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/03/08/rfid-scanner-with-raspberry-pi-piday-raspberrypi-raspberry_pi/)
 
 [Building Chrome Extensions 101 – Bits and Pieces](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
@@ -1449,7 +1417,6 @@
 
 [OpenSCAD Gives You Parametric Boxes | Hackaday](https://hackaday.com/2019/03/11/openscad-gives-you-parametric-boxes/)
 
-[Raspberry Pi Power Switch in 2 Lines of Code - Hackster.io](https://www.hackster.io/macsboost/raspberry-pi-power-switch-in-2-lines-of-code-027f82)
 
 [Building the virtualization stack of the future with rust-vmm | Opensource.com](https://opensource.com/article/19/3/rust-virtual-machine)
 
@@ -1457,7 +1424,6 @@
 
 [Reducing Microservices Architecture Complexity with Istio and Kubernetes](https://www.infoq.com/presentations/istio-microservices)
 
-[Will it cluster? k3s on your Raspberry Pi](https://blog-alexellis-io.cdn.ampproject.org/v/s/blog.alexellis.io/test-drive-k3s-on-raspberry-pi/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.alexellis.io%2Ftest-drive-k3s-on-raspberry-pi%2F)
 
 [10 Docker Image Security Best Practices - docker](https://www.reddit.com/r/docker/comments/azssj2/10_docker_image_security_best_practices/)
 
@@ -1515,7 +1481,6 @@
 
 [How Language Featured at the 2019 Applied Machine Learning Days | Slator](https://slator.com/technology/how-language-featured-at-the-2019-applied-machine-learning-days/)
 
-[Program the real world using Rust on Raspberry Pi | Opensource.com](https://opensource.com/article/19/3/physical-computing-rust-raspberry-pi)
 
 [Chilicorn Rail · Markku.ai](https://markku.ai/post/chilicorn-rail/)
 
@@ -1535,7 +1500,6 @@
 
 [Introducing: Monado](https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html)
 
-[Laser-engraved Raspberry Pi hologram - Raspberry Pi](https://www.raspberrypi.org/blog/laser-engraved-raspberry-pi-hologram/)
 
 [Isometric 2D Environments with Tilemap – Unity Blog](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/)
 
@@ -1571,7 +1535,6 @@
 
 [Pop OS 18.10 Linux Gaming Report: System76 Nails It For Nvidia And AMD Users](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/20/pop_os-18-10-linux-gaming-nvidia-radeon-user-experience/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F20%2Fpop_os-18-10-linux-gaming-nvidia-radeon-user-experience%2F)
 
-[Overview | Using the Slamtec RPLIDAR on a Raspberry Pi | Adafruit Learning System](https://learn.adafruit.com/slamtec-rplidar-on-pi)
 
 [How to rotate your source IP address - Black Hills Information Security](https://www.blackhillsinfosec.com/how-to-rotate-your-source-ip-address/)
 
@@ -1820,7 +1783,6 @@
 
 [How I went from being a contributor to an Open Source project maintainer](https://medium.freecodecamp.org/how-i-went-from-being-a-contributor-to-an-open-source-project-maintainer-acd8a6b316f5)
 
-[OpenVINO, OpenCV, and Movidius NCS on the Raspberry Pi - PyImageSearch](https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/)
 
 [The Fast Remote Desktop Application – AnyDesk](https://anydesk.com/en/)
 
@@ -1847,7 +1809,6 @@
 
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
 
-[Raspberry Pi OS Update Improves Chrome, VLC, SD Card Support](https://amp-tomshardware-com.cdn.ampproject.org/v/s/amp.tomshardware.com/news/raspberry-pi-raspbian-2019-04-08-update,39037.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomshardware.com%2Fnews%2Fraspberry-pi-raspbian-2019-04-08-update%2C39037.html)
 
 [Google turns your Android phone into a security key – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/10/google-turns-your-android-phone-into-a-security-key/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F10%2Fgoogle-turns-your-android-phone-into-a-security-key%2F)
 
@@ -1869,7 +1830,6 @@
 
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
 
-[PiSugar Is a Compact Battery Solution Designed Specifically for the Raspberry Pi Zero](https://blog.hackster.io/pisugar-is-a-compact-battery-solution-designed-specifically-for-the-raspberry-pi-zero-416b503732e6)
 
 [Linux Server Hardening Using Idempotency with Ansible: Part 2 | Linux.com | The source for Linux information](https://www.linux.com/blog/linux-server-hardening-using-idempotency-ansible-part-2)
 
@@ -1965,7 +1925,6 @@
 
 [Level up command-line playgrounds with WebAssembly | Opensource.com](https://opensource.com/article/19/4/command-line-playgrounds-webassembly)
 
-[Build a SatNOGS ground station with a Raspberry Pi 3B+ | HackSpace magazine #18 - Raspberry Pi](https://www.raspberrypi.org/blog/build-a-satnogs-ground-station-raspberry-pi-3b-hackspace-magazine-18/)
 
 [Chapter 1: Finding words, phrases, names and concepts · Advanced NLP with spaCy](https://course.spacy.io/chapter1)
 
@@ -2111,7 +2070,6 @@
 
 [Build a Neural Network with Python | Enlight](https://enlight.nyc/projects/neural-network/)
 
-[Building a Raspberry Pi Rover: My Big Fat Linux Weekend | Hackaday](https://hackaday.com/2019/05/09/building-a-raspberry-pi-rover-my-big-fat-linux-weekend/)
 
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
 
@@ -2190,7 +2148,6 @@
 
 [Set up a static network connection in Linux | Opensource.com](https://opensource.com/article/19/5/set-static-network-connection-linux)
 
-[Build your own animatronic GLaDOS - Raspberry Pi](https://www.raspberrypi.org/blog/build-your-own-animatronic-glados/)
 
 [Microsoft’s next major Windows 10 update is now available - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/5/21/18634343/microsoft-windows-10-may-2019-download-install-release?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F5%2F21%2F18634343%2Fmicrosoft-windows-10-may-2019-download-install-release)
 
@@ -2222,7 +2179,6 @@
 
 [Monitoring Linux host metrics with the Node Exporter | Prometheus](https://prometheus.io/docs/guides/node-exporter/)
 
-[New Part Day: A 64-Bit RISC-V CPU In Raspberry Pi Hat Form | Hackaday](https://hackaday.com/2019/05/24/new-part-day-a-64-bit-risc-v-cpu-in-raspberry-pi-hat-form/)
 
 [A selection of Datasets for Machine learning / Habr](https://m.habr.com/en/post/452740/)
 
@@ -2303,13 +2259,11 @@
 
 [How to Build a DIY Racing Drone or Quadcopter | What You Need to Know | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/cool-tech/how-to-build-diy-racing-drone/?amp_js_v=a2&amp_gsa=1&amp#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcool-tech%2Fhow-to-build-diy-racing-drone%2F)
 
-[Kubernetes Cluster on Raspberry Pi 3&#39;s - InfoSiftr | Docker Training, Containerization](https://infosiftr.com/2018/12/20/kubernetes-cluster-raspberry-pi-3s/)
 
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
 
-[shirokunet/RCVehiclePy: Control steering and throttle of a R/C car via MQTT with Raspberry Pi 3B](https://github.com/shirokunet/RCVehiclePy)
 
 [Bird Cruiser unveiled as moped-style electric bicycle with seating for two](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/06/04/bird-cruiser-electric-bicycle-moped/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F06%2F04%2Fbird-cruiser-electric-bicycle-moped%2F)
 
@@ -2317,7 +2271,6 @@
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
-[The Khadas VIM3, the Amlogic S922X powered Raspberry Pi competitor, is launching on June 24 for US$69.99 - NotebookCheck.net News](https://www.notebookcheck.net/The-Khadas-VIM3-the-Amlogic-S922X-powered-Raspberry-Pi-competitor-is-launching-on-June-24-for-US-69-99.423049.0.html)
 
 [How to Perform Face Recognition With VGGFace2 in Keras](https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/)
 
@@ -2386,7 +2339,6 @@
 
 [Amazon launches a credit card for the &#39;underbanked&#39; with bad credit](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/06/10/amazon-launches-a-credit-card-for-the-underbanked-with-bad-credit.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F06%2F10%2Famazon-launches-a-credit-card-for-the-underbanked-with-bad-credit.html)
 
-[Google Releases Coral Environmental Sensor Board for the Raspberry Pi](https://blog.hackster.io/google-releases-coral-environmental-sensor-board-for-the-raspberry-pi-d63245510fbb)
 
 [AI deepfakes are now as simple as typing whatever you want your subject to say - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F10%2F18659432%2Fdeepfake-ai-fakes-tech-edit-video-by-typing-new-words)
 
@@ -2414,13 +2366,11 @@
 
 [Introducing Lightbeam: An Optimising Streaming WebAssembly Compiler](https://www-parity-io.cdn.ampproject.org/v/s/www.parity.io/lightbeam-webassembly-compiler/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.parity.io%2Flightbeam-webassembly-compiler%2F)
 
-[Deep Learning with Raspberry Pi Explored (Part 2) - Hackster.io](https://www.hackster.io/tinus-treuzel/deep-learning-with-raspberry-pi-explored-part-2-b8e7cc)
 
 [The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)
 
 [APRS: Robust Wireless in an Age of IoT - News - SparkFun Electronics](https://www.sparkfun.com/news/2944)
 
-[Visual Studio Code Remote Development over SSH to a Raspberry Pi is butter - Scott Hanselman](https://www.hanselman.com/blog/VisualStudioCodeRemoteDevelopmentOverSSHToARaspberryPiIsButter.aspx)
 
 [Introduction to Multilayer Neural Networks with TensorFlow’s Keras API](https://towardsdatascience.com/introduction-to-multilayer-neural-networks-with-tensorflows-keras-api-abf4f813959)
 
@@ -2489,7 +2439,6 @@
 
 [attactics[dot]org](https://attactics.org/)
 
-[$35 Raspberry Pi 4 announced with 4K support and up to 4GB of RAM - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/circuitbreaker/2019/6/24/18715211/raspberry-pi-4-release-date-news-features-4gb-ram-dual-dual-hdmi-gigabit-ethernet?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2019%2F6%2F24%2F18715211%2Fraspberry-pi-4-release-date-news-features-4gb-ram-dual-dual-hdmi-gigabit-ethernet)
 
 [Kubernetes ingress-nginx troubleshooting made easy with kubectl plugins](https://medium.com/@awkwardferny/kubernetes-ingress-nginx-troubleshooting-made-easy-with-kubectl-plugins-dbc8fdff35fd)
 
