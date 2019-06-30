@@ -19,7 +19,6 @@
 
 [Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
 
-[Monitoring containerized microservices with a centralized logging architecture.](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 
 [Ask HN: What&#39;s a starting point for learning how to write programming languages? | Hacker News](https://news.ycombinator.com/item?id=17965917)
 
@@ -144,7 +143,6 @@
 [What’s new in Angular Version 7 | InfoWorld](https://www.infoworld.com/article/3213244/angular/whats-new-in-angular-version-7-release-candidate-arrives.html)
 
 
-[Conquering the Microservices Dependency Hell at Postman, with Postman (Part 1 — Introduction)](https://medium.com/postman-engineering/conquering-the-microservices-dependency-hell-at-postman-with-postman-part-1-introduction-a1ae019bb934)
 
 [The success of Go heralds that of Rust – George Hosu – Medium](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
 
@@ -354,7 +352,6 @@
 
 [Modern Front End: React, GraphQL, VR, WebAssembly with Adam Conrad - Software Engineering Daily](https://softwareengineeringdaily.com/2018/12/20/modern-front-end-react-graphql-vr-webassembly-with-adam-conrad/)
 
-[Enhancements to Distributed Tracing in Microservices - DZone Microservices](https://dzone.com/articles/enhancements-to-distributed-tracing-in-microservic)
 
 [Text Summarization Using Keras Models – Hacker Noon](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)
 
@@ -438,7 +435,6 @@
 
 [The Rust Programming Language](https://doc.rust-lang.org/1.5.0/book/)
 
-[How RabbitMQ Works and RabbitMQ Core Concepts - DZone Microservices](https://dzone.com/articles/how-rabbitmq-works-and-rabbitmq-core-concepts-1)
 
 [Three creepy, yet useful robots for rescue missions and deep space travel](https://www-teslarati-com.cdn.ampproject.org/v/s/www.teslarati.com/three-creepy-useful-robots-rescue-missions-deep-space-travel/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.teslarati.com%2Fthree-creepy-useful-robots-rescue-missions-deep-space-travel%2F)
 
@@ -537,7 +533,6 @@
 
 [Apple Music UI in Flutter – aidxn – Medium](https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe)
 
-[It&#39;s Raining Repos: The Microservices Repo Explosion and GitLab - DZone Microservices](https://dzone.com/articles/its-raining-repos-the-microservices-repo-explosion)
 
 [How to securely erase hard drives (HDDs) and solid state drives (SSDs) | ZDNet](https://www.zdnet.com/article/how-to-securely-erase-hard-drives-hdds-and-solid-state-drives-ssds/#ftag=CAD-00-10aag7f)
 
@@ -648,7 +643,6 @@
 
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
-[Migrating to Microservices and Event-Sourcing: the Dos and Dont’s](https://hackernoon.com/migrating-to-microservices-and-event-sourcing-the-dos-and-donts-195153c7487d)
 
 [Going serverless with React and AWS Amplify: Development Environment Set up - DEV Community 👩‍💻👨‍💻](https://dev.to/pmbanugo/going-serverless-with-react-and-aws-amplify-development-environment-set-up-43hj)
 
@@ -1040,7 +1034,6 @@
 
 [This Chrome extension lets you learn a new language by watching Netflix - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/2/12/18220289/language-learning-netflix-chrome-extension-two-subtitles?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F2%2F12%2F18220289%2Flanguage-learning-netflix-chrome-extension-two-subtitles)
 
-[A Better Way of Visualizing Microservice Architecture](https://articles.microservices.com/an-alternative-way-of-visualizing-microservice-architecture-837cbee575c1)
 
 
 [WebGL 2.0—Why It&#39;s the Path to Stable Open Standards-based 3D Web Graphics | Architosh](https://architosh.com/2019/02/webgl-2-0-why-its-the-path-to-stable-open-standards-based-3d-web-graphics/)
@@ -1422,7 +1415,6 @@
 
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
 
-[Reducing Microservices Architecture Complexity with Istio and Kubernetes](https://www.infoq.com/presentations/istio-microservices)
 
 
 [10 Docker Image Security Best Practices - docker](https://www.reddit.com/r/docker/comments/azssj2/10_docker_image_security_best_practices/)
@@ -1632,7 +1624,6 @@
 
 [Category: 3D Printable | Blend Swap](https://www.blendswap.com/terms/category/3d-printable/page:11)
 
-[Microservices Mesh — Part II — Istio Basics – DevOpsLinks – Medium](https://medium.com/devopslinks/microservices-mesh-part-ii-istio-basics-b9c343594a05)
 
 [An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
 
@@ -1934,7 +1925,6 @@
 
 [Deep Dream with TensorFlow: A Practical guide to build your first Deep Dream Experience](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479)
 
-[Istio Observability with Go, gRPC, and Protocol Buffers-based Microservices - docker](https://www.reddit.com/r/docker/comments/bey0to/istio_observability_with_go_grpc_and_protocol/)
 
 [A Dummy’s Guide to Distributed Queues – freeCodeCamp.org](https://medium.freecodecamp.org/a-dummys-guide-to-distributed-queues-2cd358d83780)
 
