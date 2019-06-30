@@ -1828,7 +1828,6 @@
 
 [Play Songs(MP3) With Arduino Using PWM on Speaker or Flyback Transformer: 6 Steps (with Pictures)](https://www.instructables.com/id/Play-SongsMP3-With-Arduino-Using-PWM-on-Speaker-or/)
 
-[Ethereum 2.0 Not Delayed &quot;By Even a Single Day&quot; Says Vitalik Buterin](https://www.trustnodes.com/2019/04/13/ethereum-2-0-not-delayed-by-even-a-single-day-says-vitalik-buterin)
 
 [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) — Smashing Magazine](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=162)
 
@@ -1858,7 +1857,6 @@
 
 [Using Gitlab’s CI for Periodic Data Mining – Towards Data Science](https://towardsdatascience.com/using-gitlabs-ci-for-periodic-data-mining-b3cc314ecd85)
 
-[Create an Ethereum Dapp with React and Docker – Hacker Noon](https://hackernoon.com/create-an-ethereum-dapp-with-react-and-docker-211223005f17)
 
 [The discrete-time physics hiding inside our continuous-time world](https://m.phys.org/news/2019-04-discrete-time-physics-continuous-time-world.html)
 
@@ -1962,7 +1960,6 @@
 
 [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
 
-[Middleware and Dapp Project Ideas · ethereum/wiki Wiki](https://github.com/ethereum/wiki/wiki/Middleware-and-Dapp-Project-Ideas)
 
 [Announcing WAPM: The WebAssembly Package Manager – Wasmer – Medium](https://medium.com/wasmer/announcing-wapm-the-webassembly-package-manager-18d52fae0eea)
 
@@ -2448,7 +2445,6 @@
 
 [Introducing kepler.gl for Jupyter - vis.gl - Medium](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf)
 
-[Start and Deploy your Own Fully Synced Ethereum Node in Under 10 Minutes](https://hackernoon.com/start-and-deploy-your-own-fully-synced-ethereum-node-in-under-10-minutes-bf2e6b512cce)
 
 [9 Tools for Monitoring Internet Bandwidth and Speed in Linux](https://itsfoss.com/network-speed-monitor-linux/)
 
