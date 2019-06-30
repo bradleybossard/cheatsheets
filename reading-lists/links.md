@@ -1348,7 +1348,6 @@
 
 [Chromium OS Docs - Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Can-I-run-my-own-VM_kernel)
 
-[OpenAI launches Neural MMO, a massive reinforcement learning simulator | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/03/04/openai-launches-neural-mmo-a-massive-reinforcement-learning-simulator/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F03%2F04%2Fopenai-launches-neural-mmo-a-massive-reinforcement-learning-simulator%2F)
 
 [Build your own Robust Deep Learning Environment in Minutes](https://towardsdatascience.com/build-your-own-robust-deep-learning-environment-in-minutes-354cf140a5a6)
 
@@ -1866,7 +1865,6 @@
 
 [How to Design for Injection Molding | Cad Crowd](https://www-cadcrowd-com.cdn.ampproject.org/v/s/www.cadcrowd.com/blog/how-to-design-for-injection-molding/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cadcrowd.com%2Fblog%2Fhow-to-design-for-injection-molding%2F)
 
-[Spinning Up in Deep RL - Workshop Review](https://blog.openai.com/spinning-up-in-deep-rl-workshop-review/)
 
 [Building a realtime NLP pipeline using Kafka and spaCy](https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702)
 
@@ -2070,7 +2068,6 @@
 
 [How to use SSHFS to Mount Remote Directories over SSH | Linuxize](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
 
-[OpenAi Taxi-v2 environment: Q-learning](https://cihansoylu.github.io/openai-taxi-v2-environment-q-learning.html)
 
 [Full Stack Deep Learning Steps and Tools – Towards Data Science](https://towardsdatascience.com/full-stack-deep-learning-steps-and-tools-a21eda6227b1)
 
@@ -2371,7 +2368,6 @@
 
 [kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator)
 
-[Extending OpenAI Gym environments with Wrappers and Monitors [Tutorial] | Packt Hub](https://hub.packtpub.com/openai-gym-environments-wrappers-and-monitors-tutorial/amp/)
 
 [LFS and Standards](http://www.linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
 
@@ -2476,7 +2472,6 @@
 
 [3 Great Additions for your Jupyter Notebooks – Towards Data Science](https://towardsdatascience.com/three-great-additions-for-your-jupyter-notebooks-cd7373b00e96)
 
-[openai/orrb: OpenAI Remote Rendering Backend](https://github.com/openai/orrb)
 
 [Fuchsia.dev: Google launches official site about Fuchsia OS - 9to5Google](https://9to5google.com/2019/06/28/google-launches-fuchsia-dev/)
 
