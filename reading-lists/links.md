@@ -376,7 +376,6 @@
 
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
 
-[Behind the Scenes: Fluffy 3D Boy - BlenderNation](https://www.blendernation.com/2019/01/31/behind-the-scenes-fluffy-3d-boy/)
 
 [Watch YouTube videos at the Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-youtube-dl)
 
@@ -957,7 +956,6 @@
 
 [The Linux command-line cheat sheet | Network World](https://www.networkworld.com/article/3337516/linux/the-linux-command-line-cheat-sheet.html)
 
-[FluidDesigner is a Blender Application Template for Simplifying Complex 3D Designs | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/4/fluiddesigner-blender-application-template-simplifying-complex-3d-designs/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F4%2Ffluiddesigner-blender-application-template-simplifying-complex-3d-designs%2F)
 
 [How I used NLP (Spacy) to screen Data Science Resumes](https://www.kdnuggets.com/2019/02/nlp-spacy-data-science-resumes.html)
 
@@ -1156,7 +1154,6 @@
 
 [Wi-Fi Jammer From an ESP8266 | WiFi Jammer/ Deauther: 6 Steps](https://www.instructables.com/id/Wi-Fi-Jammer-From-an-ESP8266-WiFi-Jammer-Deauther/)
 
-[Blender 3D Models – 5 Best Sites to Look for Free Designs | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/blender-3d-models-5-best-sites-to-look-for-free-designs/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fblender-3d-models-5-best-sites-to-look-for-free-designs%2F)
 
 [New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
 
@@ -1277,7 +1274,6 @@
 
 [A Raspberry Pi Grimoire For The Command Line Wizard | Hackaday](https://hackaday.com/2019/02/25/a-raspberry-pi-grimoire-for-the-command-line-wizard/)
 
-[Create a 3D Movie Intro in Blender with EEVEE - BlenderNation](https://www.blendernation.com/2019/02/26/create-a-3d-movie-intro-in-blender-with-eevee/)
 
 [Visually build and modify an OpenCV Recipe - computervision](https://www.reddit.com/r/computervision/comments/auuwq3/visually_build_and_modify_an_opencv_recipe/)
 
@@ -1412,7 +1408,6 @@
 
 [Pine H64 Model B: The updated Raspberry Pi alternative that starts at US$25 - NotebookCheck.net News](https://www.notebookcheck.net/Pine-H64-Model-B-The-updated-Raspberry-Pi-alternative-that-starts-at-US-25.412675.0.html)
 
-[Photoscanned Rocks - blender](https://www.reddit.com/r/blender/comments/axo78u/photoscanned_rocks/)
 
 [3D pens: the best you can buy in 2019 | Creative Bloq](https://www.creativebloq.com/buying-guides/best-3d-pens)
 
@@ -1432,11 +1427,9 @@
 
 [Advanced SSH Cheat Sheet | Opensource.com](https://opensource.com/downloads/advanced-ssh-cheat-sheet?intcmp=7016000000127cYAAQ)
 
-[CrowdSim3D - a Blender crowd simulation add-on](https://www.crowdsim3d.com/)
 
 [React — Redux workflow in 4 steps — Beginner Friendly Guide](https://hackernoon.com/https-medium-com-heypb-react-redux-workflow-in-4-steps-beginner-friendly-guide-4aea9d56f5bd)
 
-[How to melt your GPU, again: Simulated fur in Blender - Simulated](https://www.reddit.com/r/Simulated/comments/aypl1i/how_to_melt_your_gpu_again_simulated_fur_in/)
 
 [RFID Scanner With Raspberry Pi #piday #raspberrypi @Raspberry_Pi « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/03/08/rfid-scanner-with-raspberry-pi-piday-raspberrypi-raspberry_pi/)
 
@@ -1484,7 +1477,6 @@
 
 [The What and the Why of the Cluster API - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/)
 
-[Free Download: Terramux - Procedural Planet Shader for Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/03/15/free-download-terramux-procedural-planet-shader-for-blender-2-8/)
 
 [DNS-Shell - An Interactive Shell Over DNS Channel - KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/2019/03/dns-shell-interactive-shell-over-dns.html?m=1)
 
@@ -1498,11 +1490,9 @@
 
 [TL;DR AWS — Open Distro Elasticsearch – Mayank Patel – Medium](https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a)
 
-[From Blender to Web3D with ArtisGL 4.0.3 - BlenderNation](https://www.blendernation.com/2019/03/15/from-blender-to-web3d-with-artisgl-4-0-3/)
 
 [ArtisGL 3D Publisher-make your 3D models alive](https://artisgl.com/)
 
-[Behind the Scenes: Multi-purpose Raygun - BlenderNation](https://www.blendernation.com/2019/03/15/behind-the-scenes-multi-purpose-raygun/)
 
 [Chasing Linux Kernel Archives | Linux Journal](https://www.linuxjournal.com/content/chasing-archives)
 
@@ -1516,7 +1506,6 @@
 
 [Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
 
-[Dig - blender](https://www.reddit.com/r/blender/comments/b1fyxr/dig/)
 
 [Natural Language Processing’s Crazy Busy Start to 2019 | Slator](https://slator.com/technology/natural-language-processings-crazy-busy-start-to-2019/)
 
@@ -1672,9 +1661,7 @@
 
 [felixse/FluentTerminal: A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
 
-[Lego Hogwarts - 71043, LDD and Blender 2.8 - blender](https://www.reddit.com/r/blender/comments/b4n4fe/lego_hogwarts_71043_ldd_and_blender_28/)
 
-[Blender 3D](https://www.reddit.com/r/blender/)
 
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
 
@@ -1857,7 +1844,6 @@
 
 [How to Load Large Datasets From Directories for Deep Learning with Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/)
 
-[RetopoFlow - Retopology Tools for Blender - Blender MarketRetopoFlow - Retopology Tools for Blender - Blender Market](https://blendermarket.com/products/retopoflow?utm_source=network&utm_medium=banner&utm_content=retopoflow300x250)
 
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
 
@@ -2079,7 +2065,6 @@
 
 [Control ESP32 with Command Line Interface Over the Internet - Hackster.io](https://www.hackster.io/donowak/control-esp32-with-command-line-interface-over-the-internet-fa9634)
 
-[Verge3D 2.12 for Blender Released - Soft8Soft](https://www.soft8soft.com/verge3d-2-12-for-blender-released/)
 
 [Microsoft unveils Windows Terminal, a new command line app for Windows - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/5/6/18527870/microsoft-windows-terminal-command-line-tool?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F5%2F6%2F18527870%2Fmicrosoft-windows-terminal-command-line-tool)
 
@@ -2099,7 +2084,6 @@
 
 [Implement dynamic rendering with Rendertron](https://codelabs.developers.google.com/codelabs/dynamic-rendering/#0)
 
-[Differences of Blender 2.79 &amp; 2.8 - Quicktips #02 - BlenderNation](https://www.blendernation.com/2019/05/08/differences-of-blender-2-79-2-8-quicktips-02/)
 
 [Distributed consensus revised – Part II – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F05%2F08%2Fdistributed-consensus-revised-part-ii%2F)
 
@@ -2193,7 +2177,6 @@
 
 [NodeMCU ESP8266 OTA (Over-the-Air) Update Programming using Arduino IDE](https://circuitdigest.com/microcontroller-projects/esp8266-ota-update-programming-using-arduino-ide)
 
-[Course: &#39;Learn to make your own Blender&#39; [$] - BlenderNation](https://www.blendernation.com/2019/05/19/learn-to-make-your-own-blender/)
 
 [ESP8266 to ESP8266 Communication - Hackster.io](https://www.hackster.io/hammadiqbal12/esp8266-to-esp8266-communication-bf96ce)
 
@@ -2273,7 +2256,6 @@
 
 [Supercharging Vim: Blazing fast search and global replace · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-blazing-fast-search/)
 
-[5 cool camera tricks in Blender 2.80 - BlenderNation](https://www.blendernation.com/2019/05/30/5-cool-camera-tricks-in-blender-2-80/)
 
 [» Longer Orange 30 Affordable Resin LCD 3D Printer is Live on Kickstarter](https://3dprint.com/245365/longer-orange-30-affordable-resin-lcd-3d-printer-is-live-on-kickstarter/)
 
@@ -2312,7 +2294,6 @@
 
 [Review of Zonestar Z6 Low-cost 3D Printer](https://www-cnx--software-com.cdn.ampproject.org/v/s/www.cnx-software.com/2019/06/02/zonestar-z6-review-low-cost-3d-printer/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnx-software.com%2F2019%2F06%2F02%2Fzonestar-z6-review-low-cost-3d-printer%2F)
 
-[How to Create a 3D Logo Transition in Blender 2.8 (Eevee) - BlenderNation](https://www.blendernation.com/2019/06/02/how-to-create-a-3d-logo-transition-in-blender-2-8-eevee/)
 
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
@@ -2400,7 +2381,6 @@
 
 [Statically Linked Rust Executable running on Linux Kernel - rust](https://www.reddit.com/r/rust/comments/bylizk/statically_linked_rust_executable_running_on/)
 
-[Photorealistic rendering with Radiance - BlenderNation](https://www.blendernation.com/2019/06/09/photorealistic-rendering-with-radiance/)
 
 [Machine Learning Sentiment Analysis And Word Embeddings Python Keras Example](https://towardsdatascience.com/machine-learning-sentiment-analysis-and-word-embeddings-python-keras-example-4dfb93c5a6cf)
 
@@ -2479,7 +2459,6 @@
 
 [What is PPA? Everything You Need to Know About PPA in Linux](https://itsfoss.com/ppa-guide/)
 
-[Toonkit for Cycles - Blender Market](https://blendermarket.com/products/toonkit-for-cycles?ref=2)
 
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
 
@@ -2489,7 +2468,6 @@
 
 [Watch: Algorithm lets people walk right out of images - Futurity](https://www.futurity.org/photo-wake-up-moving-images-2084262-2/)
 
-[Timelapse 2d platform level in Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/06/19/timelapse-2d-platform-level-in-blender-2-8/)
 
 [Building Debian images for Le Potato and OrangePi with debos](https://www.collabora.com/news-and-blog/blog/2019/06/18/building-debian-images-lepotato-orangepi-with-debos/)
 
