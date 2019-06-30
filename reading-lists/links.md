@@ -1,5 +1,3 @@
-[]()
-
 [How to configure zsh](https://zserge.com/blog/terminal.html)
 
 [Waypipe Offers A Transparent Wayland Proxy For Running Programs Over The Network - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Wayland-Proxy)
@@ -15,7 +13,6 @@
 
 [PC Gamer Top 100: the greatest games you can play today | PC Gamer](https://www.pcgamer.com/the-pc-gamer-top-100-new/)
 
-[Ampler Curt e-bike review: electric doesn’t have to mean big and ugly - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2018/9/6/17817064/ampler-curt-electric-bike-review?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2018%2F9%2F6%2F17817064%2Fampler-curt-electric-bike-review)
 
 [Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
 
@@ -77,7 +74,6 @@
 [Swap space on Linux systems: A primer | Opensource.com](https://opensource.com/article/18/9/swap-space-linux-systems)
 
 
-[Bikes &amp; Accessories](http://www.anglelakecycle.com/site/4b9894f5eb4941b3a6cfec24a703d976/default?url=http%3A%2F%2Fanglelakecycle.com%2FBikes___Accessories.html#2749)
 
 [Development and Debugging with Kubernetes – ITNEXT](https://itnext.io/development-and-debugging-with-kubernetes-296bb60d9549)
 
@@ -285,7 +281,6 @@
 
 [Udemy Free Coupons, 100% Off Udemy Coupons December 2018](https://couponscorpion.com/)
 
-[Pesu Volador Is A Lightweight Electric Mountain Bike With The Fastest Motor Response Time](https://www.forbes.com/sites/bensin/2017/10/27/pesu-volador-is-a-lightweight-electric-mountain-bike-with-the-fastest-motor-response-time/amp/)
 
 [intel-machine-learning-101 · master · Bradley Bossard / intel-ai-academy · GitLab](https://gitlab.com/bradleybossard/intel-ai-academy/tree/master/intel-machine-learning-101)
 
@@ -338,7 +333,6 @@
 
 [First round of Amazon Echo Auto devices are shipping - CNET](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/first-round-of-amazon-echo-auto-devices-are-shipping/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Ffirst-round-of-amazon-echo-auto-devices-are-shipping%2F)
 
-[Oi bike bell is back, and it&#39;s better](https://newatlas.com/oi-luxe-bicycle-bell/57764/)
 
 [ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
 
@@ -494,7 +488,6 @@
 
 [Activation Functions in Neural Networks – Towards Data Science](https://towardsdatascience.com/activation-functions-in-neural-networks-83ff7f46a6bd)
 
-[7 Awesome Electronic Bikes That Will Have You Zooming Across the City in 2019](https://interestingengineering.com/7-awesome-electronic-bikes-that-will-have-you-zooming-across-the-city-in-2019)
 
 [This neural network can swap sheep for giraffe, jeans for skirts | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/01/01/this-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F01%2F01%2Fthis-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts%2F)
 
@@ -692,7 +685,6 @@
 
 [Build a Blog Using Express.js and React in 30 Minutes ― Scotch](https://scotch-io.cdn.ampproject.org/v/s/scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fscotch.io%2Ftutorials%2Fbuild-a-blog-using-expressjs-and-react-in-30-minutes)
 
-[Electric Bicycle Motor | Electric Bike Parts](https://www.bicycling.com/bikes-gear/a25836248/electric-bike-motor/)
 
 [3D Printed Holo Clock from mectok on Tindie](https://www.tindie.com/products/ekaggrat/3d-printed-holo-clock/)
 
@@ -916,7 +908,6 @@
 
 [How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
 
-[Turn any bicycle into a stationary exercise bike with this awesome accessory – BGR](https://bgr.com/2019/02/04/bike-trainer-stand-on-amazon/)
 
 [Learn SQL for Data Science – Kanoki](https://kanoki.org/2019/02/02/learn-sql-for-data-science/)
 
@@ -1011,7 +1002,6 @@
 
 [WATCH: High-speed metal 3D printing in new Digital Alloys video - 3D Printing Industry](https://3dprintingindustry.com/news/watch-high-speed-metal-3d-printing-in-new-digital-alloys-video-148736/)
 
-[Top 7 Electric Hunting Bikes of 2019 | EvNerds](https://evnerds-com.cdn.ampproject.org/v/s/evnerds.com/ev-album/your-ebike/top-7-electric-hunting-bikes-of-2019/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fevnerds.com%2Fev-album%2Fyour-ebike%2Ftop-7-electric-hunting-bikes-of-2019%2F)
 
 [Node.js TypeScript #1. Modules, process arguments and File System](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
 
@@ -1090,7 +1080,6 @@
 
 [Command Line Utilities… in the Cloud? | Hackaday](https://hackaday.com/2019/02/17/command-line-utilities-in-the-cloud/)
 
-[Regent Motorcycles are Old School Electric Motorbike Company from Sweden | EvNerds](https://evnerds-com.cdn.ampproject.org/v/s/evnerds.com/electric-vehicles/e-motorcycle-news/regent-motorcycles-are-old-school-electric-motorbike-company-from-sweden/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fevnerds.com%2Felectric-vehicles%2Fe-motorcycle-news%2Fregent-motorcycles-are-old-school-electric-motorbike-company-from-sweden%2F)
 
 [How to Name Your Smarthome Devices for Better Voice Control](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/404609/how-to-name-your-smarthome-devices-for-better-voice-control/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F404609%2Fhow-to-name-your-smarthome-devices-for-better-voice-control%2F)
 
@@ -1681,7 +1670,6 @@
 
 [Deep Learning from Scratch to GPU - 11 - A Simple Neural Network Inference API](https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-11-A-Simple-Neural-Network-API)
 
-[Comments of the Week: ODOT bait-and-switch, a lesson for bike advocates, and jerks in River View - BikePortland.org](https://bikeportland-org.cdn.ampproject.org/v/s/bikeportland.org/2019/03/29/comments-of-the-week-rose-quarter-bait-and-switch-a-lesson-for-bike-advocates-and-jerks-in-river-view-297787/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fbikeportland.org%2F2019%2F03%2F29%2Fcomments-of-the-week-rose-quarter-bait-and-switch-a-lesson-for-bike-advocates-and-jerks-in-river-view-297787)
 
 [A warm welcome to DNS](https://powerdns.org/hello-dns/)
 
@@ -1724,7 +1712,6 @@
 
 [Add Authentication and Authorization to Next.js 8 Serverless Apps using JWT and GraphQL](https://blog.hasura.io/add-authentication-and-authorization-to-next-js-8-serverless-apps-using-jwt-and-graphql/)
 
-[The Little Hub That Could : Build An Electric Wheelbarrow Out Of An Ebike Geared Hub Motor For &lt;$300 | ElectricBike-Blog.com](https://electricbike-blog.com/2019/04/03/the-little-hub-that-could-build-a-wheelbarrow-out-of-an-ebike-geared-hub-motor-for-300/)
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
 
@@ -2045,7 +2032,7 @@
 
 [Automate NPM packages security fixes with recurring tasks on CI - DEV Community 👩‍💻👨‍💻](https://dev.to/alex_barashkov/automate-npm-packages-security-fixes-with-recurring-tasks-on-ci-pi1)
 
-[Linux 2FA: Secure SSH login with Google Authenticator and / or Yubikey](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
+[Linux 2FA: Secure SSH login with Google Authenticator and / or Yubi key](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
 
 [rastating/shiva: An Ansible playbook to provision a host for penetration testing and CTF challenges](https://github.com/rastating/shiva)
 
@@ -2477,13 +2464,7 @@
 
 [Confused? DJI Spark vs Mavic - which drone is the best value? [2019]](https://www.dronesbuy.net/dji-spark-vs-mavic-pro/)
 
-[dji spark - Google Search](https://www.google.com/search?q=dji+spark&oq=dji+spark&aqs=chrome..69i57j69i60l2.5177j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8#scso=_L3QXXb-LG6er0PEPqrKGcA63:0.42857360839844.04762268066406.85714721679688.047607421875.047607421875.6190490722656.28570556640625.1904907226562.6666870117188.8571166992188.5238037109375.2380981445312.8095092773438.047607421875.6190185546875.8571166992188.952392578125.90478515625.3333435058594.80950927734375.4761962890625.61904907226562.61904907226562.7142791748047.1904754638672.047618865966797)
-
 [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling: 8601405019745: Computer Science Books @ Amazon.com](https://www.amazon.com/gp/product/1118530802/)
-
-[TypeScript: Upgrades and Features](https://www.lynda.com/Web-tutorials/TypeScript-Upgrades-Features/718673-2.html)
-
-[InfoSec Resources - IT Security Training &amp; Resources by InfoSec Institute](https://resources.infosecinstitute.com/)
 
 [Create a virtual machine with libvirt tools](https://www.lynda.com/Linux-tutorials/Create-virtual-machine-libvirt-tools/633864/671172-4.html?autoplay=true)
 
