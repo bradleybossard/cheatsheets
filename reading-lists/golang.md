@@ -57,3 +57,5 @@
 [deckarep/golang-set: A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.](https://github.com/deckarep/golang-set)
 
 [fogleman/ln: 3D line art engine.](https://github.com/fogleman/ln)
+
+[Working with CSV in GO – Barun Thapa – Medium](https://medium.com/@barunthapa/working-with-csv-in-go-50a4f540e623)
