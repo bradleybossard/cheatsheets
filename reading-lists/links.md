@@ -255,7 +255,6 @@
 
 [Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
 
-[Vulnerability Mapping with Kali Linux](https://resources.infosecinstitute.com/vulnerability-mapping-with-kali-linux/#gref)
 
 [Top 9 Free Phishing Simulators [Updated 2018]](https://resources.infosecinstitute.com/top-9-free-phishing-simulators/)
 
@@ -1136,7 +1135,6 @@
 
 [How to Create a Fake 3D Image Effect with WebGL | Codrops](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/)
 
-[Mac for Hackers: How to Install Kali Linux as a Virtual Machine « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-kali-linux-as-virtual-machine-0174250/)
 
 [Distributed Tracing, OpenTracing and Elastic APM | Elastic](https://www.elastic.co/blog/distributed-tracing-opentracing-and-elastic-apm)
 
@@ -1748,7 +1746,6 @@
 
 [Run a server with Git | Opensource.com](https://opensource.com/article/19/4/server-administration-git)
 
-[Find Username Over 75 Social Networks using Userrecon tool on Kali Linux - security](https://www.reddit.com/r/security/comments/ba2tpg/find_username_over_75_social_networks_using/)
 
 [How To Set Up ESLint, TypeScript, Prettier with Create React App - DEV Community 👩‍💻👨‍💻](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)
 
