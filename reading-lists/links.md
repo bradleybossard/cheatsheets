@@ -167,7 +167,6 @@
 
 [Your First Open-Source Pull Request: a Walkthrough - DEV Community 👩‍💻👨‍💻](https://dev.to/healeycodes/your-first-open-source-pull-request-a-walkthrough-1omf)
 
-[UVify&#39;s Oori is a 60MPH micro-drone that leaves others in the dust](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/01/08/uvify-oori-60mph-micro-drone/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F01%2F08%2Fuvify-oori-60mph-micro-drone%2F)
 
 [Introduction](http://www.pbr-book.org/3ed-2018/Introduction.html)
 
@@ -224,14 +223,11 @@
 
 [How Road Redemption Redefines Motorcycle Combat, Out Today on PS4 – PlayStation.Blog](https://blog.us.playstation.com/2018/11/06/how-road-redemption-redefines-motorcycle-combat-out-today-on-ps4/)
 
-[How to Get Started with Drone Racing](https://amp.tomsguide.com/us/how-to-start-drone-racing,review-3646.html)
 
-[How to Get Started with Drone Racing and Mini Quad FPV - Oscar Liang](https://oscarliang.com/mini-quad-racing-guide/)
 
 [Choosing a printer for Linux | Opensource.com](https://opensource.com/article/18/11/choosing-printer-linux)
 
 
-[This Cheap Drone Is The Best Selling Product In the United States, Here&#39;s Why It&#39;s Gone Viral.](https://simplediscountfinder.com/drone-discount/?c=Germany&sxid=blze7nv4hcza&i=drone-marbel&OutbrainClickId=v1-0abbdf505a4fb16cd00473dd65b756fe-009fef646178069f635778106eadd37a64-gazgindegy4dollbgiygkljumm2dkllcgu2deljwgjrtmnjsgntgcylfmm&pid=The+Verge+%28Vox+Media%29%7C%7C007e44ce3be72024fea1906c27ed7d6324&scid=www.theverge.com%7C%7C005c87eaf63966a2e74846256516cf5b99&cw=00f7c984aabefae1756c77a506dadd43cd%7C%7C005c87eaf63966a2e74846256516cf5b99&cid=00f7c984aabefae1756c77a506dadd43cd&aid=00f7c984aabefae1756c77a506dadd43cd%7C%7C00c7908a6eb4115404e67ef3b690b37b92&t=This+Cheap+Drone+Might+Be+The+Best+Selling+Gift+In+2018&l=news&a=This+Cheap+Drone+Might+Be+The+Best+Selling+Gift+In+2018%7Cdrone-marbel)
 
 [Family Link For Chromebooks Hits The Beta Channel And It’s AWESOME](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/family-link-chromebook-supervised-users-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Ffamily-link-chromebook-supervised-users-android)
 
@@ -504,7 +500,6 @@
 
 [The Sneerwell Flasks Online Shop | Gallantry](https://gallantry.com/collections/the-sneerwell)
 
-[First-person-view drone flying is the closest thing to being a bird](https://www.engadget.com/amp/2016/07/25/fpv-for-beginners/)
 
 [A Beginner’s Guide to GraphQL – freeCodeCamp.org](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 
@@ -555,7 +550,6 @@
 
 [How to Create an Equally, Linearly, and Exponentially Weighted Average of Neural Network Model Weights in Keras](https://machinelearningmastery.com/polyak-neural-network-model-weight-ensemble/)
 
-[Mavic 2 Zoom FLIR Boson thermal drone - details and pricing - DroneDJ](https://dronedj-com.cdn.ampproject.org/v/s/dronedj.com/2019/01/05/mavic-2-zoom-flir-boson-thermal-drone/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdronedj.com%2F2019%2F01%2F05%2Fmavic-2-zoom-flir-boson-thermal-drone%2F)
 
 [Complicated patterns aren’t always that complicated. Usually it’s the simple ones that bite you.](https://hackernoon.com/complicated-patterns-arent-always-that-complicated-usually-it-s-the-simple-ones-that-bite-you-caf870f2bf03)
 
@@ -838,7 +832,6 @@
 [Top 5 open source network monitoring tools | Opensource.com](https://opensource.com/article/19/2/network-monitoring-tools)
 
 
-[Underwater Drone: The Story of the Madness - Hackster.io](https://www.hackster.io/ievgenii-tkachenko/underwater-drone-the-story-of-the-madness-f50ce0)
 
 
 [Install Ubuntu Alongside Windows 8.1 or Windows 10](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
@@ -1322,7 +1315,6 @@
 
 
 
-[Drone (Quadcopter) Frame Sizes - Mini, Micro, Nano • LearningRC](http://learningrc.com/drone-quadcopter-frame-sizes/)
 
 [INTRODUCING SINGULARITY DESKTOP: MOBILE AND REPRODUCIBLE LINUX CONTAINERS FOR COMPUTE-DRIVEN WORKLOADS ON MACOS - Sylabs.io](https://www.sylabs.io/2019/03/introducing-singularity-desktop-mobile-and-reproducible-linux-containers-for-compute-driven-workloads-on-macos/)
 
@@ -1333,7 +1325,6 @@
 
 [DNS-Shell - An Interactive Shell Over DNS Channel - KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/2019/03/dns-shell-interactive-shell-over-dns.html?m=1)
 
-[All About a Multirotor FPV Drone Frame | GetFPV Learn](https://www.getfpv.com/learn/new-to-fpv/all-about-multirotor-fpv-drone-frame/)
 
 [How to configure Webpack 4 from scratch for a basic website - DEV Community 👩‍💻👨‍💻](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
 
@@ -1376,7 +1367,6 @@
 
 [Introduction to The Machine Learning Stack – Hacker Noon](https://hackernoon.com/introduction-to-the-machine-learning-stack-f5b64bba7602)
 
-[First build. 🔧 Where do I start? – Part 1: Frame Styles – DroneTrest Blog](https://blog-dronetrest-com.cdn.ampproject.org/v/s/blog.dronetrest.com/first-build-where-do-i-start-part-1-frame-styles/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.dronetrest.com%2Ffirst-build-where-do-i-start-part-1-frame-styles%2F)
 
 [Google AI Blog: An All-Neural On-Device Speech Recognizer](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html?m=1)
 
@@ -1528,7 +1518,6 @@
 
 [How to Perform a Task When a New File is Added to a Directory in Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/405468/how-to-perform-a-task-when-a-new-file-is-added-to-a-directory-in-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F405468%2Fhow-to-perform-a-task-when-a-new-file-is-added-to-a-directory-in-linux%2F)
 
-[First build. 🔧 Where do I start? – Part 1: Frame Styles – DroneTrest Blog](https://blog-dronetrest-com.cdn.ampproject.org/v/s/blog.dronetrest.com/first-build-where-do-i-start-part-1-frame-styles/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.dronetrest.com%2Ffirst-build-where-do-i-start-part-1-frame-styles%2F)
 
 [Subscribers: Auto-Download Linux Journal From the Command Line (v2.0) | Linux Journal](https://www.linuxjournal.com/content/subscribers-auto-download-linux-journal-command-line-v20)
 
@@ -1552,7 +1541,6 @@
 
 [Next Genpm | CSS-Tricks](https://css-tricks.com/next-genpm/)
 
-[Drone (Quadcopter) Frame Sizes - Mini, Micro, Nano • LearningRC](http://learningrc.com/drone-quadcopter-frame-sizes/)
 
 [How to run GETH from a Docker container – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-run-geth-from-a-docker-container-b6d30620ca74)
 
@@ -1601,7 +1589,6 @@
 
 [Google Duplex arrives on iPhones, most Android devices – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/04/google-duplex-arrives-on-iphones-most-android-devices/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F04%2Fgoogle-duplex-arrives-on-iphones-most-android-devices%2F)
 
-[Getting started with open-source Drone CI - DEV Community 👩‍💻👨‍💻](https://dev.to/alex_barashkov/getting-started-with-open-source-drone-ci-4pgc)
 
 [Add Authentication and Authorization to Next.js 8 Serverless Apps using JWT and GraphQL](https://blog.hasura.io/add-authentication-and-authorization-to-next-js-8-serverless-apps-using-jwt-and-graphql/)
 
@@ -1651,7 +1638,6 @@
 
 [The Fast Remote Desktop Application – AnyDesk](https://anydesk.com/en/)
 
-[8 open source drone projects | Opensource.com](https://opensource.com/article/18/2/drone-projects)
 
 
 [The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-word2vec/)
@@ -1938,7 +1924,6 @@
 
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
-
 [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows — Nick Janetakis](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
 
 [Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
@@ -1952,8 +1937,6 @@
 [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course/?utm_source=keyword-blog&utm_medium=referral&utm_campaign=self-studies&utm_term=&utm_content=MLCC)
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
-
-
 
 [Real-Time Rendering · Get Your Book, Make It Free](http://www.realtimerendering.com/blog/get-your-book-make-it-free/)
 
@@ -2036,7 +2019,6 @@
 
 [» Longer Orange 30 Affordable Resin LCD 3D Printer is Live on Kickstarter](https://3dprint.com/245365/longer-orange-30-affordable-resin-lcd-3d-printer-is-live-on-kickstarter/)
 
-[Nano-Sized Drone Uses Deep Learning for Autonomous Navigation](https://blog.hackster.io/nano-sized-drone-uses-deep-learning-for-autonomous-navigation-331fecdab3)
 
 [MoveIt 2 journey: sensorless collision detection with ROS 2](https://acutronicrobotics-com.cdn.ampproject.org/v/s/acutronicrobotics.com/news/ros2-sensorless-collision-detection/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Facutronicrobotics.com%2Fnews%2Fros2-sensorless-collision-detection%2F)
 
@@ -2072,7 +2054,6 @@
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
-[How to Build a DIY Racing Drone or Quadcopter | What You Need to Know | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/cool-tech/how-to-build-diy-racing-drone/?amp_js_v=a2&amp_gsa=1&amp#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcool-tech%2Fhow-to-build-diy-racing-drone%2F)
 
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
@@ -2238,9 +2219,7 @@
 
 [Experimenting with Rootless Docker - Tõnis Tiigi - Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 
-[CHEAP: A bird? A plane? NO — it&#39;s 56% off a DJI Spark Drone](https://thenextweb-com.cdn.ampproject.org/v/s/thenextweb.com/plugged/2019/06/25/cheap-a-bird-a-plane-no-its-56-off-a-dji-spark-drone/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fthenextweb.com%2Fplugged%2F2019%2F06%2F25%2Fcheap-a-bird-a-plane-no-its-56-off-a-dji-spark-drone%2F)
 
-[DJI Spark Sunrise Yellow Quadcopter Drone - 12MP 1080p 190021294417 | eBay](https://m.ebay.com/itm/DJI-Spark-Sunrise-Yellow-Quadcopter-Drone-12MP-1080p/223383016742?ul_ref=https%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-53200-19255-0%2F1%3Fff3%3D4%26toolid%3D11800%26pub%3D5575402880%26campid%3D5338330150%26mpre%3Dhttps%253A%252F%252Fwww.ebay.com%252Fitm%252FDJI-Spark-Sunrise-Yellow-Quadcopter-Drone-12MP-1080p%252F223383016742%253F_trkparms%253D5079%25253A5000006430%26srcrot%3D711-53200-19255-0%26rvr_id%3D2024686948481%26rvr_ts%3Da39ef43a16b0ad4844a02bdcffe4bdbf&_trkparms=5079%3A5000006430&_mwBanner=1&_rdt=1&ul_noapp=true)
 
 
 
