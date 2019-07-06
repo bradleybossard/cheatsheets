@@ -48,8 +48,6 @@
 
 [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
 
-[Making Android controlled Arduino quadcopter from scratch](https://www.linkedin.com/pulse/making-android-controlled-arduino-quadcopter-from-scratch-val-smirnov)
-
 [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
 
 [Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
@@ -184,8 +182,6 @@
 
 [Udemy Free Coupons, 100% Off Udemy Coupons December 2018](https://couponscorpion.com/)
 
-[Stepper motor: Smooth acceleration vs. sudden, jerky velocity changes - arduino](https://www.reddit.com/r/arduino/comments/a4csj0/stepper_motor_smooth_acceleration_vs_sudden_jerky/)
-
 [Amazon adds location-specific reminders and routines to Alexa](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/12/10/alexa-location-specific-reminders-and-routines/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F12%2F10%2Falexa-location-specific-reminders-and-routines%2F)
 
 [Intel&#39;s Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86](https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86)
@@ -211,8 +207,6 @@
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
 [Chrome Canvas: A Web App For Drawing On Your Chromebook From Google](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/chrome-canvas-draw-chromebook-google-web-app/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Fchrome-canvas-draw-chromebook-google-web-app%2F)
-
-[eduArdo board helps you jump right in to Arduino development - Liliputing](https://liliputing.com/2018/12/eduardu-board-helps-you-jump-right-in-to-arduino-development.html)
 
 [First round of Amazon Echo Auto devices are shipping - CNET](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/first-round-of-amazon-echo-auto-devices-are-shipping/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Ffirst-round-of-amazon-echo-auto-devices-are-shipping%2F)
 
@@ -396,8 +390,6 @@
 
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
-[Arduino Real Time Plotting With Python](https://www.instructables.com/id/Arduino-Real-Time-Plotting-With-Python/)
-
 [Securing Node.js apps with SSL/TLS – Noteworthy - The Journal Blog](https://blog.usejournal.com/securing-node-js-apps-with-ssl-tls-b3570dbf84a5)
 
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
@@ -502,8 +494,6 @@
 
 [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
-[Badland Brawler Lets Arduino Tackle Terrain | Hackaday](https://hackaday.com/2019/01/27/badland-brawler-lets-arduino-tackle-terrain/)
-
 [Autonomous cars for the rest of us](https://diyrobocars.com/)
 
 [Donkey Car - Home](http://www.donkeycar.com/)
@@ -548,15 +538,11 @@
 
 [Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
 
-[This Arduino Kit Keeps up to 4 Plants Perfectly Hydrated at All Times](https://interestingengineering.com/this-arduino-kit-keeps-up-to-4-plants-perfectly-hydrated-at-all-times)
-
 [Free and Open Source 3-D Model Customizer for Websites to Democratize Design with OpenSCAD | Joshua Pearce and Yuenyong Nilsiam - Academia.edu](https://www.academia.edu/33772407/Free_and_Open_Source_3-D_Model_Customizer_for_Websites_to_Democratize_Design_with_OpenSCAD)
 
 [Open Source 3-D Printing - Wikiversity](https://en.m.wikiversity.org/wiki/Open_Source_3-D_Printing)
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
-
-[Arduino Enters the Cloud | Hackaday](https://hackaday.com/2019/02/07/arduino-enters-the-cloud/)
 
 [Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
 
@@ -585,8 +571,6 @@
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
 
 [Go by Example: Arrays](https://gobyexample.com/arrays)
-
-[Fingerprint Sensor With Arduino: 4 Steps](https://www.instructables.com/id/Fingerprint-Sensor-With-Arduino/)
 
 [QUT Robot Academy](https://robotacademy.net.au/)
 
@@ -703,8 +687,6 @@
 [Convolutional Neural Network – Towards Data Science](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529)
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
-
-[Arduino Blog » Make your own digital power supply with Arduino](https://blog.arduino.cc/2019/02/25/make-your-own-digital-power-supply-with-arduino/)
 
 [A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 
@@ -846,8 +828,6 @@
 
 [How to set up a homelab from hardware to firewall | Opensource.com](https://opensource.com/article/19/3/home-lab)
 
-[DIY Six Channel Arduino RC Transmitter | Hackaday](https://hackaday.com/2019/03/19/diy-six-channel-arduino-rc-transmitter/)
-
 [How to rotate your source IP address - Black Hills Information Security](https://www.blackhillsinfosec.com/how-to-rotate-your-source-ip-address/)
 
 [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5)
@@ -882,8 +862,6 @@
 
 [ml-agents/README.md at master · Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents/blob/master/README.md)
 
-[Don&#39;t Delay() Use an Arduino Task Scheduler Today! - Hackster.io](https://www.hackster.io/GadgetsToGrow/don-t-delay-use-an-arduino-task-scheduler-today-215cfe)
-
 [How to Create Smooth WebGL Transitions on Scroll using Phenomenon | Codrops](https://tympanus.net/codrops/2019/03/22/how-to-create-smooth-webgl-transitions-on-scroll-using-phenomenon/)
 
 [Repl.it - Repl.it GFX: Native graphics development in the browser](https://repl.it/site/blog/gfx)
@@ -893,8 +871,6 @@
 [qri-io/qri: you&#39;re invited to a data party!](https://github.com/qri-io/qri)
 
 [ryantimpe/brickr: 3D LEGO models and mosaics from images using R and #tidyverse](https://github.com/ryantimpe/brickr)
-
-[Building Ground Station for my Autonomous Rc plane. More than 20 modes and will feature experimental AI flight with RPi and carry loads of environmental sensors, will keep posting progress, everything will be open-source at the end. - arduino](https://www.reddit.com/r/arduino/comments/b4ie4f/building_ground_station_for_my_autonomous_rc/)
 
 [Access Your Pi Without Keyboard and Monitor: 3 Steps](https://www.instructables.com/id/Access-Your-Pi-Without-Keyboard-and-Monitor/)
 
@@ -1009,8 +985,6 @@
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
 
 [A comprehensive survey on graph neural networks – the morning paper](https://blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/)
-
-[Play Songs(MP3) With Arduino Using PWM on Speaker or Flyback Transformer: 6 Steps (with Pictures)](https://www.instructables.com/id/Play-SongsMP3-With-Arduino-Using-PWM-on-Speaker-or/)
 
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
@@ -1191,8 +1165,6 @@
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
-
-[Best Arduino Stepper Motors in 2019 | All3DP](https://m.all3dp.com/1/best-arduino-stepper-motors/)
 
 [Supercharging Vim: Navigate files instantly · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-navigate-files-instantly/)
 
