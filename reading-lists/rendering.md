@@ -15,3 +15,5 @@
 
 [ssloy/tinyraytracer: A brief computer graphics / rendering course](https://github.com/ssloy/tinyraytracer)
 
+[Introduction](http://www.pbr-book.org/3ed-2018/Introduction.html)
+

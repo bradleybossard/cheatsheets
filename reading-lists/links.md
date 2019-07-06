@@ -25,8 +25,6 @@
 
 [Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
 
-[How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
-
 [Practicing ‘No Code’ Data Science - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/practicing-no-code-data-science)
 
 [Won’t You Be My Neighbor? Quickly Finding Who is Nearby](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/wont-you-be-my-neighbor-quickly-finding-who-is-nearby?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fwont-you-be-my-neighbor-quickly-finding-who-is-nearby)
@@ -45,8 +43,6 @@
 
 [How to Backup USB Drives and Restore Them, Bootable State and All - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/guides/1721-clone-backup-usb-drive/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1721-clone-backup-usb-drive%2F)
 
-[Libre Computer&#39;s La Frite is a $20 single board computer ($5 and up during crowdfunding) - Liliputing](https://liliputing-com.cdn.ampproject.org/v/s/liliputing.com/2018/10/libre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fliliputing.com%2F2018%2F10%2Flibre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html)
-
 [Top 10 Best Windows Alternative Open Source Operating System](https://www-ubuntupit-com.cdn.ampproject.org/v/s/www.ubuntupit.com/top-10-best-windows-alternative-open-source-operating-system/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.ubuntupit.com%2Ftop-10-best-windows-alternative-open-source-operating-system%2F)
 
 [Take screenshots in background silently for archive purposes - Ask Ubuntu](https://askubuntu.com/questions/1083128/take-screenshots-in-background-silently-for-archive-purposes)
@@ -54,8 +50,6 @@
 [7 Reasons Game Dev. Is the Perfect Side Hobby for Software Developers](https://spin.atomicobject.com/2018/10/12/game-dev-side-hobby/)
 
 [Useful tools: Headless Chrome &amp; puppeteer for browser automation &amp; testing.](https://medium.com/square-corner-blog/useful-tools-headless-chrome-puppeteer-for-browser-automation-testing-1ac7707bad40)
-
-[What’s new in Angular Version 7 | InfoWorld](https://www.infoworld.com/article/3213244/angular/whats-new-in-angular-version-7-release-candidate-arrives.html)
 
 [remojansen/TechLadderIO: A community-driven grouping of concepts and skills relevant to different technologies that provides aspiring programmers with a way to track and improve their skills.](https://github.com/remojansen/TechLadderIO)
 
@@ -89,8 +83,6 @@
 
 [Ask HN: Are any remote desktop solutions good enough for full-time use? | Hacker News](https://news.ycombinator.com/item?id=18326030)
 
-[Roku Google Assistant support arrives, how to set it up - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/10/29/roku-google-assistant-available-now/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F10%2F29%2Froku-google-assistant-available-now%2F)
-
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
@@ -102,10 +94,6 @@
 [Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
 
 [Fast Pair now syncs Bluetooth accessories across Android devices, Chromebook support in 2019 - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/11/27/fast-pair-android-sync-chromebooks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F11%2F27%2Ffast-pair-android-sync-chromebooks%2F)
-
-[Navigation-optimized Google Assistant rolling out in Google Maps for Android - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/12/02/google-assistant-maps-navigation-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F12%2F02%2Fgoogle-assistant-maps-navigation-android%2F)
-
-[TypeScript Express tutorial #1. Routing, controller, middleware - wanago.io](https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/)
 
 [Nvidia open-source PhysX physics engine | Rock Paper Shotgun](https://www-rockpapershotgun-com.cdn.ampproject.org/v/s/www.rockpapershotgun.com/2018/12/04/nvidia-open-source-physx/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.rockpapershotgun.com%2F2018%2F12%2F04%2Fnvidia-open-source-physx%2F)
 
@@ -229,8 +217,6 @@
 
 [The best new 3D tools for 2019 | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/the-best-new-3d-tools-for-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2Fthe-best-new-3d-tools-for-2019)
 
-[Hey Google, what&#39;s new with the Assistant at CES this year?](https://www.blog.google/products/assistant/hey-google-whats-new-assistant-ces-year/)
-
 [AstroNavigation | Vanderbilt University](https://my.vanderbilt.edu/astronav/)
 
 [YDLIDAR X4 - Google Search](https://www.google.com/search?q=YDLIDAR+X4+&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
@@ -278,8 +264,6 @@
 [The 15-minute Chromebook tune-up | Computerworld](https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3333005/chrome-os/chromebook-tune-up.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3333005%2Fchrome-os%2Fchromebook-tune-up.html)
 
 [AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project – GeekWire](https://www-geekwire-com.cdn.ampproject.org/v/s/www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.geekwire.com%2F2019%2Faws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project%2F)
-
-[Set-up SSL in NodeJS and Express using OpenSSL – Hacker Noon](https://hackernoon.com/set-up-ssl-in-nodejs-and-express-using-openssl-f2529eab5bb)
 
 [Introduction to Ubuntu&#39;s LXD Containers - Make Tech Easier](https://www-maketecheasier-com.cdn.ampproject.org/v/s/www.maketecheasier.com/introduction-ubuntu-lxd-containers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.maketecheasier.com%2Fintroduction-ubuntu-lxd-containers%2F)
 
@@ -347,8 +331,6 @@
 
 [3D-Printed Tourbillon Demo Keeps the Time with Style | Hackaday](https://hackaday.com/2019/02/04/3d-printed-tourbillon-demo-keeps-the-time-with-style/)
 
-[How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
-
 [Learn SQL for Data Science – Kanoki](https://kanoki.org/2019/02/02/learn-sql-for-data-science/)
 
 [How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
@@ -370,8 +352,6 @@
 [Why All Engineers Must Understand Management: The View from Both Ladders](https://hackernoon.com/why-all-engineers-must-understand-management-the-view-from-both-ladders-cc749ae14905)
 
 [Try out walrus operator in Python 3.8 – Hultnér – Medium](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
-
-[Advanced Express](https://www.lynda.com/Node-js-tutorials/Advanced-Express/798496-2.html)
 
 [Using AWS Amplify feels like cheating. – Cory Schimmoeller – Medium](https://medium.com/@coryschimmoeller/using-aws-amplify-feels-like-cheating-e5eabcaea500)
 
@@ -484,8 +464,6 @@
 [Understanding Decision Trees (once and for all!) 🙌](https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579)
 
 [The way to fully automated releases in open source projects](https://medium.com/@kevinkreuzer/the-way-to-fully-automated-releases-in-open-source-projects-44c015f38fd6)
-
-[Understanding Express.js: Creating Your Own Node HTTP Request Router](https://hackernoon.com/understanding-express-js-creating-your-own-node-http-request-router-4190a9b6aad6)
 
 [The web just got an official password-free login standard](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/03/04/web-authentication-becomes-official-standard/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F03%2F04%2Fweb-authentication-becomes-official-standard%2F)
 
