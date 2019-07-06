@@ -436,7 +436,6 @@
 
 [All Alexa devices can now remotely control music playback on Echo devices | AFTVnews](http://www.aftvnews.com/alexa-devices-can-now-remotely-control-music-playback-on-echo-devices/)
 
-[cheapest DIY IoT under $2 - esp8266](https://www.reddit.com/r/esp8266/comments/ab6ugz/cheapest_diy_iot_under_2/)
 
 [More Information on Version 2.0 of SelfCAD’s 3D Modeling Software | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)
 
@@ -459,7 +458,6 @@
 
 [The Flutter Crash Course v1.0 launch - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/abtjt4/the_flutter_crash_course_v10_launch/)
 
-[Tasmota v ESPEasy v Espurna: Current Thinking? - esp8266](https://www.reddit.com/r/esp8266/comments/abshfb/tasmota_v_espeasy_v_espurna_current_thinking/)
 
 [Infinite Data Structures In JavaScript – Hacker Noon](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
 
@@ -586,7 +584,6 @@
 
 [Quickstart with Docker | Hasura 1.0 documentation](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)
 
-[Google Assistant to Command ESP8266 with NodeMCU/Lua (IFTTT) - Hackster.io](https://www.hackster.io/xerax/google-assistant-to-command-esp8266-with-nodemcu-lua-ifttt-51ac4e)
 
 
 [Arduino Real Time Plotting With Python](https://www.instructables.com/id/Arduino-Real-Time-Plotting-With-Python/)
@@ -647,9 +644,7 @@
 
 [Set-up SSL in NodeJS and Express using OpenSSL – Hacker Noon](https://hackernoon.com/set-up-ssl-in-nodejs-and-express-using-openssl-f2529eab5bb)
 
-[Tindie Blog | Get Started With The ESP8266 Using These Handy Tutorials!](https://blog.tindie.com/2019/01/esp8266-tutorials/)
 
-[ESP8266 Arduino Tutorials | Details | Hackaday.io](https://hackaday.io/project/160007-esp8266-arduino-tutorials/details)
 
 [Introduction to Ubuntu&#39;s LXD Containers - Make Tech Easier](https://www-maketecheasier-com.cdn.ampproject.org/v/s/www.maketecheasier.com/introduction-ubuntu-lxd-containers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.maketecheasier.com%2Fintroduction-ubuntu-lxd-containers%2F)
 
@@ -661,7 +656,6 @@
 [Introducing Scylla Open Source 3.0 - ScyllaDB](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/)
 
 
-[Building a Responsive House with Flare &amp; Flutter – 2Dimensions – Medium](https://medium.com/2dimensions/building-a-responsive-house-with-flare-flutter-31af823ba805)
 
 [Tester Vs Client - ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/agwqah/tester_vs_client/)
 
@@ -776,7 +770,6 @@
 
 
 
-[Another cheap WiFi ARM module (EMW3060) - esp8266](https://www.reddit.com/r/esp8266/comments/alf052/another_cheap_wifi_arm_module_emw3060/)
 
 
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
@@ -990,7 +983,6 @@
 
 
 
-[Wi-Fi Jammer From an ESP8266 | WiFi Jammer/ Deauther: 6 Steps](https://www.instructables.com/id/Wi-Fi-Jammer-From-an-ESP8266-WiFi-Jammer-Deauther/)
 
 
 [New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
@@ -1156,7 +1148,6 @@
 
 [enfipy/grpchat: Chat based on gRPC](https://github.com/enfipy/grpchat)
 
-[Control Your TV Via Google Home or Alexa Via Openhab and MQTT, ESP8266, Web Interface](https://www.instructables.com/id/Control-Your-TV-Via-Google-Home-or-Alexa-Via-Openh/)
 
 [LOW COST DIY 500€ CNC MILL: 22 Steps (with Pictures)](https://www.instructables.com/id/LOW-COST-DIY-500-CNC-MILL/)
 
@@ -1428,7 +1419,6 @@
 
 [CRFS: Container Registry Filesystem by Google - docker](https://www.reddit.com/r/docker/comments/b4boz9/crfs_container_registry_filesystem_by_google/)
 
-[Audio Hacking on the ESP8266 - Hackster.io](https://www.hackster.io/janost/audio-hacking-on-the-esp8266-fa9464)
 
 [felixse/FluentTerminal: A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
 
@@ -1620,7 +1610,6 @@
 
 [cnc simulator on ios and android - Machinists](https://www.reddit.com/r/Machinists/comments/bcq3r5/cnc_simulator_on_ios_and_android/)
 
-[How to Scan, Fake &amp; Attack Wi-Fi Networks with the ESP8266-Based WiFi Deauther « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/scan-fake-attack-wi-fi-networks-with-esp8266-based-wifi-deauther-0193837/)
 
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
@@ -1637,7 +1626,6 @@
 
 [Wonder How To » Fresh Hacks For a Changing World](https://www.wonderhowto.com/)
 
-[Very Simple MicroPython ESP8266/ESP-12 Web Clock - Hackster.io](https://www.hackster.io/alankrantas/very-simple-micropython-esp8266-esp-12-web-clock-3c5c6f)
 
 [Run Hello » Games](https://runhello.com/)
 
@@ -1646,7 +1634,6 @@
 
 [The discrete-time physics hiding inside our continuous-time world](https://m.phys.org/news/2019-04-discrete-time-physics-continuous-time-world.html)
 
-[A Robust ESP8266 RFID Access Control System | Hackaday](https://hackaday.com/2019/04/15/a-robust-esp8266-rfid-access-control-system/)
 
 
 [How to Design for Injection Molding | Cad Crowd](https://www-cadcrowd-com.cdn.ampproject.org/v/s/www.cadcrowd.com/blog/how-to-design-for-injection-molding/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cadcrowd.com%2Fblog%2Fhow-to-design-for-injection-molding%2F)
@@ -1716,7 +1703,6 @@
 
 [Security.NL](https://www.security.nl/)
 
-[Plug Any USB Device on an ESP8266 - Hackster.io](https://www.hackster.io/139994/plug-any-usb-device-on-an-esp8266-e0ca8a)
 
 [How to Remotely Turn On Your PC Over the Internet](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/192642/how-to-remotely-turn-on-your-pc-over-the-internet/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F192642%2Fhow-to-remotely-turn-on-your-pc-over-the-internet%2F)
 
@@ -1759,7 +1745,6 @@
 [Plotting the Classics](https://www.inferentialthinking.com/chapters/01/3/Plotting_the_Classics)
 
 
-[Control ESP32 with Command Line Interface Over the Internet - Hackster.io](https://www.hackster.io/donowak/control-esp32-with-command-line-interface-over-the-internet-fa9634)
 
 [How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
@@ -1780,9 +1765,7 @@
 
 [📣 Announcing Tinkersynth 2.0 - Josh W. Comeau&#39;s Blog](https://www.joshwcomeau.com/posts/tinkersynth-two-point-oh/)
 
-[Bluetooth Module Interfacing with ESP8266: Controlling an LED](https://circuitdigest.com/microcontroller-projects/hc-05-bluetooth-module-interfacing-with-esp8266-to-control-an-led)
 
-[Control ESP32 with Command Line Interface Over the Internet - Hackster.io](https://www.hackster.io/donowak/control-esp32-with-command-line-interface-over-the-internet-fa9634)
 
 
 [Microsoft unveils Windows Terminal, a new command line app for Windows - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/5/6/18527870/microsoft-windows-terminal-command-line-tool?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F5%2F6%2F18527870%2Fmicrosoft-windows-terminal-command-line-tool)
@@ -1869,9 +1852,7 @@
 
 [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
 
-[NodeMCU ESP8266 OTA (Over-the-Air) Update Programming using Arduino IDE](https://circuitdigest.com/microcontroller-projects/esp8266-ota-update-programming-using-arduino-ide)
 
-[ESP8266 to ESP8266 Communication - Hackster.io](https://www.hackster.io/hammadiqbal12/esp8266-to-esp8266-communication-bf96ce)
 
 [Physically Based Rendering – Part one](https://wiki.jmonkeyengine.org/jme3/advanced/pbr_part1.html)
 
