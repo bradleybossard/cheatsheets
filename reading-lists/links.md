@@ -19,7 +19,6 @@
 
 [Learn Vim with these Great Free Books - OSS Blog](https://www.ossblog.org/learn-vim-great-free-books/)
 
-[Use AWS System Manager: Bastion free &amp; SSH Key free access to EC2 Instances](https://medium.com/tensult/use-aws-system-manager-bastion-free-ssh-key-free-access-to-ec2-instances-e6897c4143c5)
 
 
 [Linux Plex Intel Quick Sync experience on Skylake/Kaby Lake = YOW - PleX](https://www.reddit.com/r/PleX/comments/9fwspn/linux_plex_intel_quick_sync_experience_on/)
@@ -185,7 +184,6 @@
 
 [How to Write a Resume That Will Get You an Interview](https://www.thebalancecareers.com/how-to-write-a-resume-2063336)
 
-[KiTTY Portable 0.70.0.6 (telnet and SSH with added features) Released | PortableApps.com](https://portableapps.com/news/2018-10-19--kitty-portable-0.70.0.6-released)
 
 [Zoom Stryder electric scooter is the full suspension e-scooter I&#39;ve needed](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2018/10/25/zoom-stryder-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2018%2F10%2F25%2Fzoom-stryder-electric-scooter%2F)
 
@@ -205,7 +203,6 @@
 
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
-[What are SSH Keys? - JumpCloud](https://jumpcloud.com/blog/what-are-ssh-keys/)
 
 [r-darwish/alma: Create Arch Linux based bootable USB drives](https://github.com/r-darwish/alma)
 
@@ -395,7 +392,6 @@
 
 [Windows is coming to your Chromebook | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/windows-is-coming-to-your-chromebook/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwindows-is-coming-to-your-chromebook%2F)
 
-[22 SSH Examples, Practical Tips &amp; Tunnels | HackerTarget.com](https://hackertarget.com/ssh-examples-tunnels/)
 
 [Linear Algebra for Data Science – Ankit Rathi – Medium](https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0)
 
@@ -536,7 +532,6 @@
 
 [The best new 3D tools for 2019 | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/the-best-new-3d-tools-for-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2Fthe-best-new-3d-tools-for-2019)
 
-[SSHazam: Hide Your C2 Inside of SSH - Black Hills Information Security](https://www.blackhillsinfosec.com/sshazam-hide-your-c2-inside-of-ssh/)
 
 [Hey Google, what&#39;s new with the Assistant at CES this year?](https://www.blog.google/products/assistant/hey-google-whats-new-assistant-ces-year/)
 
@@ -719,7 +714,6 @@
 
 [3D Printed Microscope Stage Offers Precise Movement | Hackaday](https://hackaday.com/2019/01/26/3d-printed-microscope-stage-offers-precise-movement/)
 
-[Geolocating SSH Hackers In Real-Time – SCHKN – Medium](https://medium.com/schkn/geolocating-ssh-hackers-in-real-time-108cbc3b5665)
 
 [Tutorial: Cheap Docker-server with autodeploy (Gitlab), automatic SSL (Let&#39;s Encrypt) and Docker-Compose - docker](https://www.reddit.com/r/docker/comments/ak2390/tutorial_cheap_dockerserver_with_autodeploy/)
 
@@ -889,7 +883,6 @@
 
 [Announcing Open Web Components - DEV Community 👩‍💻👨‍💻](https://dev.to/thepassle/announcing-open-web-components-5h7)
 
-[How to use SSH to proxy through a Linux jump host - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/how-to-use-ssh-to-proxy-through-a-linux-jump-host/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhow-to-use-ssh-to-proxy-through-a-linux-jump-host%2F)
 
 [Two graphical tools for manipulating PDFs on the Linux desktop | Opensource.com](https://opensource.com/article/19/2/manipulating-pdfs-linux)
 
@@ -1091,7 +1084,6 @@
 
 [Solve any Image Classification Problem Quickly and Easily](https://www.kdnuggets.com/2018/12/solve-image-classification-problem-quickly-easily.html)
 
-[The RDP Through SSH Encyclopedia - Black Hills Information Security](https://www.blackhillsinfosec.com/the-rdp-through-ssh-encyclopedia/)
 
 [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
@@ -1146,7 +1138,6 @@
 
 [The way to fully automated releases in open source projects](https://medium.com/@kevinkreuzer/the-way-to-fully-automated-releases-in-open-source-projects-44c015f38fd6)
 
-[ymgenesis/sshsetup: An interactive bash script that automates the setup of ssh configurations through user interaction.](https://github.com/ymgenesis/sshsetup)
 
 [Understanding Express.js: Creating Your Own Node HTTP Request Router](https://hackernoon.com/understanding-express-js-creating-your-own-node-http-request-router-4190a9b6aad6)
 
@@ -1199,7 +1190,6 @@
 
 [Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators?intcmp=7016000000127cYAAQ)
 
-[Advanced SSH Cheat Sheet | Opensource.com](https://opensource.com/downloads/advanced-ssh-cheat-sheet?intcmp=7016000000127cYAAQ)
 
 
 
@@ -1512,7 +1502,6 @@
 
 [Dead-simple AWS GraphQL API . – mim Armand – Medium](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
 
-[How to Log Off Another Users ssh Connection by Command Line in Mac OS or Linux | OSXDaily](http://osxdaily.com/2019/04/03/log-off-ssh-user/)
 
 [Print Your Own Large Format Camera | Hackaday](https://hackaday.com/2019/04/04/print-your-own-large-format-camera/)
 
@@ -1704,9 +1693,7 @@
 
 [EMUBook](http://emubook.emulation64.com/)
 
-[The 4 most important files for SSH connections - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/the-4-most-important-files-for-ssh-connections/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fthe-4-most-important-files-for-ssh-connections%2F)
 
-[How to enable SSH access using a GPG key for authentication | Opensource.com](https://opensource.com/article/19/4/gpg-subkeys-ssh)
 
 [About This Book](https://www.textbook.ds100.org/about_this_book.html)
 
@@ -1757,7 +1744,6 @@
 
 [The Part-Time Parliament - Microsoft Research](https://www.microsoft.com/en-us/research/publication/part-time-parliament/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Flamport-paxos.pdf)
 
-[Linux 2FA: Secure SSH login with Google Authenticator and / or Yubi key](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
 
 
 
@@ -1767,7 +1753,6 @@
 
 [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
 
-[How to use SSHFS to Mount Remote Directories over SSH | Linuxize](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
 
 [How to set up Alexa Guard on an Amazon Echo](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/05/14/how-to-set-up-alexa-guard-on-an-amazon-echo.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F05%2F14%2Fhow-to-set-up-alexa-guard-on-an-amazon-echo.html)
 
@@ -1811,7 +1796,6 @@
 
 [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
 
-[How to Set Up an SSH Server with Tor to Hide It from Shodan &amp; Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/set-up-ssh-server-with-tor-hide-from-shodan-hackers-0194455/)
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
@@ -1825,7 +1809,6 @@
 
 [Chatbot Development Challenges - Part 1 – Hacker Noon](https://hackernoon.com/chatbot-development-challenges-part-1-bf472062be60)
 
-[Terminal File Manager nnn 2.5 Adds Plugins, Mouse And SSHFS Support - Linux Uprising Blog](https://www.linuxuprising.com/2019/05/terminal-file-manager-nnn-25-adds.html?m=1)
 
 [Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
 
@@ -1961,7 +1944,6 @@
 
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
 
-[Kippo - SSH Honeypot](https://www.kitploit.com/2019/06/kippo-ssh-honeypot.html?m=1)
 
 [NVIDIA Goes Live with Complimentary Course: &quot;Getting Started on AI with the Jetson Nano&quot; - News - SparkFun Electronics](https://www.sparkfun.com/news/2941)
 
