@@ -109,8 +109,6 @@
 
 [Learn data science with Python and R projects](https://www.dataquest.io/)
 
-[Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
-
 [This Algorithm Can Create 3D Animations From A Single Still Image](https://futurism-com.cdn.ampproject.org/v/s/futurism.com/algorithm-3d-animations-still-image/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ffuturism.com%2Falgorithm-3d-animations-still-image%2F)
 
 [Google Home Hub bundled with two Home Minis for just $130 at Best Buy](https://www.androidpolice.com/2018/12/22/google-home-hub-bundled-with-two-home-minis-for-just-130-at-best-buy/)
