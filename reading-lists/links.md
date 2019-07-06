@@ -18,15 +18,9 @@
 
 [Running Ubuntu VMs on Windows just got a whole lot more streamlined | Ars Technica](https://arstechnica.com/gadgets/2018/09/running-ubuntu-vms-on-windows-just-got-a-whole-lot-more-streamlined/)
 
-[10 practices for readable code](https://jason.pureconcepts.net/2018/09/practices-write-readable-code-less-complex/)
-
-[Developing Modern APIs with Hapi.js, Node.js, and Redis](https://auth0-com.cdn.ampproject.org/v/s/auth0.com/blog/amp/developing-modern-apis-with-nodejs-hapijs-and-redis/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fauth0.com%2Fblog%2Fdeveloping-modern-apis-with-nodejs-hapijs-and-redis%2F)
-
 [Caddy - A HTTP/2 Web Server with Automatic HTTPS for Websites](https://www-tecmint-com.cdn.ampproject.org/v/s/www.tecmint.com/install-caddy-web-server-in-centos-ubuntu/amp/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tecmint.com%2Finstall-caddy-web-server-in-centos-ubuntu%2F)
 
 [Introduction](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-intro.html)
-
-[Developing Modern APIs with Hapi.js, Node.js, and Redis](https://auth0-com.cdn.ampproject.org/v/s/auth0.com/blog/amp/developing-modern-apis-with-nodejs-hapijs-and-redis/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fauth0.com%2Fblog%2Fdeveloping-modern-apis-with-nodejs-hapijs-and-redis%2F)
 
 [Shape Grammars](http://www.shapegrammar.org/)
 
@@ -46,11 +40,7 @@
 
 [Nano Node Version 16.2 Released – Nano – Medium](https://medium.com/nanocurrency/nano-node-version-16-2-released-ce84ce5d6ed)
 
-[VM Host: Plex/EMBY and FreeNAS - JDM_WAAAT](https://www.reddit.com/r/JDM_WAAAT/comments/9n4gs9/vm_host_plexemby_and_freenas/)
-
 [Home - Ballerina.io](https://ballerina.io/)
-
-[The Easy Way to Install Plex Media Server on Ubuntu 18.04 LTS - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2018/10/plex-media-server-ubuntu-snap-app/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2018%2F10%2Fplex-media-server-ubuntu-snap-app)
 
 [Libre sets La Frite mini computer board free](https://newatlas.com/libre-computer-la-frite/56750/)
 
@@ -61,8 +51,6 @@
 [Libre Computer&#39;s La Frite is a $20 single board computer ($5 and up during crowdfunding) - Liliputing](https://liliputing-com.cdn.ampproject.org/v/s/liliputing.com/2018/10/libre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fliliputing.com%2F2018%2F10%2Flibre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html)
 
 [Top 10 Best Windows Alternative Open Source Operating System](https://www-ubuntupit-com.cdn.ampproject.org/v/s/www.ubuntupit.com/top-10-best-windows-alternative-open-source-operating-system/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.ubuntupit.com%2Ftop-10-best-windows-alternative-open-source-operating-system%2F)
-
-[&#39;Hold the Dark&#39; Is the Most Brutal Movie on Netflix - VICE](https://www-vice-com.cdn.ampproject.org/v/s/www.vice.com/amp/en_us/article/bj4ypd/hold-the-dark-is-the-most-brutal-movie-on-netflix?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fbj4ypd%2Fhold-the-dark-is-the-most-brutal-movie-on-netflix)
 
 [Take screenshots in background silently for archive purposes - Ask Ubuntu](https://askubuntu.com/questions/1083128/take-screenshots-in-background-silently-for-archive-purposes)
 
@@ -80,8 +68,6 @@
 
 [Essential Math for Data Science:  ‘Why’ and ‘How’](https://www.kdnuggets.com/2018/09/essential-math-data-science.html)
 
-[Base Images - kubedex.com](https://kubedex.com/base-images/)
-
 [pgSphere](https://pgsphere.github.io/)
 
 [Latest GPU-Z detects some fake NVIDIA cards - gHacks Tech News](https://www.ghacks.net/2018/10/13/latest-gpu-z-detects-some-fake-nvidia-cards/)
@@ -91,8 +77,6 @@
 [Build a task app with Hapi, MongoDB and Vue.js – Employbl – Medium](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778)
 
 [JAMstack. How sites are becoming even faster in a bloated web. - DEV Community 👩‍💻👨‍💻](https://dev.to/lewismenelaws/jamstack-how-sites-are-becoming-even-faster-in-a-bloated-web-fig)
-
-[Tea-School.js — Generate a PDF File From HTML And CSS in Node.js](https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37)
 
 [Getting to know some pragmatic programming language features](https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118)
 
@@ -118,11 +102,7 @@
 
 [Roku Google Assistant support arrives, how to set it up - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/10/29/roku-google-assistant-available-now/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F10%2F29%2Froku-google-assistant-available-now%2F)
 
-[If the words &#39;Tigole&#39;, &#39;Featurettes&#39;, and &#39;Plex&#39; mean anything to you, i have some powershell scripts you may be interested in. - DataHoarder](https://www.reddit.com/r/DataHoarder/comments/9s6sln/if_the_words_tigole_featurettes_and_plex_mean/)
-
 [Now Available: Use the ASK Music Skill API to Stream from Your Music Service to Alexa Customers : Alexa Blogs](https://developer.amazon.com/blogs/alexa/post/870491c3-0e95-4ea9-9e2e-ce1ae0cf0a79/now-available-use-the-ask-music-skill-api-to-stream-from-your-music-service-to-alexa-customers)
-
-[Why you should avoid ORMs (with examples in Node.js)](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5)
 
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
@@ -144,8 +124,6 @@
 
 [How to Make and Receive Skype Calls Using an Amazon Echo](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-to-make-and-receive-skype-calls-using-an-amazon-ech-1830643572/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-to-make-and-receive-skype-calls-using-an-amazon-ech-1830643572)
 
-[Netflix’s ‘Roma’ Makes Estimated $200K In 5-day Thanksgiving Opening – Deadline](https://deadline-com.cdn.ampproject.org/v/s/deadline.com/2018/11/netflix-roma-opening-weekend-box-office-1202508491/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdeadline.com%2F2018%2F11%2Fnetflix-roma-opening-weekend-box-office-1202508491%2F)
-
 [Fast Pair now syncs Bluetooth accessories across Android devices, Chromebook support in 2019 - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/11/27/fast-pair-android-sync-chromebooks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F11%2F27%2Ffast-pair-android-sync-chromebooks%2F)
 
 [How to Install Wine on Ubuntu 18.04 LTS](https://vitux.com/how-to-install-wine-on-ubuntu/)
@@ -161,8 +139,6 @@
 [Amazon adds location-specific reminders and routines to Alexa](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/12/10/alexa-location-specific-reminders-and-routines/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F12%2F10%2Falexa-location-specific-reminders-and-routines%2F)
 
 [Intel&#39;s Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86](https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86)
-
-[A road to the easiest user authentication system for Node.js - DEV Community 👩‍💻👨‍💻](https://dev.to/saltyshiomix/a-road-to-the-easiest-user-authentication-system-for-nodejs-138f)
 
 [Sony May Have Just Accidentally Revealed The Playercounts Of Every PS4 Game](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2018/12/17/sony-may-have-just-accidentally-revealed-the-playercounts-of-every-ps4-game/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2018%2F12%2F17%2Fsony-may-have-just-accidentally-revealed-the-playercounts-of-every-ps4-game%2F)
 
@@ -197,8 +173,6 @@
 [Google Home Hub bundled with two Home Minis for just $130 at Best Buy](https://www.androidpolice.com/2018/12/22/google-home-hub-bundled-with-two-home-minis-for-just-130-at-best-buy/)
 
 [Smart Speaker IQ test of Cortana, Alexa, Siri and Google Assistant shows most are smarter than ever - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/smart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fsmart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever%2F)
-
-[Seva Zaikov - Node.js Fundamentals: Web Server Without Dependencies](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 
 [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-Learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
 
@@ -243,8 +217,6 @@
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
 
 [Everything you need to know about tree data structures - DEV Community 👩‍💻👨‍💻](https://dev.to/leandrotk_/everything-you-need-to-know-about-tree-data-structures-2599)
-
-[bradtraversy/node_passport_login: Node.js login, registration and access control using Express and Passport](https://github.com/bradtraversy/node_passport_login)
 
 [How Google Maps Calculates The Shortest Route | Math Section](https://mathsection.com/how-google-maps-calculates-the-shortest-route/?cookie-state-change=1546220286234)
 
@@ -330,8 +302,6 @@
 
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
-[Securing Node.js apps with SSL/TLS – Noteworthy - The Journal Blog](https://blog.usejournal.com/securing-node-js-apps-with-ssl-tls-b3570dbf84a5)
-
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
 
 [Could Koazee be for Go like lodash is for NodeJS? – Iván Corrales Solera – Medium](https://medium.com/@ivan.corrales.solera/could-koazee-be-for-go-like-lodash-is-for-nodejs-5d08b1d3f01e)
@@ -402,10 +372,6 @@
 
 [JavaScript V8 Engine Explained – Hacker Noon](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef)
 
-[How to Perform Web-Scraping using Node.js- Part 2 – Bits and Pieces](https://blog.bitsrc.io/how-to-perform-web-scraping-using-node-js-part-2-7a365aeedb43)
-
-[Plex Mass Media Converter - homelab](https://www.reddit.com/r/homelab/comments/aj5ynv/plex_mass_media_converter/)
-
 [DeepTraffic - DQN Tuning for Traffic Navigation (75.01 MPH Solution)](https://towardsdatascience.com/deeptraffic-dqn-tuning-for-traffic-navigation-75-01-mph-solution-23087e2411cf)
 
 [Wine 4.0 Released, Here&#39;s How to Install it on Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/wine-4-0)
@@ -437,10 +403,6 @@
 [Coding The Matrix](http://codingthematrix.com/)
 
 [Get started with eDEX-UI, a Tron-influenced terminal program for tablets and desktops | Opensource.com](https://opensource.com/article/19/1/productivity-tool-edex-ui)
-
-[Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
-
-[Building a performant web scraper in Node.js, Pt. 1 — Finding the darn library](https://medium.com/@designman/building-a-performant-web-scraper-in-node-js-5f4449674163)
 
 [Advanced Github: Webhooks and Automation — Monday Morning Haskell](https://mmhaskell.com/blog/2018/5/14/advanced-github-webhooks-and-automation)
 
@@ -500,8 +462,6 @@
 
 [WATCH: High-speed metal 3D printing in new Digital Alloys video - 3D Printing Industry](https://3dprintingindustry.com/news/watch-high-speed-metal-3d-printing-in-new-digital-alloys-video-148736/)
 
-[Node.js TypeScript #1. Modules, process arguments and File System](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
-
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://medium.com/@robertnishihara/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
 
 [Announcing Open Web Components - DEV Community 👩‍💻👨‍💻](https://dev.to/thepassle/announcing-open-web-components-5h7)
@@ -550,8 +510,6 @@
 
 [500 miles on a GenZe 2.0 electric scooter (and why I no longer drive a car) - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/02/19/500-miles-genze-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F02%2F19%2F500-miles-genze-electric-scooter%2F)
 
-[gstacks13/plex_set_tracks: Change default Plex audio and subtitles for an entire series, all at once.](https://github.com/gstacks13/plex_set_tracks)
-
 [The discounted Garmin Speak is a tiny GPS with Alexa built in | Android Central](https://www-androidcentral-com.cdn.ampproject.org/v/s/www.androidcentral.com/thrifter-deal-garmin-speak-amazon-alexa?amp_js_v=a2&amp_gsa=1&amp#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.androidcentral.com%2Fthrifter-deal-garmin-speak-amazon-alexa)
 
 [WiFi Hides Inside a USB Cable | Hackaday](https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/)
@@ -571,8 +529,6 @@
 [AWS Firecracker: 10 things every tech pro should know - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/aws-firecracker-10-things-every-tech-pro-should-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Faws-firecracker-10-things-every-tech-pro-should-know%2F)
 
 [Canonical Is Planning Some Awesome New Content For The Snap Store](https://www.forbes.com/sites/jasonevangelho/2019/02/20/canonical-is-planning-some-awesome-new-content-for-the-snap-store/#30ad0d8120f8)
-
-[nwithan8/PlexRecs: A Discord bot that provides movie and TV show recommendations from your Plex library](https://github.com/nwithan8/PlexRecs)
 
 [Which benchmark programs are faster? | Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
@@ -606,11 +562,7 @@
 
 [A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 
-[Hyperganic: Voxel-based Software for Complex 3D Printing | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F4%2Fhyperganic-voxel-based-software-complex-3d-printing%2F)
-
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
-
-[Introduction to Kubeflow | Opensource.com](https://opensource.com/article/18/12/introduction-kubeflow?utm_campaign=intrel)
 
 [How to do Everything in Computer Vision](https://www.kdnuggets.com/2019/02/everything-computer-vision.html)
 
@@ -784,8 +736,6 @@
 
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
 
-[Node.js TypeScript #7. Creating a server and receiving requests - wanago.io - Marcin Wanago Blog](https://wanago.io/2019/03/25/node-js-typescript-7-creating-a-server-and-receiving-requests/)
-
 [Deploy Jenkins Helm chart on K3s running on Macbook](https://medium.com/@zhimin.wen/deploy-jenkins-helm-chart-on-k3s-running-on-macbook-484bb7ba588f)
 
 [CanonicalLtd/multipass: Multipass orchestrates virtual Ubuntu instances](https://github.com/CanonicalLtd/multipass)
@@ -812,8 +762,6 @@
 
 [ROS Gets Quick Sensor Debugging In The Terminal | Hackaday](https://hackaday.com/2019/03/31/ros-gets-quick-sensor-debugging-in-the-terminal/)
 
-[How Kubeflow is evolving without ksonnet | Opensource.com](https://opensource.com/article/19/4/kubeflow-evolution)
-
 [How to enable Remote Desktop connections to your Windows 10 PC OnMSFT.com](https://www.onmsft.com/how-to/how-to-enable-remote-desktop-connections-to-your-windows-10-pc)
 
 [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/)
@@ -821,8 +769,6 @@
 [NVIDIA SHIELD has a hidden split screen mode - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/nvidia-shield-has-a-hidden-split-screen-mode-02571804/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fnvidia-shield-has-a-hidden-split-screen-mode-02571804%2F)
 
 [How to run Chrome OS from a USB drive / Boing Boing](https://boingboing.net/2019/04/02/how-to-run-chrome-os-from-a-us.html)
-
-[Google Duplex arrives on iPhones, most Android devices – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/04/google-duplex-arrives-on-iphones-most-android-devices/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F04%2Fgoogle-duplex-arrives-on-iphones-most-android-devices%2F)
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
 
@@ -903,8 +849,6 @@
 [Teaching rigorous distributed systems with efficient model checking – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F04%2F17%2Fteaching-rigorous-distributed-systems-with-efficient-model-checking%2F)
 
 [Home - Flax Engine](https://flaxengine.com/home/)
-
-[Varken - The Ultimate Plex Ecosystem Dashboard - PleX](https://www.reddit.com/r/PleX/comments/ben93n/varken_the_ultimate_plex_ecosystem_dashboard/)
 
 [A Dummy’s Guide to Distributed Queues – freeCodeCamp.org](https://medium.freecodecamp.org/a-dummys-guide-to-distributed-queues-2cd358d83780)
 

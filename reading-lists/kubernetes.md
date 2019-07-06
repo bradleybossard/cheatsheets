@@ -107,3 +107,5 @@
 [Deploy TensorFlow models with Istio on Kubernetes – Towards Data Science](https://towardsdatascience.com/deploy-tensorflow-models-with-istio-on-kubernetes-dd0b2bd3e388)
 
 [Kubernetes ingress-nginx troubleshooting made easy with kubectl plugins](https://medium.com/@awkwardferny/kubernetes-ingress-nginx-troubleshooting-made-easy-with-kubectl-plugins-dbc8fdff35fd)
+
+[Base Images - kubedex.com](https://kubedex.com/base-images/)
