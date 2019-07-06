@@ -4,22 +4,15 @@
 
 [How to create a custom Ubuntu live from scratch – ITNEXT](https://itnext.io/how-to-create-a-custom-ubuntu-live-from-scratch-dd3b3f213f81)
 
-
-
 [Ask HN: Simple, beginner friendly ETL / Data Engineering project ideas? | Hacker News](https://news.ycombinator.com/item?id=17781762)
 
 [Professor Messer&#39;s CompTIA SY0-401 Security+ Training Course | Professor Messer IT Certification Training Courses](https://www.professormesser.com/security-plus/sy0-401/sy0-401-course-index/)
 
 [PC Gamer Top 100: the greatest games you can play today | PC Gamer](https://www.pcgamer.com/the-pc-gamer-top-100-new/)
 
-
 [Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
 
-
-
 [Learn Vim with these Great Free Books - OSS Blog](https://www.ossblog.org/learn-vim-great-free-books/)
-
-
 
 [Linux Plex Intel Quick Sync experience on Skylake/Kaby Lake = YOW - PleX](https://www.reddit.com/r/PleX/comments/9fwspn/linux_plex_intel_quick_sync_experience_on/)
 
@@ -53,39 +46,25 @@
 
 [Task &amp; time manager synchronised between devices (nvim, vim, browser) - vim](https://www.reddit.com/r/vim/comments/9hhz0r/task_time_manager_synchronised_between_devices/)
 
-
 [5 Ways to Make Your Linux Desktop Look Fantastic](https://www.makeuseof.com/tag/linux-desktop-look-fantastic/)
 
 [Shape Grammars](http://www.shapegrammar.org/)
-
-
-
 
 [Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
 
 [Swap space on Linux systems: A primer | Opensource.com](https://opensource.com/article/18/9/swap-space-linux-systems)
 
-
-
-
 [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
-
-
-
-
-
 
 [Making Android controlled Arduino quadcopter from scratch](https://www.linkedin.com/pulse/making-android-controlled-arduino-quadcopter-from-scratch-val-smirnov)
 
 [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
-
 
 [Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
 
 [Practicing ‘No Code’ Data Science - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/practicing-no-code-data-science)
 
 [Won’t You Be My Neighbor? Quickly Finding Who is Nearby](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/wont-you-be-my-neighbor-quickly-finding-who-is-nearby?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fwont-you-be-my-neighbor-quickly-finding-who-is-nearby)
-
 
 [Power of Virtualization Multiplied with Enhanced vGPU Solutions | NVIDIA Blog](https://blogs.nvidia.com/blog/2018/10/09/the-power-of-virtualization-multiplied-with-enhanced-vgpu-solutions/)
 
@@ -97,16 +76,13 @@
 
 [Home - Ballerina.io](https://ballerina.io/)
 
-
 [The Easy Way to Install Plex Media Server on Ubuntu 18.04 LTS - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2018/10/plex-media-server-ubuntu-snap-app/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2018%2F10%2Fplex-media-server-ubuntu-snap-app)
 
 [Libre sets La Frite mini computer board free](https://newatlas.com/libre-computer-la-frite/56750/)
 
 [18 Most Common Python List Questions | Learn Python (article) - DataCamp](https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python)
 
-
 [How to Backup USB Drives and Restore Them, Bootable State and All - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/guides/1721-clone-backup-usb-drive/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1721-clone-backup-usb-drive%2F)
-
 
 [Libre Computer&#39;s La Frite is a $20 single board computer ($5 and up during crowdfunding) - Liliputing](https://liliputing-com.cdn.ampproject.org/v/s/liliputing.com/2018/10/libre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fliliputing.com%2F2018%2F10%2Flibre-computers-la-frite-is-a-20-single-board-computer-5-and-up-during-crowdfunding.html)
 
@@ -120,11 +96,7 @@
 
 [Useful tools: Headless Chrome &amp; puppeteer for browser automation &amp; testing.](https://medium.com/square-corner-blog/useful-tools-headless-chrome-puppeteer-for-browser-automation-testing-1ac7707bad40)
 
-
 [What’s new in Angular Version 7 | InfoWorld](https://www.infoworld.com/article/3213244/angular/whats-new-in-angular-version-7-release-candidate-arrives.html)
-
-
-
 
 [ICMP Attacks](https://resources.infosecinstitute.com/icmp-attacks/#gref)
 
@@ -136,9 +108,7 @@
 
 [Base Images - kubedex.com](https://kubedex.com/base-images/)
 
-
 [pgSphere](https://pgsphere.github.io/)
-
 
 [Latest GPU-Z detects some fake NVIDIA cards - gHacks Tech News](https://www.ghacks.net/2018/10/13/latest-gpu-z-detects-some-fake-nvidia-cards/)
 
@@ -148,17 +118,13 @@
 
 [JAMstack. How sites are becoming even faster in a bloated web. - DEV Community 👩‍💻👨‍💻](https://dev.to/lewismenelaws/jamstack-how-sites-are-becoming-even-faster-in-a-bloated-web-fig)
 
-
-
 [Tea-School.js — Generate a PDF File From HTML And CSS in Node.js](https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37)
-
 
 [Getting to know some pragmatic programming language features](https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118)
 
 [First impressions of Pulumi - DEV Community 👩‍💻👨‍💻](https://dev.to/davidk01/first-impressions-of-pulumi-1knp)
 
 [Your First Open-Source Pull Request: a Walkthrough - DEV Community 👩‍💻👨‍💻](https://dev.to/healeycodes/your-first-open-source-pull-request-a-walkthrough-1omf)
-
 
 [Introduction](http://www.pbr-book.org/3ed-2018/Introduction.html)
 
@@ -170,13 +136,9 @@
 
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 
-
-
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/classification/)
 
 [Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
-
-
 
 [Amazon.com: Naked Statistics: Stripping the Dread from the Data (9780393347777): Charles Wheelan: Books](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_1)
 
@@ -184,13 +146,11 @@
 
 [How to Write a Resume That Will Get You an Interview](https://www.thebalancecareers.com/how-to-write-a-resume-2063336)
 
-
 [Zoom Stryder electric scooter is the full suspension e-scooter I&#39;ve needed](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2018/10/25/zoom-stryder-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2018%2F10%2F25%2Fzoom-stryder-electric-scooter%2F)
 
 [Ask HN: Are any remote desktop solutions good enough for full-time use? | Hacker News](https://news.ycombinator.com/item?id=18326030)
 
 [Roku Google Assistant support arrives, how to set it up - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/10/29/roku-google-assistant-available-now/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F10%2F29%2Froku-google-assistant-available-now%2F)
-
 
 [If the words &#39;Tigole&#39;, &#39;Featurettes&#39;, and &#39;Plex&#39; mean anything to you, i have some powershell scripts you may be interested in. - DataHoarder](https://www.reddit.com/r/DataHoarder/comments/9s6sln/if_the_words_tigole_featurettes_and_plex_mean/)
 
@@ -198,23 +158,15 @@
 
 [Now Available: Use the ASK Music Skill API to Stream from Your Music Service to Alexa Customers : Alexa Blogs](https://developer.amazon.com/blogs/alexa/post/870491c3-0e95-4ea9-9e2e-ce1ae0cf0a79/now-available-use-the-ask-music-skill-api-to-stream-from-your-music-service-to-alexa-customers)
 
-
 [Why you should avoid ORMs (with examples in Node.js)](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5)
 
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
-
 [r-darwish/alma: Create Arch Linux based bootable USB drives](https://github.com/r-darwish/alma)
-
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
 
 [How Road Redemption Redefines Motorcycle Combat, Out Today on PS4 – PlayStation.Blog](https://blog.us.playstation.com/2018/11/06/how-road-redemption-redefines-motorcycle-combat-out-today-on-ps4/)
-
-
-
-
-
 
 [Family Link For Chromebooks Hits The Beta Channel And It’s AWESOME](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/family-link-chromebook-supervised-users-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Ffamily-link-chromebook-supervised-users-android)
 
@@ -224,7 +176,6 @@
 
 [Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
 
-
 [Top 9 Free Phishing Simulators [Updated 2018]](https://resources.infosecinstitute.com/top-9-free-phishing-simulators/)
 
 [InfoSec Resources - IT Security Training &amp; Resources by InfoSec Institute](https://resources.infosecinstitute.com/)
@@ -233,11 +184,9 @@
 
 [Netflix’s ‘Roma’ Makes Estimated $200K In 5-day Thanksgiving Opening – Deadline](https://deadline-com.cdn.ampproject.org/v/s/deadline.com/2018/11/netflix-roma-opening-weekend-box-office-1202508491/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdeadline.com%2F2018%2F11%2Fnetflix-roma-opening-weekend-box-office-1202508491%2F)
 
-
 [Fast Pair now syncs Bluetooth accessories across Android devices, Chromebook support in 2019 - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/11/27/fast-pair-android-sync-chromebooks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F11%2F27%2Ffast-pair-android-sync-chromebooks%2F)
 
 [How to Install Wine on Ubuntu 18.04 LTS](https://vitux.com/how-to-install-wine-on-ubuntu/)
-
 
 [Navigation-optimized Google Assistant rolling out in Google Maps for Android - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/12/02/google-assistant-maps-navigation-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F12%2F02%2Fgoogle-assistant-maps-navigation-android%2F)
 
@@ -247,14 +196,11 @@
 
 [Udemy Free Coupons, 100% Off Udemy Coupons December 2018](https://couponscorpion.com/)
 
-
-
 [Play Tetris at your Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-tetris)
 
 [Stepper motor: Smooth acceleration vs. sudden, jerky velocity changes - arduino](https://www.reddit.com/r/arduino/comments/a4csj0/stepper_motor_smooth_acceleration_vs_sudden_jerky/)
 
 [Amazon adds location-specific reminders and routines to Alexa](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/12/10/alexa-location-specific-reminders-and-routines/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F12%2F10%2Falexa-location-specific-reminders-and-routines%2F)
-
 
 [Patch into The Matrix at the Linux command line | Opensource.com](https://opensource.com/article/18/12/linux-toy-cmatrix)
 
@@ -272,18 +218,13 @@
 
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
-
-
-
 [Oracle releases VirtualBox 6.0.0 with improved graphics, user interface and more | Packt Hub](https://hub.packtpub.com/oracle-releases-virtualbox-6-0-0-with-improved-graphics-user-interface-and-more/)
 
 [Chromebooks May be Able to Run Windows in the New Year | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/computing/chromebooks-windows-dual-boot/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fchromebooks-windows-dual-boot%2F)
 
-
 [Announcing Gluegun 2.0 — A delightful way to build command line apps in Node](https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d)
 
 [VirtualBox 6.0 3D/OpenGL Performance With VMSVGA Adapter - Phoronix](https://www.phoronix.com/scan.php?page=article&item=virtualbox-60-vmsvga&num=1)
-
 
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
@@ -291,30 +232,19 @@
 
 [eduArdo board helps you jump right in to Arduino development - Liliputing](https://liliputing.com/2018/12/eduardu-board-helps-you-jump-right-in-to-arduino-development.html)
 
-
 [First round of Amazon Echo Auto devices are shipping - CNET](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/first-round-of-amazon-echo-auto-devices-are-shipping/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Ffirst-round-of-amazon-echo-auto-devices-are-shipping%2F)
-
-
 
 [User guide: contents — scikit-learn 0.20.2 documentation](https://scikit-learn.org/stable/user_guide.html)
 
 [Learn data science with Python and R projects](https://www.dataquest.io/)
 
-
-
-
-
 [Text Summarization Using Keras Models – Hacker Noon](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)
 
 [Alexa Just Got a Heck of a Lot Smarter](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/alexa-wolfram-alpha,news-28914.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Falexa-wolfram-alpha%2Cnews-28914.html)
 
-
 [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-6a55981f3a7e)
 
-
-
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
-
 
 [Watch YouTube videos at the Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-youtube-dl)
 
@@ -334,11 +264,7 @@
 
 [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-Learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
 
-
 [RLbook2018.pdf - Google Drive](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
-
-
-
 
 [Amazon.com: Developer&#39;s Dilemma: The Secret World of Videogame Creators (Inside Technology) (9780262028196): Casey O&#39;Donnell, Wiebe E. Bijker, W. Bernard Carlson, Trevor Pinch: Books](https://www.amazon.com/Developers-Dilemma-Videogame-Creators-Technology/dp/0262028190/ref=as_li_ss_tl?ie=UTF8&qid=1447885313&sr=8-1&keywords=developer%27s+dilemma&linkCode=sl1&tag=sicaodo-20&linkId=9e190abc3825a5d89c98f032af611551)
 
@@ -350,7 +276,6 @@
 
 [Crazyflie 2.0 - We create open platforms that enable people to explore the world of flying robotics](https://www.seeedstudio.com/crazyflie.html)
 
-
 [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 [Robocademy | An online robotics academy](http://robocademy.com/)
@@ -358,7 +283,6 @@
 [The Science Behind Making Your Child Smarter - WSJ](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
 
 [Chapter 5. Guest Additions](http://www.virtualbox.org/manual/ch05.html)
-
 
 [Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
@@ -370,13 +294,9 @@
 
 [Aura: Speeds &amp; Simplifies ALL Your Scanning Needs | Indiegogo](https://www.indiegogo.com/projects/aura-speeds-simplifies-all-your-scanning-needs/#/)
 
-
 [Linux Release Roundup: Dash to Panel, Audacious, Linux 4.20 + More - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2018/12/linux-4-20-released)
 
-
 [Dart vs Swift: a comparison – Coding with Flutter – Medium](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
-
-
 
 [Three creepy, yet useful robots for rescue missions and deep space travel](https://www-teslarati-com.cdn.ampproject.org/v/s/www.teslarati.com/three-creepy-useful-robots-rescue-missions-deep-space-travel/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.teslarati.com%2Fthree-creepy-useful-robots-rescue-missions-deep-space-travel%2F)
 
@@ -384,17 +304,13 @@
 
 [Amazon Echo Wall Clock Review - The Kitchen Timer Missing Link](https://theinventory-com.cdn.ampproject.org/v/s/theinventory.com/i-hate-how-much-i-like-amazons-echo-wall-clock-1831322467/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftheinventory.com%2Fi-hate-how-much-i-like-amazons-echo-wall-clock-1831322467)
 
-
-
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
 
 [Signature Vinyl Record Player Classic Turntable Stereo System | Electrohome](https://www.electrohome.com/signature-vinyl-record-player-classic-turntable-stereo-system#)
 
 [Windows is coming to your Chromebook | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/windows-is-coming-to-your-chromebook/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwindows-is-coming-to-your-chromebook%2F)
 
-
 [Linear Algebra for Data Science – Ankit Rathi – Medium](https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0)
-
 
 [The Best Bicycles and Cycling Gear of 2018 • Gear Patrol](https://gearpatrol.com/2018/12/28/the-best-bicycles-and-cycling-gear-of-2018/)
 
@@ -406,11 +322,7 @@
 
 [Try These Mobile &#39;Lemmings&#39; Games Instead of Sony&#39;s Crappy Port](https://lifehacker.com/try-these-ios-and-android-lemmings-games-instead-of-son-1831360899)
 
-
-
-
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
-
 
 [Everything you need to know about tree data structures - DEV Community 👩‍💻👨‍💻](https://dev.to/leandrotk_/everything-you-need-to-know-about-tree-data-structures-2599)
 
@@ -420,20 +332,15 @@
 
 [How Google Maps Calculates The Shortest Route | Math Section](https://mathsection.com/how-google-maps-calculates-the-shortest-route/?cookie-state-change=1546220286234)
 
-
 [How to Control Your Amazon Echo from Anywhere Using Your Phone](https://www.howtogeek.com/253621/how-to-control-your-amazon-echo-from-anywhere/)
 
 [All Alexa devices can now remotely control music playback on Echo devices | AFTVnews](http://www.aftvnews.com/alexa-devices-can-now-remotely-control-music-playback-on-echo-devices/)
-
 
 [More Information on Version 2.0 of SelfCAD’s 3D Modeling Software | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)
 
 [Activation Functions in Neural Networks – Towards Data Science](https://towardsdatascience.com/activation-functions-in-neural-networks-83ff7f46a6bd)
 
-
 [This neural network can swap sheep for giraffe, jeans for skirts | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/01/01/this-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F01%2F01%2Fthis-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts%2F)
-
-
 
 [Blobmaker – a online tool that helps you create organic svg shapes - web_design](https://www.reddit.com/r/web_design/comments/abtktb/blobmaker_a_online_tool_that_helps_you_create/)
 
@@ -447,23 +354,17 @@
 
 [The Flutter Crash Course v1.0 launch - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/abtjt4/the_flutter_crash_course_v10_launch/)
 
-
 [Infinite Data Structures In JavaScript – Hacker Noon](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
 
 [Brewing Crazy Awesome Beer Cheap - Mr Crazy Kicks](https://www.mrcrazykicks.com/brewing-crazy-awesome-beer-cheap/)
 
-
-
 [Alibaba Open-Sources Mars to Complement NumPy – SyncedReview – Medium](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 
-
 [MIT researchers automate reverse engineering of 3D models - 3D Printing Industry](https://3dprintingindustry.com/news/mit-researchers-automate-reverse-engineering-of-3d-models-146286/)
-
 
 [Take to the virtual skies with FlightGear | Opensource.com](https://opensource.com/article/19/1/flightgear)
 
 [Apple Music UI in Flutter – aidxn – Medium](https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe)
-
 
 [How to securely erase hard drives (HDDs) and solid state drives (SSDs) | ZDNet](https://www.zdnet.com/article/how-to-securely-erase-hard-drives-hdds-and-solid-state-drives-ssds/#ftag=CAD-00-10aag7f)
 
@@ -471,9 +372,7 @@
 
 [The Sneerwell Flasks Online Shop | Gallantry](https://gallantry.com/collections/the-sneerwell)
 
-
 [A Beginner’s Guide to GraphQL – freeCodeCamp.org](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
-
 
 [Flutter: Don’t Fear the Garbage Collector – Flutter – Medium](https://medium.com/flutter-io/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30)
 
@@ -495,9 +394,6 @@
 
 [AWS RoboMaker: A cheat sheet - TechRepublic](https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/#ftag=CAD-00-10aag7f)
 
-
-
-
 [kinetic/Installation - ROS Wiki](http://wiki.ros.org/kinetic/Installation)
 
 [Moby](https://mobyproject.org/)
@@ -508,17 +404,13 @@
 
 [Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 
-
 [A Technical Follow-Up: How We Built the World’s Prettiest Auto-Generated Transit Maps](https://medium.com/transit-app/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f)
 
 [Free PBR Textures for everyone | cgbookcase.com](https://www.cgbookcase.com/)
 
-
 [17 penetration testing tools the pros use | CSO Online](https://www.csoonline.com/article/2943524/network-security/17-penetration-testing-tools-the-pros-use.amp.html)
 
 [dashengSun/hammer-vim: Navigate apps like Vim on Mac](https://github.com/dashengSun/hammer-vim)
-
-
 
 [Complicated patterns aren’t always that complicated. Usually it’s the simple ones that bite you.](https://hackernoon.com/complicated-patterns-arent-always-that-complicated-usually-it-s-the-simple-ones-that-bite-you-caf870f2bf03)
 
@@ -532,11 +424,9 @@
 
 [The best new 3D tools for 2019 | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/the-best-new-3d-tools-for-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2Fthe-best-new-3d-tools-for-2019)
 
-
 [Hey Google, what&#39;s new with the Assistant at CES this year?](https://www.blog.google/products/assistant/hey-google-whats-new-assistant-ces-year/)
 
 [A simple pair game made with Flutter, a custom library and the tunnel pattern.](https://medium.com/flutter-community/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1)
-
 
 [AstroNavigation | Vanderbilt University](https://my.vanderbilt.edu/astronav/)
 
@@ -564,21 +454,13 @@
 
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
-
-
-
-
 [Quickstart with Docker | Hasura 1.0 documentation](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)
-
-
 
 [Arduino Real Time Plotting With Python](https://www.instructables.com/id/Arduino-Real-Time-Plotting-With-Python/)
 
 [Securing Node.js apps with SSL/TLS – Noteworthy - The Journal Blog](https://blog.usejournal.com/securing-node-js-apps-with-ssl-tls-b3570dbf84a5)
 
-
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
-
 
 [[Tutorial] Asynchronous Flutter chat client with Go chat server which are powered by gRPC (simple…](https://medium.com/@amsokol.com/tutorial-asynchronous-flutter-chat-client-with-go-chat-server-which-are-powered-by-grpc-simple-ce913066861c)
 
@@ -590,19 +472,13 @@
 
 [Windows 10 has a built-in free screen recorder that you might not know about | BetaNews](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/)
 
-
-
 [Best DIY 3D Scanners of 2018 (You Can Build or Buy) | All3DP](https://m.all3dp.com/2/best-diy-3d-scanners-you-can-build-or-buy/)
-
 
 [Getting started with GitHub Actions? Try Actions Toolkit - DEV Community 👩‍💻👨‍💻](https://dev.to/mscccc/getting-started-with-github-actions-try-actions-toolkit-1902)
 
 [retroplasma/earth-reverse-engineering: WIP](https://github.com/retroplasma/earth-reverse-engineering)
 
-
 [How to start contributing to an OSS project – Coding Coach – Medium](https://medium.com/codingcoach-io/how-to-start-contributing-to-an-oss-project-e986d210dbcf)
-
-
 
 [3D Printed Holo Clock from mectok on Tindie](https://www.tindie.com/products/ekaggrat/3d-printed-holo-clock/)
 
@@ -616,31 +492,23 @@
 
 [Scaling a Distributed Stream Processor in a Containerized Environment](https://www.infoq.com/articles/distributed-stream-processor-container)
 
-
 [Jessie Frazelle&#39;s Blog: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
-
 
 [The 15-minute Chromebook tune-up | Computerworld](https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3333005/chrome-os/chromebook-tune-up.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3333005%2Fchrome-os%2Fchromebook-tune-up.html)
 
 [AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project – GeekWire](https://www-geekwire-com.cdn.ampproject.org/v/s/www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.geekwire.com%2F2019%2Faws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project%2F)
 
-
 [Introduction to Computer Vision in JavaScript using OpenCV.js ― Scotch.io](https://scotch.io/tutorials/introduction-to-computer-vision-in-javascript-using-opencvjs)
 
 [Set-up SSL in NodeJS and Express using OpenSSL – Hacker Noon](https://hackernoon.com/set-up-ssl-in-nodejs-and-express-using-openssl-f2529eab5bb)
 
-
-
 [Introduction to Ubuntu&#39;s LXD Containers - Make Tech Easier](https://www-maketecheasier-com.cdn.ampproject.org/v/s/www.maketecheasier.com/introduction-ubuntu-lxd-containers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.maketecheasier.com%2Fintroduction-ubuntu-lxd-containers%2F)
-
 
 [New Contest: 3D Printed Gears, Pulleys, and Cams | Hackaday](https://hackaday.com/2019/01/16/new-contest-3d-printed-gears-pulleys-and-cams/)
 
 [Bafang Ultra mid-drive offers over 2 kW of power, high torque &amp; high speed](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/01/17/bafang-ultra-electric-bicycle-motor/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F01%2F17%2Fbafang-ultra-electric-bicycle-motor%2F)
 
 [Introducing Scylla Open Source 3.0 - ScyllaDB](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/)
-
-
 
 [Tester Vs Client - ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/agwqah/tester_vs_client/)
 
@@ -654,7 +522,6 @@
 
 [Electrek - Charge Forward](https://electrek.co/page/6/)
 
-
 [Getting Started · TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
 [Introducing GitHub Actions | CSS-Tricks](https://css-tricks.com/introducing-github-actions/)
@@ -663,10 +530,7 @@
 
 [Orange Pi 3 SBC arrives with Allwinner H6 and mini-PCIe](http://linuxgizmos.com/orange-pi-3-sbc-arrives-with-allwinner-h6-and-mini-pcie/)
 
-
 [Why the stock market is going higher | greyenlightenment.com](http://greyenlightenment.com/why-the-stock-market-is-going-higher/)
-
-
 
 [An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
 
@@ -680,29 +544,23 @@
 
 [Hummingbird: Building Flutter for the Web – Flutter – Medium](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
 
-
-
 [Flight Tracker | Real-Time Tracking | Plane Finder](https://planefinder.net/)
 
 [JavaScript V8 Engine Explained – Hacker Noon](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef)
 
 [How to Perform Web-Scraping using Node.js- Part 2 – Bits and Pieces](https://blog.bitsrc.io/how-to-perform-web-scraping-using-node-js-part-2-7a365aeedb43)
 
-
 [Plex Mass Media Converter - homelab](https://www.reddit.com/r/homelab/comments/aj5ynv/plex_mass_media_converter/)
-
 
 [DeepTraffic - DQN Tuning for Traffic Navigation (75.01 MPH Solution)](https://towardsdatascience.com/deeptraffic-dqn-tuning-for-traffic-navigation-75-01-mph-solution-23087e2411cf)
 
 [Wine 4.0 Released, Here&#39;s How to Install it on Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/wine-4-0)
-
 
 [Get started with Freeplane, an open source mind mapping application | Opensource.com](https://opensource.com/article/19/1/productivity-tool-freeplane)
 
 [How OneGraph onboards users who are new to GraphQL ·](https://www.onegraph.com/blog/2019/01/24/How_OneGraph_onboards_users_new_to_GraphQL.html)
 
 [7-Segment Display is 3D Printed and Hand Cranked | Hackaday](https://hackaday.com/2019/01/26/7-segment-display-is-3d-printed-and-hand-cranked/)
-
 
 [I started building a DApp – these were my architectural difficulties](https://medium.com/@reime005/i-started-building-a-dapp-these-were-my-architectural-difficulties-a2c7139819cf)
 
@@ -714,14 +572,11 @@
 
 [3D Printed Microscope Stage Offers Precise Movement | Hackaday](https://hackaday.com/2019/01/26/3d-printed-microscope-stage-offers-precise-movement/)
 
-
 [Tutorial: Cheap Docker-server with autodeploy (Gitlab), automatic SSL (Let&#39;s Encrypt) and Docker-Compose - docker](https://www.reddit.com/r/docker/comments/ak2390/tutorial_cheap_dockerserver_with_autodeploy/)
 
 [Game Loop · Sequencing Patterns · Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 
-
 [Casting Concrete with 3D Printed Molds | Hackaday](https://hackaday.com/2019/01/27/casting-concrete-with-3d-printed-molds/)
-
 
 [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
@@ -730,7 +585,6 @@
 [Watch your code! – Flutter Community – Medium](https://medium.com/flutter-community/watch-your-code-dart-flutter-lint-55a697d01c8d)
 
 [Badland Brawler Lets Arduino Tackle Terrain | Hackaday](https://hackaday.com/2019/01/27/badland-brawler-lets-arduino-tackle-terrain/)
-
 
 [Autonomous cars for the rest of us](https://diyrobocars.com/)
 
@@ -746,22 +600,9 @@
 
 [Linux kernel development, open source productivity tools, create an automated calendar with Google apps, and more | Opensource.com](https://opensource.com/article/19/1/weekly-top-10-january-27)
 
-
-
-
-
-
-
-
-
-
-
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
 
-
-
 [Linux Fu: Easier File Watching | Hackaday](https://hackaday.com/2019/01/31/linux-fu-easier-file-watching/)
-
 
 [Android for Hackers: How to Turn an Android Phone into a Hacking Device Without Root « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/)
 
@@ -771,44 +612,31 @@
 
 [Pine64&#39;s single-board computers are getting 2019 upgrades, prices still start at $25 - Liliputing](https://liliputing.com/2019/02/pine64s-single-board-computers-are-getting-2019-upgrades-prices-still-start-at-25.html)
 
-
 [2.0.0 — Homebrew](https://brew.sh/2019/02/02/homebrew-2.0.0/)
 
 [Stan Winston School of Character Arts](https://www.stanwinstonschool.com/tutorials)
 
-
 [Top 5 open source network monitoring tools | Opensource.com](https://opensource.com/article/19/2/network-monitoring-tools)
 
-
-
-
 [Install Ubuntu Alongside Windows 8.1 or Windows 10](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
-
 
 [3D-Printed Tourbillon Demo Keeps the Time with Style | Hackaday](https://hackaday.com/2019/02/04/3d-printed-tourbillon-demo-keeps-the-time-with-style/)
 
 [Flutter — IDE Shortcuts for Faster Development – Flutter Community – Medium](https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b)
 
-
 [How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
-
 
 [Learn SQL for Data Science – Kanoki](https://kanoki.org/2019/02/02/learn-sql-for-data-science/)
 
-
 [New features in Webpack 5 – LogRocket](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
-
 
 [Getting started with Vim visual mode | Opensource.com](https://opensource.com/article/19/2/getting-started-vim-visual-mode)
 
 [The Linux command-line cheat sheet | Network World](https://www.networkworld.com/article/3337516/linux/the-linux-command-line-cheat-sheet.html)
 
-
-
 [A comprehensive survey on graph neural networks – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F02%2F06%2Fa-comprehensive-survey-on-graph-neural-networks%2F)
 
 [How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
-
 
 [Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
 
@@ -820,8 +648,6 @@
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
 
-
-
 [Arduino Enters the Cloud | Hackaday](https://hackaday.com/2019/02/07/arduino-enters-the-cloud/)
 
 [Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
@@ -829,9 +655,6 @@
 [Flutter Faster! – Flutter Community – Medium](https://medium.com/flutter-community/flutter-faster-db1e0fef57ba)
 
 [download](https://preciousplastic.com/en/videos/download.html)
-
-
-
 
 [What Is a DNS Cache and How Does It Work?](https://www.lifewire.com/what-is-a-dns-cache-817514)
 
@@ -841,16 +664,13 @@
 
 [csharad/mdi-dart: An auto-generated Material Design Icon package for Flutter.](https://github.com/csharad/mdi-dart)
 
-
 [In the mood for light reading? Nvidia is writing a book on ray tracing | PC Gamer](https://www-pcgamer-com.cdn.ampproject.org/v/s/www.pcgamer.com/amp/in-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcgamer.com%2Fin-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing%2F)
 
 [Why All Engineers Must Understand Management: The View from Both Ladders](https://hackernoon.com/why-all-engineers-must-understand-management-the-view-from-both-ladders-cc749ae14905)
 
-
 [Try out walrus operator in Python 3.8 – Hultnér – Medium](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 
 [Advanced Express](https://www.lynda.com/Node-js-tutorials/Advanced-Express/798496-2.html)
-
 
 [Using AWS Amplify feels like cheating. – Cory Schimmoeller – Medium](https://medium.com/@coryschimmoeller/using-aws-amplify-feels-like-cheating-e5eabcaea500)
 
@@ -858,9 +678,7 @@
 
 [virsh commands cheatsheet to manage KVM guest virtual machines - Computingforgeeks](https://computingforgeeks.com/virsh-commands-cheatsheet/)
 
-
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
-
 
 [Go by Example: Arrays](https://gobyexample.com/arrays)
 
@@ -868,29 +686,17 @@
 
 [QUT Robot Academy](https://robotacademy.net.au/)
 
-
-
 [Show off your Data Science skills with Kaggle Kernels](https://towardsdatascience.com/show-off-your-data-science-skills-with-kaggle-kernels-762403618c5)
 
 [WATCH: High-speed metal 3D printing in new Digital Alloys video - 3D Printing Industry](https://3dprintingindustry.com/news/watch-high-speed-metal-3d-printing-in-new-digital-alloys-video-148736/)
 
-
 [Node.js TypeScript #1. Modules, process arguments and File System](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
-
-
 
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://medium.com/@robertnishihara/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
 
 [Announcing Open Web Components - DEV Community 👩‍💻👨‍💻](https://dev.to/thepassle/announcing-open-web-components-5h7)
 
-
 [Two graphical tools for manipulating PDFs on the Linux desktop | Opensource.com](https://opensource.com/article/19/2/manipulating-pdfs-linux)
-
-
-
-
-
-
 
 [WebGL 2.0—Why It&#39;s the Path to Stable Open Standards-based 3D Web Graphics | Architosh](https://architosh.com/2019/02/webgl-2-0-why-its-the-path-to-stable-open-standards-based-3d-web-graphics/)
 
@@ -900,16 +706,11 @@
 
 [3rd Installment of “Ray Tracing Gems Now Available For Free - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/3rd-installment-of-ray-tracing-gems-now-available-for-free/)
 
-
-
-
-
 [CODEMAGIC — FLUTTER CI/CD . I – Chema Rubio – Medium](https://medium.com/@develodroid/codemagic-flutter-ci-cd-i-ee56abd749e0)
 
 [Goliath CNC - An Autonomous Robotic Machine Tool for Makers by Springa — Kickstarter](https://www.kickstarter.com/projects/2130625347/goliath-cnc-an-autonomous-robotic-machine-tool-for/rewards)
 
 [STEPCRAFT CNC SYSTEMS - A World Leader In Affordable, High-Performance, Multi-Function CNC Systems | Stepcraft, Inc.](https://www.stepcraft.us/)
-
 
 [Chris Gammell Talks Circuit Toolboxes | Hackaday](https://hackaday.com/2019/02/11/chris-gammell-talks-circuit-toolboxes/)
 
@@ -919,34 +720,25 @@
 
 [Five Pentesting Tools and Techniques (That Every Sysadmin Should Know)](https://medium.com/@jeremy.trinka/five-pentesting-tools-and-techniques-that-sysadmins-should-know-about-4ceca1488bff)
 
-
 [New AI fake text generator may be too dangerous to release, say creators | Technology | The Guardian](https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2019%2Ffeb%2F14%2Felon-musk-backed-ai-writes-convincing-news-fiction)
 
 [Disrupting the Disruptors, Low Cost 3D Metal Printing - 3D Printing Industry](https://3dprintingindustry.com/news/disrupting-the-disruptors-low-cost-3d-metal-printing-149122/)
 
-
 [Dark Net: Seasons, Episodes, Cast, Characters - Official Series Site | SHOWTIME](https://www.sho.com/dark-net)
-
 
 [Solidity tips and tricks to save gas and reduce bytecode size](https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6)
 
-
 [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-
 
 [Low-Poly Models – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/low-poly-models-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Flow-poly-models-need-to-know%2F)
 
 [Command Line Utilities… in the Cloud? | Hackaday](https://hackaday.com/2019/02/17/command-line-utilities-in-the-cloud/)
 
-
 [How to Name Your Smarthome Devices for Better Voice Control](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/404609/how-to-name-your-smarthome-devices-for-better-voice-control/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F404609%2Fhow-to-name-your-smarthome-devices-for-better-voice-control%2F)
-
 
 [Graph Databases for Beginners: Native vs. Non-Native Graph Technology](https://neo4j.com/blog/native-vs-non-native-graph-technology/)
 
-
 [Microsoft&#39;s new Remote Desktop Preview app leaks - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/microsofts-new-remote-desktop-preview-app-leaks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fmicrosofts-new-remote-desktop-preview-app-leaks%2F)
-
 
 [How To Program A Really Cheap Microcontroller | Hackaday](https://hackaday.com/2019/02/17/how-to-program-a-really-cheap-microcontroller/)
 
@@ -954,17 +746,11 @@
 
 [Cheerp 2.0 released — the most powerful Cheerp yet – leaningtech – Medium](https://medium.com/leaningtech/cheerp-2-0-release-880f249a5677)
 
-
 [Microsoft’s new Chrome extension lets you resume browsing across Windows 10 devices - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/2/19/18231226/microsoft-google-chrome-extension-timeline-support?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F2%2F19%2F18231226%2Fmicrosoft-google-chrome-extension-timeline-support)
 
 [BlazingSQL — The GPU SQL Engine now runs over 20X Faster than Apache Spark!](https://blog.blazingdb.com/blazingsql-the-gpu-sql-engine-now-runs-over-20x-faster-than-apache-spark-1b0bffc990a9)
 
-
-
-
-
 [New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
-
 
 [500 miles on a GenZe 2.0 electric scooter (and why I no longer drive a car) - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/02/19/500-miles-genze-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F02%2F19%2F500-miles-genze-electric-scooter%2F)
 
@@ -980,13 +766,11 @@
 
 [TCL’s 4K Roku TV is cheaper than ever, and Amazon has discounted Fire TV devices - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/good-deals/2019/2/19/18231547/tcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fgood-deals%2F2019%2F2%2F19%2F18231547%2Ftcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal)
 
-
 [Bank robbers flee the scene on shared electric scooters — Quartz](https://qz-com.cdn.ampproject.org/v/s/qz.com/1554101/bank-robbers-flee-the-scene-on-shared-electric-scooters/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fqz.com%2F1554101%2Fbank-robbers-flee-the-scene-on-shared-electric-scooters%2F)
 
 [How to List Installed Packages on Ubuntu and Debian](https://itsfoss.com/list-installed-packages-ubuntu/)
 
 [How to Create a Fake 3D Image Effect with WebGL | Codrops](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/)
-
 
 [Distributed Tracing, OpenTracing and Elastic APM | Elastic](https://www.elastic.co/blog/distributed-tracing-opentracing-and-elastic-apm)
 
@@ -998,7 +782,6 @@
 
 [nwithan8/PlexRecs: A Discord bot that provides movie and TV show recommendations from your Plex library](https://github.com/nwithan8/PlexRecs)
 
-
 [Which benchmark programs are faster? | Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
 [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets)
@@ -1009,14 +792,11 @@
 
 [Wired2Fish - Fishing How-To Guides, Tips, Videos and Tackle Reviews - Wired2Fish.com](https://www.wired2fish.com/)
 
-
-
 [18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
 
 [Menu — Bang Bang PDX](http://www.bangbangpdx.com/menu)
 
 [Building an advanced search engine powered by Elasticsearch](https://info.elastic.co/app-search-trial-v5.html?blade=elastic-adwords&hulk=cpc&ultron=app-search-trial&camp=rmk-appsearch&src=adwords&mdm=cpc&trm=&gclid=EAIaIQobChMIi5DhvpbS4AIVDo5-Ch3qmg4ZEAEYASAAEgI6D_D_BwE)
-
 
 [Ontology](https://ont.io/)
 
@@ -1025,7 +805,6 @@
 [RED is on its way to replacing Solidity for Smart Contracts. You need to see this. - CryptoMoonShots](https://www.reddit.com/r/CryptoMoonShots/comments/athffi/red_is_on_its_way_to_replacing_solidity_for_smart/)
 
 [Revealed! Flutter Slides at Flutter Live ‘18 – Flutter NYC – Medium](https://medium.com/flutter-nyc/revealed-flutter-slides-at-flutter-live-18-7af4cac17ed3)
-
 
 [Ivan Miranda Built a 3D-Printed CNC Router – Hackster Blog](https://blog.hackster.io/ivan-miranda-built-a-3d-printed-cnc-router-ab823c6bfa4b)
 
@@ -1039,15 +818,9 @@
 
 [Bogdan-Lyashenko/codecrumbs: Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.](https://github.com/Bogdan-Lyashenko/codecrumbs)
 
-
 [Get Started Cloud Application Platform for DevOps | Cloud Foundry](https://www.cloudfoundry.org/get-started/#cf-concepts)
 
-
 [Convolutional Neural Network – Towards Data Science](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529)
-
-
-
-
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
 
@@ -1057,33 +830,23 @@
 
 [A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 
-
 [Hyperganic: Voxel-based Software for Complex 3D Printing | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F4%2Fhyperganic-voxel-based-software-complex-3d-printing%2F)
 
 [Microsoft puts mixed reality, high-speed 3D rendering, and Kinect vision into cloud – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/02/augmented-reality-heads-to-the-cloud-with-azure-kinect-remote-rendering/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F02%2Faugmented-reality-heads-to-the-cloud-with-azure-kinect-remote-rendering%2F)
 
-
-
-
-
 [Visually build and modify an OpenCV Recipe - computervision](https://www.reddit.com/r/computervision/comments/auuwq3/visually_build_and_modify_an_opencv_recipe/)
 
-
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
-
 
 [Beaker: the Decentralized Read-Write Browser | Linux Journal](https://www.linuxjournal.com/content/beaker-decentralized-read-write-browser)
 
 [Write Web Assembly With LLVM – Richard Anaya – Medium](https://medium.com/@richardanaya/write-web-assembly-with-llvm-fbee788b2817)
-
-
 
 [Introduction to Kubeflow | Opensource.com](https://opensource.com/article/18/12/introduction-kubeflow?utm_campaign=intrel)
 
 [How to do Everything in Computer Vision](https://www.kdnuggets.com/2019/02/everything-computer-vision.html)
 
 [Solve any Image Classification Problem Quickly and Easily](https://www.kdnuggets.com/2018/12/solve-image-classification-problem-quickly-easily.html)
-
 
 [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
@@ -1092,8 +855,6 @@
 [Convolutional Neural Networks For All | Part I – Towards Data Science](https://towardsdatascience.com/convolutional-neural-networks-for-all-part-i-cdd282ee7947)
 
 [Visual Deep Computer Vision – Towards Data Science](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)
-
-
 
 [web/README.md at master · pikapkg/web](https://github.com/pikapkg/web/blob/master/README.md)
 
@@ -1109,11 +870,9 @@
 
 [Use Bayes&#39; Theorem to Investigate Food Allergies — Count Bayesie](https://www.countbayesie.com/blog/2016/1/22/why-you-should-believe-your-friends-claims-about-food-allergies)
 
-
 [www.dartmouth.edu](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter6.pdf)
 
 [Ultimaker Still Tweaking Cura 4.0](https://www.fabbaloo.com/blog/2019/3/2/ultimaker-still-tweaking-cura-40)
-
 
 [GitLab 11.9 Released With Automated Secrets Detection](https://www.infoq.com/news/2019/04/gitlab-11.9-secrets-detection)
 
@@ -1121,31 +880,21 @@
 
 [enfipy/grpchat: Chat based on gRPC](https://github.com/enfipy/grpchat)
 
-
 [LOW COST DIY 500€ CNC MILL: 22 Steps (with Pictures)](https://www.instructables.com/id/LOW-COST-DIY-500-CNC-MILL/)
 
 [CNC your own PCB with this Tutorial | Hackaday](https://hackaday.com/2019/03/03/cnc-your-own-pcb-with-this-tutorial/)
-
-
 
 [frontend-bootcamp/README.md at master · Microsoft/frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp/blob/master/README.md)
 
 [Understanding Decision Trees (once and for all!) 🙌](https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579)
 
-
 [Say hi to Flutter Press Weekly, the new weekly digest of Flutter development news and articles! - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/ax4z24/say_hi_to_flutter_press_weekly_the_new_weekly/)
 
-
 [The way to fully automated releases in open source projects](https://medium.com/@kevinkreuzer/the-way-to-fully-automated-releases-in-open-source-projects-44c015f38fd6)
-
 
 [Understanding Express.js: Creating Your Own Node HTTP Request Router](https://hackernoon.com/understanding-express-js-creating-your-own-node-http-request-router-4190a9b6aad6)
 
 [All-electric GT unveiled with over 300 miles of range and 5-min charging enabled by mysterious battery - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/electric-gt-piech-mark-zero-mysterious-battery/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Felectric-gt-piech-mark-zero-mysterious-battery%2F)
-
-
-
-
 
 [The Linux 5.0 kernel has been released #Linux « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/03/04/the-linux-5-0-kernel-has-been-released-linux/)
 
@@ -1157,15 +906,11 @@
 
 [Chromium OS Docs - Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Can-I-run-my-own-VM_kernel)
 
-
-
 [Fly Free vintage-inspired 50 mph electric motorcycles go on sale for $4,159 - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/fly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Ffly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159%2F)
 
 [Extracting faces using OpenCV Face Detection Neural Network](https://towardsdatascience.com/extracting-faces-using-opencv-face-detection-neural-network-475c5cd0c260)
 
 [Zero Downtime: Jenkins Continuous Deployment with Terraform on AWS | Toptal](https://www.toptal.com/devops/terraform-jenkins-continuous-deployment)
-
-
 
 [Building a Flask API to Automatically Extract Named Entities Using SpaCy](https://towardsdatascience.com/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6)
 
@@ -1173,27 +918,17 @@
 
 [Convert DXF to 3D Model for 3D Printing Tutorial - YouTube](https://m.youtube.com/watch?v=0JSkczTHAh8)
 
-
-
-
 [3D pens: the best you can buy in 2019 | Creative Bloq](https://www.creativebloq.com/buying-guides/best-3d-pens)
 
 [The NSA Makes Ghidra, a Powerful Cybersecurity Tool, Open Source](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/nsa-ghidra-open-source-tool/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fnsa-ghidra-open-source-tool%2F)
 
 [How to Restart Network in Ubuntu [Command Line &amp; GUI]](https://itsfoss.com/restart-network-ubuntu/)
 
-
 [13 open source backup solutions | Opensource.com](https://opensource.com/article/19/3/backup-solutions)
-
 
 [How to Become a Professional 3D Modeler | 3D Printing Blog | i.materialise](https://i.materialise.com/blog/en/how-to-become-a-professional-3d-modeler-an-interview-with-3d-modelling-expert-jonathan-williamson/)
 
 [Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators?intcmp=7016000000127cYAAQ)
-
-
-
-
-
 
 [Building Chrome Extensions 101 – Bits and Pieces](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
@@ -1203,23 +938,11 @@
 
 [17 Great SketchUp Tools You Should Know | All3DP](https://m.all3dp.com/2/great-sketchup-tools-you-should-know/?omhide=true&utm_source=Newsletter&utm_campaign=4e612fba33-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-4e612fba33-401459815)
 
-
-
-
 [OpenSCAD Gives You Parametric Boxes | Hackaday](https://hackaday.com/2019/03/11/openscad-gives-you-parametric-boxes/)
-
-
 
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
 
-
-
 [10 Docker Image Security Best Practices - docker](https://www.reddit.com/r/docker/comments/azssj2/10_docker_image_security_best_practices/)
-
-
-
-
-
 
 [INTRODUCING SINGULARITY DESKTOP: MOBILE AND REPRODUCIBLE LINUX CONTAINERS FOR COMPUTE-DRIVEN WORKLOADS ON MACOS - Sylabs.io](https://www.sylabs.io/2019/03/introducing-singularity-desktop-mobile-and-reproducible-linux-containers-for-compute-driven-workloads-on-macos/)
 
@@ -1227,19 +950,13 @@
 
 [The What and the Why of the Cluster API - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/)
 
-
 [DNS-Shell - An Interactive Shell Over DNS Channel - KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/2019/03/dns-shell-interactive-shell-over-dns.html?m=1)
-
 
 [How to configure Webpack 4 from scratch for a basic website - DEV Community 👩‍💻👨‍💻](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
 
-
-
 [TL;DR AWS — Open Distro Elasticsearch – Mayank Patel – Medium](https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a)
 
-
 [ArtisGL 3D Publisher-make your 3D models alive](https://artisgl.com/)
-
 
 [Chasing Linux Kernel Archives | Linux Journal](https://www.linuxjournal.com/content/chasing-archives)
 
@@ -1249,9 +966,7 @@
 
 [Pocket NC V2–50… More RMS’s = More Better – Hackster Blog](https://blog.hackster.io/pocket-nc-v2-50-more-rmss-more-better-d80dac7ae6df)
 
-
 [Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
-
 
 [Natural Language Processing’s Crazy Busy Start to 2019 | Slator](https://slator.com/technology/natural-language-processings-crazy-busy-start-to-2019/)
 
@@ -1259,22 +974,15 @@
 
 [The 4,000 Lines of Code Harvard Hopes Will Change Translation | Slator](https://slator.com/academia/4000-lines-code-harvard-hopes-will-change-translation/)
 
-
-
 [Chilicorn Rail · Markku.ai](https://markku.ai/post/chilicorn-rail/)
 
-
 [Light on Math ML: Attention with Keras – Towards Data Science](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
-
-
-
 
 [Google AI Blog: An All-Neural On-Device Speech Recognizer](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html?m=1)
 
 [MXNet made simple: Image Manipulation with OpenCV and MXNet | Arthur Caillau](https://arthurcaillau.com/mxnet-made-simple-image-manipulation/)
 
 [Introducing: Monado](https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html)
-
 
 [Isometric 2D Environments with Tilemap – Unity Blog](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/)
 
@@ -1306,9 +1014,7 @@
 
 [Find Files in Linux, Using the Command Line](https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/)
 
-
 [Pop OS 18.10 Linux Gaming Report: System76 Nails It For Nvidia And AMD Users](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/20/pop_os-18-10-linux-gaming-nvidia-radeon-user-experience/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F20%2Fpop_os-18-10-linux-gaming-nvidia-radeon-user-experience%2F)
-
 
 [How to rotate your source IP address - Black Hills Information Security](https://www.blackhillsinfosec.com/how-to-rotate-your-source-ip-address/)
 
@@ -1316,15 +1022,11 @@
 
 [Microsoft&#39;s Big Bet on Virtualized Desktops Reaches Public Preview - Petri](https://www.petri.com/microsofts-big-bet-on-virtualized-desktop-reaches-public-preview)
 
-
 [Autodesk joins with Rokoko for MoCap Marketplace | fxguide](https://www.fxguide.com/quicktakes/autodesk-joins-with-rokoko-fro-mocap-marketplace/)
-
 
 [Cytosurge 3D prints micro-Michelangelo&#39;s David - 3D Printing Industry](https://3dprintingindustry.com/news/cytosurge-3d-prints-micro-michelangelos-david-151705/)
 
-
 [Distributed systems - Mastering Blockchain](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787125445/1/ch01lvl1sec7/distributed-systems)
-
 
 [3D Printing a Combination Lock | Hackaday](https://hackaday.com/2019/03/21/3d-printing-a-combination-lock/)
 
@@ -1340,7 +1042,6 @@
 
 [Kicking neural network automation into high gear -- ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190321152843.htm)
 
-
 [Build a voting website that doesn’t crash under load (in under an hour)](https://itnext.io/build-a-voting-website-that-doesnt-crash-under-load-in-under-an-hour-1c0948307773)
 
 [Cryptographic essence of Bitcoin: Part 2 — How do public/private keys work?,](https://hackernoon.com/cryptographic-essence-of-bitcoin-part-2-how-do-public-private-keys-work-2c52d6bc8406)
@@ -1348,8 +1049,6 @@
 [Cryptographic essence of Bitcoin part # 1: What is a Hash function?](https://hackernoon.com/cryptographic-essence-of-bitcoin-part-1-what-is-a-hash-function-f468e7f72daa)
 
 [An Introduction to Existential Types – Stephen Bly – Medium](https://medium.com/@stephenebly/an-introduction-to-existential-types-25c130ba61a4)
-
-
 
 [ml-agents/README.md at master · Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents/blob/master/README.md)
 
@@ -1387,10 +1086,7 @@
 
 [CRFS: Container Registry Filesystem by Google - docker](https://www.reddit.com/r/docker/comments/b4boz9/crfs_container_registry_filesystem_by_google/)
 
-
 [felixse/FluentTerminal: A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
-
-
 
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
 
@@ -1398,9 +1094,7 @@
 
 [Category: 3D Printable | Blend Swap](https://www.blendswap.com/terms/category/3d-printable/page:11)
 
-
 [An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
-
 
 [Node.js TypeScript #7. Creating a server and receiving requests - wanago.io - Marcin Wanago Blog](https://wanago.io/2019/03/25/node-js-typescript-7-creating-a-server-and-receiving-requests/)
 
@@ -1414,27 +1108,19 @@
 
 [How to Perform a Task When a New File is Added to a Directory in Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/405468/how-to-perform-a-task-when-a-new-file-is-added-to-a-directory-in-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F405468%2Fhow-to-perform-a-task-when-a-new-file-is-added-to-a-directory-in-linux%2F)
 
-
 [Subscribers: Auto-Download Linux Journal From the Command Line (v2.0) | Linux Journal](https://www.linuxjournal.com/content/subscribers-auto-download-linux-journal-command-line-v20)
 
 [DIY: Build a Custom Minimal Linux Distribution from Source | Linux Journal](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)
 
 [jankais3r/DNoiSe: DNS noise generator that looks at your network activity and blends in. Requires pi-hole.](https://github.com/jankais3r/DNoiSe)
 
-
 [Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/27/solus-4-linux-gaming-report-nvidia-amd-steam/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F27%2Fsolus-4-linux-gaming-report-nvidia-amd-steam%2F)
 
-
-
 [Graph Theory — Graph Data Structures and Traversal Algorithms Made Easy](https://hackernoon.com/graph-theory-graph-data-structures-and-traversal-algorithms-made-easy-28c7154c9662)
-
-
 
 [Pixar’s Universal Scene Description for Unity out in Preview – Unity Blog](https://blogs.unity3d.com/2019/03/28/pixars-universal-scene-description-for-unity-out-in-preview/)
 
 [Casting Car Emblems Via 3D Printing | Hackaday](https://hackaday.com/2019/03/28/casting-car-emblems-via-3d-printing/)
-
-
 
 [How to run GETH from a Docker container – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-run-geth-from-a-docker-container-b6d30620ca74)
 
@@ -1442,13 +1128,9 @@
 
 [cnn-exposed/README.md at master · idealo/cnn-exposed](https://github.com/idealo/cnn-exposed/blob/master/README.md)
 
-
 [Po.et is Officially 100% Open Sourced – Po.et Blog](https://blog.po.et/po-et-api-open-source-aad87d92dc0c)
 
-
-
 [A warm welcome to DNS](https://powerdns.org/hello-dns/)
-
 
 [Solar EV Charging Options For Renters | CleanTechnica](https://cleantechnica.com/2019/03/30/solar-ev-charging-options-for-renters/)
 
@@ -1460,7 +1142,6 @@
 
 [How Kubeflow is evolving without ksonnet | Opensource.com](https://opensource.com/article/19/4/kubeflow-evolution)
 
-
 [AWS drops cloud storage price to $2/terabyte/month - Cloud - Storage - iTnews](https://www.itnews.com.au/news/aws-drops-cloud-storage-price-to-2-terabyte-month-523086)
 
 [Cloudflare is adding a free VPN to its 1.1.1.1 app - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/1/18290615/cloudflare-1-1-1-1-vpn-dns-resolver-security-privacy?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F1%2F18290615%2Fcloudflare-1-1-1-1-vpn-dns-resolver-security-privacy)
@@ -1469,39 +1150,27 @@
 
 [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/)
 
-
 [Cloudflare&#39;s privacy-focused DNS app adds a free VPN](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/04/01/cloudflares-privacy-focused-dns-app-adds-a-free-vpn/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F04%2F01%2Fcloudflares-privacy-focused-dns-app-adds-a-free-vpn%2F)
 
 [NVIDIA SHIELD has a hidden split screen mode - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/nvidia-shield-has-a-hidden-split-screen-mode-02571804/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fnvidia-shield-has-a-hidden-split-screen-mode-02571804%2F)
-
-
 
 [How to run Chrome OS from a USB drive / Boing Boing](https://boingboing.net/2019/04/02/how-to-run-chrome-os-from-a-us.html)
 
 [Google Duplex arrives on iPhones, most Android devices – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/04/google-duplex-arrives-on-iphones-most-android-devices/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F04%2Fgoogle-duplex-arrives-on-iphones-most-android-devices%2F)
 
-
-
-
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
-
-
 
 [Yes, it isn&#39;t completely useless. All About the Linux yes Command. - Putorius](https://www-putorius-net.cdn.ampproject.org/v/s/www.putorius.net/linux-yes-command.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.putorius.net%2Flinux-yes-command.html)
 
 [Putting Events in Their Place with Dynamic Routing | Confluent](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
 
-
-
 [KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/?m=1)
-
 
 [File sharing for Git with SparkleShare | Opensource.com](https://opensource.com/article/19/4/file-sharing-git)
 
 [Using Grafana for personal financial management – Denis Isidoro – Medium](https://medium.com/@den.isidoro/using-grafana-for-personal-financial-management-ac0e4d0cb43)
 
 [Dead-simple AWS GraphQL API . – mim Armand – Medium](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
-
 
 [Print Your Own Large Format Camera | Hackaday](https://hackaday.com/2019/04/04/print-your-own-large-format-camera/)
 
@@ -1513,8 +1182,6 @@
 
 [Run a server with Git | Opensource.com](https://opensource.com/article/19/4/server-administration-git)
 
-
-
 [[Project] Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
 
 [Basic Navigation in Flutter (Navigator only) — Cheatsheet](https://medium.com/filledstacks/basic-navigation-in-flutter-navigator-only-cheatsheet-9c2e2584a6b1)
@@ -1523,11 +1190,7 @@
 
 [How I went from being a contributor to an Open Source project maintainer](https://medium.freecodecamp.org/how-i-went-from-being-a-contributor-to-an-open-source-project-maintainer-acd8a6b316f5)
 
-
 [The Fast Remote Desktop Application – AnyDesk](https://anydesk.com/en/)
-
-
-
 
 [0.4.0 Release Notes · The Zig Programming Language](https://ziglang.org/download/0.4.0/release-notes.html)
 
@@ -1535,20 +1198,13 @@
 
 [VPN - a Very Precarious Narrative - Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html)
 
-
 [Free Ethical Hacking Course, Learn Penetration Testing Online | Cybrary](https://www.cybrary.it/course/ethical-hacking/)
 
 [Try Astrograph: Your GraphQL lens for Stellar blockchain — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/try-astrograph-your-graphql-lens-for-stellar-blockchain)
 
-
-
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
 
-
 [Google turns your Android phone into a security key – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/10/google-turns-your-android-phone-into-a-security-key/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F10%2Fgoogle-turns-your-android-phone-into-a-security-key%2F)
-
-
-
 
 [Adventures in Docker: Coding on a Remote Browser with VS Code &amp; ngrok | Elton Stoneman](https://blog.sixeyed.com/adventures-in-docker-coding-on-a-remote-browser/)
 
@@ -1562,21 +1218,15 @@
 
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
 
-
-
 [A comprehensive survey on graph neural networks – the morning paper](https://blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/)
 
 [Play Songs(MP3) With Arduino Using PWM on Speaker or Flyback Transformer: 6 Steps (with Pictures)](https://www.instructables.com/id/Play-SongsMP3-With-Arduino-Using-PWM-on-Speaker-or/)
 
-
-
 [cnc simulator on ios and android - Machinists](https://www.reddit.com/r/Machinists/comments/bcq3r5/cnc_simulator_on_ios_and_android/)
-
 
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
 [How to Spy on Network Relationships with Airgraph-Ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/spy-network-relationships-with-airgraph-ng-0193309/)
-
 
 [How to Hack Wi-Fi: Automating Wi-Fi Hacking with Besside-ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-automating-wi-fi-hacking-with-besside-ng-0176170/)
 
@@ -1588,20 +1238,13 @@
 
 [Wonder How To » Fresh Hacks For a Changing World](https://www.wonderhowto.com/)
 
-
 [Run Hello » Games](https://runhello.com/)
 
 [Using Gitlab’s CI for Periodic Data Mining – Towards Data Science](https://towardsdatascience.com/using-gitlabs-ci-for-periodic-data-mining-b3cc314ecd85)
 
-
 [The discrete-time physics hiding inside our continuous-time world](https://m.phys.org/news/2019-04-discrete-time-physics-continuous-time-world.html)
 
-
-
 [How to Design for Injection Molding | Cad Crowd](https://www-cadcrowd-com.cdn.ampproject.org/v/s/www.cadcrowd.com/blog/how-to-design-for-injection-molding/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cadcrowd.com%2Fblog%2Fhow-to-design-for-injection-molding%2F)
-
-
-
 
 [Grantham, Part 2](https://www.morningstar.com/videos/870607/grantham-part-2.html)
 
@@ -1615,7 +1258,6 @@
 
 [Open-source Tools for Binary Analysis and Rewriting](https://blogs.grammatech.com/open-source-tools-for-binary-analysis-and-rewriting)
 
-
 [GDC Vault - Everyone Watching This Is Fired](https://gdcvault.com/play/1025778/Everyone-Watching-This-Is)
 
 [Casting Car Emblems Via 3D Printing | Hackaday](https://hackaday.com/2019/03/28/casting-car-emblems-via-3d-printing/)
@@ -1623,7 +1265,6 @@
 [Casting CNC Parts In Aluminium | Hackaday](https://hackaday.com/2019/04/16/casting-cnc-parts-in-aluminium/)
 
 [Web Components: The Long Game – Infrequently Noted](https://infrequently.org/2017/10/web-components-the-long-game/)
-
 
 [Mozilla details Pyodide, which brings Python to browsers | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/04/16/mozilla-details-pyodide-a-project-that-aims-to-bring-python-to-web-browsers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F04%2F16%2Fmozilla-details-pyodide-a-project-that-aims-to-bring-python-to-web-browsers%2F)
 
@@ -1635,18 +1276,11 @@
 
 [Teaching rigorous distributed systems with efficient model checking – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F04%2F17%2Fteaching-rigorous-distributed-systems-with-efficient-model-checking%2F)
 
-
 [12 open-source tools that make Docker better | InfoWorld](https://www.infoworld.com/article/2966158/12-open-source-tools-that-make-docker-better.html)
 
 [Home - Flax Engine](https://flaxengine.com/home/)
 
-
-
-
-
 [Varken - The Ultimate Plex Ecosystem Dashboard - PleX](https://www.reddit.com/r/PleX/comments/ben93n/varken_the_ultimate_plex_ecosystem_dashboard/)
-
-
 
 [A Dummy’s Guide to Distributed Queues – freeCodeCamp.org](https://medium.freecodecamp.org/a-dummys-guide-to-distributed-queues-2cd358d83780)
 
@@ -1660,9 +1294,7 @@
 
 [Security.NL](https://www.security.nl/)
 
-
 [How to Remotely Turn On Your PC Over the Internet](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/192642/how-to-remotely-turn-on-your-pc-over-the-internet/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F192642%2Fhow-to-remotely-turn-on-your-pc-over-the-internet%2F)
-
 
 [How to Build Your Own 3D Printing Slicer From Scratch : 12 Steps](https://www.instructables.com/id/How-to-Build-Your-Own-3D-Printing-Slicer-From-Scra/)
 
@@ -1670,18 +1302,13 @@
 
 [G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)
 
-
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
-
 
 [The ABC of a great DApp Architecture – State of the ÐApps Blog](https://blog.stateofthedapps.com/the-abc-of-a-great-dapp-architecture-74c70443bc95)
 
 [How To Succeed When Printing With ABS | MatterHackers](https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs)
 
 [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
-
-
-
 
 [The Best Backyard Pizza Ovens | Serious Eats](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html)
 
@@ -1693,19 +1320,13 @@
 
 [EMUBook](http://emubook.emulation64.com/)
 
-
-
 [About This Book](https://www.textbook.ds100.org/about_this_book.html)
 
 [Plotting the Classics](https://www.inferentialthinking.com/chapters/01/3/Plotting_the_Classics)
 
-
-
 [How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
-
 [Global Illumination](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/global-illumination/)
-
 
 [Introducing GraphQL Birdseye 🦅 - DEV Community 👩‍💻👨‍💻](https://dev.to/novvumio/introducing-graphql-birdseye-33i6)
 
@@ -1718,9 +1339,6 @@
 [ParaMatters upgrades generative design software with CogniCAD 2.1 - 3D Printing Industry](https://3dprintingindustry.com/news/paramatters-upgrades-generative-design-software-with-cognicad-2-1-154608/)
 
 [📣 Announcing Tinkersynth 2.0 - Josh W. Comeau&#39;s Blog](https://www.joshwcomeau.com/posts/tinkersynth-two-point-oh/)
-
-
-
 
 [Microsoft unveils Windows Terminal, a new command line app for Windows - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/5/6/18527870/microsoft-windows-terminal-command-line-tool?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F5%2F6%2F18527870%2Fmicrosoft-windows-terminal-command-line-tool)
 
@@ -1744,15 +1362,11 @@
 
 [The Part-Time Parliament - Microsoft Research](https://www.microsoft.com/en-us/research/publication/part-time-parliament/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Flamport-paxos.pdf)
 
-
-
-
 [Build a Neural Network with Python | Enlight](https://enlight.nyc/projects/neural-network/)
 
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
 
 [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
-
 
 [How to set up Alexa Guard on an Amazon Echo](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/05/14/how-to-set-up-alexa-guard-on-an-amazon-echo.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F05%2F14%2Fhow-to-set-up-alexa-guard-on-an-amazon-echo.html)
 
@@ -1766,13 +1380,11 @@
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
-
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
 [Real-Time Rendering · Get Your Book, Make It Free](http://www.realtimerendering.com/blog/get-your-book-make-it-free/)
 
 [Real-Time Rendering · “An Introduction to Ray Tracing” is now free for download](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
-
 
 [Natural Language Processing: From Basics, to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
 
@@ -1796,7 +1408,6 @@
 
 [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
 
-
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
 [Monitoring Linux Processes using Prometheus and Grafana – devconnected](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
@@ -1808,7 +1419,6 @@
 [Bottom-up CMake introduction - Low Level Bits](https://lowlevelbits.org/bottom-up-cmake-introduction/)
 
 [Chatbot Development Challenges - Part 1 – Hacker Noon](https://hackernoon.com/chatbot-development-challenges-part-1-bf472062be60)
-
 
 [Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
 
@@ -1912,7 +1522,6 @@
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
 
-
 [KDE Plasma 5.16 Released – And It&#39;s a Big One! - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/06/kde-plasma-5-16-features-upgrade/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F06%2Fkde-plasma-5-16-features-upgrade)
 
 [The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)
@@ -1929,7 +1538,6 @@
 
 [LFS and Standards](http://www.linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
 
-
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
 [Top 20 Big Data Tools | Big Data Tools 2019](https://www.bibrainia.com/big-data-tools-2019)
@@ -1944,11 +1552,9 @@
 
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
 
-
 [NVIDIA Goes Live with Complimentary Course: &quot;Getting Started on AI with the Jetson Nano&quot; - News - SparkFun Electronics](https://www.sparkfun.com/news/2941)
 
 [Watch: Algorithm lets people walk right out of images - Futurity](https://www.futurity.org/photo-wake-up-moving-images-2084262-2/)
-
 
 [Building Debian images for Le Potato and OrangePi with debos](https://www.collabora.com/news-and-blog/blog/2019/06/18/building-debian-images-lepotato-orangepi-with-debos/)
 
@@ -1992,15 +1598,11 @@
 
 [How Do You Install Windows to Multiple Computers at Once?](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-do-you-install-windows-to-multiple-computers-at-onc-1835848340/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-do-you-install-windows-to-multiple-computers-at-onc-1835848340)
 
-
-
 [Fuchsia.dev: Google launches official site about Fuchsia OS - 9to5Google](https://9to5google.com/2019/06/28/google-launches-fuchsia-dev/)
-
 
 [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling: 8601405019745: Computer Science Books @ Amazon.com](https://www.amazon.com/gp/product/1118530802/)
 
 [Create a virtual machine with libvirt tools](https://www.lynda.com/Linux-tutorials/Create-virtual-machine-libvirt-tools/633864/671172-4.html?autoplay=true)
 
 [Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.lynda.com/Linux-tutorials/Linux-Foundation-Cert-Prep-Virtualization-Ubuntu/633864-2.html)
-
 
