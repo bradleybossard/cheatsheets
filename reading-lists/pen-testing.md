@@ -18,3 +18,16 @@
 
 [Whois/Registration Data Access Protocol (RDAP) - American Registry for Internet Numbers](https://www.arin.net/resources/registry/whois/rdap/)
 
+
+[Ethical Hacking 101: Web App Penetration Testing - a full course for beginners - YouTube](https://m.youtube.com/watch?v=2_lswM1S264&feature=youtu.be)
+
+[Android for Hackers: How to Turn an Android Phone into a Hacking Device Without Root « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/)
+
+[DNS-Shell - An Interactive Shell Over DNS Channel - KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/2019/03/dns-shell-interactive-shell-over-dns.html?m=1)
+
+[KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/?m=1)
+
+[Free Ethical Hacking Course, Learn Penetration Testing Online | Cybrary](https://www.cybrary.it/course/ethical-hacking/)
+
+[How to Hack Wi-Fi: Automating Wi-Fi Hacking with Besside-ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-automating-wi-fi-hacking-with-besside-ng-0176170/)
+[How to Hack Wi-Fi: Getting Started with the Aircrack-Ng Suite of Wi-Fi Hacking Tools « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-aircrack-ng-suite-wi-fi-hacking-tools-0147893/)

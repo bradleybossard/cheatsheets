@@ -196,8 +196,6 @@
 
 [Nvidia’s Scary AI Generates Humans That Look 100% Real](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/nvidia-ai-faces-generative-adversarial-network,news-28869.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Fnvidia-ai-faces-generative-adversarial-network%2Cnews-28869.html)
 
-[Ethical Hacking 101: Web App Penetration Testing - a full course for beginners - YouTube](https://m.youtube.com/watch?v=2_lswM1S264&feature=youtu.be)
-
 [Transform Your Amazon Echo Into a White Noise Machine With This Skill](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/transform-your-amazon-echo-into-a-white-noise-machine-w-1831133690/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Ftransform-your-amazon-echo-into-a-white-noise-machine-w-1831133690)
 
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
@@ -520,8 +518,6 @@
 
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
 
-[Android for Hackers: How to Turn an Android Phone into a Hacking Device Without Root « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/)
-
 [Building a performant web scraper in Node.js, Pt. 1 — Finding the darn library](https://medium.com/@designman/building-a-performant-web-scraper-in-node-js-5f4449674163)
 
 [Advanced Github: Webhooks and Automation — Monday Morning Haskell](https://mmhaskell.com/blog/2018/5/14/advanced-github-webhooks-and-automation)
@@ -800,8 +796,6 @@
 
 [The What and the Why of the Cluster API - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/)
 
-[DNS-Shell - An Interactive Shell Over DNS Channel - KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/2019/03/dns-shell-interactive-shell-over-dns.html?m=1)
-
 [How to configure Webpack 4 from scratch for a basic website - DEV Community 👩‍💻👨‍💻](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
 
 [TL;DR AWS — Open Distro Elasticsearch – Mayank Patel – Medium](https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a)
@@ -972,8 +966,6 @@
 
 [Putting Events in Their Place with Dynamic Routing | Confluent](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
 
-[KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/?m=1)
-
 [File sharing for Git with SparkleShare | Opensource.com](https://opensource.com/article/19/4/file-sharing-git)
 
 [Using Grafana for personal financial management – Denis Isidoro – Medium](https://medium.com/@den.isidoro/using-grafana-for-personal-financial-management-ac0e4d0cb43)
@@ -1000,8 +992,6 @@
 
 [VPN - a Very Precarious Narrative - Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html)
 
-[Free Ethical Hacking Course, Learn Penetration Testing Online | Cybrary](https://www.cybrary.it/course/ethical-hacking/)
-
 [Try Astrograph: Your GraphQL lens for Stellar blockchain — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/try-astrograph-your-graphql-lens-for-stellar-blockchain)
 
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
@@ -1025,10 +1015,6 @@
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
 [How to Spy on Network Relationships with Airgraph-Ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/spy-network-relationships-with-airgraph-ng-0193309/)
-
-[How to Hack Wi-Fi: Automating Wi-Fi Hacking with Besside-ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-automating-wi-fi-hacking-with-besside-ng-0176170/)
-
-[How to Hack Wi-Fi: Getting Started with the Aircrack-Ng Suite of Wi-Fi Hacking Tools « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-aircrack-ng-suite-wi-fi-hacking-tools-0147893/)
 
 [How to Hack Wi-Fi: Getting Started with Terms &amp; Technologies « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-terms-technologies-0147659/)
 
