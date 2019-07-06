@@ -109,8 +109,6 @@
 
 [Learn data science with Python and R projects](https://www.dataquest.io/)
 
-[Text Summarization Using Keras Models – Hacker Noon](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)
-
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
 
 [This Algorithm Can Create 3D Animations From A Single Still Image](https://futurism-com.cdn.ampproject.org/v/s/futurism.com/algorithm-3d-animations-still-image/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ffuturism.com%2Falgorithm-3d-animations-still-image%2F)
@@ -491,8 +489,6 @@
 
 [Chilicorn Rail · Markku.ai](https://markku.ai/post/chilicorn-rail/)
 
-[Light on Math ML: Attention with Keras – Towards Data Science](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
-
 [Introducing: Monado](https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html)
 
 [Isometric 2D Environments with Tilemap – Unity Blog](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/)
@@ -721,8 +717,6 @@
 
 [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 
-[An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
-
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
 [Bottom-up CMake introduction - Low Level Bits](https://lowlevelbits.org/bottom-up-cmake-introduction/)
@@ -736,8 +730,6 @@
 [Reinventing the Small Wind Turbine - LOW-TECH MAGAZINE](https://www.lowtechmagazine.com/2019/06/small-wooden-wind-turbines.html)
 
 [efficientnet · PyPI](https://pypi.org/project/efficientnet/)
-
-[AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
 
