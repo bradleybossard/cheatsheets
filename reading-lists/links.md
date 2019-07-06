@@ -12,8 +12,6 @@
 
 [Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
 
-[Learn Vim with these Great Free Books - OSS Blog](https://www.ossblog.org/learn-vim-great-free-books/)
-
 [Subnet Zero](https://blog.subnetzero.io/)
 
 [So You Want to Build a Language VM - Part 01 - Overview and a Simple VM](https://blog.subnetzero.io/project/iridium-vm/building-language-vm-part-01/)
@@ -39,8 +37,6 @@
 [Freaky Robotic Skin Brings Inanimate Objects to Life](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/freaky-robotic-skin-brings-inanimate-objects-to-life-1829169173/amp?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Ffreaky-robotic-skin-brings-inanimate-objects-to-life-1829169173)
 
 [Developing Modern APIs with Hapi.js, Node.js, and Redis](https://auth0-com.cdn.ampproject.org/v/s/auth0.com/blog/amp/developing-modern-apis-with-nodejs-hapijs-and-redis/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fauth0.com%2Fblog%2Fdeveloping-modern-apis-with-nodejs-hapijs-and-redis%2F)
-
-[Task &amp; time manager synchronised between devices (nvim, vim, browser) - vim](https://www.reddit.com/r/vim/comments/9hhz0r/task_time_manager_synchronised_between_devices/)
 
 [Shape Grammars](http://www.shapegrammar.org/)
 
@@ -119,8 +115,6 @@
 [Introduction](http://www.pbr-book.org/3ed-2018/Introduction.html)
 
 [Immersive Math](http://immersivemath.com/ila/index.html#)
-
-[mmp/pbrt-v3: Source code for pbrt, the renderer described in the third edition of &quot;Physically Based Rendering: From Theory To Implementation&quot;, by Matt Pharr, Wenzel Jakob, and Greg Humphreys.](https://github.com/mmp/pbrt-v3)
 
 [What is an artificial neural network? Here&#39;s everything you need to know | Digital Trends](https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/amp/)
 
@@ -350,8 +344,6 @@
 
 [17 penetration testing tools the pros use | CSO Online](https://www.csoonline.com/article/2943524/network-security/17-penetration-testing-tools-the-pros-use.amp.html)
 
-[dashengSun/hammer-vim: Navigate apps like Vim on Mac](https://github.com/dashengSun/hammer-vim)
-
 [Complicated patterns aren’t always that complicated. Usually it’s the simple ones that bite you.](https://hackernoon.com/complicated-patterns-arent-always-that-complicated-usually-it-s-the-simple-ones-that-bite-you-caf870f2bf03)
 
 [Asus’s new Chromebook Flip ups the screen size, adds 8th Gen Intel CPUs - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/circuitbreaker/2019/1/7/18171772/asus-chromebook-flip-c434-release-date-price-features-ces-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2019%2F1%2F7%2F18171772%2Fasus-chromebook-flip-c434-release-date-price-features-ces-2019)
@@ -456,8 +448,6 @@
 
 [Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library - Facebook Code](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
 
-[ssloy/tinyraytracer: A brief computer graphics / rendering course](https://github.com/ssloy/tinyraytracer)
-
 [Results are in: Fully fledged Dart takes first in 2019 poll - JAXenter](https://jaxenter.com/poll-results-dart-word-2019-154779.html)
 
 [Flight Tracker | Real-Time Tracking | Plane Finder](https://planefinder.net/)
@@ -529,8 +519,6 @@
 [Learn SQL for Data Science – Kanoki](https://kanoki.org/2019/02/02/learn-sql-for-data-science/)
 
 [New features in Webpack 5 – LogRocket](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
-
-[Getting started with Vim visual mode | Opensource.com](https://opensource.com/article/19/2/getting-started-vim-visual-mode)
 
 [A comprehensive survey on graph neural networks – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F02%2F06%2Fa-comprehensive-survey-on-graph-neural-networks%2F)
 
@@ -988,12 +976,6 @@
 
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
-[How to Spy on Network Relationships with Airgraph-Ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/spy-network-relationships-with-airgraph-ng-0193309/)
-
-[How to Hack Wi-Fi: Getting Started with Terms &amp; Technologies « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-terms-technologies-0147659/)
-
-[Hack Like a Pro: How to Create Your Own PRISM-Like Spy Tool « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-create-your-own-prism-like-spy-tool-0147583/)
-
 [Wonder How To » Fresh Hacks For a Changing World](https://www.wonderhowto.com/)
 
 [Run Hello » Games](https://runhello.com/)
@@ -1078,8 +1060,6 @@
 
 [How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
-[Global Illumination](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/global-illumination/)
-
 [Introducing GraphQL Birdseye 🦅 - DEV Community 👩‍💻👨‍💻](https://dev.to/novvumio/introducing-graphql-birdseye-33i6)
 
 [Surge is free, deep synth for every platform, with MPE support - CDM Create Digital Music](https://cdm.link/2019/04/surge-free-deep-synth-mpe/)
@@ -1095,8 +1075,6 @@
 [Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
 
 [A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
-
-[Implement dynamic rendering with Rendertron](https://codelabs.developers.google.com/codelabs/dynamic-rendering/#0)
 
 [Distributed consensus revised – Part II – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F05%2F08%2Fdistributed-consensus-revised-part-ii%2F)
 
@@ -1120,19 +1098,7 @@
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
-[Real-Time Rendering · Get Your Book, Make It Free](http://www.realtimerendering.com/blog/get-your-book-make-it-free/)
-
-[Real-Time Rendering · “An Introduction to Ray Tracing” is now free for download](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
-
 [Natural Language Processing: From Basics, to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
-
-[Matt Pharr](https://pharr.org/matt/)
-
-[Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
-
-[Physically Based Rendering – Part one](https://wiki.jmonkeyengine.org/jme3/advanced/pbr_part1.html)
-
-[Physically Based Rendering – Part Three](https://wiki.jmonkeyengine.org/jme3/advanced/pbr_part3.html#image-based-lighting-in-pbr)
 
 [Build a Game With JavaScript Tutorial - SDK SOFT](https://sdksoft.eu/build-a-game-with-javascript-tutorial/)
 
@@ -1156,17 +1122,11 @@
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
-[Supercharging Vim: Blazing fast search and global replace · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-blazing-fast-search/)
-
 [MoveIt 2 journey: sensorless collision detection with ROS 2](https://acutronicrobotics-com.cdn.ampproject.org/v/s/acutronicrobotics.com/news/ros2-sensorless-collision-detection/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Facutronicrobotics.com%2Fnews%2Fros2-sensorless-collision-detection%2F)
-
-[Zdog, A Clever And Easy To Use Renderer For Browsers, Is A Joy To Behold - Digg](https://digg-com.cdn.ampproject.org/v/digg.com/2019/zdog-pseudo-3d-rendering-desandro?amp_js_v=a2&amp_gsa=1&amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=http%3A%2F%2Fdigg.com%2F2019%2Fzdog-pseudo-3d-rendering-desandro)
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
-
-[Supercharging Vim: Navigate files instantly · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-navigate-files-instantly/)
 
 [AnionSoftware](http://anionsoftware.com/)
 
@@ -1175,8 +1135,6 @@
 [efficientnet · PyPI](https://pypi.org/project/efficientnet/)
 
 [Nvidia Jetson Robots Get A Head Start With Isaac Software Tools | Hackaday](https://hackaday.com/2019/06/01/nvidia-jetson-robots-get-a-head-start-with-isaac-software-tools/)
-
-[5 Best Milk Frothers to Complete Morning Lattes and Cappuccinos](https://www.bestproducts.com/appliances/small/a26827724/top-rated-milk-frothers/?src=arb_fb_ga_m_bmm_na&utm_source=google&utm_medium=cpc&utm_campaign=arb_fb_ga_m_bmm_na&gclid=CjwKCAjw583nBRBwEiwA7MKvoOlQ-ypzAIPao6ikTg7V1pdZZS6qFoB7-81GmcPLrtC3_SUrr71K_RoCEWIQAvD_BwE)
 
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
@@ -1188,8 +1146,6 @@
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
-[Google Chrome’s Hover Cards: My New Favorite Thing I Didn’t Know I Wanted](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/423816/google-chrome%E2%80%99s-hover-cards-is-my-new-favorite-thing-i-didn%E2%80%99t-know-i-wanted/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F423816%2Fgoogle-chrome%25E2%2580%2599s-hover-cards-is-my-new-favorite-thing-i-didn%25E2%2580%2599t-know-i-wanted%2F)
-
 [Dashing Diademata Delivers Second Generation ROS | Hackaday](https://hackaday.com/2019/06/06/dashing-diademata-delivers-second-generation-ros/)
 
 [Generate new repositories with repository templates - The GitHub Blog](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
@@ -1199,8 +1155,6 @@
 [How to Label Data — Create ML for Object Detection – Hacker Noon](https://hackernoon.com/how-to-label-data-create-ml-for-object-detection-82043957b5cb)
 
 [BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
-
-[Vimways ~ You Should Be Using Tags In Vim](https://vimways.org/2018/you-should-be-using-tags-in-vim/)
 
 [Random Forest vs Neural Network: Which is Better, and When?](https://www.kdnuggets.com/2019/06/random-forest-vs-neural-network.html)
 
