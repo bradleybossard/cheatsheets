@@ -130,3 +130,5 @@
 [Create a virtual machine with libvirt tools](https://www.lynda.com/Linux-tutorials/Create-virtual-machine-libvirt-tools/633864/671172-4.html?autoplay=true)
 
 [Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.lynda.com/Linux-tutorials/Linux-Foundation-Cert-Prep-Virtualization-Ubuntu/633864-2.html)
+
+[ZFS Indications Have Us Already Eager For Ubuntu 19.10 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-GRUB-More-Bits-April-Ubuntu)

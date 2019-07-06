@@ -357,8 +357,6 @@
 
 [Learn SQL for Data Science – Kanoki](https://kanoki.org/2019/02/02/learn-sql-for-data-science/)
 
-[New features in Webpack 5 – LogRocket](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
-
 [How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
 
 [Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
@@ -553,8 +551,6 @@
 
 [The What and the Why of the Cluster API - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/)
 
-[How to configure Webpack 4 from scratch for a basic website - DEV Community 👩‍💻👨‍💻](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
-
 [TL;DR AWS — Open Distro Elasticsearch – Mayank Patel – Medium](https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a)
 
 [ArtisGL 3D Publisher-make your 3D models alive](https://artisgl.com/)
@@ -579,8 +575,6 @@
 
 [10 Python image manipulation tools | Opensource.com](https://opensource.com/article/19/3/python-image-manipulation-tools)
 
-[Debug Istio components with GoLand – Lin Sun – Medium](https://medium.com/@linsun_unc/debug-istio-components-with-goland-b0f9f9f60384)
-
 [Quantum computing for the very curious](https://quantum.country/qcvc)
 
 [Exceptions tutorial from IH book](https://markkarpov.com/tutorial/exceptions.html)
@@ -601,11 +595,7 @@
 
 [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5)
 
-[Autodesk joins with Rokoko for MoCap Marketplace | fxguide](https://www.fxguide.com/quicktakes/autodesk-joins-with-rokoko-fro-mocap-marketplace/)
-
 [Cytosurge 3D prints micro-Michelangelo&#39;s David - 3D Printing Industry](https://3dprintingindustry.com/news/cytosurge-3d-prints-micro-michelangelos-david-151705/)
-
-[Distributed systems - Mastering Blockchain](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787125445/1/ch01lvl1sec7/distributed-systems)
 
 [3D Printing a Combination Lock | Hackaday](https://hackaday.com/2019/03/21/3d-printing-a-combination-lock/)
 
@@ -643,8 +633,6 @@
 
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
 
-[Deploy Jenkins Helm chart on K3s running on Macbook](https://medium.com/@zhimin.wen/deploy-jenkins-helm-chart-on-k3s-running-on-macbook-484bb7ba588f)
-
 [CanonicalLtd/multipass: Multipass orchestrates virtual Ubuntu instances](https://github.com/CanonicalLtd/multipass)
 
 [Deploy Jenkins Helm chart on K3s running on Macbook](https://medium.com/@zhimin.wen/deploy-jenkins-helm-chart-on-k3s-running-on-macbook-484bb7ba588f)
@@ -662,10 +650,6 @@
 [Po.et is Officially 100% Open Sourced – Po.et Blog](https://blog.po.et/po-et-api-open-source-aad87d92dc0c)
 
 [Solar EV Charging Options For Renters | CleanTechnica](https://cleantechnica.com/2019/03/30/solar-ev-charging-options-for-renters/)
-
-[Comparing Service Meshes: Istio, Linkerd and Consul Connect | CloudOps](https://www.cloudops.com/2019/03/comparing-service-meshes-istio-linkerd-and-consul-connect/)
-
-[Istio / What is Istio?](https://istio.io/docs/concepts/what-is-istio/)
 
 [ROS Gets Quick Sensor Debugging In The Terminal | Hackaday](https://hackaday.com/2019/03/31/ros-gets-quick-sensor-debugging-in-the-terminal/)
 
@@ -748,8 +732,6 @@
 [🤘🏻A brief history of WebComponents and a tutorial to make yours](https://medium.com/apprendre-le-web-avec-lior/a-brief-history-of-webcomponents-and-a-tutorial-to-make-yours-a52d329913e7)
 
 [MongoDB Data Types - 16 Various Data Types in MongoDB - DataFlair](https://data--flair-training.cdn.ampproject.org/v/s/data-flair.training/blogs/mongodb-data-types/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdata-flair.training%2Fblogs%2Fmongodb-data-types%2F)
-
-[ZFS Indications Have Us Already Eager For Ubuntu 19.10 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-GRUB-More-Bits-April-Ubuntu)
 
 [Teaching rigorous distributed systems with efficient model checking – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F04%2F17%2Fteaching-rigorous-distributed-systems-with-efficient-model-checking%2F)
 
