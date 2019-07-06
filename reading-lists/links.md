@@ -398,7 +398,6 @@
 
 [Moby](https://mobyproject.org/)
 
-[A Linux Dev Environment on Windows with WSL, Docker, tmux and VSCode — Nick Janetakis](https://nickjanetakis.com/blog/a-linux-dev-environment-on-windows-with-wsl-docker-tmux-and-vscode?mkt_tok=eyJpIjoiTmpsak5qSTNaVFkyWXpkbCIsInQiOiJ5MVR6SjZRd0hcL3dpd3BuZytRZU9yY0NtUkRTdGxjVGIzVkZCVXZzWlhkZVJraG5QNkh3Q3B6ZDBqNm9TeDJ4UzZjUFd2V0JDWUIxTG1xb2JYcFNuM1AyN00xYnB5b0w3dERGZzhkWFwvenFHZXM0RXJuMU1aWjIwN3FkMm1UaEptIn0%3D)
 
 [Believe it or not, Portland&#39;s nightlife is ranked higher than New York, Las Vegas | OregonLive.com](https://www.oregonlive.com/expo/life-and-culture/g66l-2019/01/ea280a3e405618/believe-it-or-not-portlands-ni.html)
 
@@ -454,7 +453,6 @@
 
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
-[Quickstart with Docker | Hasura 1.0 documentation](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)
 
 [Arduino Real Time Plotting With Python](https://www.instructables.com/id/Arduino-Real-Time-Plotting-With-Python/)
 
@@ -572,7 +570,6 @@
 
 [3D Printed Microscope Stage Offers Precise Movement | Hackaday](https://hackaday.com/2019/01/26/3d-printed-microscope-stage-offers-precise-movement/)
 
-[Tutorial: Cheap Docker-server with autodeploy (Gitlab), automatic SSL (Let&#39;s Encrypt) and Docker-Compose - docker](https://www.reddit.com/r/docker/comments/ak2390/tutorial_cheap_dockerserver_with_autodeploy/)
 
 [Game Loop · Sequencing Patterns · Game Programming Patterns](http://gameprogrammingpatterns.com/game-loop.html)
 
@@ -941,7 +938,6 @@
 
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
 
-[10 Docker Image Security Best Practices - docker](https://www.reddit.com/r/docker/comments/azssj2/10_docker_image_security_best_practices/)
 
 [INTRODUCING SINGULARITY DESKTOP: MOBILE AND REPRODUCIBLE LINUX CONTAINERS FOR COMPUTE-DRIVEN WORKLOADS ON MACOS - Sylabs.io](https://www.sylabs.io/2019/03/introducing-singularity-desktop-mobile-and-reproducible-linux-containers-for-compute-driven-workloads-on-macos/)
 
@@ -1082,7 +1078,6 @@
 
 [Ten Years in the Trenches: TV on the Radio Return to Dear Science | Pitchfork](https://pitchfork-com.cdn.ampproject.org/v/s/pitchfork.com/thepitch/ten-years-in-the-trenches-tv-on-the-radio-return-to-dear-science/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpitchfork.com%2Fthepitch%2Ften-years-in-the-trenches-tv-on-the-radio-return-to-dear-science%2F)
 
-[CRFS: Container Registry Filesystem by Google - docker](https://www.reddit.com/r/docker/comments/b4boz9/crfs_container_registry_filesystem_by_google/)
 
 [felixse/FluentTerminal: A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
 
@@ -1120,7 +1115,6 @@
 
 [Casting Car Emblems Via 3D Printing | Hackaday](https://hackaday.com/2019/03/28/casting-car-emblems-via-3d-printing/)
 
-[How to run GETH from a Docker container – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-run-geth-from-a-docker-container-b6d30620ca74)
 
 [Announcing Brigade 1.0: Build a new kind of distributed application - Open Source blog](https://cloudblogs.microsoft.com/opensource/2019/03/28/announcing-brigade-1-0-new-kind-of-distributed-application/)
 
@@ -1202,7 +1196,6 @@
 
 [Google turns your Android phone into a security key – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/10/google-turns-your-android-phone-into-a-security-key/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F10%2Fgoogle-turns-your-android-phone-into-a-security-key%2F)
 
-[Adventures in Docker: Coding on a Remote Browser with VS Code &amp; ngrok | Elton Stoneman](https://blog.sixeyed.com/adventures-in-docker-coding-on-a-remote-browser/)
 
 [Building Your First Neural Network – Towards Data Science](https://towardsdatascience.com/building-your-first-neural-network-using-keras-29ad67075191)
 
@@ -1272,7 +1265,6 @@
 
 [Teaching rigorous distributed systems with efficient model checking – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F04%2F17%2Fteaching-rigorous-distributed-systems-with-efficient-model-checking%2F)
 
-[12 open-source tools that make Docker better | InfoWorld](https://www.infoworld.com/article/2966158/12-open-source-tools-that-make-docker-better.html)
 
 [Home - Flax Engine](https://flaxengine.com/home/)
 
@@ -1432,7 +1424,6 @@
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
-[Docker Multi-Architecture Images – Davide Mauri – Medium](https://medium.com/@mauridb/docker-multi-architecture-images-365a44c26be6)
 
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
 
@@ -1462,7 +1453,6 @@
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
-[Docker builds on ARM servers: you’re not crazy, your builds really are 5x faster](https://www.balena.io/blog/docker-builds-on-arm-servers-youre-not-crazy-your-builds-really-are-5x-faster/)
 
 [Google Chrome’s Hover Cards: My New Favorite Thing I Didn’t Know I Wanted](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/423816/google-chrome%E2%80%99s-hover-cards-is-my-new-favorite-thing-i-didn%E2%80%99t-know-i-wanted/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F423816%2Fgoogle-chrome%25E2%2580%2599s-hover-cards-is-my-new-favorite-thing-i-didn%25E2%2580%2599t-know-i-wanted%2F)
 
@@ -1570,7 +1560,6 @@
 
 [Chrome OS will show Android cloud storage apps in Files app - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/chrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fchrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610%2F)
 
-[Experimenting with Rootless Docker - Tõnis Tiigi - Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 
 [9 Tools for Monitoring Internet Bandwidth and Speed in Linux](https://itsfoss.com/network-speed-monitor-linux/)
 
