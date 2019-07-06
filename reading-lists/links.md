@@ -201,7 +201,6 @@
 
 [Now Available: Use the ASK Music Skill API to Stream from Your Music Service to Alexa Customers : Alexa Blogs](https://developer.amazon.com/blogs/alexa/post/870491c3-0e95-4ea9-9e2e-ce1ae0cf0a79/now-available-use-the-ask-music-skill-api-to-stream-from-your-music-service-to-alexa-customers)
 
-[vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
 
 [Why you should avoid ORMs (with examples in Node.js)](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5)
 
@@ -783,7 +782,6 @@
 
 [Pine64&#39;s single-board computers are getting 2019 upgrades, prices still start at $25 - Liliputing](https://liliputing.com/2019/02/pine64s-single-board-computers-are-getting-2019-upgrades-prices-still-start-at-25.html)
 
-[What is pnpm?](https://flaviocopes.com/pnpm/)
 
 [2.0.0 — Homebrew](https://brew.sh/2019/02/02/homebrew-2.0.0/)
 
@@ -1461,7 +1459,6 @@
 
 [Casting Car Emblems Via 3D Printing | Hackaday](https://hackaday.com/2019/03/28/casting-car-emblems-via-3d-printing/)
 
-[Next Genpm | CSS-Tricks](https://css-tricks.com/next-genpm/)
 
 
 [How to run GETH from a Docker container – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-run-geth-from-a-docker-container-b6d30620ca74)
@@ -1785,7 +1782,6 @@
 
 
 
-[Automate NPM packages security fixes with recurring tasks on CI - DEV Community 👩‍💻👨‍💻](https://dev.to/alex_barashkov/automate-npm-packages-security-fixes-with-recurring-tasks-on-ci-pi1)
 
 [Linux 2FA: Secure SSH login with Google Authenticator and / or Yubi key](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
 
@@ -2051,7 +2047,6 @@
 
 [Facebook makes PyRobot open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
 
-[13 npm Tricks for Faster JavaScript Development – Bret Cameron – Medium](https://medium.com/@bretcameron/13-npm-tricks-for-faster-javascript-development-4fe2a83f87a2)
 
 
 [Better 3D Printable Bearing by BoomZilla1 - Thingiverse](https://www.thingiverse.com/thing:2746804)
@@ -2089,7 +2084,6 @@
 [Verizon&#39;s Visible Is Offering Truly Unlimited Cell Data Right Now and Honestly, Damn](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/verizons-visible-is-offering-truly-unlimited-cell-data-1835879423/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Fverizons-visible-is-offering-truly-unlimited-cell-data-1835879423)
 
 
-[tink FAQ: a Package Unwinder for JavaScript - 👩🏾‍💻 development - npm forum](https://npm.community/t/tink-faq-a-package-unwinder-for-javascript/3191)
 
 [832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1 | JonKensy.com](https://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/)
 
@@ -2110,5 +2104,4 @@
 
 [Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.lynda.com/Linux-tutorials/Linux-Foundation-Cert-Prep-Virtualization-Ubuntu/633864-2.html)
 
-[Creating malicious packages and dealing with them using npm audit](https://wanago.io/2019/04/15/malicious-packages-npm-audit/)
 
