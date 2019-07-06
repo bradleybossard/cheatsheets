@@ -59,3 +59,13 @@
 [Introducing Lightbeam: An Optimising Streaming WebAssembly Compiler](https://www-parity-io.cdn.ampproject.org/v/s/www.parity.io/lightbeam-webassembly-compiler/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.parity.io%2Flightbeam-webassembly-compiler%2F)
 
 [Qt for WebAssembly: Multithreading - Qt Blog](https://blog.qt.io/blog/2019/06/26/qt-webassembly-multithreading/)
+
+[Easily building WASM projects with go and go-wasm - DEV Community 👩‍💻👨‍💻](https://dev.to/swisschili/easily-building-wasm-projects-with-go-and-go-wasm-2ci2)
+
+[mahepe/box2d-wasm-experiment](https://github.com/mahepe/box2d-wasm-experiment)
+
+[wasmtime/WASI-overview.md at master · CraneStation/wasmtime](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-overview.md)
+
+[WASM to WASI - DEV Community 👩‍💻👨‍💻](https://dev.to/jeikabu/wasm-to-wasi-5866)
+
+[wasm-micro-runtime/README.md at master · intel/wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime/blob/master/README.md)

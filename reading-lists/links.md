@@ -342,7 +342,6 @@
 
 
 
-[Easily building WASM projects with go and go-wasm - DEV Community 👩‍💻👨‍💻](https://dev.to/swisschili/easily-building-wasm-projects-with-go-and-go-wasm-2ci2)
 
 [Amazon.com: Developer&#39;s Dilemma: The Secret World of Videogame Creators (Inside Technology) (9780262028196): Casey O&#39;Donnell, Wiebe E. Bijker, W. Bernard Carlson, Trevor Pinch: Books](https://www.amazon.com/Developers-Dilemma-Videogame-Creators-Technology/dp/0262028190/ref=as_li_ss_tl?ie=UTF8&qid=1447885313&sr=8-1&keywords=developer%27s+dilemma&linkCode=sl1&tag=sicaodo-20&linkId=9e190abc3825a5d89c98f032af611551)
 
@@ -1102,7 +1101,6 @@
 
 [Visual Deep Computer Vision – Towards Data Science](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)
 
-[mahepe/box2d-wasm-experiment](https://github.com/mahepe/box2d-wasm-experiment)
 
 
 [web/README.md at master · pikapkg/web](https://github.com/pikapkg/web/blob/master/README.md)
@@ -1441,7 +1439,6 @@
 [Graph Theory — Graph Data Structures and Traversal Algorithms Made Easy](https://hackernoon.com/graph-theory-graph-data-structures-and-traversal-algorithms-made-easy-28c7154c9662)
 
 
-[wasmtime/WASI-overview.md at master · CraneStation/wasmtime](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-overview.md)
 
 [Pixar’s Universal Scene Description for Unity out in Preview – Unity Blog](https://blogs.unity3d.com/2019/03/28/pixars-universal-scene-description-for-unity-out-in-preview/)
 
@@ -1719,7 +1716,6 @@
 
 [How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
-[WASM to WASI - DEV Community 👩‍💻👨‍💻](https://dev.to/jeikabu/wasm-to-wasi-5866)
 
 [Global Illumination](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/global-illumination/)
 
@@ -1764,7 +1760,6 @@
 [Linux 2FA: Secure SSH login with Google Authenticator and / or Yubi key](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
 
 
-[wasm-micro-runtime/README.md at master · intel/wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime/blob/master/README.md)
 
 [Build a Neural Network with Python | Enlight](https://enlight.nyc/projects/neural-network/)
 
