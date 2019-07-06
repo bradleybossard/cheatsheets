@@ -24,10 +24,6 @@
 
 [Caddy - A HTTP/2 Web Server with Automatic HTTPS for Websites](https://www-tecmint-com.cdn.ampproject.org/v/s/www.tecmint.com/install-caddy-web-server-in-centos-ubuntu/amp/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tecmint.com%2Finstall-caddy-web-server-in-centos-ubuntu%2F)
 
-[Welcome to KVM virtualization - Thorough introduction](https://www.dedoimedo.com/computers/kvm-intro.html)
-
-[KVM/Networking - Community Help Wiki](https://help.ubuntu.com/community/KVM/Networking)
-
 [Introduction](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-intro.html)
 
 [Freaky Robotic Skin Brings Inanimate Objects to Life](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/freaky-robotic-skin-brings-inanimate-objects-to-life-1829169173/amp?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Ffreaky-robotic-skin-brings-inanimate-objects-to-life-1829169173)
@@ -546,8 +542,6 @@
 
 [Web scraping with Python — A to copy Z – Towards Data Science](https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7)
 
-[virsh commands cheatsheet to manage KVM guest virtual machines - Computingforgeeks](https://computingforgeeks.com/virsh-commands-cheatsheet/)
-
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
 
 [Go by Example: Arrays](https://gobyexample.com/arrays)
@@ -821,8 +815,6 @@
 [3D Printing a Combination Lock | Hackaday](https://hackaday.com/2019/03/21/3d-printing-a-combination-lock/)
 
 [12 open source tools for natural language processing | Opensource.com](https://opensource.com/article/19/3/natural-language-processing-tools)
-
-[Setup Headless Virtualization Server Using KVM In Ubuntu 18.04 LTS - OSTechNix](https://www.ostechnix.com/setup-headless-virtualization-server-using-kvm-ubuntu/)
 
 [A Pirates Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
 
