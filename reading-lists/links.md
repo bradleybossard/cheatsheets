@@ -480,7 +480,6 @@
 
 [AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project – GeekWire](https://www-geekwire-com.cdn.ampproject.org/v/s/www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.geekwire.com%2F2019%2Faws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project%2F)
 
-[Introduction to Computer Vision in JavaScript using OpenCV.js ― Scotch.io](https://scotch.io/tutorials/introduction-to-computer-vision-in-javascript-using-opencvjs)
 
 [Set-up SSL in NodeJS and Express using OpenSSL – Hacker Noon](https://hackernoon.com/set-up-ssl-in-nodejs-and-express-using-openssl-f2529eab5bb)
 
@@ -807,7 +806,6 @@
 
 [Microsoft puts mixed reality, high-speed 3D rendering, and Kinect vision into cloud – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/02/augmented-reality-heads-to-the-cloud-with-azure-kinect-remote-rendering/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F02%2Faugmented-reality-heads-to-the-cloud-with-azure-kinect-remote-rendering%2F)
 
-[Visually build and modify an OpenCV Recipe - computervision](https://www.reddit.com/r/computervision/comments/auuwq3/visually_build_and_modify_an_opencv_recipe/)
 
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
@@ -878,7 +876,6 @@
 
 [Fly Free vintage-inspired 50 mph electric motorcycles go on sale for $4,159 - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/fly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Ffly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159%2F)
 
-[Extracting faces using OpenCV Face Detection Neural Network](https://towardsdatascience.com/extracting-faces-using-opencv-face-detection-neural-network-475c5cd0c260)
 
 [Zero Downtime: Jenkins Continuous Deployment with Terraform on AWS | Toptal](https://www.toptal.com/devops/terraform-jenkins-continuous-deployment)
 
@@ -943,7 +940,6 @@
 
 [Google AI Blog: An All-Neural On-Device Speech Recognizer](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html?m=1)
 
-[MXNet made simple: Image Manipulation with OpenCV and MXNet | Arthur Caillau](https://arthurcaillau.com/mxnet-made-simple-image-manipulation/)
 
 [Introducing: Monado](https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html)
 
@@ -1015,7 +1011,6 @@
 
 [ml-agents/README.md at master · Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents/blob/master/README.md)
 
-[Use OpenCV in JavaScript and visually build CV processing recipes - computervision](https://www.reddit.com/r/computervision/comments/b40dac/use_opencv_in_javascript_and_visually_build_cv/)
 
 [Don&#39;t Delay() Use an Arduino Task Scheduler Today! - Hackster.io](https://www.hackster.io/GadgetsToGrow/don-t-delay-use-an-arduino-task-scheduler-today-215cfe)
 
