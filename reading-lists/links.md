@@ -283,7 +283,6 @@
 [Aura: Speeds &amp; Simplifies ALL Your Scanning Needs | Indiegogo](https://www.indiegogo.com/projects/aura-speeds-simplifies-all-your-scanning-needs/#/)
 
 
-[Dart vs Swift: a comparison – Coding with Flutter – Medium](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
 
 [Three creepy, yet useful robots for rescue missions and deep space travel](https://www-teslarati-com.cdn.ampproject.org/v/s/www.teslarati.com/three-creepy-useful-robots-rescue-missions-deep-space-travel/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.teslarati.com%2Fthree-creepy-useful-robots-rescue-missions-deep-space-travel%2F)
 
@@ -337,7 +336,6 @@
 
 [Bayesian Neural Network Series Post 1: Need for Bayesian Networks](https://medium.com/@shridhar743/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
 
-[The Flutter Crash Course v1.0 launch - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/abtjt4/the_flutter_crash_course_v10_launch/)
 
 [Infinite Data Structures In JavaScript – Hacker Noon](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
 
@@ -349,7 +347,6 @@
 
 [Take to the virtual skies with FlightGear | Opensource.com](https://opensource.com/article/19/1/flightgear)
 
-[Apple Music UI in Flutter – aidxn – Medium](https://medium.com/@aidanmccomas2_43918/apple-music-ui-in-flutter-49f26e3e2fbe)
 
 [How to securely erase hard drives (HDDs) and solid state drives (SSDs) | ZDNet](https://www.zdnet.com/article/how-to-securely-erase-hard-drives-hdds-and-solid-state-drives-ssds/#ftag=CAD-00-10aag7f)
 
@@ -359,21 +356,14 @@
 
 [A Beginner’s Guide to GraphQL – freeCodeCamp.org](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 
-[Flutter: Don’t Fear the Garbage Collector – Flutter – Medium](https://medium.com/flutter-io/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30)
 
-[Pitching Flutter to your company or client – Flutter – Medium](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 
-[MacOS install - Flutter](https://flutter.io/docs/get-started/install/macos)
 
-[Tutorials - Flutter](https://flutter.io/docs/reference/tutorials)
 
-[Codelabs - Flutter](https://flutter.io/docs/codelabs)
 
-[nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples?files=1)
 
 [Dart Language | Dart](https://www.dartlang.org/guides/language)
 
-[Google Developers Blog: Flutter 1.0: Google’s Portable UI Toolkit](https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html?m=1)
 
 [Hummingbird vs Angular Dart – Raveesh Agarwal – Medium](https://medium.com/@raveeshagarwal/hummingbird-vs-angular-dart-b636b7147099)
 
@@ -410,13 +400,11 @@
 
 [Hey Google, what&#39;s new with the Assistant at CES this year?](https://www.blog.google/products/assistant/hey-google-whats-new-assistant-ces-year/)
 
-[A simple pair game made with Flutter, a custom library and the tunnel pattern.](https://medium.com/flutter-community/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1)
 
 [AstroNavigation | Vanderbilt University](https://my.vanderbilt.edu/astronav/)
 
 [Troubadour: A Natural Language Processing platform using decentralized cloud-computing](https://medium.com/iex-ec/troubadour-a-natural-language-processing-platform-using-decentralized-cloud-computing-70cc04e8e03d)
 
-[Simple Flutter Patterns – Flutter Community – Medium](https://medium.com/flutter-community/simple-flutter-patterns-325a91a3b8f2)
 
 [YDLIDAR X4 - Google Search](https://www.google.com/search?q=YDLIDAR+X4+&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
 
@@ -445,7 +433,6 @@
 
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
 
-[[Tutorial] Asynchronous Flutter chat client with Go chat server which are powered by gRPC (simple…](https://medium.com/@amsokol.com/tutorial-asynchronous-flutter-chat-client-with-go-chat-server-which-are-powered-by-grpc-simple-ce913066861c)
 
 [Could Koazee be for Go like lodash is for NodeJS? – Iván Corrales Solera – Medium](https://medium.com/@ivan.corrales.solera/could-koazee-be-for-go-like-lodash-is-for-nodejs-5d08b1d3f01e)
 
@@ -493,7 +480,6 @@
 
 [Tester Vs Client - ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/agwqah/tester_vs_client/)
 
-[Flutter for Junior Devs | The Flutter Crash Course](https://fluttercrashcourse.com/courses/juniordevs)
 
 [Generics · TypeScript](https://www.typescriptlang.org/docs/handbook/generics.html)
 
@@ -514,7 +500,6 @@
 
 [An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
 
-[Code Sharing with Bloc – Flutter Community – Medium](https://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef)
 
 [Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library - Facebook Code](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
 
@@ -522,7 +507,6 @@
 
 [Results are in: Fully fledged Dart takes first in 2019 poll - JAXenter](https://jaxenter.com/poll-results-dart-word-2019-154779.html)
 
-[Hummingbird: Building Flutter for the Web – Flutter – Medium](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
 
 [Flight Tracker | Real-Time Tracking | Plane Finder](https://planefinder.net/)
 
@@ -560,7 +544,6 @@
 [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
 
-[Watch your code! – Flutter Community – Medium](https://medium.com/flutter-community/watch-your-code-dart-flutter-lint-55a697d01c8d)
 
 [Badland Brawler Lets Arduino Tackle Terrain | Hackaday](https://hackaday.com/2019/01/27/badland-brawler-lets-arduino-tackle-terrain/)
 
@@ -598,7 +581,6 @@
 
 [3D-Printed Tourbillon Demo Keeps the Time with Style | Hackaday](https://hackaday.com/2019/02/04/3d-printed-tourbillon-demo-keeps-the-time-with-style/)
 
-[Flutter — IDE Shortcuts for Faster Development – Flutter Community – Medium](https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b)
 
 [How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
 
@@ -627,7 +609,6 @@
 
 [Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
 
-[Flutter Faster! – Flutter Community – Medium](https://medium.com/flutter-community/flutter-faster-db1e0fef57ba)
 
 [download](https://preciousplastic.com/en/videos/download.html)
 
@@ -637,7 +618,6 @@
 
 [A Crash Course In 3D Printed Venturi Pumps | Hackaday](https://hackaday.com/2019/02/08/a-crash-course-in-3d-printed-venturi-pumps/)
 
-[csharad/mdi-dart: An auto-generated Material Design Icon package for Flutter.](https://github.com/csharad/mdi-dart)
 
 [In the mood for light reading? Nvidia is writing a book on ray tracing | PC Gamer](https://www-pcgamer-com.cdn.ampproject.org/v/s/www.pcgamer.com/amp/in-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcgamer.com%2Fin-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing%2F)
 
@@ -680,7 +660,6 @@
 
 [3rd Installment of “Ray Tracing Gems Now Available For Free - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/3rd-installment-of-ray-tracing-gems-now-available-for-free/)
 
-[CODEMAGIC — FLUTTER CI/CD . I – Chema Rubio – Medium](https://medium.com/@develodroid/codemagic-flutter-ci-cd-i-ee56abd749e0)
 
 [Goliath CNC - An Autonomous Robotic Machine Tool for Makers by Springa — Kickstarter](https://www.kickstarter.com/projects/2130625347/goliath-cnc-an-autonomous-robotic-machine-tool-for/rewards)
 
@@ -776,7 +755,6 @@
 
 [RED is on its way to replacing Solidity for Smart Contracts. You need to see this. - CryptoMoonShots](https://www.reddit.com/r/CryptoMoonShots/comments/athffi/red_is_on_its_way_to_replacing_solidity_for_smart/)
 
-[Revealed! Flutter Slides at Flutter Live ‘18 – Flutter NYC – Medium](https://medium.com/flutter-nyc/revealed-flutter-slides-at-flutter-live-18-7af4cac17ed3)
 
 [Ivan Miranda Built a 3D-Printed CNC Router – Hackster Blog](https://blog.hackster.io/ivan-miranda-built-a-3d-printed-cnc-router-ab823c6bfa4b)
 
@@ -784,7 +762,6 @@
 
 [Puppeteer Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets)
 
-[Getting Your Hands Dirty with Flutter: Project Setup + Authorization](https://proandroiddev.com/getting-your-hands-dirty-with-flutter-project-setup-authorization-ad4c7ab9cd89)
 
 [Creating Bots That Talk Like Humans With Natural Language Processing](https://towardsdatascience.com/creating-bots-that-sound-like-humans-with-natural-language-processing-d9581905de)
 
@@ -857,7 +834,6 @@
 
 [Understanding Decision Trees (once and for all!) 🙌](https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579)
 
-[Say hi to Flutter Press Weekly, the new weekly digest of Flutter development news and articles! - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/ax4z24/say_hi_to_flutter_press_weekly_the_new_weekly/)
 
 [The way to fully automated releases in open source projects](https://medium.com/@kevinkreuzer/the-way-to-fully-automated-releases-in-open-source-projects-44c015f38fd6)
 
@@ -1125,7 +1101,6 @@
 
 [Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
 
-[Basic Navigation in Flutter (Navigator only) — Cheatsheet](https://medium.com/filledstacks/basic-navigation-in-flutter-navigator-only-cheatsheet-9c2e2584a6b1)
 
 [low voltage shoji lanterns in the garden match East Asian roots of hostas](https://www.hostaseizure.com/shoji/)
 
@@ -1271,7 +1246,6 @@
 
 [Surge is free, deep synth for every platform, with MPE support - CDM Create Digital Music](https://cdm.link/2019/04/surge-free-deep-synth-mpe/)
 
-[GraphQL with Flutter - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/biyoz6/graphql_with_flutter/)
 
 [Home | Airship](https://www.airshipit.org/)
 
@@ -1313,7 +1287,6 @@
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
 
-[Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
