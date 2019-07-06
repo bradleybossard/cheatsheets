@@ -297,8 +297,6 @@
 
 [Generics · TypeScript](https://www.typescriptlang.org/docs/handbook/generics.html)
 
-[Poly-RNN++](http://www.cs.toronto.edu/polyrnn/)
-
 [Electrek - Charge Forward](https://electrek.co/page/6/)
 
 [Getting Started · TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
@@ -318,8 +316,6 @@
 [Get started with Freeplane, an open source mind mapping application | Opensource.com](https://opensource.com/article/19/1/productivity-tool-freeplane)
 
 [7-Segment Display is 3D Printed and Hand Cranked | Hackaday](https://hackaday.com/2019/01/26/7-segment-display-is-3d-printed-and-hand-cranked/)
-
-[I started building a DApp – these were my architectural difficulties](https://medium.com/@reime005/i-started-building-a-dapp-these-were-my-architectural-difficulties-a2c7139819cf)
 
 [Announcing Winners of Dystopia/Utopia 3D Art Competition - TurboSquid Blog](https://blog.turbosquid.com/2019/01/25/announcing-winners-of-dystopia-utopia-3d-art-competition/)
 
@@ -394,8 +390,6 @@
 [Show off your Data Science skills with Kaggle Kernels](https://towardsdatascience.com/show-off-your-data-science-skills-with-kaggle-kernels-762403618c5)
 
 [WATCH: High-speed metal 3D printing in new Digital Alloys video - 3D Printing Industry](https://3dprintingindustry.com/news/watch-high-speed-metal-3d-printing-in-new-digital-alloys-video-148736/)
-
-[Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://medium.com/@robertnishihara/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
 
 [Announcing Open Web Components - DEV Community 👩‍💻👨‍💻](https://dev.to/thepassle/announcing-open-web-components-5h7)
 
@@ -709,8 +703,6 @@
 
 [What is GraphBLAS? – AldenMath](http://aldenmath.com/what-is-graphblas/)
 
-[VPN - a Very Precarious Narrative - Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html)
-
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
 
 [Google turns your Android phone into a security key – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/10/google-turns-your-android-phone-into-a-security-key/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F10%2Fgoogle-turns-your-android-phone-into-a-security-key%2F)
@@ -782,8 +774,6 @@
 [G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)
 
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
-
-[The ABC of a great DApp Architecture – State of the ÐApps Blog](https://blog.stateofthedapps.com/the-abc-of-a-great-dapp-architecture-74c70443bc95)
 
 [How To Succeed When Printing With ABS | MatterHackers](https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs)
 
@@ -863,13 +853,9 @@
 
 [How to Label Data — Create ML for Object Detection – Hacker Noon](https://hackernoon.com/how-to-label-data-create-ml-for-object-detection-82043957b5cb)
 
-[BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
-
 [Scroll based animate timeline with easing functions on a Webgl scene](https://medium.com/@renaud.rohlinger/scroll-based-animate-timeline-with-easing-functions-on-a-webgl-scene-ef7c3f5a8d9b)
 
 [How to Scrape like a (Hype)Beast – Ta-Ying Cheng – Medium](https://medium.com/@taying.cheng/how-to-scrape-like-a-hype-beast-85740c5e0d06)
-
-[RNN Simplified- A beginner’s guide – Towards Data Science](https://towardsdatascience.com/rnn-simplified-a-beginners-guide-cf3ae1a8895b)
 
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
 
