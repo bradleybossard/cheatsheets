@@ -280,7 +280,6 @@
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
 
-[Building a Development Environment for Golang with Docker](https://hackernoon.com/building-a-development-environment-for-golang-with-docker-3ccc620c4920)
 
 
 [Oracle releases VirtualBox 6.0.0 with improved graphics, user interface and more | Packt Hub](https://hub.packtpub.com/oracle-releases-virtualbox-6-0-0-with-improved-graphics-user-interface-and-more/)
@@ -589,7 +588,6 @@
 
 [Google Assistant to Command ESP8266 with NodeMCU/Lua (IFTTT) - Hackster.io](https://www.hackster.io/xerax/google-assistant-to-command-esp8266-with-nodemcu-lua-ifttt-51ac4e)
 
-[Naive Bayes Classifier From Scratch | Part 2 (NLP in Golang)](https://medium.com/@kcatstack/naive-bayes-classifier-from-scratch-part-2-nlp-in-golang-81c2a103ee06)
 
 [Arduino Real Time Plotting With Python](https://www.instructables.com/id/Arduino-Real-Time-Plotting-With-Python/)
 
@@ -783,7 +781,6 @@
 
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
 
-[Fast, extensible, configurable, and beautiful linter for Go · Minko Gechev&#39;s blog](https://blog.mgechev.com/2018/05/28/revive-golang-golint-linter/)
 
 
 [Linux Fu: Easier File Watching | Hackaday](https://hackaday.com/2019/01/31/linux-fu-easier-file-watching/)
@@ -991,7 +988,6 @@
 
 [BlazingSQL — The GPU SQL Engine now runs over 20X Faster than Apache Spark!](https://blog.blazingdb.com/blazingsql-the-gpu-sql-engine-now-runs-over-20x-faster-than-apache-spark-1b0bffc990a9)
 
-[Remote Golang job: Senior Backend Engineer at Splice (Remote, United States)](https://www.golangprojects.com/golang-go-job-cnw-Senior-Backend-Engineer-remote-work-possible-Remote-Splice.html)
 
 
 [Wi-Fi Jammer From an ESP8266 | WiFi Jammer/ Deauther: 6 Steps](https://www.instructables.com/id/Wi-Fi-Jammer-From-an-ESP8266-WiFi-Jammer-Deauther/)
@@ -1032,7 +1028,6 @@
 
 [nwithan8/PlexRecs: A Discord bot that provides movie and TV show recommendations from your Plex library](https://github.com/nwithan8/PlexRecs)
 
-[Understand Go Memory Allocator from Stratch – Learn Go Programming](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
 [Which benchmark programs are faster? | Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
@@ -1217,7 +1212,6 @@
 
 [Convert DXF to 3D Model for 3D Printing Tutorial - YouTube](https://m.youtube.com/watch?v=0JSkczTHAh8)
 
-[Job Search Results that include the keywords &lt;strong&gt;&quot;Golang&quot;&lt;/strong&gt;](https://www.flexjobs.com/search?search=Golang&show_save=1&location=)
 
 
 
@@ -1913,7 +1907,6 @@
 
 [Auto Draw, Google’s New AI Experiment, Is AutoCorrect For Doodles](https://chromeunboxed.com/auto-draw-googles-new-ai-experiment-is-autocorrect-for-doodles/)
 
-[storyicon/gos: Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)](https://github.com/storyicon/gos)
 
 [Chatbot Development Challenges - Part 1 – Hacker Noon](https://hackernoon.com/chatbot-development-challenges-part-1-bf472062be60)
 
@@ -2039,7 +2032,6 @@
 
 [Increase your scraping speed with Go and Colly! — The Basics](https://medium.com/@mottet.dev/increase-your-scraping-speed-with-go-and-colly-the-basics-41038bc3647e)
 
-[superhawk610/bar: Port of the node-progress package, written in Golang.](https://github.com/superhawk610/bar)
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
 

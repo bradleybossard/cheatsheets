@@ -59,3 +59,19 @@
 [fogleman/ln: 3D line art engine.](https://github.com/fogleman/ln)
 
 [Working with CSV in GO – Barun Thapa – Medium](https://medium.com/@barunthapa/working-with-csv-in-go-50a4f540e623)
+
+[Building a Development Environment for Golang with Docker](https://hackernoon.com/building-a-development-environment-for-golang-with-docker-3ccc620c4920)
+
+[Naive Bayes Classifier From Scratch | Part 2 (NLP in Golang)](https://medium.com/@kcatstack/naive-bayes-classifier-from-scratch-part-2-nlp-in-golang-81c2a103ee06)
+
+[Fast, extensible, configurable, and beautiful linter for Go · Minko Gechev&#39;s blog](https://blog.mgechev.com/2018/05/28/revive-golang-golint-linter/)
+
+[Remote Golang job: Senior Backend Engineer at Splice (Remote, United States)](https://www.golangprojects.com/golang-go-job-cnw-Senior-Backend-Engineer-remote-work-possible-Remote-Splice.html)
+
+[Understand Go Memory Allocator from Stratch – Learn Go Programming](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
+
+[Job Search Results that include the keywords &lt;strong&gt;&quot;Golang&quot;&lt;/strong&gt;](https://www.flexjobs.com/search?search=Golang&show_save=1&location=)
+
+[storyicon/gos: Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)](https://github.com/storyicon/gos)
+
+[superhawk610/bar: Port of the node-progress package, written in Golang.](https://github.com/superhawk610/bar)
