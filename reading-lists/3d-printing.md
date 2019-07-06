@@ -59,3 +59,13 @@
 [Extruders 101: A crash course on an essential component of your 3D printer | MatterHackers](https://www.matterhackers.com/articles/extruders-101:-a-crash-course-on-an-essential-component-of-your-3d-printer)
 
 [Creality 3D Ender 5 3D Printer Amazon Coupon Promo Code – Coupons Codes and Deals | OpCoupon.com](https://opcoupon.com/store/creality3d/creality-3d-ender-5-3d-printer-amazon-coupon-promo-code/)
+
+[Best DIY 3D Scanners of 2018 (You Can Build or Buy) | All3DP](https://m.all3dp.com/2/best-diy-3d-scanners-you-can-build-or-buy/)
+
+[Low-Poly Models – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/low-poly-models-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Flow-poly-models-need-to-know%2F)
+
+[Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
+
+[G-Code Example – 6 Easy G-Code Examples to Begin With | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/easy-g-code-examples-to-begin-with/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Feasy-g-code-examples-to-begin-with%2F)
+
+[G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)

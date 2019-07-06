@@ -257,8 +257,6 @@
 
 [Windows 10 has a built-in free screen recorder that you might not know about | BetaNews](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/)
 
-[Best DIY 3D Scanners of 2018 (You Can Build or Buy) | All3DP](https://m.all3dp.com/2/best-diy-3d-scanners-you-can-build-or-buy/)
-
 [Getting started with GitHub Actions? Try Actions Toolkit - DEV Community 👩‍💻👨‍💻](https://dev.to/mscccc/getting-started-with-github-actions-try-actions-toolkit-1902)
 
 [retroplasma/earth-reverse-engineering: WIP](https://github.com/retroplasma/earth-reverse-engineering)
@@ -413,8 +411,6 @@
 
 [Solidity tips and tricks to save gas and reduce bytecode size](https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6)
 
-[Low-Poly Models – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/low-poly-models-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Flow-poly-models-need-to-know%2F)
-
 [Command Line Utilities… in the Cloud? | Hackaday](https://hackaday.com/2019/02/17/command-line-utilities-in-the-cloud/)
 
 [How to Name Your Smarthome Devices for Better Voice Control](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/404609/how-to-name-your-smarthome-devices-for-better-voice-control/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F404609%2Fhow-to-name-your-smarthome-devices-for-better-voice-control%2F)
@@ -433,10 +429,6 @@
 
 [WiFi Hides Inside a USB Cable | Hackaday](https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/)
 
-[Husqvarna Backpack Chainsaw | DudeIWantThat.com](http://www.dudeiwantthat.com/outdoors/tools/husqvarna-backpack-chainsaw.asp)
-
-[TCL’s 4K Roku TV is cheaper than ever, and Amazon has discounted Fire TV devices - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/good-deals/2019/2/19/18231547/tcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fgood-deals%2F2019%2F2%2F19%2F18231547%2Ftcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal)
-
 [How to List Installed Packages on Ubuntu and Debian](https://itsfoss.com/list-installed-packages-ubuntu/)
 
 [How to Create a Fake 3D Image Effect with WebGL | Codrops](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/)
@@ -453,8 +445,6 @@
 
 [US and World News | NBC 5 Dallas-Fort Worth](https://www.nbcdfw.com/news/national-international/)
 
-[Wired2Fish - Fishing How-To Guides, Tips, Videos and Tackle Reviews - Wired2Fish.com](https://www.wired2fish.com/)
-
 [18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
 
 [Menu — Bang Bang PDX](http://www.bangbangpdx.com/menu)
@@ -467,8 +457,6 @@
 
 [RED is on its way to replacing Solidity for Smart Contracts. You need to see this. - CryptoMoonShots](https://www.reddit.com/r/CryptoMoonShots/comments/athffi/red_is_on_its_way_to_replacing_solidity_for_smart/)
 
-[Puppeteer Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets)
-
 [Bogdan-Lyashenko/codecrumbs: Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.](https://github.com/Bogdan-Lyashenko/codecrumbs)
 
 [Get Started Cloud Application Platform for DevOps | Cloud Foundry](https://www.cloudfoundry.org/get-started/#cf-concepts)
@@ -479,15 +467,11 @@
 
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
-[How to do Everything in Computer Vision](https://www.kdnuggets.com/2019/02/everything-computer-vision.html)
-
 [Solve any Image Classification Problem Quickly and Easily](https://www.kdnuggets.com/2018/12/solve-image-classification-problem-quickly-easily.html)
 
 [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
 [Teen Becomes First Hacker to Earn $1M Through Bug Bounties • Digit](https://digit.fyi/teen-hacker-earns-1m-via-bug-bounties/)
-
-[Visual Deep Computer Vision – Towards Data Science](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)
 
 [web/README.md at master · pikapkg/web](https://github.com/pikapkg/web/blob/master/README.md)
 
@@ -655,8 +639,6 @@
 
 [Run a server with Git | Opensource.com](https://opensource.com/article/19/4/server-administration-git)
 
-[Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
-
 [low voltage shoji lanterns in the garden match East Asian roots of hostas](https://www.hostaseizure.com/shoji/)
 
 [How I went from being a contributor to an Open Source project maintainer](https://medium.freecodecamp.org/how-i-went-from-being-a-contributor-to-an-open-source-project-maintainer-acd8a6b316f5)
@@ -695,8 +677,6 @@
 
 [Sharding 101: The Ways of Weaver – GO-JEK Product + Tech](https://blog.gojekengineering.com/sharding-101-the-ways-of-weaver-6c99360531fa)
 
-[G-Code Example – 6 Easy G-Code Examples to Begin With | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/easy-g-code-examples-to-begin-with/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Feasy-g-code-examples-to-begin-with%2F)
-
 [Web Components will replace your frontend framework](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c)
 
 [Open-source Tools for Binary Analysis and Rewriting](https://blogs.grammatech.com/open-source-tools-for-binary-analysis-and-rewriting)
@@ -732,8 +712,6 @@
 [How to Remotely Turn On Your PC Over the Internet](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/192642/how-to-remotely-turn-on-your-pc-over-the-internet/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F192642%2Fhow-to-remotely-turn-on-your-pc-over-the-internet%2F)
 
 [How to Build Your Own 3D Printing Slicer From Scratch : 12 Steps](https://www.instructables.com/id/How-to-Build-Your-Own-3D-Printing-Slicer-From-Scra/)
-
-[G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)
 
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
 
