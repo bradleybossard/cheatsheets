@@ -610,8 +610,6 @@
 
 [AWS Firecracker: 10 things every tech pro should know - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/aws-firecracker-10-things-every-tech-pro-should-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Faws-firecracker-10-things-every-tech-pro-should-know%2F)
 
-[Make over $4,000 with your Chat Bot in 4 Simple Steps.](https://chatbotsmagazine.com/make-up-to-1-000-with-your-chat-bot-in-4-simple-steps-4e170987494d)
-
 [Canonical Is Planning Some Awesome New Content For The Snap Store](https://www.forbes.com/sites/jasonevangelho/2019/02/20/canonical-is-planning-some-awesome-new-content-for-the-snap-store/#30ad0d8120f8)
 
 [nwithan8/PlexRecs: A Discord bot that provides movie and TV show recommendations from your Plex library](https://github.com/nwithan8/PlexRecs)
@@ -1078,12 +1076,7 @@
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
-
-
 [Bottom-up CMake introduction - Low Level Bits](https://lowlevelbits.org/bottom-up-cmake-introduction/)
-
-[Chatbot Development Challenges - Part 1 – Hacker Noon](https://hackernoon.com/chatbot-development-challenges-part-1-bf472062be60)
-
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
@@ -1096,8 +1089,6 @@
 [Reinventing the Small Wind Turbine - LOW-TECH MAGAZINE](https://www.lowtechmagazine.com/2019/06/small-wooden-wind-turbines.html)
 
 [efficientnet · PyPI](https://pypi.org/project/efficientnet/)
-
-
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
