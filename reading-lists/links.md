@@ -8,8 +8,6 @@
 
 [Professor Messer&#39;s CompTIA SY0-401 Security+ Training Course | Professor Messer IT Certification Training Courses](https://www.professormesser.com/security-plus/sy0-401/sy0-401-course-index/)
 
-[PC Gamer Top 100: the greatest games you can play today | PC Gamer](https://www.pcgamer.com/the-pc-gamer-top-100-new/)
-
 [Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
 
 [Subnet Zero](https://blog.subnetzero.io/)
@@ -17,8 +15,6 @@
 [So You Want to Build a Language VM - Part 01 - Overview and a Simple VM](https://blog.subnetzero.io/project/iridium-vm/building-language-vm-part-01/)
 
 [Thing Explainer: Complicated Stuff in Simple Words: Randall Munroe: 9780544668256: Amazon.com: Books](https://www.amazon.com/dp/0544668251//ref=cm_sw_su_dp?tag=dudetxt-20)
-
-[How to install CUDA 9.2 on Ubuntu 18.04](https://www.pugetsystems.com/labs/hpc/How-to-install-CUDA-9-2-on-Ubuntu-18-04-1184/)
 
 [Running Ubuntu VMs on Windows just got a whole lot more streamlined | Ars Technica](https://arstechnica.com/gadgets/2018/09/running-ubuntu-vms-on-windows-just-got-a-whole-lot-more-streamlined/)
 
@@ -232,8 +228,6 @@
 
 [Amazon.com: Developer&#39;s Dilemma: The Secret World of Videogame Creators (Inside Technology) (9780262028196): Casey O&#39;Donnell, Wiebe E. Bijker, W. Bernard Carlson, Trevor Pinch: Books](https://www.amazon.com/Developers-Dilemma-Videogame-Creators-Technology/dp/0262028190/ref=as_li_ss_tl?ie=UTF8&qid=1447885313&sr=8-1&keywords=developer%27s+dilemma&linkCode=sl1&tag=sicaodo-20&linkId=9e190abc3825a5d89c98f032af611551)
 
-[Home | GamesIndustry.biz](https://www.gamesindustry.biz/)
-
 [MiteshSharma/go-project: Basic go project directory structure with wire frame code](https://github.com/MiteshSharma/go-project)
 
 [Crazyflie 2.0 - We create open platforms that enable people to explore the world of flying robotics](https://www.seeedstudio.com/crazyflie.html)
@@ -275,8 +269,6 @@
 [Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
 [Keep it Simple with the Strategy Design Pattern – Bits and Pieces](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
-
-[Try These Mobile &#39;Lemmings&#39; Games Instead of Sony&#39;s Crappy Port](https://lifehacker.com/try-these-ios-and-android-lemmings-games-instead-of-son-1831360899)
 
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
 
@@ -978,8 +970,6 @@
 
 [Wonder How To » Fresh Hacks For a Changing World](https://www.wonderhowto.com/)
 
-[Run Hello » Games](https://runhello.com/)
-
 [Using Gitlab’s CI for Periodic Data Mining – Towards Data Science](https://towardsdatascience.com/using-gitlabs-ci-for-periodic-data-mining-b3cc314ecd85)
 
 [The discrete-time physics hiding inside our continuous-time world](https://m.phys.org/news/2019-04-discrete-time-physics-continuous-time-world.html)
@@ -1163,8 +1153,6 @@
 [How to Scrape like a (Hype)Beast – Ta-Ying Cheng – Medium](https://medium.com/@taying.cheng/how-to-scrape-like-a-hype-beast-85740c5e0d06)
 
 [Language, trees, and geometry in neural networks](https://pair-code.github.io/interpretability/bert-tree/)
-
-[EA Announces Three New Games From Smaller Studios](https://kotaku-com.cdn.ampproject.org/v/s/kotaku.com/ea-announces-three-new-games-from-smaller-studios-1835350265/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fkotaku.com%2Fea-announces-three-new-games-from-smaller-studios-1835350265)
 
 [RNN Simplified- A beginner’s guide – Towards Data Science](https://towardsdatascience.com/rnn-simplified-a-beginners-guide-cf3ae1a8895b)
 
