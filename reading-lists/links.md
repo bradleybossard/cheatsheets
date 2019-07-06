@@ -113,11 +113,7 @@
 
 [Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
 
-[How to Make and Receive Skype Calls Using an Amazon Echo](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-to-make-and-receive-skype-calls-using-an-amazon-ech-1830643572/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-to-make-and-receive-skype-calls-using-an-amazon-ech-1830643572)
-
 [Fast Pair now syncs Bluetooth accessories across Android devices, Chromebook support in 2019 - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/11/27/fast-pair-android-sync-chromebooks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F11%2F27%2Ffast-pair-android-sync-chromebooks%2F)
-
-[How to Install Wine on Ubuntu 18.04 LTS](https://vitux.com/how-to-install-wine-on-ubuntu/)
 
 [Navigation-optimized Google Assistant rolling out in Google Maps for Android - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/12/02/google-assistant-maps-navigation-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F12%2F02%2Fgoogle-assistant-maps-navigation-android%2F)
 
@@ -135,8 +131,6 @@
 
 [Nvidia’s Scary AI Generates Humans That Look 100% Real](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/nvidia-ai-faces-generative-adversarial-network,news-28869.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Fnvidia-ai-faces-generative-adversarial-network%2Cnews-28869.html)
 
-[Transform Your Amazon Echo Into a White Noise Machine With This Skill](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/transform-your-amazon-echo-into-a-white-noise-machine-w-1831133690/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Ftransform-your-amazon-echo-into-a-white-noise-machine-w-1831133690)
-
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
 [Chromebooks May be Able to Run Windows in the New Year | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/computing/chromebooks-windows-dual-boot/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fchromebooks-windows-dual-boot%2F)
@@ -146,8 +140,6 @@
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
 [Chrome Canvas: A Web App For Drawing On Your Chromebook From Google](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/chrome-canvas-draw-chromebook-google-web-app/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Fchrome-canvas-draw-chromebook-google-web-app%2F)
-
-[First round of Amazon Echo Auto devices are shipping - CNET](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/first-round-of-amazon-echo-auto-devices-are-shipping/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Ffirst-round-of-amazon-echo-auto-devices-are-shipping%2F)
 
 [User guide: contents — scikit-learn 0.20.2 documentation](https://scikit-learn.org/stable/user_guide.html)
 
@@ -189,8 +181,6 @@
 
 [Zotac PI225-GK is a pocket-sized computer with Intel Gemini Lake CPU - Liliputing](https://liliputing.com/2018/12/zotac-pi225-gk-is-a-pocket-sized-computer-with-intel-gemini-lake-cpu.html)
 
-[Amazon Echo Wall Clock Review - The Kitchen Timer Missing Link](https://theinventory-com.cdn.ampproject.org/v/s/theinventory.com/i-hate-how-much-i-like-amazons-echo-wall-clock-1831322467/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftheinventory.com%2Fi-hate-how-much-i-like-amazons-echo-wall-clock-1831322467)
-
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
 
 [Signature Vinyl Record Player Classic Turntable Stereo System | Electrohome](https://www.electrohome.com/signature-vinyl-record-player-classic-turntable-stereo-system#)
@@ -210,10 +200,6 @@
 [Everything you need to know about tree data structures - DEV Community 👩‍💻👨‍💻](https://dev.to/leandrotk_/everything-you-need-to-know-about-tree-data-structures-2599)
 
 [How Google Maps Calculates The Shortest Route | Math Section](https://mathsection.com/how-google-maps-calculates-the-shortest-route/?cookie-state-change=1546220286234)
-
-[How to Control Your Amazon Echo from Anywhere Using Your Phone](https://www.howtogeek.com/253621/how-to-control-your-amazon-echo-from-anywhere/)
-
-[All Alexa devices can now remotely control music playback on Echo devices | AFTVnews](http://www.aftvnews.com/alexa-devices-can-now-remotely-control-music-playback-on-echo-devices/)
 
 [More Information on Version 2.0 of SelfCAD’s 3D Modeling Software | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)
 
@@ -364,8 +350,6 @@
 [JavaScript V8 Engine Explained – Hacker Noon](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef)
 
 [DeepTraffic - DQN Tuning for Traffic Navigation (75.01 MPH Solution)](https://towardsdatascience.com/deeptraffic-dqn-tuning-for-traffic-navigation-75-01-mph-solution-23087e2411cf)
-
-[Wine 4.0 Released, Here&#39;s How to Install it on Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/wine-4-0)
 
 [Get started with Freeplane, an open source mind mapping application | Opensource.com](https://opensource.com/article/19/1/productivity-tool-freeplane)
 
@@ -524,8 +508,6 @@
 [Which benchmark programs are faster? | Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
 [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets)
-
-[JS Remote Jobs - Echo JS](https://www.echojs.com/news/30559)
 
 [US and World News | NBC 5 Dallas-Fort Worth](https://www.nbcdfw.com/news/national-international/)
 
@@ -904,8 +886,6 @@
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
 
 [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
-
-[How to set up Alexa Guard on an Amazon Echo](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/05/14/how-to-set-up-alexa-guard-on-an-amazon-echo.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F05%2F14%2Fhow-to-set-up-alexa-guard-on-an-amazon-echo.html)
 
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
