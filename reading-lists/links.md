@@ -1,4 +1,3 @@
-[How to configure zsh](https://zserge.com/blog/terminal.html)
 
 [Waypipe Offers A Transparent Wayland Proxy For Running Programs Over The Network - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Wayland-Proxy)
 
@@ -60,10 +59,6 @@
 
 [What’s new in Angular Version 7 | InfoWorld](https://www.infoworld.com/article/3213244/angular/whats-new-in-angular-version-7-release-candidate-arrives.html)
 
-[ICMP Attacks](https://resources.infosecinstitute.com/icmp-attacks/#gref)
-
-[InfoSec Resources - IT Security Training &amp; Resources by InfoSec Institute](https://resources.infosecinstitute.com/)
-
 [remojansen/TechLadderIO: A community-driven grouping of concepts and skills relevant to different technologies that provides aspiring programmers with a way to track and improve their skills.](https://github.com/remojansen/TechLadderIO)
 
 [Essential Math for Data Science:  ‘Why’ and ‘How’](https://www.kdnuggets.com/2018/09/essential-math-data-science.html)
@@ -117,10 +112,6 @@
 [You can now sync Chromecast with Google Home speakers](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/11/19/chromecast-google-home-speaker-groups/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F11%2F19%2Fchromecast-google-home-speaker-groups%2F)
 
 [Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
-
-[Top 9 Free Phishing Simulators [Updated 2018]](https://resources.infosecinstitute.com/top-9-free-phishing-simulators/)
-
-[InfoSec Resources - IT Security Training &amp; Resources by InfoSec Institute](https://resources.infosecinstitute.com/)
 
 [How to Make and Receive Skype Calls Using an Amazon Echo](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-to-make-and-receive-skype-calls-using-an-amazon-ech-1830643572/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-to-make-and-receive-skype-calls-using-an-amazon-ech-1830643572)
 
@@ -689,8 +680,6 @@
 [How to Make an Awesome Blog Using Gatsbyjs and AWS - DEV Community 👩‍💻👨‍💻](https://dev.to/kylegalbraith/how-to-make-an-awesome-blog-using-gatsbyjs-and-aws-33nc?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=)
 
 [How to set up a homelab from hardware to firewall | Opensource.com](https://opensource.com/article/19/3/home-lab)
-
-[How to rotate your source IP address - Black Hills Information Security](https://www.blackhillsinfosec.com/how-to-rotate-your-source-ip-address/)
 
 [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5)
 
