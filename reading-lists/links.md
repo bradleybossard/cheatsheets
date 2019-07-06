@@ -458,7 +458,6 @@
 [Brewing Crazy Awesome Beer Cheap - Mr Crazy Kicks](https://www.mrcrazykicks.com/brewing-crazy-awesome-beer-cheap/)
 
 
-[Write and Deploy Your First Serverless Function Within 10 Minutes, or Less](https://codeburst.io/write-and-deploy-your-first-serverless-function-within-10-minutes-or-less-d7552fcd6550)
 
 [Alibaba Open-Sources Mars to Complement NumPy – SyncedReview – Medium](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 
@@ -1105,7 +1104,6 @@
 
 [mahepe/box2d-wasm-experiment](https://github.com/mahepe/box2d-wasm-experiment)
 
-[Deploying Workers with GitHub Actions + Serverless](https://blog-cloudflare-com.cdn.ampproject.org/v/s/blog.cloudflare.com/deploying-workers-with-github-actions-serverless/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.cloudflare.com%2Fdeploying-workers-with-github-actions-serverless%2F)
 
 [web/README.md at master · pikapkg/web](https://github.com/pikapkg/web/blob/master/README.md)
 
@@ -1496,7 +1494,6 @@
 [Google Duplex arrives on iPhones, most Android devices – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/04/google-duplex-arrives-on-iphones-most-android-devices/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F04%2Fgoogle-duplex-arrives-on-iphones-most-android-devices%2F)
 
 
-[Add Authentication and Authorization to Next.js 8 Serverless Apps using JWT and GraphQL](https://blog.hasura.io/add-authentication-and-authorization-to-next-js-8-serverless-apps-using-jwt-and-graphql/)
 
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
@@ -1789,7 +1786,6 @@
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
-[laconiajs/laconia: Create well-crafted serverless applications, effortlessly](https://github.com/laconiajs/laconia)
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
@@ -1955,7 +1951,6 @@
 
 [LFS and Standards](http://www.linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
 
-[Introducing OpenFaaS for AWS Lambda (faas-lambda) | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/introducing-openfaas-for-lambda/)
 
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
