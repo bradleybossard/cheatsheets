@@ -19,3 +19,7 @@
 [Reduce JavaScript Payloads with Tree Shaking  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 
 [Sucrase, a Faster Babel for Modern JS Runtimes](https://www.infoq.com/news/2019/06/sucrase-fast-babel-modern-js/)
+
+[Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
+
+[How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)

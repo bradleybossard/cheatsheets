@@ -27,8 +27,6 @@
 
 [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
 
-[Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
-
 [Practicing ‘No Code’ Data Science - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/practicing-no-code-data-science)
 
 [Won’t You Be My Neighbor? Quickly Finding Who is Nearby](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/wont-you-be-my-neighbor-quickly-finding-who-is-nearby?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fwont-you-be-my-neighbor-quickly-finding-who-is-nearby)
@@ -468,8 +466,6 @@
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
 [Solve any Image Classification Problem Quickly and Easily](https://www.kdnuggets.com/2018/12/solve-image-classification-problem-quickly-easily.html)
-
-[How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
 [Teen Becomes First Hacker to Earn $1M Through Bug Bounties • Digit](https://digit.fyi/teen-hacker-earns-1m-via-bug-bounties/)
 
