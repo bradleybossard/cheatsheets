@@ -41,3 +41,7 @@
 [Toonkit for Cycles - Blender Market](https://blendermarket.com/products/toonkit-for-cycles?ref=2)
 
 [Timelapse 2d platform level in Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/06/19/timelapse-2d-platform-level-in-blender-2-8/)
+
+[Little Lamp | Blend Swap](https://www.blendswap.com/blends/view/57000)
+
+[Category: 3D Printable | Blend Swap](https://www.blendswap.com/terms/category/3d-printable/page:11)

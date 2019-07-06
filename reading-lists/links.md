@@ -32,8 +32,6 @@
 
 [Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
 
-[An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
-
 [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
 
 [Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
@@ -106,12 +104,6 @@
 
 [Immersive Math](http://immersivemath.com/ila/index.html#)
 
-[What is an artificial neural network? Here&#39;s everything you need to know | Digital Trends](https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/amp/)
-
-[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
-
-[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/classification/)
-
 [Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
 
 [Amazon.com: Naked Statistics: Stripping the Dread from the Data (9780393347777): Charles Wheelan: Books](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_1)
@@ -180,13 +172,9 @@
 
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
-[Oracle releases VirtualBox 6.0.0 with improved graphics, user interface and more | Packt Hub](https://hub.packtpub.com/oracle-releases-virtualbox-6-0-0-with-improved-graphics-user-interface-and-more/)
-
 [Chromebooks May be Able to Run Windows in the New Year | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/computing/chromebooks-windows-dual-boot/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fchromebooks-windows-dual-boot%2F)
 
 [Announcing Gluegun 2.0 — A delightful way to build command line apps in Node](https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d)
-
-[VirtualBox 6.0 3D/OpenGL Performance With VMSVGA Adapter - Phoronix](https://www.phoronix.com/scan.php?page=article&item=virtualbox-60-vmsvga&num=1)
 
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
@@ -210,8 +198,6 @@
 
 [Smart Speaker IQ test of Cortana, Alexa, Siri and Google Assistant shows most are smarter than ever - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/smart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fsmart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever%2F)
 
-[Want to learn neural networks? Here’s a free Brain.js course! Merry Christmas!](https://medium.freecodecamp.org/want-to-learn-neural-networks-heres-a-free-brain-js-course-merry-christmas-ea801f378041)
-
 [Seva Zaikov - Node.js Fundamentals: Web Server Without Dependencies](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 
 [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-Learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
@@ -225,8 +211,6 @@
 [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 [The Science Behind Making Your Child Smarter - WSJ](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
-
-[Chapter 5. Guest Additions](http://www.virtualbox.org/manual/ch05.html)
 
 [Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
@@ -270,10 +254,6 @@
 
 [More Information on Version 2.0 of SelfCAD’s 3D Modeling Software | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)
 
-[Activation Functions in Neural Networks – Towards Data Science](https://towardsdatascience.com/activation-functions-in-neural-networks-83ff7f46a6bd)
-
-[This neural network can swap sheep for giraffe, jeans for skirts | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/01/01/this-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F01%2F01%2Fthis-neural-network-can-swap-sheep-for-giraffe-jeans-for-skirts%2F)
-
 [Blobmaker – a online tool that helps you create organic svg shapes - web_design](https://www.reddit.com/r/web_design/comments/abtktb/blobmaker_a_online_tool_that_helps_you_create/)
 
 [Blobmaker](https://www.blobmaker.app/)
@@ -281,8 +261,6 @@
 [Google - Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 [Many Nodes, One Distributed System – baseds – Medium](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
-
-[Bayesian Neural Network Series Post 1: Need for Bayesian Networks](https://medium.com/@shridhar743/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
 
 [Infinite Data Structures In JavaScript – Hacker Noon](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
 
@@ -334,8 +312,6 @@
 
 [AstroNavigation | Vanderbilt University](https://my.vanderbilt.edu/astronav/)
 
-[Troubadour: A Natural Language Processing platform using decentralized cloud-computing](https://medium.com/iex-ec/troubadour-a-natural-language-processing-platform-using-decentralized-cloud-computing-70cc04e8e03d)
-
 [YDLIDAR X4 - Google Search](https://www.google.com/search?q=YDLIDAR+X4+&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
 
 [Specialized Element 2.0 Gore Windstopper Winter Gloves](https://www.google.com/search?q=Specialized+Element+2.0+Gore+Windstopper+Winter+Gloves&safe=off&client=ms-android-verizon&prmd=sinv&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjg2ZeUxeLfAhXLjVQKHVinAI0Q_AUoAXoECBQQAQ&biw=412&bih=604&dpr=2.63)
@@ -351,8 +327,6 @@
 [Deploying and Sharing: Web Scraping with the Wolfram Language, Part 3—Wolfram Blog](https://blog.wolfram.com/2019/01/10/deploying-and-sharing-web-scraping-with-the-wolfram-language-part-3/)
 
 [Identity and authentication, the Google Cloud way](https://gweb--cloudblog--publish-appspot-com.cdn.ampproject.org/v/s/gweb-cloudblog-publish.appspot.com/products/identity-security/identity-and-authentication-the-google-cloud-way/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s)
-
-[A neural network can learn to organize the world it sees into concepts—just like we do - MIT Technology Review](https://www.technologyreview.com/s/612746/a-neural-network-can-learn-to-organize-the-world-it-sees-into-conceptsjust-like-we-do/)
 
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
@@ -488,8 +462,6 @@
 
 [New features in Webpack 5 – LogRocket](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
 
-[A comprehensive survey on graph neural networks – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F02%2F06%2Fa-comprehensive-survey-on-graph-neural-networks%2F)
-
 [How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
 
 [Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
@@ -503,8 +475,6 @@
 [Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
 
 [download](https://preciousplastic.com/en/videos/download.html)
-
-[What Is a DNS Cache and How Does It Work?](https://www.lifewire.com/what-is-a-dns-cache-817514)
 
 [ONYX&#39;s new retro-styled 30 and 60 mph electric mopeds are practically electric motorcycles - Electrek](https://electrek.co/2018/06/01/onyx-new-retro-styled-electric-bicycles/)
 
@@ -628,13 +598,9 @@
 
 [Puppeteer Snippets - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets)
 
-[Creating Bots That Talk Like Humans With Natural Language Processing](https://towardsdatascience.com/creating-bots-that-sound-like-humans-with-natural-language-processing-d9581905de)
-
 [Bogdan-Lyashenko/codecrumbs: Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.](https://github.com/Bogdan-Lyashenko/codecrumbs)
 
 [Get Started Cloud Application Platform for DevOps | Cloud Foundry](https://www.cloudfoundry.org/get-started/#cf-concepts)
-
-[Convolutional Neural Network – Towards Data Science](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529)
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
 
@@ -653,8 +619,6 @@
 [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
 [Teen Becomes First Hacker to Earn $1M Through Bug Bounties • Digit](https://digit.fyi/teen-hacker-earns-1m-via-bug-bounties/)
-
-[Convolutional Neural Networks For All | Part I – Towards Data Science](https://towardsdatascience.com/convolutional-neural-networks-for-all-part-i-cdd282ee7947)
 
 [Visual Deep Computer Vision – Towards Data Science](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)
 
@@ -740,8 +704,6 @@
 
 [Pocket NC V2–50… More RMS’s = More Better – Hackster Blog](https://blog.hackster.io/pocket-nc-v2-50-more-rmss-more-better-d80dac7ae6df)
 
-[Natural Language Processing’s Crazy Busy Start to 2019 | Slator](https://slator.com/technology/natural-language-processings-crazy-busy-start-to-2019/)
-
 [Is Google’s New Lingvo Framework a Big Deal for Machine Translation? | Slator](https://slator.com/technology/is-googles-new-lingvo-framework-a-big-deal-for-machine-translation/)
 
 [The 4,000 Lines of Code Harvard Hopes Will Change Translation | Slator](https://slator.com/academia/4000-lines-code-harvard-hopes-will-change-translation/)
@@ -749,8 +711,6 @@
 [Chilicorn Rail · Markku.ai](https://markku.ai/post/chilicorn-rail/)
 
 [Light on Math ML: Attention with Keras – Towards Data Science](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
-
-[Google AI Blog: An All-Neural On-Device Speech Recognizer](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html?m=1)
 
 [Introducing: Monado](https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html)
 
@@ -790,17 +750,9 @@
 
 [3D Printing a Combination Lock | Hackaday](https://hackaday.com/2019/03/21/3d-printing-a-combination-lock/)
 
-[12 open source tools for natural language processing | Opensource.com](https://opensource.com/article/19/3/natural-language-processing-tools)
-
 [A Pirates Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
 
-[Kicking neural network automation into high gear -- ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190321152843.htm)
-
 [Build a voting website that doesn’t crash under load (in under an hour)](https://itnext.io/build-a-voting-website-that-doesnt-crash-under-load-in-under-an-hour-1c0948307773)
-
-[Cryptographic essence of Bitcoin: Part 2 — How do public/private keys work?,](https://hackernoon.com/cryptographic-essence-of-bitcoin-part-2-how-do-public-private-keys-work-2c52d6bc8406)
-
-[Cryptographic essence of Bitcoin part # 1: What is a Hash function?](https://hackernoon.com/cryptographic-essence-of-bitcoin-part-1-what-is-a-hash-function-f468e7f72daa)
 
 [An Introduction to Existential Types – Stephen Bly – Medium](https://medium.com/@stephenebly/an-introduction-to-existential-types-25c130ba61a4)
 
@@ -832,12 +784,6 @@
 
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
 
-[Little Lamp | Blend Swap](https://www.blendswap.com/blends/view/57000)
-
-[Category: 3D Printable | Blend Swap](https://www.blendswap.com/terms/category/3d-printable/page:11)
-
-[An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
-
 [Node.js TypeScript #7. Creating a server and receiving requests - wanago.io - Marcin Wanago Blog](https://wanago.io/2019/03/25/node-js-typescript-7-creating-a-server-and-receiving-requests/)
 
 [Deploy Jenkins Helm chart on K3s running on Macbook](https://medium.com/@zhimin.wen/deploy-jenkins-helm-chart-on-k3s-running-on-macbook-484bb7ba588f)
@@ -847,8 +793,6 @@
 [Deploy Jenkins Helm chart on K3s running on Macbook](https://medium.com/@zhimin.wen/deploy-jenkins-helm-chart-on-k3s-running-on-macbook-484bb7ba588f)
 
 [Running K3s with Multipass on Mac – Zhimin Wen – Medium](https://medium.com/@zhimin.wen/running-k3s-with-multipass-on-mac-fbd559966f7c)
-
-[jankais3r/DNoiSe: DNS noise generator that looks at your network activity and blends in. Requires pi-hole.](https://github.com/jankais3r/DNoiSe)
 
 [Graph Theory — Graph Data Structures and Traversal Algorithms Made Easy](https://hackernoon.com/graph-theory-graph-data-structures-and-traversal-algorithms-made-easy-28c7154c9662)
 
@@ -860,8 +804,6 @@
 
 [Po.et is Officially 100% Open Sourced – Po.et Blog](https://blog.po.et/po-et-api-open-source-aad87d92dc0c)
 
-[A warm welcome to DNS](https://powerdns.org/hello-dns/)
-
 [Solar EV Charging Options For Renters | CleanTechnica](https://cleantechnica.com/2019/03/30/solar-ev-charging-options-for-renters/)
 
 [Comparing Service Meshes: Istio, Linkerd and Consul Connect | CloudOps](https://www.cloudops.com/2019/03/comparing-service-meshes-istio-linkerd-and-consul-connect/)
@@ -872,13 +814,9 @@
 
 [How Kubeflow is evolving without ksonnet | Opensource.com](https://opensource.com/article/19/4/kubeflow-evolution)
 
-[Cloudflare is adding a free VPN to its 1.1.1.1 app - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/1/18290615/cloudflare-1-1-1-1-vpn-dns-resolver-security-privacy?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F1%2F18290615%2Fcloudflare-1-1-1-1-vpn-dns-resolver-security-privacy)
-
 [How to enable Remote Desktop connections to your Windows 10 PC OnMSFT.com](https://www.onmsft.com/how-to/how-to-enable-remote-desktop-connections-to-your-windows-10-pc)
 
 [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/)
-
-[Cloudflare&#39;s privacy-focused DNS app adds a free VPN](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/04/01/cloudflares-privacy-focused-dns-app-adds-a-free-vpn/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F04%2F01%2Fcloudflares-privacy-focused-dns-app-adds-a-free-vpn%2F)
 
 [NVIDIA SHIELD has a hidden split screen mode - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/nvidia-shield-has-a-hidden-split-screen-mode-02571804/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fnvidia-shield-has-a-hidden-split-screen-mode-02571804%2F)
 
@@ -918,8 +856,6 @@
 
 [Google turns your Android phone into a security key – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/10/google-turns-your-android-phone-into-a-security-key/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F10%2Fgoogle-turns-your-android-phone-into-a-security-key%2F)
 
-[Building Your First Neural Network – Towards Data Science](https://towardsdatascience.com/building-your-first-neural-network-using-keras-29ad67075191)
-
 [Serious flaws leave WPA3 vulnerable to hacks that steal Wi-Fi passwords – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/information-technology/2019/04/serious-flaws-leave-wpa3-vulnerable-to-hacks-that-steal-wi-fi-passwords/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Finformation-technology%2F2019%2F04%2Fserious-flaws-leave-wpa3-vulnerable-to-hacks-that-steal-wi-fi-passwords%2F)
 
 [Kibana 7.0.0 released | Elastic Blog](https://www.elastic.co/blog/kibana-7-0-0-released)
@@ -927,8 +863,6 @@
 [5 Ways 3D Render Graphics Can Enhance Your Website](https://webdesign.tutsplus.com/articles/5-ways-3d-render-graphics-can-enhance-your-website--cms-33058)
 
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
-
-[A comprehensive survey on graph neural networks – the morning paper](https://blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/)
 
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
@@ -1034,8 +968,6 @@
 
 [The Part-Time Parliament | the morning paper](https://blog.acolyer.org/2015/03/03/the-part-time-parliament/)
 
-[Build a Neural Network with Python | Enlight](https://enlight.nyc/projects/neural-network/)
-
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
 
 [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
@@ -1048,11 +980,7 @@
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
-[Natural Language Processing: From Basics, to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
-
 [Build a Game With JavaScript Tutorial - SDK SOFT](https://sdksoft.eu/build-a-game-with-javascript-tutorial/)
-
-[🌻 The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
 [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 
@@ -1063,8 +991,6 @@
 [Bottom-up CMake introduction - Low Level Bits](https://lowlevelbits.org/bottom-up-cmake-introduction/)
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
-
-[Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
 
@@ -1090,13 +1016,9 @@
 
 [BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
 
-[Random Forest vs Neural Network: Which is Better, and When?](https://www.kdnuggets.com/2019/06/random-forest-vs-neural-network.html)
-
 [Scroll based animate timeline with easing functions on a Webgl scene](https://medium.com/@renaud.rohlinger/scroll-based-animate-timeline-with-easing-functions-on-a-webgl-scene-ef7c3f5a8d9b)
 
 [How to Scrape like a (Hype)Beast – Ta-Ying Cheng – Medium](https://medium.com/@taying.cheng/how-to-scrape-like-a-hype-beast-85740c5e0d06)
-
-[Language, trees, and geometry in neural networks](https://pair-code.github.io/interpretability/bert-tree/)
 
 [RNN Simplified- A beginner’s guide – Towards Data Science](https://towardsdatascience.com/rnn-simplified-a-beginners-guide-cf3ae1a8895b)
 
