@@ -88,7 +88,6 @@
 
 [Won’t You Be My Neighbor? Quickly Finding Who is Nearby](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/wont-you-be-my-neighbor-quickly-finding-who-is-nearby?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fwont-you-be-my-neighbor-quickly-finding-who-is-nearby)
 
-[Detailed spaCy Tutorial - Faster NLP in Python | Kaggle](https://www.kaggle.com/ganeshn88/detailed-spacy-tutorial-faster-nlp-in-python)
 
 [Power of Virtualization Multiplied with Enhanced vGPU Solutions | NVIDIA Blog](https://blogs.nvidia.com/blog/2018/10/09/the-power-of-virtualization-multiplied-with-enhanced-vgpu-solutions/)
 
@@ -315,7 +314,6 @@
 
 [Alexa Just Got a Heck of a Lot Smarter](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/alexa-wolfram-alpha,news-28914.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Falexa-wolfram-alpha%2Cnews-28914.html)
 
-[Basic NLP on the Texts of Harry Potter: Sentiment Analysis](https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-sentiment-analysis-1b474b13651d)
 
 [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-6a55981f3a7e)
 
@@ -368,7 +366,6 @@
 
 [Chapter 5. Guest Additions](http://www.virtualbox.org/manual/ch05.html)
 
-[BERT: State of the Art NLP Model, Explained](https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
 
 [Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
@@ -633,7 +630,6 @@
 
 [Jessie Frazelle&#39;s Blog: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
 
-[How I used NLP (Spacy) to screen Data Science Resumes](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)
 
 [The 15-minute Chromebook tune-up | Computerworld](https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3333005/chrome-os/chromebook-tune-up.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3333005%2Fchrome-os%2Fchromebook-tune-up.html)
 
@@ -815,14 +811,12 @@
 
 [New features in Webpack 5 – LogRocket](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
 
-[How I used NLP (Spacy) to screen Data Science Resumes](https://www.kdnuggets.com/2019/02/nlp-spacy-data-science-resumes.html)
 
 [Getting started with Vim visual mode | Opensource.com](https://opensource.com/article/19/2/getting-started-vim-visual-mode)
 
 [The Linux command-line cheat sheet | Network World](https://www.networkworld.com/article/3337516/linux/the-linux-command-line-cheat-sheet.html)
 
 
-[How I used NLP (Spacy) to screen Data Science Resumes](https://www.kdnuggets.com/2019/02/nlp-spacy-data-science-resumes.html)
 
 [A comprehensive survey on graph neural networks – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F02%2F06%2Fa-comprehensive-survey-on-graph-neural-networks%2F)
 
@@ -1356,7 +1350,6 @@
 
 [Distributed systems - Mastering Blockchain](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787125445/1/ch01lvl1sec7/distributed-systems)
 
-[NLP: Contextualized word embeddings from BERT – Towards Data Science](https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b)
 
 [3D Printing a Combination Lock | Hackaday](https://hackaday.com/2019/03/21/3d-printing-a-combination-lock/)
 
@@ -1639,7 +1632,6 @@
 [How to Design for Injection Molding | Cad Crowd](https://www-cadcrowd-com.cdn.ampproject.org/v/s/www.cadcrowd.com/blog/how-to-design-for-injection-molding/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cadcrowd.com%2Fblog%2Fhow-to-design-for-injection-molding%2F)
 
 
-[Building a realtime NLP pipeline using Kafka and spaCy](https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702)
 
 
 [Grantham, Part 2](https://www.morningstar.com/videos/870607/grantham-part-2.html)
@@ -1675,7 +1667,6 @@
 
 [Teaching rigorous distributed systems with efficient model checking – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F04%2F17%2Fteaching-rigorous-distributed-systems-with-efficient-model-checking%2F)
 
-[Advanced NLP with spaCy · A free online course](https://course.spacy.io/)
 
 [12 open-source tools that make Docker better | InfoWorld](https://www.infoworld.com/article/2966158/12-open-source-tools-that-make-docker-better.html)
 
@@ -1683,9 +1674,7 @@
 
 
 
-[Chapter 1: Finding words, phrases, names and concepts · Advanced NLP with spaCy](https://course.spacy.io/chapter1)
 
-[ines/spacy-course: 👩‍🏫 Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
 
 [Varken - The Ultimate Plex Ecosystem Dashboard - PleX](https://www.reddit.com/r/PleX/comments/ben93n/varken_the_ultimate_plex_ecosystem_dashboard/)
 
@@ -1830,7 +1819,6 @@
 
 [Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
 
-[How to become an expert in NLP in 2019 (1) – Kushajveer Singh – Medium](https://medium.com/@kushajreal/how-to-become-an-expert-in-nlp-in-2019-1-945f4e9073c0)
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
@@ -1974,7 +1962,6 @@
 
 [How to Scrape like a (Hype)Beast – Ta-Ying Cheng – Medium](https://medium.com/@taying.cheng/how-to-scrape-like-a-hype-beast-85740c5e0d06)
 
-[A Basic NLP Tutorial for News Multiclass Categorization](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5)
 
 [Language, trees, and geometry in neural networks](https://pair-code.github.io/interpretability/bert-tree/)
 
