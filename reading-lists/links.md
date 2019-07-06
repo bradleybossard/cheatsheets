@@ -91,8 +91,6 @@
 
 [How to Write a Resume That Will Get You an Interview](https://www.thebalancecareers.com/how-to-write-a-resume-2063336)
 
-[Zoom Stryder electric scooter is the full suspension e-scooter I&#39;ve needed](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2018/10/25/zoom-stryder-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2018%2F10%2F25%2Fzoom-stryder-electric-scooter%2F)
-
 [Ask HN: Are any remote desktop solutions good enough for full-time use? | Hacker News](https://news.ycombinator.com/item?id=18326030)
 
 [Roku Google Assistant support arrives, how to set it up - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/10/29/roku-google-assistant-available-now/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F10%2F29%2Froku-google-assistant-available-now%2F)
@@ -102,8 +100,6 @@
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
 
 [Family Link For Chromebooks Hits The Beta Channel And It’s AWESOME](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/family-link-chromebook-supervised-users-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Ffamily-link-chromebook-supervised-users-android)
-
-[Buzzraw X full suspension electric bicycles unveiled by Coast Cycles](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2018/11/16/buzzraw-x-suspension-electric-bicycle/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2018%2F11%2F16%2Fbuzzraw-x-suspension-electric-bicycle%2F)
 
 [You can now sync Chromecast with Google Home speakers](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/11/19/chromecast-google-home-speaker-groups/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F11%2F19%2Fchromecast-google-home-speaker-groups%2F)
 
@@ -157,8 +153,6 @@
 
 [The Science Behind Making Your Child Smarter - WSJ](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
 
-[Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
-
 [Graduating the Flying Car Nanodegree Term – Hacker Noon](https://hackernoon.com/graduating-the-flying-car-nanodegree-term-e8fc9c722bc3)
 
 [Seeing Theory](https://seeing-theory.brown.edu/index.html)
@@ -179,8 +173,6 @@
 
 [The Best Bicycles and Cycling Gear of 2018 • Gear Patrol](https://gearpatrol.com/2018/12/28/the-best-bicycles-and-cycling-gear-of-2018/)
 
-[Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
-
 [Keep it Simple with the Strategy Design Pattern – Bits and Pieces](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
 
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
@@ -198,8 +190,6 @@
 [Google - Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 [Many Nodes, One Distributed System – baseds – Medium](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
-
-[Infinite Data Structures In JavaScript – Hacker Noon](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
 
 [Brewing Crazy Awesome Beer Cheap - Mr Crazy Kicks](https://www.mrcrazykicks.com/brewing-crazy-awesome-beer-cheap/)
 
@@ -241,8 +231,6 @@
 
 [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282)
 
-[Swagtron unveils its new weird &amp; wild lineup of electric bicycles &amp; scooters](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/01/08/swagtron-weird-electric-bicycles/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F01%2F08%2Fswagtron-weird-electric-bicycles%2F)
-
 [The best new 3D tools for 2019 | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/the-best-new-3d-tools-for-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2Fthe-best-new-3d-tools-for-2019)
 
 [Hey Google, what&#39;s new with the Assistant at CES this year?](https://www.blog.google/products/assistant/hey-google-whats-new-assistant-ces-year/)
@@ -261,11 +249,7 @@
 
 [Amazon&#39;s IMDb Launches Free Movie and TV Streaming Service - Geek.com](https://www.geek.com/tech/amazons-imdb-launches-free-movie-and-tv-streaming-service-1769318/)
 
-[Deploying and Sharing: Web Scraping with the Wolfram Language, Part 3—Wolfram Blog](https://blog.wolfram.com/2019/01/10/deploying-and-sharing-web-scraping-with-the-wolfram-language-part-3/)
-
 [Identity and authentication, the Google Cloud way](https://gweb--cloudblog--publish-appspot-com.cdn.ampproject.org/v/s/gweb-cloudblog-publish.appspot.com/products/identity-security/identity-and-authentication-the-google-cloud-way/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s)
-
-[JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
 
@@ -307,8 +291,6 @@
 
 [New Contest: 3D Printed Gears, Pulleys, and Cams | Hackaday](https://hackaday.com/2019/01/16/new-contest-3d-printed-gears-pulleys-and-cams/)
 
-[Bafang Ultra mid-drive offers over 2 kW of power, high torque &amp; high speed](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/01/17/bafang-ultra-electric-bicycle-motor/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F01%2F17%2Fbafang-ultra-electric-bicycle-motor%2F)
-
 [Introducing Scylla Open Source 3.0 - ScyllaDB](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/)
 
 [Tester Vs Client - ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/agwqah/tester_vs_client/)
@@ -323,19 +305,13 @@
 
 [Introducing GitHub Actions | CSS-Tricks](https://css-tricks.com/introducing-github-actions/)
 
-[Best Javascript Courses &amp; Training (2019 Updated) – Courses Buddy](https://coursesbuddy.com/best-javascript-courses-2019/)
-
 [Why the stock market is going higher | greyenlightenment.com](http://greyenlightenment.com/why-the-stock-market-is-going-higher/)
-
-[An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
 
 [Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library - Facebook Code](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
 
 [Results are in: Fully fledged Dart takes first in 2019 poll - JAXenter](https://jaxenter.com/poll-results-dart-word-2019-154779.html)
 
 [Flight Tracker | Real-Time Tracking | Plane Finder](https://planefinder.net/)
-
-[JavaScript V8 Engine Explained – Hacker Noon](https://hackernoon.com/javascript-v8-engine-explained-3f940148d4ef)
 
 [DeepTraffic - DQN Tuning for Traffic Navigation (75.01 MPH Solution)](https://towardsdatascience.com/deeptraffic-dqn-tuning-for-traffic-navigation-75-01-mph-solution-23087e2411cf)
 
@@ -391,8 +367,6 @@
 
 [Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
 
-[Free and Open Source 3-D Model Customizer for Websites to Democratize Design with OpenSCAD | Joshua Pearce and Yuenyong Nilsiam - Academia.edu](https://www.academia.edu/33772407/Free_and_Open_Source_3-D_Model_Customizer_for_Websites_to_Democratize_Design_with_OpenSCAD)
-
 [Open Source 3-D Printing - Wikiversity](https://en.m.wikiversity.org/wiki/Open_Source_3-D_Printing)
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
@@ -400,8 +374,6 @@
 [Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
 
 [download](https://preciousplastic.com/en/videos/download.html)
-
-[ONYX&#39;s new retro-styled 30 and 60 mph electric mopeds are practically electric motorcycles - Electrek](https://electrek.co/2018/06/01/onyx-new-retro-styled-electric-bicycles/)
 
 [A Crash Course In 3D Printed Venturi Pumps | Hackaday](https://hackaday.com/2019/02/08/a-crash-course-in-3d-printed-venturi-pumps/)
 
@@ -414,8 +386,6 @@
 [Advanced Express](https://www.lynda.com/Node-js-tutorials/Advanced-Express/798496-2.html)
 
 [Using AWS Amplify feels like cheating. – Cory Schimmoeller – Medium](https://medium.com/@coryschimmoeller/using-aws-amplify-feels-like-cheating-e5eabcaea500)
-
-[Web scraping with Python — A to copy Z – Towards Data Science](https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7)
 
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
 
@@ -471,15 +441,11 @@
 
 [New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
 
-[500 miles on a GenZe 2.0 electric scooter (and why I no longer drive a car) - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/02/19/500-miles-genze-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F02%2F19%2F500-miles-genze-electric-scooter%2F)
-
 [WiFi Hides Inside a USB Cable | Hackaday](https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/)
 
 [Husqvarna Backpack Chainsaw | DudeIWantThat.com](http://www.dudeiwantthat.com/outdoors/tools/husqvarna-backpack-chainsaw.asp)
 
 [TCL’s 4K Roku TV is cheaper than ever, and Amazon has discounted Fire TV devices - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/good-deals/2019/2/19/18231547/tcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fgood-deals%2F2019%2F2%2F19%2F18231547%2Ftcl-4k-roku-tv-fire-tv-amazon-streaming-device-sale-discount-deal)
-
-[Bank robbers flee the scene on shared electric scooters — Quartz](https://qz-com.cdn.ampproject.org/v/s/qz.com/1554101/bank-robbers-flee-the-scene-on-shared-electric-scooters/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fqz.com%2F1554101%2Fbank-robbers-flee-the-scene-on-shared-electric-scooters%2F)
 
 [How to List Installed Packages on Ubuntu and Debian](https://itsfoss.com/list-installed-packages-ubuntu/)
 
@@ -561,17 +527,9 @@
 
 [Understanding Express.js: Creating Your Own Node HTTP Request Router](https://hackernoon.com/understanding-express-js-creating-your-own-node-http-request-router-4190a9b6aad6)
 
-[All-electric GT unveiled with over 300 miles of range and 5-min charging enabled by mysterious battery - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/electric-gt-piech-mark-zero-mysterious-battery/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Felectric-gt-piech-mark-zero-mysterious-battery%2F)
-
 [The web just got an official password-free login standard](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/03/04/web-authentication-becomes-official-standard/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F03%2F04%2Fweb-authentication-becomes-official-standard%2F)
 
-[Learn modern JavaScript in this free 28-part course](https://medium.freecodecamp.org/learn-modern-javascript-in-this-free-28-part-course-7ec8d353eb)
-
-[VW’s electric dune buggy crams futuristic tech into a retro package - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/3/4/18250047/vw-electric-dune-buggy-geneva-auto-show-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F3%2F4%2F18250047%2Fvw-electric-dune-buggy-geneva-auto-show-2019)
-
 [Chromium OS Docs - Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Can-I-run-my-own-VM_kernel)
-
-[Fly Free vintage-inspired 50 mph electric motorcycles go on sale for $4,159 - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/fly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Ffly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159%2F)
 
 [Zero Downtime: Jenkins Continuous Deployment with Terraform on AWS | Toptal](https://www.toptal.com/devops/terraform-jenkins-continuous-deployment)
 
@@ -594,8 +552,6 @@
 [Building Chrome Extensions 101 – Bits and Pieces](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
 [17 Great SketchUp Tools You Should Know | All3DP](https://m.all3dp.com/2/great-sketchup-tools-you-should-know/?omhide=true&utm_source=Newsletter&utm_campaign=4e612fba33-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-4e612fba33-401459815)
-
-[OpenSCAD Gives You Parametric Boxes | Hackaday](https://hackaday.com/2019/03/11/openscad-gives-you-parametric-boxes/)
 
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
 
@@ -831,8 +787,6 @@
 
 [How To Succeed When Printing With ABS | MatterHackers](https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs)
 
-[A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
-
 [The Best Backyard Pizza Ovens | Serious Eats](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html)
 
 [Automate user acceptance testing with your DevOps pipeline | Opensource.com](https://opensource.com/article/19/4/devops-pipeline-acceptance-testing)
@@ -846,8 +800,6 @@
 [About This Book](https://www.textbook.ds100.org/about_this_book.html)
 
 [Plotting the Classics](https://www.inferentialthinking.com/chapters/01/3/Plotting_the_Classics)
-
-[How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
 [Surge is free, deep synth for every platform, with MPE support - CDM Create Digital Music](https://cdm.link/2019/04/surge-free-deep-synth-mpe/)
 
@@ -878,8 +830,6 @@
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
-
-[Build a Game With JavaScript Tutorial - SDK SOFT](https://sdksoft.eu/build-a-game-with-javascript-tutorial/)
 
 [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 
@@ -925,11 +875,7 @@
 
 [AI deepfakes are now as simple as typing whatever you want your subject to say - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F10%2F18659432%2Fdeepfake-ai-fakes-tech-edit-video-by-typing-new-words)
 
-[Modern JavaScript ctags configuration – Adorable – Medium](https://medium.com/adorableio/modern-javascript-ctags-configuration-199884dbcc1)
-
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
-
-[Increase your scraping speed with Go and Colly! — The Basics](https://medium.com/@mottet.dev/increase-your-scraping-speed-with-go-and-colly-the-basics-41038bc3647e)
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
 
@@ -943,21 +889,13 @@
 
 [Hobby RC: Defying Standard Model Airplane Designs - Tested](https://www.tested.com/art/makers/832329-hobby-rc-defying-model-airplane-preconceptions/)
 
-[geziyor/geziyor: Geziyor, a fast web crawling &amp; scraping framework for Go](https://github.com/geziyor/geziyor)
-
 [kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator)
 
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
 [Top 20 Big Data Tools | Big Data Tools 2019](https://www.bibrainia.com/big-data-tools-2019)
 
-[An End to End Introduction to GANs – Towards Data Science](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
-
-[Try NopSCADlib For Your Next OpenSCAD Project | Hackaday](https://hackaday.com/2019/06/15/try-nopscadlib-for-your-next-openscad-project/)
-
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
-
-[NVIDIA Goes Live with Complimentary Course: &quot;Getting Started on AI with the Jetson Nano&quot; - News - SparkFun Electronics](https://www.sparkfun.com/news/2941)
 
 [Watch: Algorithm lets people walk right out of images - Futurity](https://www.futurity.org/photo-wake-up-moving-images-2084262-2/)
 
@@ -971,15 +909,11 @@
 
 [attactics.org](https://attactics.org/)
 
-[Sucrase, a Faster Babel for Modern JS Runtimes](https://www.infoq.com/news/2019/06/sucrase-fast-babel-modern-js/)
-
 [Chrome OS will show Android cloud storage apps in Files app - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/chrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fchrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610%2F)
 
 [postmarketOS now supports 139 abandoned phones and tablets - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/postmarketos-now-supports-139-abandoned-phones-and-tablets-24581613/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fpostmarketos-now-supports-139-abandoned-phones-and-tablets-24581613%2F)
 
 [Devices - postmarketOS](https://wiki.postmarketos.org/wiki/Devices)
-
-[Reduce JavaScript Payloads with Tree Shaking  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 
 [How Do You Install Windows to Multiple Computers at Once?](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-do-you-install-windows-to-multiple-computers-at-onc-1835848340/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-do-you-install-windows-to-multiple-computers-at-onc-1835848340)
 
