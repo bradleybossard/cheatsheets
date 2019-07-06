@@ -21,7 +21,6 @@
 
 [Use AWS System Manager: Bastion free &amp; SSH Key free access to EC2 Instances](https://medium.com/tensult/use-aws-system-manager-bastion-free-ssh-key-free-access-to-ec2-instances-e6897c4143c5)
 
-[​Ansible Tower 3.3 arrives to make DevOps easier than ever | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/ansible-tower-3-3-arrives-to-make-devops-easier-than-ever/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fansible-tower-3-3-arrives-to-make-devops-easier-than-ever%2F)
 
 [Linux Plex Intel Quick Sync experience on Skylake/Kaby Lake = YOW - PleX](https://www.reddit.com/r/PleX/comments/9fwspn/linux_plex_intel_quick_sync_experience_on/)
 
@@ -242,7 +241,6 @@
 
 [How to Install Wine on Ubuntu 18.04 LTS](https://vitux.com/how-to-install-wine-on-ubuntu/)
 
-[Define ssh key per host using ansible_ssh_private_key_file - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/define-ssh-key-per-host-using-ansible_ssh_private_key_file/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fdefine-ssh-key-per-host-using-ansible_ssh_private_key_file%2F)
 
 [Navigation-optimized Google Assistant rolling out in Google Maps for Android - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/12/02/google-assistant-maps-navigation-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F12%2F02%2Fgoogle-assistant-maps-navigation-android%2F)
 
@@ -546,7 +544,6 @@
 
 [A simple pair game made with Flutter, a custom library and the tunnel pattern.](https://medium.com/flutter-community/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1)
 
-[Automating deployment strategies with Ansible | Opensource.com](https://opensource.com/article/19/1/automating-deployment-strategies-ansible)
 
 [AstroNavigation | Vanderbilt University](https://my.vanderbilt.edu/astronav/)
 
@@ -852,7 +849,6 @@
 
 [csharad/mdi-dart: An auto-generated Material Design Icon package for Flutter.](https://github.com/csharad/mdi-dart)
 
-[Prometheus With Grafana Using Ansible – ITNEXT](https://itnext.io/prometheus-with-grafana-using-ansible-549e575c9dfa)
 
 [In the mood for light reading? Nvidia is writing a book on ray tracing | PC Gamer](https://www-pcgamer-com.cdn.ampproject.org/v/s/www.pcgamer.com/amp/in-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcgamer.com%2Fin-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing%2F)
 
@@ -915,7 +911,6 @@
 
 
 
-[3 new ways to contribute code to Ansible | Opensource.com](https://opensource.com/article/19/2/get-involved-ansible)
 
 
 [CODEMAGIC — FLUTTER CI/CD . I – Chema Rubio – Medium](https://medium.com/@develodroid/codemagic-flutter-ci-cd-i-ee56abd749e0)
@@ -1071,7 +1066,6 @@
 
 [A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 
-[Free configuration management using Ansible, Ubuntu, VirtualBox | Network World](https://www.networkworld.com/article/3342399/network-management/free-configuration-management-using-ansible-ubuntu-virtualbox.html)
 
 [Hyperganic: Voxel-based Software for Complex 3D Printing | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/4/hyperganic-voxel-based-software-complex-3d-printing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F4%2Fhyperganic-voxel-based-software-complex-3d-printing%2F)
 
@@ -1083,7 +1077,6 @@
 
 [Visually build and modify an OpenCV Recipe - computervision](https://www.reddit.com/r/computervision/comments/auuwq3/visually_build_and_modify_an_opencv_recipe/)
 
-[A quickstart guide to Ansible | Opensource.com](https://opensource.com/article/19/2/quickstart-guide-ansible)
 
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
@@ -1154,7 +1147,6 @@
 
 [Say hi to Flutter Press Weekly, the new weekly digest of Flutter development news and articles! - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/ax4z24/say_hi_to_flutter_press_weekly_the_new_weekly/)
 
-[What you need to know about Ansible modules | Opensource.com](https://opensource.com/article/19/3/developing-ansible-modules)
 
 [The way to fully automated releases in open source projects](https://medium.com/@kevinkreuzer/the-way-to-fully-automated-releases-in-open-source-projects-44c015f38fd6)
 
@@ -1167,7 +1159,6 @@
 
 
 
-[devbox-hero/ansible-roles](https://github.com/devbox-hero/ansible-roles)
 
 [The Linux 5.0 kernel has been released #Linux « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/03/04/the-linux-5-0-kernel-has-been-released-linux/)
 
@@ -1424,7 +1415,6 @@
 
 [An intuitive guide to Convolutional Neural Networks](https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050)
 
-[Ansible performance: Revving up the engine and maintaining stability | Opensource.com](https://opensource.com/article/19/3/ansible-performance)
 
 [Node.js TypeScript #7. Creating a server and receiving requests - wanago.io - Marcin Wanago Blog](https://wanago.io/2019/03/25/node-js-typescript-7-creating-a-server-and-receiving-requests/)
 
@@ -1590,7 +1580,6 @@
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
 
 
-[Linux Server Hardening Using Idempotency with Ansible: Part 2 | Linux.com | The source for Linux information](https://www.linux.com/blog/linux-server-hardening-using-idempotency-ansible-part-2)
 
 [A comprehensive survey on graph neural networks – the morning paper](https://blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/)
 
@@ -1652,7 +1641,6 @@
 
 [Web Components: The Long Game – Infrequently Noted](https://infrequently.org/2017/10/web-components-the-long-game/)
 
-[How to use Ansible to document procedures | Opensource.com](https://opensource.com/article/19/4/ansible-procedures)
 
 [Mozilla details Pyodide, which brings Python to browsers | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/04/16/mozilla-details-pyodide-a-project-that-aims-to-bring-python-to-web-browsers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F04%2F16%2Fmozilla-details-pyodide-a-project-that-aims-to-bring-python-to-web-browsers%2F)
 
@@ -1778,7 +1766,6 @@
 
 [Linux 2FA: Secure SSH login with Google Authenticator and / or Yubi key](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
 
-[rastating/shiva: An Ansible playbook to provision a host for penetration testing and CTF challenges](https://github.com/rastating/shiva)
 
 [wasm-micro-runtime/README.md at master · intel/wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime/blob/master/README.md)
 
@@ -1810,7 +1797,6 @@
 
 [Real-Time Rendering · “An Introduction to Ray Tracing” is now free for download](http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/)
 
-[Using Testinfra with Ansible to verify server state | Opensource.com](https://opensource.com/article/19/5/using-testinfra-ansible-verify-server-state)
 
 [Natural Language Processing: From Basics, to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
 
