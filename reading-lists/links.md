@@ -160,7 +160,6 @@
 
 [Tea-School.js — Generate a PDF File From HTML And CSS in Node.js](https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37)
 
-[How to install Tensorflow with CUDA 10 | Python 3.6](https://www.python36.com/how-to-install-tensorflow-gpu-with-cuda-10-0-for-python-on-ubuntu/)
 
 [Getting to know some pragmatic programming language features](https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118)
 
@@ -180,9 +179,7 @@
 
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 
-[Stanford University: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 
-[Linear Regression](http://www.machinelearninguru.com/deep_learning/tensorflow/machine_learning_basics/linear_regresstion/linear_regression.html#Introduction)
 
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/classification/)
 
@@ -811,7 +808,6 @@
 
 
 
-[Ubuntu 18.04: Install TensorFlow and Keras for Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/01/30/ubuntu-18-04-install-tensorflow-and-keras-for-deep-learning/)
 
 [Another cheap WiFi ARM module (EMW3060) - esp8266](https://www.reddit.com/r/esp8266/comments/alf052/another_cheap_wifi_arm_module_emw3060/)
 
@@ -820,7 +816,6 @@
 
 [Fast, extensible, configurable, and beautiful linter for Go · Minko Gechev&#39;s blog](https://blog.mgechev.com/2018/05/28/revive-golang-golint-linter/)
 
-[macOS Mojave: Install TensorFlow and Keras for Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/01/30/macos-mojave-install-tensorflow-and-keras-for-deep-learning/)
 
 [Linux Fu: Easier File Watching | Hackaday](https://hackaday.com/2019/01/31/linux-fu-easier-file-watching/)
 
@@ -853,7 +848,6 @@
 
 [Flutter — IDE Shortcuts for Faster Development – Flutter Community – Medium](https://medium.com/flutter-community/flutter-ide-shortcuts-for-faster-development-2ef45c51085b)
 
-[MIT Deep Learning Basics: Introduction and Overview with TensorFlow](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0)
 
 [How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
 
@@ -1010,7 +1004,6 @@
 
 [Solidity tips and tricks to save gas and reduce bytecode size](https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6)
 
-[Step by step guide to Tensorflow](https://www.edyoda.com/course/1429)
 
 [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
@@ -1141,7 +1134,6 @@
 
 [Intuitive Deep Learning Part 1b: Introduction to Neural Networks](https://medium.com/intuitive-deep-learning/intuitive-deep-learning-part-1b-introduction-to-neural-networks-8565d97ddd2d)
 
-[A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.35700&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
 
@@ -1168,7 +1160,6 @@
 
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
-[Introducing TensorFlow Datasets – TensorFlow – Medium](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)
 
 [Beaker: the Decentralized Read-Write Browser | Linux Journal](https://www.linuxjournal.com/content/beaker-decentralized-read-write-browser)
 
@@ -1230,7 +1221,6 @@
 [CNC your own PCB with this Tutorial | Hackaday](https://hackaday.com/2019/03/03/cnc-your-own-pcb-with-this-tutorial/)
 
 
-[The Guide to DeepLearning with Tensorflow and Keras - The Beginning - NintyZeros](https://www.nintyzeros.com/2019/03/tensorflow-for-beginners-deeplearning.html?m=1)
 
 [frontend-bootcamp/README.md at master · Microsoft/frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp/blob/master/README.md)
 
@@ -1349,7 +1339,6 @@
 
 [Hackaday Podcast Ep10 – XKCD Graphs, Turing Complete Meta Computers, False Finger Printing 3D Printers, and Jargon | Hackaday](https://hackaday.com/2019/03/15/hackaday-podcast-ep10-xkcd-graphs-turing-complete-meta-computers-false-finger-printing-3d-printers-and-jargon/)
 
-[TensorFlow for R: Math, code, concepts: A third road to deep learning](https://blogs.rstudio.com/tensorflow/posts/2019-03-15-concepts-way-to-dl/)
 
 [TL;DR AWS — Open Distro Elasticsearch – Mayank Patel – Medium](https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a)
 
@@ -1461,7 +1450,6 @@
 
 [Kicking neural network automation into high gear -- ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190321152843.htm)
 
-[Install Tensorflow-gpu to use Nvidia GPU on Ubuntu 18.04 do AI !](https://medium.com/datadriveninvestor/install-tensorflow-gpu-to-use-nvidia-gpu-on-ubuntu-18-04-do-ai-71b0ce64ebc5)
 
 [Build a voting website that doesn’t crash under load (in under an hour)](https://itnext.io/build-a-voting-website-that-doesnt-crash-under-load-in-under-an-hour-1c0948307773)
 
@@ -1802,7 +1790,6 @@
 
 [Varken - The Ultimate Plex Ecosystem Dashboard - PleX](https://www.reddit.com/r/PleX/comments/ben93n/varken_the_ultimate_plex_ecosystem_dashboard/)
 
-[Deep Dream with TensorFlow: A Practical guide to build your first Deep Dream Experience](https://hackernoon.com/deep-dream-with-tensorflow-a-practical-guide-to-build-your-first-deep-dream-experience-f91df601f479)
 
 
 [A Dummy’s Guide to Distributed Queues – freeCodeCamp.org](https://medium.freecodecamp.org/a-dummys-guide-to-distributed-queues-2cd358d83780)
@@ -1821,7 +1808,6 @@
 
 [How to Remotely Turn On Your PC Over the Internet](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/192642/how-to-remotely-turn-on-your-pc-over-the-internet/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F192642%2Fhow-to-remotely-turn-on-your-pc-over-the-internet%2F)
 
-[Autoencoders: Deep Learning with TensorFlow&#39;s Eager API | Data Stuff](http://www.datastuff.tech/machine-learning/autoencoder-deep-learning-tensorflow-eager-api-keras/)
 
 [How to Build Your Own 3D Printing Slicer From Scratch : 12 Steps](https://www.instructables.com/id/How-to-Build-Your-Own-3D-Printing-Slicer-From-Scra/)
 
@@ -1829,7 +1815,6 @@
 
 [G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)
 
-[Ultimate Guide to TensorFlow 2.0 in Python](https://rubikscode-net.cdn.ampproject.org/v/s/rubikscode.net/2019/04/22/ultimate-guide-to-tensorflow-2-0-in-python/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Frubikscode.net%2F2019%2F04%2F22%2Fultimate-guide-to-tensorflow-2-0-in-python%2F)
 
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
 
@@ -1920,7 +1905,6 @@
 [The Part-Time Parliament - Microsoft Research](https://www.microsoft.com/en-us/research/publication/part-time-parliament/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Flamport-paxos.pdf)
 
 
-[Merging TensorFlow Lite and μTensor – Hackster Blog](https://blog.hackster.io/merging-tensorflow-lite-and-%CE%BCtensor-c7abfa38208f)
 
 [Automate NPM packages security fixes with recurring tasks on CI - DEV Community 👩‍💻👨‍💻](https://dev.to/alex_barashkov/automate-npm-packages-security-fixes-with-recurring-tasks-on-ci-pi1)
 
@@ -1928,7 +1912,6 @@
 
 [rastating/shiva: An Ansible playbook to provision a host for penetration testing and CTF challenges](https://github.com/rastating/shiva)
 
-[Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
 
 [wasm-micro-runtime/README.md at master · intel/wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime/blob/master/README.md)
 
@@ -1937,11 +1920,9 @@
 
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
 
-[Building a Multi-label Text Classifier using BERT and TensorFlow](https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert-and-tensorflow-f188e0ecdc5d)
 
 [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
 
-[Generating Text with TensorFlow 2.0 – Towards Data Science](https://towardsdatascience.com/generating-text-with-tensorflow-2-0-6a65c7bdc568)
 
 
 [How to use SSHFS to Mount Remote Directories over SSH | Linuxize](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
@@ -2025,9 +2006,7 @@
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
-[A Transformer Chatbot Tutorial with TensorFlow 2.0 – TensorFlow – Medium](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
 
-[TF Jam — Shooting Hoops with Machine Learning – TensorFlow – Medium](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32)
 
 [Monitoring Linux Processes using Prometheus and Grafana – devconnected](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 
@@ -2075,7 +2054,6 @@
 
 [Zdog, A Clever And Easy To Use Renderer For Browsers, Is A Joy To Behold - Digg](https://digg-com.cdn.ampproject.org/v/digg.com/2019/zdog-pseudo-3d-rendering-desandro?amp_js_v=a2&amp_gsa=1&amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=http%3A%2F%2Fdigg.com%2F2019%2Fzdog-pseudo-3d-rendering-desandro)
 
-[Introduction to TensorFlow in Python | DataCamp](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python#!)
 
 [Advanced Deep Learning with Keras in Python | DataCamp](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 
@@ -2107,7 +2085,6 @@
 
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
-[Introducing TensorFlow Datasets – TensorFlow – Medium](https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3)
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
@@ -2178,7 +2155,6 @@
 
 [RNN Simplified- A beginner’s guide – Towards Data Science](https://towardsdatascience.com/rnn-simplified-a-beginners-guide-cf3ae1a8895b)
 
-[TensorFlow Federated  |  TensorFlow](https://www.tensorflow.org/federated/)
 
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
 
@@ -2201,7 +2177,6 @@
 
 [Anyone can program this cheap robot arm in just 15 minutes](https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyreview.com/s/613577/anyone-can-program-this-cheap-robot-arm-in-just-15-minutes/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F613577%2Fanyone-can-program-this-cheap-robot-arm-in-just-15-minutes%2F)
 
-[Google launches TensorFlow.Text library for language AI models | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/06/10/google-launches-tensorflow-text-library-for-language-ai-models/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F06%2F10%2Fgoogle-launches-tensorflow-text-library-for-language-ai-models%2F)
 
 [Increase your scraping speed with Go and Colly! — The Basics](https://medium.com/@mottet.dev/increase-your-scraping-speed-with-go-and-colly-the-basics-41038bc3647e)
 
@@ -2220,7 +2195,6 @@
 [APRS: Robust Wireless in an Age of IoT - News - SparkFun Electronics](https://www.sparkfun.com/news/2944)
 
 
-[Introduction to Multilayer Neural Networks with TensorFlow’s Keras API](https://towardsdatascience.com/introduction-to-multilayer-neural-networks-with-tensorflows-keras-api-abf4f813959)
 
 [Enforcing Conventional Commits using Git hooks | Enda Phelan](https://endaphelan.me/guides/git/using-git-hooks-to-enforce-conventional-commits/)
 
@@ -2270,7 +2244,6 @@
 
 [Deep dive into version control using Git – Towards Data Science](https://towardsdatascience.com/deep-dive-into-version-control-using-git-f0f3018d10f9)
 
-[Implementing Neural Style Transfer using TensorFlow 2.0 (article) - DataCamp](https://www.datacamp.com/community/tutorials/implementing-neural-style-transfer-using-tensorflow)
 
 [Facebook makes PyRobot open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
 
