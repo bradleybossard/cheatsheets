@@ -202,8 +202,6 @@
 
 [Alexa Just Got a Heck of a Lot Smarter](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/alexa-wolfram-alpha,news-28914.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Falexa-wolfram-alpha%2Cnews-28914.html)
 
-[GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-6a55981f3a7e)
-
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
 
 [This Algorithm Can Create 3D Animations From A Single Still Image](https://futurism-com.cdn.ampproject.org/v/s/futurism.com/algorithm-3d-animations-still-image/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ffuturism.com%2Falgorithm-3d-animations-still-image%2F)
@@ -302,8 +300,6 @@
 
 [The Sneerwell Flasks Online Shop | Gallantry](https://gallantry.com/collections/the-sneerwell)
 
-[A Beginner’s Guide to GraphQL – freeCodeCamp.org](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
-
 [Dart Language | Dart](https://www.dartlang.org/guides/language)
 
 [Hummingbird vs Angular Dart – Raveesh Agarwal – Medium](https://medium.com/@raveeshagarwal/hummingbird-vs-angular-dart-b636b7147099)
@@ -327,8 +323,6 @@
 [Complicated patterns aren’t always that complicated. Usually it’s the simple ones that bite you.](https://hackernoon.com/complicated-patterns-arent-always-that-complicated-usually-it-s-the-simple-ones-that-bite-you-caf870f2bf03)
 
 [Asus’s new Chromebook Flip ups the screen size, adds 8th Gen Intel CPUs - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/circuitbreaker/2019/1/7/18171772/asus-chromebook-flip-c434-release-date-price-features-ces-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2019%2F1%2F7%2F18171772%2Fasus-chromebook-flip-c434-release-date-price-features-ces-2019)
-
-[Intro to AWS AppSync Pipeline Functions – Open GraphQL – Medium](https://medium.com/open-graphql/intro-to-aws-appsync-pipeline-functions-3df87ceddac1)
 
 [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282)
 
@@ -444,15 +438,11 @@
 
 [Get started with Freeplane, an open source mind mapping application | Opensource.com](https://opensource.com/article/19/1/productivity-tool-freeplane)
 
-[How OneGraph onboards users who are new to GraphQL ·](https://www.onegraph.com/blog/2019/01/24/How_OneGraph_onboards_users_new_to_GraphQL.html)
-
 [7-Segment Display is 3D Printed and Hand Cranked | Hackaday](https://hackaday.com/2019/01/26/7-segment-display-is-3d-printed-and-hand-cranked/)
 
 [I started building a DApp – these were my architectural difficulties](https://medium.com/@reime005/i-started-building-a-dapp-these-were-my-architectural-difficulties-a2c7139819cf)
 
 [Announcing Winners of Dystopia/Utopia 3D Art Competition - TurboSquid Blog](https://blog.turbosquid.com/2019/01/25/announcing-winners-of-dystopia-utopia-3d-art-competition/)
-
-[GraphQL Inspector · Compare schemas, validate documents, find breaking changes, find similar types, schema coverage](https://graphql-inspector.com/?ref=producthunt)
 
 [ASUS Announces VivoMini VC65-C1 SFF PC with Ultra HD Blu-Ray &amp; Core i7-8700T](https://www.anandtech.com/show/13903/asus-vivomini-vc65c1-sff-pc-with-ultra-hd-bluray-core-i78700t)
 
@@ -904,8 +894,6 @@
 
 [Using Grafana for personal financial management – Denis Isidoro – Medium](https://medium.com/@den.isidoro/using-grafana-for-personal-financial-management-ac0e4d0cb43)
 
-[Dead-simple AWS GraphQL API . – mim Armand – Medium](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
-
 [Print Your Own Large Format Camera | Hackaday](https://hackaday.com/2019/04/04/print-your-own-large-format-camera/)
 
 [SerpentAI/D3DShot: Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API](https://github.com/SerpentAI/D3DShot)
@@ -925,8 +913,6 @@
 [What is GraphBLAS? – AldenMath](http://aldenmath.com/what-is-graphblas/)
 
 [VPN - a Very Precarious Narrative - Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html)
-
-[Try Astrograph: Your GraphQL lens for Stellar blockchain — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/try-astrograph-your-graphql-lens-for-stellar-blockchain)
 
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
 
@@ -1028,8 +1014,6 @@
 
 [How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
-[Introducing GraphQL Birdseye 🦅 - DEV Community 👩‍💻👨‍💻](https://dev.to/novvumio/introducing-graphql-birdseye-33i6)
-
 [Surge is free, deep synth for every platform, with MPE support - CDM Create Digital Music](https://cdm.link/2019/04/surge-free-deep-synth-mpe/)
 
 [Home | Airship](https://www.airshipit.org/)
@@ -1093,8 +1077,6 @@
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
-
-[GraphQL made easy with Hooks - Marco Pegoraro](https://marcopeg.com/2019/graphql-made-easy)
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
