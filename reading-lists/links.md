@@ -1836,7 +1836,6 @@
 
 [laconiajs/laconia: Create well-crafted serverless applications, effortlessly](https://github.com/laconiajs/laconia)
 
-
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
 [Real-Time Rendering · Get Your Book, Make It Free](http://www.realtimerendering.com/blog/get-your-book-make-it-free/)
@@ -1845,14 +1844,11 @@
 
 [Using Testinfra with Ansible to verify server state | Opensource.com](https://opensource.com/article/19/5/using-testinfra-ansible-verify-server-state)
 
-
 [Natural Language Processing: From Basics, to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
 
 [Matt Pharr](https://pharr.org/matt/)
 
 [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
-
-
 
 [Physically Based Rendering – Part one](https://wiki.jmonkeyengine.org/jme3/advanced/pbr_part1.html)
 
@@ -1866,12 +1862,9 @@
 
 [🌻 The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
-
-
 [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 
 [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
-
 
 [How to Set Up an SSH Server with Tor to Hide It from Shodan &amp; Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/set-up-ssh-server-with-tor-hide-from-shodan-hackers-0194455/)
 
@@ -1881,24 +1874,17 @@
 
 [Monitoring Linux host metrics with the Node Exporter | Prometheus](https://prometheus.io/docs/guides/node-exporter/)
 
-
 [Digital Forensics Tips&amp;Tricks: How to Find an Intruder&#39;s Lucky Coin / Habr](https://m.habr.com/en/post/452254/)
 
 [Bottom-up CMake introduction - Low Level Bits](https://lowlevelbits.org/bottom-up-cmake-introduction/)
-
-[Auto Draw, Google’s New AI Experiment, Is AutoCorrect For Doodles](https://chromeunboxed.com/auto-draw-googles-new-ai-experiment-is-autocorrect-for-doodles/)
-
 
 [Chatbot Development Challenges - Part 1 – Hacker Noon](https://hackernoon.com/chatbot-development-challenges-part-1-bf472062be60)
 
 [Terminal File Manager nnn 2.5 Adds Plugins, Mouse And SSHFS Support - Linux Uprising Blog](https://www.linuxuprising.com/2019/05/terminal-file-manager-nnn-25-adds.html?m=1)
 
-
 [Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
 
-
 [0x4D31/fatt: fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic](https://github.com/0x4D31/fatt)
-
 
 [How to Use the wall Command on Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/415914/how-to-use-the-wall-command-on-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F415914%2Fhow-to-use-the-wall-command-on-linux%2F)
 
