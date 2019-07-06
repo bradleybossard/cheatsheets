@@ -5,7 +5,6 @@
 [How to create a custom Ubuntu live from scratch – ITNEXT](https://itnext.io/how-to-create-a-custom-ubuntu-live-from-scratch-dd3b3f213f81)
 
 
-[An Overview of Human Pose Estimation with Deep Learning](https://www.kdnuggets.com/2019/06/human-pose-estimation-deep-learning.html)
 
 [Ask HN: Simple, beginner friendly ETL / Data Engineering project ideas? | Hacker News](https://news.ycombinator.com/item?id=17781762)
 
@@ -17,7 +16,6 @@
 [Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
 
 
-[Ask HN: What&#39;s a starting point for learning how to write programming languages? | Hacker News](https://news.ycombinator.com/item?id=17965917)
 
 [Learn Vim with these Great Free Books - OSS Blog](https://www.ossblog.org/learn-vim-great-free-books/)
 
@@ -77,7 +75,6 @@
 
 
 
-[Introducing: Unity Machine Learning Agents Toolkit – Unity Blog](https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/)
 
 
 [Making Android controlled Arduino quadcopter from scratch](https://www.linkedin.com/pulse/making-android-controlled-arduino-quadcopter-from-scratch-val-smirnov)
@@ -126,7 +123,6 @@
 
 [Useful tools: Headless Chrome &amp; puppeteer for browser automation &amp; testing.](https://medium.com/square-corner-blog/useful-tools-headless-chrome-puppeteer-for-browser-automation-testing-1ac7707bad40)
 
-[[P] Andrew Ng’s Coursera ML course done entirely in Python - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/9nlnek/p_andrew_ngs_coursera_ml_course_done_entirely_in/)
 
 [What’s new in Angular Version 7 | InfoWorld](https://www.infoworld.com/article/3213244/angular/whats-new-in-angular-version-7-release-candidate-arrives.html)
 
@@ -155,7 +151,6 @@
 
 [JAMstack. How sites are becoming even faster in a bloated web. - DEV Community 👩‍💻👨‍💻](https://dev.to/lewismenelaws/jamstack-how-sites-are-becoming-even-faster-in-a-bloated-web-fig)
 
-[Model-Based Machine Learning (Early Access): Table of Contents](http://mbmlbook.com/toc.html)
 
 
 [Tea-School.js — Generate a PDF File From HTML And CSS in Node.js](https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37)
@@ -185,7 +180,6 @@
 [Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
 
 
-[Learning npm the Node Package Manager](https://www.lynda.com/Node-js-tutorials/Learning-npm-Node-Package-Manager/761956-2.html)
 
 [Amazon.com: Naked Statistics: Stripping the Dread from the Data (9780393347777): Charles Wheelan: Books](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_1)
 
@@ -262,7 +256,6 @@
 [Udemy Free Coupons, 100% Off Udemy Coupons December 2018](https://couponscorpion.com/)
 
 
-[intel-machine-learning-101 · master · Bradley Bossard / intel-ai-academy · GitLab](https://gitlab.com/bradleybossard/intel-ai-academy/tree/master/intel-machine-learning-101)
 
 [Play Tetris at your Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-tetris)
 
@@ -316,7 +309,6 @@
 
 [Learn data science with Python and R projects](https://www.dataquest.io/)
 
-[Deep Learning](http://deeplearning.net/)
 
 
 
@@ -352,11 +344,9 @@
 
 [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-Learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
 
-[Reinforcement learning (RL) 101 with Python – Towards Data Science](https://towardsdatascience.com/reinforcement-learning-rl-101-with-python-e1aa0d37d43b)
 
 [RLbook2018.pdf - Google Drive](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
-[How to Create a Random-Split, Cross-Validation, and Bagging Ensemble for Deep Learning in Keras](https://machinelearningmastery.com/how-to-create-a-random-split-cross-validation-and-bagging-ensemble-for-deep-learning-in-keras/)
 
 
 [Easily building WASM projects with go and go-wasm - DEV Community 👩‍💻👨‍💻](https://dev.to/swisschili/easily-building-wasm-projects-with-go-and-go-wasm-2ci2)
@@ -395,7 +385,6 @@
 
 [Linux Release Roundup: Dash to Panel, Audacious, Linux 4.20 + More - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2018/12/linux-4-20-released)
 
-[Andrew Ng’s Machine Learning Course in Python (Neural Networks)](https://medium.com/@ben_lau93/andrew-ngs-machine-learning-course-in-python-neural-networks-e526b41fdcd9)
 
 [Dart vs Swift: a comparison – Coding with Flutter – Medium](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
 
@@ -431,7 +420,6 @@
 [Try These Mobile &#39;Lemmings&#39; Games Instead of Sony&#39;s Crappy Port](https://lifehacker.com/try-these-ios-and-android-lemmings-games-instead-of-son-1831360899)
 
 
-[Deep Learning](https://www.deeplearningbook.org/)
 
 
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
@@ -484,7 +472,6 @@
 
 [Alibaba Open-Sources Mars to Complement NumPy – SyncedReview – Medium](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 
-[How to Develop a Snapshot Ensemble Deep Learning Neural Network in Python With Keras](https://machinelearningmastery.com/snapshot-ensemble-deep-learning-neural-network/)
 
 [MIT researchers automate reverse engineering of 3D models - 3D Printing Industry](https://3dprintingindustry.com/news/mit-researchers-automate-reverse-engineering-of-3d-models-146286/)
 
@@ -537,7 +524,6 @@
 
 [Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 
-[lexfridman/deeptraffic: DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.](https://github.com/lexfridman/deeptraffic)
 
 [A Technical Follow-Up: How We Built the World’s Prettiest Auto-Generated Transit Maps](https://medium.com/transit-app/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f)
 
@@ -548,7 +534,6 @@
 
 [dashengSun/hammer-vim: Navigate apps like Vim on Mac](https://github.com/dashengSun/hammer-vim)
 
-[How to Create an Equally, Linearly, and Exponentially Weighted Average of Neural Network Model Weights in Keras](https://machinelearningmastery.com/polyak-neural-network-model-weight-ensemble/)
 
 
 [Complicated patterns aren’t always that complicated. Usually it’s the simple ones that bite you.](https://hackernoon.com/complicated-patterns-arent-always-that-complicated-usually-it-s-the-simple-ones-that-bite-you-caf870f2bf03)
@@ -611,11 +596,9 @@
 
 [Securing Node.js apps with SSL/TLS – Noteworthy - The Journal Blog](https://blog.usejournal.com/securing-node-js-apps-with-ssl-tls-b3570dbf84a5)
 
-[A Gentle Introduction to Deep Learning ~ [Part 2 — Linear Algebra(Basics)]](https://towardsdatascience.com/a-gentle-introduction-to-deep-learning-part-2-linear-algebra-basics-7139391402c5)
 
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
 
-[p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 
 [[Tutorial] Asynchronous Flutter chat client with Go chat server which are powered by gRPC (simple…](https://medium.com/@amsokol.com/tutorial-asynchronous-flutter-chat-client-with-go-chat-server-which-are-powered-by-grpc-simple-ce913066861c)
 
@@ -680,7 +663,6 @@
 
 [Introducing Scylla Open Source 3.0 - ScyllaDB](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/)
 
-[re:MARS, a new AI event for machine learning, automation, robotics, and space](https://blog.aboutamazon.com/innovation/re-mars-a-new-ai-event-for-machine-learning-automation-robotics-and-space)
 
 [Building a Responsive House with Flare &amp; Flutter – 2Dimensions – Medium](https://medium.com/2dimensions/building-a-responsive-house-with-flare-flutter-31af823ba805)
 
@@ -696,7 +678,6 @@
 
 [Electrek - Charge Forward](https://electrek.co/page/6/)
 
-[Everything you need to know about Neural Networks and Backpropagation — Machine Learning Made Easy…](https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a)
 
 [Getting Started · TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
@@ -709,9 +690,7 @@
 
 [Why the stock market is going higher | greyenlightenment.com](http://greyenlightenment.com/why-the-stock-market-is-going-higher/)
 
-[Deep Learning For Coders—36 hours of lessons for free](https://course.fast.ai/lessons/lesson1.html)
 
-[Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
 
 [An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
 
@@ -736,7 +715,6 @@
 
 [Plex Mass Media Converter - homelab](https://www.reddit.com/r/homelab/comments/aj5ynv/plex_mass_media_converter/)
 
-[How to Setup a Python Environment for Machine Learning and Deep Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
 [DeepTraffic - DQN Tuning for Traffic Navigation (75.01 MPH Solution)](https://towardsdatascience.com/deeptraffic-dqn-tuning-for-traffic-navigation-75-01-mph-solution-23087e2411cf)
 
@@ -769,7 +747,6 @@
 
 [Casting Concrete with 3D Printed Molds | Hackaday](https://hackaday.com/2019/01/27/casting-concrete-with-3d-printed-molds/)
 
-[Learning NLP Language Models with Real Data – Towards Data Science](https://towardsdatascience.com/learning-nlp-language-models-with-real-data-cdff04c51c25)
 
 [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
@@ -779,7 +756,6 @@
 
 [Badland Brawler Lets Arduino Tackle Terrain | Hackaday](https://hackaday.com/2019/01/27/badland-brawler-lets-arduino-tackle-terrain/)
 
-[Learning to Drive Smoothly in Minutes – Towards Data Science](https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4)
 
 [Autonomous cars for the rest of us](https://diyrobocars.com/)
 
@@ -886,7 +862,6 @@
 
 [download](https://preciousplastic.com/en/videos/download.html)
 
-[Dopamine 2.0: providing more flexibility in reinforcement learning research | Google Open Source Blog](https://opensource.googleblog.com/2019/02/dopamine-2.0.html?m=1)
 
 
 
@@ -936,7 +911,6 @@
 
 [Node.js TypeScript #1. Modules, process arguments and File System](https://wanago.io/2019/02/11/node-js-typescript-modules-file-system/)
 
-[Fashion MNIST with Keras and Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/)
 
 
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://medium.com/@robertnishihara/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
@@ -947,12 +921,10 @@
 
 [Two graphical tools for manipulating PDFs on the Linux desktop | Opensource.com](https://opensource.com/article/19/2/manipulating-pdfs-linux)
 
-[Machine Learning vs. Natural Language Processing - Lexalytics](https://www.lexalytics.com/lexablog/machine-learning-vs-natural-language-processing-part-1)
 
 [Endurance to develop new high powered lasers for 3D printers and CNCs - 3D Printing Industry](https://3dprintingindustry.com/news/endurance-to-develop-new-high-powered-lasers-for-3d-printers-and-cncs-148848/)
 
 
-[This Chrome extension lets you learn a new language by watching Netflix - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/2/12/18220289/language-learning-netflix-chrome-extension-two-subtitles?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F2%2F12%2F18220289%2Flanguage-learning-netflix-chrome-extension-two-subtitles)
 
 
 
@@ -984,7 +956,6 @@
 
 [Five Pentesting Tools and Techniques (That Every Sysadmin Should Know)](https://medium.com/@jeremy.trinka/five-pentesting-tools-and-techniques-that-sysadmins-should-know-about-4ceca1488bff)
 
-[Controlling robotic arm with deep reinforcement learning](https://blog-floydhub-com.cdn.ampproject.org/v/s/blog.floydhub.com/robotic-arm-control-deep-reinforcement-learning/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.floydhub.com%2Frobotic-arm-control-deep-reinforcement-learning%2F)
 
 [New AI fake text generator may be too dangerous to release, say creators | Technology | The Guardian](https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2019%2Ffeb%2F14%2Felon-musk-backed-ai-writes-convincing-news-fiction)
 
@@ -993,7 +964,6 @@
 
 [Dark Net: Seasons, Episodes, Cast, Characters - Official Series Site | SHOWTIME](https://www.sho.com/dark-net)
 
-[Google AI Blog: Introducing PlaNet: A Deep Planning Network for Reinforcement Learning](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html?m=1)
 
 [Solidity tips and tricks to save gas and reduce bytecode size](https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6)
 
@@ -1012,7 +982,6 @@
 
 [Graph Databases for Beginners: Native vs. Non-Native Graph Technology](https://neo4j.com/blog/native-vs-non-native-graph-technology/)
 
-[How to Get Better Deep Learning Results (7-Day Mini-Course)](https://machinelearningmastery.com/better-deep-learning-neural-networks-crash-course/)
 
 [Microsoft&#39;s new Remote Desktop Preview app leaks - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/microsofts-new-remote-desktop-preview-app-leaks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fmicrosofts-new-remote-desktop-preview-app-leaks%2F)
 
@@ -1101,7 +1070,6 @@
 
 [Revealed! Flutter Slides at Flutter Live ‘18 – Flutter NYC – Medium](https://medium.com/flutter-nyc/revealed-flutter-slides-at-flutter-live-18-7af4cac17ed3)
 
-[The Complete Reinforcement Learning Dictionary – Towards Data Science](https://towardsdatascience.com/the-complete-reinforcement-learning-dictionary-e16230b7d24e)
 
 [Ivan Miranda Built a 3D-Printed CNC Router – Hackster Blog](https://blog.hackster.io/ivan-miranda-built-a-3d-printed-cnc-router-ab823c6bfa4b)
 
@@ -1121,11 +1089,8 @@
 
 [Convolutional Neural Network – Towards Data Science](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529)
 
-[Intuitive Deep Learning: Introduction – Intuitive Deep Learning – Medium](https://medium.com/intuitive-deep-learning/intuitive-deep-learning-introduction-de0e03327654)
 
-[Intuitive Deep Learning Part 1a: Introduction to Neural Networks](https://medium.com/intuitive-deep-learning/intuitive-deep-learning-part-1a-introduction-to-neural-networks-d7b16ebf6b99)
 
-[Intuitive Deep Learning Part 1b: Introduction to Neural Networks](https://medium.com/intuitive-deep-learning/intuitive-deep-learning-part-1b-introduction-to-neural-networks-8565d97ddd2d)
 
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
@@ -1142,7 +1107,6 @@
 
 [Microsoft puts mixed reality, high-speed 3D rendering, and Kinect vision into cloud – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/02/augmented-reality-heads-to-the-cloud-with-azure-kinect-remote-rendering/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F02%2Faugmented-reality-heads-to-the-cloud-with-azure-kinect-remote-rendering%2F)
 
-[Spam Filtering System With Deep Learning – Towards Data Science](https://towardsdatascience.com/spam-filtering-system-with-deep-learning-b8070b28f9e0)
 
 
 
@@ -1194,7 +1158,6 @@
 
 [Use Bayes&#39; Theorem to Investigate Food Allergies — Count Bayesie](https://www.countbayesie.com/blog/2016/1/22/why-you-should-believe-your-friends-claims-about-food-allergies)
 
-[Probability Theory for Deep Learning – Towards Data Science](https://towardsdatascience.com/probability-theory-for-deep-learning-9551b9255cf0)
 
 [www.dartmouth.edu](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter6.pdf)
 
@@ -1234,7 +1197,6 @@
 [All-electric GT unveiled with over 300 miles of range and 5-min charging enabled by mysterious battery - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/electric-gt-piech-mark-zero-mysterious-battery/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Felectric-gt-piech-mark-zero-mysterious-battery%2F)
 
 
-[Holistically-Nested Edge Detection with OpenCV and Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/)
 
 
 [devbox-hero/ansible-roles](https://github.com/devbox-hero/ansible-roles)
@@ -1250,7 +1212,6 @@
 [Chromium OS Docs - Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Can-I-run-my-own-VM_kernel)
 
 
-[Build your own Robust Deep Learning Environment in Minutes](https://towardsdatascience.com/build-your-own-robust-deep-learning-environment-in-minutes-354cf140a5a6)
 
 [Fly Free vintage-inspired 50 mph electric motorcycles go on sale for $4,159 - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/fly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Ffly-free-vintage-inspired-50-mph-electric-motorcycles-go-on-sale-for-4159%2F)
 
@@ -1355,17 +1316,14 @@
 
 [The 4,000 Lines of Code Harvard Hopes Will Change Translation | Slator](https://slator.com/academia/4000-lines-code-harvard-hopes-will-change-translation/)
 
-[How Language Featured at the 2019 Applied Machine Learning Days | Slator](https://slator.com/technology/how-language-featured-at-the-2019-applied-machine-learning-days/)
 
 
 [Chilicorn Rail · Markku.ai](https://markku.ai/post/chilicorn-rail/)
 
-[Building NLP Classifiers Cheaply With Transfer Learning and Weak Supervision](https://www.kdnuggets.com/2019/03/building-nlp-classifiers-cheaply-transfer-learning-weak-supervision.html)
 
 [Light on Math ML: Attention with Keras – Towards Data Science](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
 
 
-[Introduction to The Machine Learning Stack – Hacker Noon](https://hackernoon.com/introduction-to-the-machine-learning-stack-f5b64bba7602)
 
 
 [Google AI Blog: An All-Neural On-Device Speech Recognizer](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html?m=1)
@@ -1449,9 +1407,7 @@
 
 [An Introduction to Existential Types – Stephen Bly – Medium](https://medium.com/@stephenebly/an-introduction-to-existential-types-25c130ba61a4)
 
-[A Beginner&#39;s Guide to Deep Reinforcement Learning | Skymind](https://skymind.ai/wiki/deep-reinforcement-learning)
 
-[Deep Reinforcement Learning using Unity ml-agents – Towards Data Science](https://towardsdatascience.com/deep-reinforcement-learning-using-unity-ml-agents-8af8d407dd5a)
 
 [ml-agents/README.md at master · Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents/blob/master/README.md)
 
@@ -1548,11 +1504,9 @@
 
 [cnn-exposed/README.md at master · idealo/cnn-exposed](https://github.com/idealo/cnn-exposed/blob/master/README.md)
 
-[25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
 
 [Po.et is Officially 100% Open Sourced – Po.et Blog](https://blog.po.et/po-et-api-open-source-aad87d92dc0c)
 
-[Deep Learning from Scratch to GPU - 11 - A Simple Neural Network Inference API](https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-11-A-Simple-Neural-Network-API)
 
 
 [A warm welcome to DNS](https://powerdns.org/hello-dns/)
@@ -1602,7 +1556,6 @@
 [Putting Events in Their Place with Dynamic Routing | Confluent](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
 
 
-[A Gentle Introduction to Channels First and Channels Last Image Formats for Deep Learning](https://machinelearningmastery.com/a-gentle-introduction-to-channels-first-and-channels-last-image-formats-for-deep-learning/)
 
 [KitPloit - PenTest &amp; Hacking Tools for your CyberSecurity Kit ☣](https://www.kitploit.com/?m=1)
 
@@ -1640,7 +1593,6 @@
 
 
 
-[The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-word2vec/)
 
 [0.4.0 Release Notes · The Zig Programming Language](https://ziglang.org/download/0.4.0/release-notes.html)
 
@@ -1648,13 +1600,11 @@
 
 [VPN - a Very Precarious Narrative - Dennis Schubert](https://schub.io/blog/2019/04/08/very-precarious-narrative.html)
 
-[Learning to build distributed systems - Marc&#39;s Blog](https://brooker.co.za/blog/2019/04/03/learning.html)
 
 [Free Ethical Hacking Course, Learn Penetration Testing Online | Cybrary](https://www.cybrary.it/course/ethical-hacking/)
 
 [Try Astrograph: Your GraphQL lens for Stellar blockchain — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/try-astrograph-your-graphql-lens-for-stellar-blockchain)
 
-[How to Load Large Datasets From Directories for Deep Learning with Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/)
 
 
 [Google will now let you use your Android phone as a physical security key - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/10/18295348/google-android-phone-fido-webauthn-phishing-two-factor-authentication?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F10%2F18295348%2Fgoogle-android-phone-fido-webauthn-phishing-two-factor-authentication)
@@ -1664,7 +1614,6 @@
 
 [2019 FLSUN QQ-S 3D Printer – Review the Specs | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/flsun-qq-s-review-3d-printer-specs/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F1%2Fflsun-qq-s-review-3d-printer-specs%2F)
 
-[Machine learning on graphs course](https://www.octavian.ai/machine-learning-on-graphs-course)
 
 
 [Adventures in Docker: Coding on a Remote Browser with VS Code &amp; ngrok | Elton Stoneman](https://blog.sixeyed.com/adventures-in-docker-coding-on-a-remote-browser/)
@@ -1696,7 +1645,6 @@
 
 [How to Spy on Network Relationships with Airgraph-Ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/spy-network-relationships-with-airgraph-ng-0193309/)
 
-[IoT Hackers Handbook: An Ultimate Guide to Hacking the Internet of Things and Learning IoT Security: Aditya Gupta: 9781974590124: Amazon.com: Books](https://www.amazon.com/IoT-Hackers-Handbook-Ultimate-Internet/dp/1974590127/?tag=whtnb-20)
 
 [How to Hack Wi-Fi: Automating Wi-Fi Hacking with Besside-ng « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-automating-wi-fi-hacking-with-besside-ng-0176170/)
 
@@ -1719,14 +1667,12 @@
 
 [A Robust ESP8266 RFID Access Control System | Hackaday](https://hackaday.com/2019/04/15/a-robust-esp8266-rfid-access-control-system/)
 
-[[D] Knowledge Graphs - How do you build your own? - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/bd4zrl/d_knowledge_graphs_how_do_you_build_your_own/)
 
 [How to Design for Injection Molding | Cad Crowd](https://www-cadcrowd-com.cdn.ampproject.org/v/s/www.cadcrowd.com/blog/how-to-design-for-injection-molding/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cadcrowd.com%2Fblog%2Fhow-to-design-for-injection-molding%2F)
 
 
 [Building a realtime NLP pipeline using Kafka and spaCy](https://towardsdatascience.com/building-a-realtime-nlp-pipeline-using-kafka-and-spacy-d4ad636be702)
 
-[5 Developer Tools you need to check out! | GraphQL Blog: Learning GraphQL, Tutorials, Examples, Tools](https://blog.graphqleditor.com/Developer-Tools/)
 
 [Grantham, Part 2](https://www.morningstar.com/videos/870607/grantham-part-2.html)
 
@@ -1740,7 +1686,6 @@
 
 [Open-source Tools for Binary Analysis and Rewriting](https://blogs.grammatech.com/open-source-tools-for-binary-analysis-and-rewriting)
 
-[Encrypted Deep Learning Classification with PyTorch + PySyft](https://blog-openmined-org.cdn.ampproject.org/v/s/blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.openmined.org%2Fencrypted-deep-learning-classification-with-pysyft%2F)
 
 [GDC Vault - Everyone Watching This Is Fired](https://gdcvault.com/play/1025778/Everyone-Watching-This-Is)
 
@@ -1832,7 +1777,6 @@
 
 [Plotting the Classics](https://www.inferentialthinking.com/chapters/01/3/Plotting_the_Classics)
 
-[A Gentle Introduction to the ImageNet Large Scale Visual Recognition Challenge (ILSVRC)](https://machinelearningmastery.com/introduction-to-the-imagenet-large-scale-visual-recognition-challenge-ilsvrc/)
 
 [Control ESP32 with Command Line Interface Over the Internet - Hackster.io](https://www.hackster.io/donowak/control-esp32-with-command-line-interface-over-the-internet-fa9634)
 
@@ -1842,7 +1786,6 @@
 
 [Global Illumination](https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/global-illumination/)
 
-[Want to learn statistics? These are the best books, and they&#39;re free to download — Quartz](https://qz-com.cdn.ampproject.org/v/s/qz.com/1206229/this-is-the-best-book-for-learning-modern-statistics-its-free/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fqz.com%2F1206229%2Fthis-is-the-best-book-for-learning-modern-statistics-its-free%2F)
 
 [Introducing GraphQL Birdseye 🦅 - DEV Community 👩‍💻👨‍💻](https://dev.to/novvumio/introducing-graphql-birdseye-33i6)
 
@@ -1867,15 +1810,12 @@
 
 [Open Source Robotics: Getting Started with Gazebo and ROS 2](https://www.infoq.com/articles/ros-2-gazebo-tutorial)
 
-[ABC: Free Datasets for Geometric Deep Learning – AI³ | Theory, Practice, Business – Medium](https://medium.com/ai%C2%B3-theory-practice-business/abc-free-datasets-for-geometric-deep-learning-5e2995768b37)
 
 [Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
 
-[Machine Learning for Beginners: An Introduction to Neural Networks - victorzhou.com](https://victorzhou.com/blog/intro-to-neural-networks/)
 
 [A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
 
-[Practical Natural Language Processing with spaCy and Prodigy w/ Ines Montani - This Week in Machine Learning &amp; AI](https://twimlai.com/twiml-talk-262-practical-natural-language-processing-with-spacy-and-prodigy-w-ines-montani/)
 
 [Implement dynamic rendering with Rendertron](https://codelabs.developers.google.com/codelabs/dynamic-rendering/#0)
 
@@ -1914,9 +1854,7 @@
 [How to use SSHFS to Mount Remote Directories over SSH | Linuxize](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
 
 
-[Full Stack Deep Learning Steps and Tools – Towards Data Science](https://towardsdatascience.com/full-stack-deep-learning-steps-and-tools-a21eda6227b1)
 
-[Full Stack Deep Learning](https://fullstackdeeplearning.com/march2019)
 
 [How to set up Alexa Guard on an Amazon Echo](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/05/14/how-to-set-up-alexa-guard-on-an-amazon-echo.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F05%2F14%2Fhow-to-set-up-alexa-guard-on-an-amazon-echo.html)
 
@@ -1934,7 +1872,6 @@
 
 [laconiajs/laconia: Create well-crafted serverless applications, effortlessly](https://github.com/laconiajs/laconia)
 
-[Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course/?utm_source=keyword-blog&utm_medium=referral&utm_campaign=self-studies&utm_term=&utm_content=MLCC)
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
@@ -1967,9 +1904,7 @@
 
 [🌻 The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
-[The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-bert/)
 
-[The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-word2vec/)
 
 [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 
@@ -1985,7 +1920,6 @@
 
 [Monitoring Linux host metrics with the Node Exporter | Prometheus](https://prometheus.io/docs/guides/node-exporter/)
 
-[A selection of Datasets for Machine learning / Habr](https://m.habr.com/en/post/452740/)
 
 [Digital Forensics Tips&amp;Tricks: How to Find an Intruder&#39;s Lucky Coin / Habr](https://m.habr.com/en/post/452254/)
 
@@ -1999,21 +1933,17 @@
 
 [Terminal File Manager nnn 2.5 Adds Plugins, Mouse And SSHFS Support - Linux Uprising Blog](https://www.linuxuprising.com/2019/05/terminal-file-manager-nnn-25-adds.html?m=1)
 
-[Malware on Steroids Part 3: Machine Learning &amp; Sandbox Evasion - ScriptDotSh](https://scriptdotsh.com/index.php/2018/10/27/malware-on-steroids-part-3-machine-learning-sandbox-evasion/)
 
 [Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
 
-[How to Train an Object Detection Model to Find Kangaroos in Photographs (R-CNN with Keras)](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
 
 [0x4D31/fatt: fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic](https://github.com/0x4D31/fatt)
 
-[List of Data Science and Machine Learning GitHub Repositories to Try in 2019 | MarkTechPost](https://www.marktechpost.com/2019/05/28/list-of-data-science-and-machine-learning-github-repositories-to-try-in-2019/)
 
 [How to Use the wall Command on Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/415914/how-to-use-the-wall-command-on-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F415914%2Fhow-to-use-the-wall-command-on-linux%2F)
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
-[AWS launches Textract, machine learning for text and data extraction | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/05/29/aws-launches-textract-machine-learning-for-text-and-data-extraction/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F29%2Faws-launches-textract-machine-learning-for-text-and-data-extraction%2F)
 
 [Supercharging Vim: Blazing fast search and global replace · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-blazing-fast-search/)
 
@@ -2024,7 +1954,6 @@
 
 [Zdog, A Clever And Easy To Use Renderer For Browsers, Is A Joy To Behold - Digg](https://digg-com.cdn.ampproject.org/v/digg.com/2019/zdog-pseudo-3d-rendering-desandro?amp_js_v=a2&amp_gsa=1&amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=http%3A%2F%2Fdigg.com%2F2019%2Fzdog-pseudo-3d-rendering-desandro)
 
-[Advanced Deep Learning with Keras in Python | DataCamp](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
@@ -2065,7 +1994,6 @@
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
-[How to Perform Face Recognition With VGGFace2 in Keras](https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/)
 
 [Docker builds on ARM servers: you’re not crazy, your builds really are 5x faster](https://www.balena.io/blog/docker-builds-on-arm-servers-youre-not-crazy-your-builds-really-are-5x-faster/)
 
@@ -2081,7 +2009,6 @@
 
 [How to Label Data — Create ML for Object Detection – Hacker Noon](https://hackernoon.com/how-to-label-data-create-ml-for-object-detection-82043957b5cb)
 
-[How machine learning could help find ancient artifacts, a walk through](https://towardsdatascience.com/how-machine-learning-could-help-find-ancient-artifacts-a-walk-through-cb718de92057)
 
 [BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
 
@@ -2089,7 +2016,6 @@
 
 [Extruders 101: A crash course on an essential component of your 3D printer | MatterHackers](https://www.matterhackers.com/articles/extruders-101:-a-crash-course-on-an-essential-component-of-your-3d-printer)
 
-[How to Develop a Face Recognition System Using FaceNet in Keras](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/)
 
 [Install Android 8.1 Oreo On Linux To Run Apps &amp; Games](https://fosspost.org/tutorials/install-android-8-1-oreo-on-linux)
 
@@ -2117,7 +2043,6 @@
 
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
 
-[Machine Learning Sentiment Analysis And Word Embeddings Python Keras Example](https://towardsdatascience.com/machine-learning-sentiment-analysis-and-word-embeddings-python-keras-example-4dfb93c5a6cf)
 
 [AI deepfakes are now as simple as typing whatever you want your subject to say - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F10%2F18659432%2Fdeepfake-ai-fakes-tech-edit-video-by-typing-new-words)
 
@@ -2137,7 +2062,6 @@
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
 
-[The Data Fabric for Machine Learning Part 1-b – Deep Learning on Graphs](https://www.kdnuggets.com/2019/06/data-fabric-machine-learning-deep-learning-graphs.html)
 
 [KDE Plasma 5.16 Released – And It&#39;s a Big One! - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/06/kde-plasma-5-16-features-upgrade/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F06%2Fkde-plasma-5-16-features-upgrade)
 
