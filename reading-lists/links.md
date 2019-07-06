@@ -319,7 +319,6 @@
 [First round of Amazon Echo Auto devices are shipping - CNET](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/first-round-of-amazon-echo-auto-devices-are-shipping/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Ffirst-round-of-amazon-echo-auto-devices-are-shipping%2F)
 
 
-[ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
 
 [User guide: contents — scikit-learn 0.20.2 documentation](https://scikit-learn.org/stable/user_guide.html)
 
@@ -339,7 +338,6 @@
 [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-6a55981f3a7e)
 
 
-[How to Version Control Jupyter Notebooks - Nextjournal](https://nextjournal.com/schmudde/how-to-version-control-jupyter)
 
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
 
@@ -616,7 +614,6 @@
 
 
 
-[Use Pyspark with a Jupyter Notebook in an AWS EMR cluster](https://towardsdatascience.com/use-pyspark-with-a-jupyter-notebook-in-an-aws-emr-cluster-e5abc4cc9bdd)
 
 
 [Quickstart with Docker | Hasura 1.0 documentation](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)
@@ -993,7 +990,6 @@
 
 [3 new ways to contribute code to Ansible | Opensource.com](https://opensource.com/article/19/2/get-involved-ansible)
 
-[Installing and Running Jupyter Notebooks on a Server - Parametric Thoughts](https://janakiev.com/blog/jupyter-notebook-server/)
 
 [CODEMAGIC — FLUTTER CI/CD . I – Chema Rubio – Medium](https://medium.com/@develodroid/codemagic-flutter-ci-cd-i-ee56abd749e0)
 
@@ -1331,7 +1327,6 @@
 
 [17 Great SketchUp Tools You Should Know | All3DP](https://m.all3dp.com/2/great-sketchup-tools-you-should-know/?omhide=true&utm_source=Newsletter&utm_campaign=4e612fba33-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-4e612fba33-401459815)
 
-[Interactive spreadsheets in Jupyter – Towards Data Science](https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff)
 
 [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
 
@@ -1348,7 +1343,6 @@
 
 [10 Docker Image Security Best Practices - docker](https://www.reddit.com/r/docker/comments/azssj2/10_docker_image_security_best_practices/)
 
-[Jupyter Superpower — Interactive Visualization Combo with Python](https://towardsdatascience.com/jupyter-superpower-interactive-visualization-combo-with-python-ffc0adb37b7b)
 
 [Why I rewrote the mesh generator of Dust3D from Rust to C++ · Dust3D](https://blogs.dust3d.org/2019/03/13/why-i-rewrote-the-mesh-generator-of-dust3d-from-rust-to-cplusplus/)
 
@@ -1580,7 +1574,6 @@
 
 [Graph Theory — Graph Data Structures and Traversal Algorithms Made Easy](https://hackernoon.com/graph-theory-graph-data-structures-and-traversal-algorithms-made-easy-28c7154c9662)
 
-[Six easy ways to run your Jupyter Notebook in the cloud](https://www-dataschool-io.cdn.ampproject.org/v/s/www.dataschool.io/cloud-services-for-jupyter-notebook/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dataschool.io%2Fcloud-services-for-jupyter-notebook%2F)
 
 [wasmtime/WASI-overview.md at master · CraneStation/wasmtime](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-overview.md)
 
@@ -1692,7 +1685,6 @@
 
 [8 open source drone projects | Opensource.com](https://opensource.com/article/18/2/drone-projects)
 
-[ROS @ Jupyter – Jupyter Blog](https://blog.jupyter.org/ros-jupyter-b7e82b5e1202)
 
 [The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/illustrated-word2vec/)
 
@@ -2309,7 +2301,6 @@
 
 [13 npm Tricks for Faster JavaScript Development – Bret Cameron – Medium](https://medium.com/@bretcameron/13-npm-tricks-for-faster-javascript-development-4fe2a83f87a2)
 
-[Binder with Zenodo – Jupyter Blog](https://blog.jupyter.org/binder-with-zenodo-af68ed6648a6)
 
 [Better 3D Printable Bearing by BoomZilla1 - Thingiverse](https://www.thingiverse.com/thing:2746804)
 
@@ -2331,7 +2322,6 @@
 
 [DJI Spark Sunrise Yellow Quadcopter Drone - 12MP 1080p 190021294417 | eBay](https://m.ebay.com/itm/DJI-Spark-Sunrise-Yellow-Quadcopter-Drone-12MP-1080p/223383016742?ul_ref=https%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-53200-19255-0%2F1%3Fff3%3D4%26toolid%3D11800%26pub%3D5575402880%26campid%3D5338330150%26mpre%3Dhttps%253A%252F%252Fwww.ebay.com%252Fitm%252FDJI-Spark-Sunrise-Yellow-Quadcopter-Drone-12MP-1080p%252F223383016742%253F_trkparms%253D5079%25253A5000006430%26srcrot%3D711-53200-19255-0%26rvr_id%3D2024686948481%26rvr_ts%3Da39ef43a16b0ad4844a02bdcffe4bdbf&_trkparms=5079%3A5000006430&_mwBanner=1&_rdt=1&ul_noapp=true)
 
-[Introducing kepler.gl for Jupyter - vis.gl - Medium](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf)
 
 
 [9 Tools for Monitoring Internet Bandwidth and Speed in Linux](https://itsfoss.com/network-speed-monitor-linux/)
@@ -2361,7 +2351,6 @@
 
 [How Do You Install Windows to Multiple Computers at Once?](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-do-you-install-windows-to-multiple-computers-at-onc-1835848340/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-do-you-install-windows-to-multiple-computers-at-onc-1835848340)
 
-[3 Great Additions for your Jupyter Notebooks – Towards Data Science](https://towardsdatascience.com/three-great-additions-for-your-jupyter-notebooks-cd7373b00e96)
 
 
 [Fuchsia.dev: Google launches official site about Fuchsia OS - 9to5Google](https://9to5google.com/2019/06/28/google-launches-fuchsia-dev/)
