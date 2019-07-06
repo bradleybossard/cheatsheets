@@ -63,7 +63,6 @@
 [Shape Grammars](http://www.shapegrammar.org/)
 
 
-[kubespy trace: a real-time view into the heart of a Kubernetes Service](https://blog-pulumi-com.cdn.ampproject.org/v/s/blog.pulumi.com/kubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service?amp_js_v=a2&amp_gsa=1&hs_amp=true#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.pulumi.com%2Fkubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service)
 
 
 [Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
@@ -72,13 +71,10 @@
 
 
 
-[Development and Debugging with Kubernetes – ITNEXT](https://itnext.io/development-and-debugging-with-kubernetes-296bb60d9549)
 
 [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
 
-[Why You Should Not Neglect Your Developer’s Kubernetes Clusters](https://itnext.io/why-you-should-not-neglect-your-developers-kubernetes-clusters-a658c8ca0e78)
 
-[How do Kubernetes Deployments work? An adversarial perspective.](https://blog-pulumi-com.cdn.ampproject.org/v/s/blog.pulumi.com/how-do-kubernetes-deployments-work-an-adversarial-perspective?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.pulumi.com%2Fhow-do-kubernetes-deployments-work-an-adversarial-perspective)
 
 
 [Introducing: Unity Machine Learning Agents Toolkit – Unity Blog](https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/)
@@ -193,7 +189,6 @@
 
 [Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
 
-[On-demand Notebooks with JupyterHub, Jupyter Enterprise Gateway and Kubernetes](https://blog.jupyter.org/on-demand-notebooks-with-jupyterhub-jupyter-enterprise-gateway-and-kubernetes-e8e423695cbf)
 
 [Learning npm the Node Package Manager](https://www.lynda.com/Node-js-tutorials/Learning-npm-Node-Package-Manager/761956-2.html)
 
@@ -313,7 +308,6 @@
 
 [VirtualBox 6.0 3D/OpenGL Performance With VMSVGA Adapter - Phoronix](https://www.phoronix.com/scan.php?page=article&item=virtualbox-60-vmsvga&num=1)
 
-[Kubernetes Now Does Self-Hosting with Kubeadm - The New Stack](https://thenewstack.io/kubernetes-now-does-self-hosting-with-kubeadm/)
 
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
@@ -344,7 +338,6 @@
 
 [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-6a55981f3a7e)
 
-[Devgun: Creating Development Environments with Kubernetes](https://www.mailgun.com/blog/creating-development-environments-with-kubernetes-devgun)
 
 [How to Version Control Jupyter Notebooks - Nextjournal](https://nextjournal.com/schmudde/how-to-version-control-jupyter)
 
@@ -437,7 +430,6 @@
 
 [Linear Algebra for Data Science – Ankit Rathi – Medium](https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0)
 
-[5 Tools for Monitoring Kubernetes at Scale in Production - The New Stack](https://thenewstack.io/5-tools-monitoring-kubernetes-scale-production/)
 
 [The Best Bicycles and Cycling Gear of 2018 • Gear Patrol](https://gearpatrol.com/2018/12/28/the-best-bicycles-and-cycling-gear-of-2018/)
 
@@ -455,7 +447,6 @@
 
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
 
-[This Week in Programming: Kubernetes&#39; Future in Virtual Machines - The New Stack](https://thenewstack.io/this-week-in-programming-kubernetes-future-in-virtual-machines/)
 
 [Everything you need to know about tree data structures - DEV Community 👩‍💻👨‍💻](https://dev.to/leandrotk_/everything-you-need-to-know-about-tree-data-structures-2599)
 
@@ -654,12 +645,10 @@
 
 [Windows 10 has a built-in free screen recorder that you might not know about | BetaNews](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/)
 
-[Manage Kubernetes locally with RKE DIND](https://the.binbashtheory.com/rke-dind/)
 
 
 [Best DIY 3D Scanners of 2018 (You Can Build or Buy) | All3DP](https://m.all3dp.com/2/best-diy-3d-scanners-you-can-build-or-buy/)
 
-[How to build your own secure image processing service with Imaginary and Kubernetes](https://itnext.io/how-to-build-your-own-secure-image-processing-service-with-imaginary-and-kubernetes-cf124649047c)
 
 [Getting started with GitHub Actions? Try Actions Toolkit - DEV Community 👩‍💻👨‍💻](https://dev.to/mscccc/getting-started-with-github-actions-try-actions-toolkit-1902)
 
@@ -735,7 +724,6 @@
 
 [Orange Pi 3 SBC arrives with Allwinner H6 and mini-PCIe](http://linuxgizmos.com/orange-pi-3-sbc-arrives-with-allwinner-h6-and-mini-pcie/)
 
-[Selecting a container runtime for use with Kubernetes](https://joejulian.name/post/kubernetes-container-engine-comparison/)
 
 [Why the stock market is going higher | greyenlightenment.com](http://greyenlightenment.com/why-the-stock-market-is-going-higher/)
 
@@ -763,7 +751,6 @@
 
 [How to Perform Web-Scraping using Node.js- Part 2 – Bits and Pieces](https://blog.bitsrc.io/how-to-perform-web-scraping-using-node-js-part-2-7a365aeedb43)
 
-[Intel debuts Nauta for distributed deep learning with Kubernetes | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/01/23/intel-debuts-nauta-for-distributed-deep-learning-with-kubernetes/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F01%2F23%2Fintel-debuts-nauta-for-distributed-deep-learning-with-kubernetes%2F)
 
 [Plex Mass Media Converter - homelab](https://www.reddit.com/r/homelab/comments/aj5ynv/plex_mass_media_converter/)
 
@@ -829,17 +816,14 @@
 
 
 
-[Building a hybrid x86–64 and ARM Kubernetes Cluster](https://medium.com/@carlosedp/building-a-hybrid-x86-64-and-arm-kubernetes-cluster-e7f94ff6e51d)
 
 
 
-[Understanding Kubernetes Cluster Autoscaling – kubecost – Medium](https://medium.com/kubecost/understanding-kubernetes-cluster-autoscaling-675099a1db92)
 
 [Ubuntu 18.04: Install TensorFlow and Keras for Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/01/30/ubuntu-18-04-install-tensorflow-and-keras-for-deep-learning/)
 
 [Another cheap WiFi ARM module (EMW3060) - esp8266](https://www.reddit.com/r/esp8266/comments/alf052/another_cheap_wifi_arm_module_emw3060/)
 
-[Deploy your machine learning models with Kubernetes - cnvrg](https://cnvrg.io/deploy-models-with-kubernetes/)
 
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
 
@@ -871,7 +855,6 @@
 
 [Underwater Drone: The Story of the Madness - Hackster.io](https://www.hackster.io/ievgenii-tkachenko/underwater-drone-the-story-of-the-madness-f50ce0)
 
-[Deploying an Asyngular app to a Kubernetes cluster – Jonathan Gros-Dubois – Medium](https://medium.com/@jonathangrosdubois/deploying-an-asyngular-app-to-a-kubernetes-cluster-82c4f7e758fe)
 
 [Install Ubuntu Alongside Windows 8.1 or Windows 10](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
 
@@ -887,7 +870,6 @@
 
 [Learn SQL for Data Science – Kanoki](https://kanoki.org/2019/02/02/learn-sql-for-data-science/)
 
-[Red Hat introduces first Kubernetes-native IDE | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/red-hat-introduces-first-kubernetes-native-ide/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fred-hat-introduces-first-kubernetes-native-ide%2F)
 
 [New features in Webpack 5 – LogRocket](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e)
 
@@ -951,7 +933,6 @@
 
 [Advanced Express](https://www.lynda.com/Node-js-tutorials/Advanced-Express/798496-2.html)
 
-[Istio and Kubernetes in production. Part 2. Tracing](https://medium.com/avitotech/istio-and-kubernetes-in-production-part-2-tracing-6304a5af82e9)
 
 [Using AWS Amplify feels like cheating. – Cory Schimmoeller – Medium](https://medium.com/@coryschimmoeller/using-aws-amplify-feels-like-cheating-e5eabcaea500)
 
@@ -959,7 +940,6 @@
 
 [virsh commands cheatsheet to manage KVM guest virtual machines - Computingforgeeks](https://computingforgeeks.com/virsh-commands-cheatsheet/)
 
-[Kubernetes Ingress Controllers: How to choose the right one: Part 1](https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2)
 
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
 
@@ -1047,7 +1027,6 @@
 
 [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
-[My Kubernetes cluster for school research - homelab](https://www.reddit.com/r/homelab/comments/arfne5/my_kubernetes_cluster_for_school_research/)
 
 [Low-Poly Models – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/low-poly-models-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Flow-poly-models-need-to-know%2F)
 
@@ -1141,7 +1120,6 @@
 
 [Building an advanced search engine powered by Elasticsearch](https://info.elastic.co/app-search-trial-v5.html?blade=elastic-adwords&hulk=cpc&ultron=app-search-trial&camp=rmk-appsearch&src=adwords&mdm=cpc&trm=&gclid=EAIaIQobChMIi5DhvpbS4AIVDo5-Ch3qmg4ZEAEYASAAEgI6D_D_BwE)
 
-[sk8s – Simple Kubernetes (k8s) Virtual Appliance](https://www.virtuallyghetto.com/2019/02/sk8s-simple-kubernetes-k8s-virtual-appliance.html)
 
 [Ontology](https://ont.io/)
 
@@ -1210,7 +1188,6 @@
 
 [Write Web Assembly With LLVM – Richard Anaya – Medium](https://medium.com/@richardanaya/write-web-assembly-with-llvm-fbee788b2817)
 
-[How to make your first upstream Kubernetes contribution | Opensource.com](https://opensource.com/article/18/2/step-step-guide-becoming-kubernetes-contributor?intcmp=7016000000127cYAAQ)
 
 
 [Introduction to Kubeflow | Opensource.com](https://opensource.com/article/18/12/introduction-kubeflow?utm_campaign=intrel)
@@ -1266,7 +1243,6 @@
 
 [CNC your own PCB with this Tutorial | Hackaday](https://hackaday.com/2019/03/03/cnc-your-own-pcb-with-this-tutorial/)
 
-[Best practices for building Kubernetes Operators and stateful apps | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps)
 
 [The Guide to DeepLearning with Tensorflow and Keras - The Beginning - NintyZeros](https://www.nintyzeros.com/2019/03/tensorflow-for-beginners-deeplearning.html?m=1)
 
@@ -1413,7 +1389,6 @@
 
 [Pocket NC V2–50… More RMS’s = More Better – Hackster Blog](https://blog.hackster.io/pocket-nc-v2-50-more-rmss-more-better-d80dac7ae6df)
 
-[Rancher Labs Release Submariner to Enable Network Connectivity Between Kubernetes Clusters](https://www.infoq.com/news/2019/03/rancher-submariner-multicluster)
 
 [Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
 
@@ -1433,7 +1408,6 @@
 
 [Light on Math ML: Attention with Keras – Towards Data Science](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
 
-[itwars/k3s-ansible: Ansible playbook to deploy k3s kubernetes cluster](https://github.com/itwars/k3s-ansible)
 
 [Introduction to The Machine Learning Stack – Hacker Noon](https://hackernoon.com/introduction-to-the-machine-learning-stack-f5b64bba7602)
 
@@ -1476,7 +1450,6 @@
 
 [Find Files in Linux, Using the Command Line](https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/)
 
-[KubeEdge, a Kubernetes Native Edge Computing Framework - Kubernetes](https://kubernetes.io/blog/2019/03/19/kubeedge-k8s-based-edge-intro/)
 
 [Pop OS 18.10 Linux Gaming Report: System76 Nails It For Nvidia And AMD Users](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/20/pop_os-18-10-linux-gaming-nvidia-radeon-user-experience/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F20%2Fpop_os-18-10-linux-gaming-nvidia-radeon-user-experience%2F)
 
@@ -1491,7 +1464,6 @@
 
 [Autodesk joins with Rokoko for MoCap Marketplace | fxguide](https://www.fxguide.com/quicktakes/autodesk-joins-with-rokoko-fro-mocap-marketplace/)
 
-[Analysis of Open source Kubernetes Operators – CloudARK – Medium](https://medium.com/@cloudark/analysis-of-open-source-kubernetes-operators-f6be898f2340)
 
 [Cytosurge 3D prints micro-Michelangelo&#39;s David - 3D Printing Industry](https://3dprintingindustry.com/news/cytosurge-3d-prints-micro-michelangelos-david-151705/)
 
@@ -1605,7 +1577,6 @@
 [Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/27/solus-4-linux-gaming-report-nvidia-amd-steam/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F27%2Fsolus-4-linux-gaming-report-nvidia-amd-steam%2F)
 
 
-[kube-aws: Highly Available, Scalable, and Secure Kubernetes on AWS | AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/kube-aws/)
 
 [Graph Theory — Graph Data Structures and Traversal Algorithms Made Easy](https://hackernoon.com/graph-theory-graph-data-structures-and-traversal-algorithms-made-easy-28c7154c9662)
 
@@ -1636,7 +1607,6 @@
 
 [A warm welcome to DNS](https://powerdns.org/hello-dns/)
 
-[Manage Kubernetes Clusters on AWS Using Kops | AWS Compute Blog](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 
 [Solar EV Charging Options For Renters | CleanTechnica](https://cleantechnica.com/2019/03/30/solar-ev-charging-options-for-renters/)
 
@@ -1665,7 +1635,6 @@
 [NVIDIA SHIELD has a hidden split screen mode - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/nvidia-shield-has-a-hidden-split-screen-mode-02571804/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fnvidia-shield-has-a-hidden-split-screen-mode-02571804%2F)
 
 
-[Build your own Multi-Node Kubernetes cluster with Monitoring](https://medium.com/@salqadri/build-your-own-multi-node-kubernetes-cluster-with-monitoring-346a7e2ef6e2)
 
 [How to run Chrome OS from a USB drive / Boing Boing](https://boingboing.net/2019/04/02/how-to-run-chrome-os-from-a-us.html)
 
@@ -1678,9 +1647,7 @@
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
 
-[Kubernetes Cheat Sheet - Linux Academy Blog](https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/)
 
-[How To Migrate a Docker Compose Workflow to Kubernetes | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-migrate-a-docker-compose-workflow-to-kubernetes)
 
 [Yes, it isn&#39;t completely useless. All About the Linux yes Command. - Putorius](https://www-putorius-net.cdn.ampproject.org/v/s/www.putorius.net/linux-yes-command.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.putorius.net%2Flinux-yes-command.html)
 
@@ -1895,7 +1862,6 @@
 
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
 
-[Kubernetes Identity Management: Authentication | Linux Journal](https://www.linuxjournal.com/content/kubernetes-identity-management-authentication)
 
 [The ABC of a great DApp Architecture – State of the ÐApps Blog](https://blog.stateofthedapps.com/the-abc-of-a-great-dapp-architecture-74c70443bc95)
 
@@ -1905,7 +1871,6 @@
 
 
 
-[Introduction to YAML: Creating a Kubernetes deployment | Mirantis](https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/)
 
 [The Best Backyard Pizza Ovens | Serious Eats](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html)
 
@@ -2007,7 +1972,6 @@
 
 [Generating Text with TensorFlow 2.0 – Towards Data Science](https://towardsdatascience.com/generating-text-with-tensorflow-2-0-6a65c7bdc568)
 
-[Kubernetes Operating Systems - kubedex.com](https://kubedex.com/kubernetes-operating-systems/)
 
 [How to use SSHFS to Mount Remote Directories over SSH | Linuxize](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
 
@@ -2037,7 +2001,6 @@
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
-[Introducing Rubix: Kubernetes at Palantir – Palantir Blog – Medium](https://medium.com/palantir/introducing-rubix-kubernetes-at-palantir-ab0ce16ea42e)
 
 [rust-vmm](https://github.com/rust-vmm?tab=repositories)
 
@@ -2090,9 +2053,7 @@
 
 [How to Set Up an SSH Server with Tor to Hide It from Shodan &amp; Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/set-up-ssh-server-with-tor-hide-from-shodan-hackers-0194455/)
 
-[Kyma - extend and build on Kubernetes with ease - Kubernetes](https://kubernetes.io/blog/2019/05/23/kyma-extend-and-build-on-kubernetes-with-ease/)
 
-[How to set up a serious Kubernetes terminal](https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4/)
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
@@ -2203,7 +2164,6 @@
 
 [Google Chrome’s Hover Cards: My New Favorite Thing I Didn’t Know I Wanted](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/423816/google-chrome%E2%80%99s-hover-cards-is-my-new-favorite-thing-i-didn%E2%80%99t-know-i-wanted/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F423816%2Fgoogle-chrome%25E2%2580%2599s-hover-cards-is-my-new-favorite-thing-i-didn%25E2%2580%2599t-know-i-wanted%2F)
 
-[Introduction to Kubernetes Monitoring Architecture](https://supergiant.io/blog/introduction-to-kubernetes-monitoring-architecture/)
 
 [Dashing Diademata Delivers Second Generation ROS | Hackaday](https://hackaday.com/2019/06/06/dashing-diademata-delivers-second-generation-ros/)
 
@@ -2223,7 +2183,6 @@
 
 [Extruders 101: A crash course on an essential component of your 3D printer | MatterHackers](https://www.matterhackers.com/articles/extruders-101:-a-crash-course-on-an-essential-component-of-your-3d-printer)
 
-[Setting Up a Kubernetes Cluster on AWS in 5 Minutes](https://ramhiser.com/post/2018-05-20-setting-up-a-kubernetes-cluster-on-aws-in-5-minutes/)
 
 [How to Develop a Face Recognition System Using FaceNet in Keras](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/)
 
@@ -2272,7 +2231,6 @@
 
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
 
-[How to deploy a Stellar validator on Kubernetes with Helm](https://itnext.io/how-to-deploy-a-stellar-validator-on-kubernetes-with-helm-a111e5dfe437)
 
 [Anyone can program this cheap robot arm in just 15 minutes](https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyreview.com/s/613577/anyone-can-program-this-cheap-robot-arm-in-just-15-minutes/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F613577%2Fanyone-can-program-this-cheap-robot-arm-in-just-15-minutes%2F)
 
@@ -2313,11 +2271,8 @@
 
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
-[Run Coder directly in Kubernetes – Okteto – Medium](https://medium.com/okteto/run-coder-directly-in-kubernetes-696a53dc94de)
 
-[okteto/okteto: Tool to develop directly in your dev Kubernetes cluster](https://github.com/okteto/okteto)
 
-[Deploy TensorFlow models with Istio on Kubernetes – Towards Data Science](https://towardsdatascience.com/deploy-tensorflow-models-with-istio-on-kubernetes-dd0b2bd3e388)
 
 [Top 20 Big Data Tools | Big Data Tools 2019](https://www.bibrainia.com/big-data-tools-2019)
 
@@ -2361,7 +2316,6 @@
 [attactics[dot]org](https://attactics.org/)
 
 
-[Kubernetes ingress-nginx troubleshooting made easy with kubectl plugins](https://medium.com/@awkwardferny/kubernetes-ingress-nginx-troubleshooting-made-easy-with-kubectl-plugins-dbc8fdff35fd)
 
 [Sucrase, a Faster Babel for Modern JS Runtimes](https://www.infoq.com/news/2019/06/sucrase-fast-babel-modern-js/)
 
