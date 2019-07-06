@@ -69,3 +69,7 @@
 [WASM to WASI - DEV Community 👩‍💻👨‍💻](https://dev.to/jeikabu/wasm-to-wasi-5866)
 
 [wasm-micro-runtime/README.md at master · intel/wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime/blob/master/README.md)
+
+[Write Web Assembly With LLVM – Richard Anaya – Medium](https://medium.com/@richardanaya/write-web-assembly-with-llvm-fbee788b2817)
+
+[Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)

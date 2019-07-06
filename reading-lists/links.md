@@ -840,7 +840,6 @@
 
 [Beaker: the Decentralized Read-Write Browser | Linux Journal](https://www.linuxjournal.com/content/beaker-decentralized-read-write-browser)
 
-[Write Web Assembly With LLVM – Richard Anaya – Medium](https://medium.com/@richardanaya/write-web-assembly-with-llvm-fbee788b2817)
 
 [Introduction to Kubeflow | Opensource.com](https://opensource.com/article/18/12/introduction-kubeflow?utm_campaign=intrel)
 
@@ -966,7 +965,6 @@
 
 [Pocket NC V2–50… More RMS’s = More Better – Hackster Blog](https://blog.hackster.io/pocket-nc-v2-50-more-rmss-more-better-d80dac7ae6df)
 
-[Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
 
 [Natural Language Processing’s Crazy Busy Start to 2019 | Slator](https://slator.com/technology/natural-language-processings-crazy-busy-start-to-2019/)
 
@@ -1020,7 +1018,7 @@
 
 [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5)
 
-[Microsoft&#39;s Big Bet on Virtualized Desktops Reaches Public Preview - Petri](https://www.petri.com/microsofts-big-bet-on-virtualized-desktop-reaches-public-preview)
+[Microsofts Big Bet on Virtualized Desktops Reaches Public Preview - Petri](https://www.petri.com/microsofts-big-bet-on-virtualized-desktop-reaches-public-preview)
 
 [Autodesk joins with Rokoko for MoCap Marketplace | fxguide](https://www.fxguide.com/quicktakes/autodesk-joins-with-rokoko-fro-mocap-marketplace/)
 
@@ -1034,7 +1032,7 @@
 
 [Setup Headless Virtualization Server Using KVM In Ubuntu 18.04 LTS - OSTechNix](https://www.ostechnix.com/setup-headless-virtualization-server-using-kvm-ubuntu/)
 
-[A Pirate&#39;s Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
+[A Pirates Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
 
 [How to Install OpenLDAP on Ubuntu Server 18.04 | Linux.com | The source for Linux information](https://www.linux.com/blog/2019/3/how-install-openldap-ubuntu-server-1804)
 
@@ -1142,8 +1140,6 @@
 
 [How Kubeflow is evolving without ksonnet | Opensource.com](https://opensource.com/article/19/4/kubeflow-evolution)
 
-[AWS drops cloud storage price to $2/terabyte/month - Cloud - Storage - iTnews](https://www.itnews.com.au/news/aws-drops-cloud-storage-price-to-2-terabyte-month-523086)
-
 [Cloudflare is adding a free VPN to its 1.1.1.1 app - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/4/1/18290615/cloudflare-1-1-1-1-vpn-dns-resolver-security-privacy?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F4%2F1%2F18290615%2Fcloudflare-1-1-1-1-vpn-dns-resolver-security-privacy)
 
 [How to enable Remote Desktop connections to your Windows 10 PC OnMSFT.com](https://www.onmsft.com/how-to/how-to-enable-remote-desktop-connections-to-your-windows-10-pc)
@@ -1182,7 +1178,7 @@
 
 [Run a server with Git | Opensource.com](https://opensource.com/article/19/4/server-administration-git)
 
-[[Project] Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
+[Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
 
 [Basic Navigation in Flutter (Navigator only) — Cheatsheet](https://medium.com/filledstacks/basic-navigation-in-flutter-navigator-only-cheatsheet-9c2e2584a6b1)
 
@@ -1444,8 +1440,6 @@
 
 [Supercharging Vim: Navigate files instantly · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-navigate-files-instantly/)
 
-[Amazon.com: Glow in The Dark Pigment Powder - 12g - Neutral and Fluorescent Colors (Neutral Green): Arts, Crafts &amp; Sewing](https://www.amazon.com/dp/B01K081MYO//ref=cm_sw_su_dp?tag=relprods-20)
-
 [AnionSoftware](http://anionsoftware.com/)
 
 [Reinventing the Small Wind Turbine - LOW-TECH MAGAZINE](https://www.lowtechmagazine.com/2019/06/small-wooden-wind-turbines.html)
@@ -1463,8 +1457,6 @@
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
-
-[Bird Cruiser unveiled as moped-style electric bicycle with seating for two](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/06/04/bird-cruiser-electric-bicycle-moped/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F06%2F04%2Fbird-cruiser-electric-bicycle-moped%2F)
 
 [GraphQL made easy with Hooks - Marco Pegoraro](https://marcopeg.com/2019/graphql-made-easy)
 
