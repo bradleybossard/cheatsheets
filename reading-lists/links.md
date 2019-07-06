@@ -485,7 +485,6 @@
 
 [Poly-RNN++](http://www.cs.toronto.edu/polyrnn/)
 
-[CNC milling with open source software | Opensource.com](https://opensource.com/article/19/1/cnc-milling-open-source-software)
 
 [Electrek - Charge Forward](https://electrek.co/page/6/)
 
@@ -661,9 +660,7 @@
 [3rd Installment of “Ray Tracing Gems Now Available For Free - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/3rd-installment-of-ray-tracing-gems-now-available-for-free/)
 
 
-[Goliath CNC - An Autonomous Robotic Machine Tool for Makers by Springa — Kickstarter](https://www.kickstarter.com/projects/2130625347/goliath-cnc-an-autonomous-robotic-machine-tool-for/rewards)
 
-[STEPCRAFT CNC SYSTEMS - A World Leader In Affordable, High-Performance, Multi-Function CNC Systems | Stepcraft, Inc.](https://www.stepcraft.us/)
 
 [Chris Gammell Talks Circuit Toolboxes | Hackaday](https://hackaday.com/2019/02/11/chris-gammell-talks-circuit-toolboxes/)
 
@@ -756,7 +753,6 @@
 [RED is on its way to replacing Solidity for Smart Contracts. You need to see this. - CryptoMoonShots](https://www.reddit.com/r/CryptoMoonShots/comments/athffi/red_is_on_its_way_to_replacing_solidity_for_smart/)
 
 
-[Ivan Miranda Built a 3D-Printed CNC Router – Hackster Blog](https://blog.hackster.io/ivan-miranda-built-a-3d-printed-cnc-router-ab823c6bfa4b)
 
 [Microsoft shrinks Kinect into a $399 cloud-powered PC peripheral - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/2/24/18237244/microsoft-azure-kinect-developer-kit-price-release-date-mwc-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F2%2F24%2F18237244%2Fmicrosoft-azure-kinect-developer-kit-price-release-date-mwc-2019)
 
@@ -773,7 +769,6 @@
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
 
-[Casting The Bed Of A CNC Machine In Granite | Hackaday](https://hackaday.com/2019/02/25/casting-the-bed-of-a-cnc-machine-in-granite/)
 
 [Arduino Blog » Make your own digital power supply with Arduino](https://blog.arduino.cc/2019/02/25/make-your-own-digital-power-supply-with-arduino/)
 
@@ -822,13 +817,10 @@
 
 [GitLab 11.9 Released With Automated Secrets Detection](https://www.infoq.com/news/2019/04/gitlab-11.9-secrets-detection)
 
-[How We Got From Jacquard Looms To Desktop CNC Machines | Make:](https://makezine.com/2019/04/19/how-we-got-from-jacquard-looms-to-desktop-cnc-machines/)
 
 [enfipy/grpchat: Chat based on gRPC](https://github.com/enfipy/grpchat)
 
-[LOW COST DIY 500€ CNC MILL: 22 Steps (with Pictures)](https://www.instructables.com/id/LOW-COST-DIY-500-CNC-MILL/)
 
-[CNC your own PCB with this Tutorial | Hackaday](https://hackaday.com/2019/03/03/cnc-your-own-pcb-with-this-tutorial/)
 
 [frontend-bootcamp/README.md at master · Microsoft/frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp/blob/master/README.md)
 
@@ -969,7 +961,6 @@
 [A Pirates Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
 
 
-[Modular DIY CNC V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Modular-DIY-CNC-V2/)
 
 [Kicking neural network automation into high gear -- ScienceDaily](https://www.sciencedaily.com/releases/2019/03/190321152843.htm)
 
@@ -1137,7 +1128,6 @@
 
 [Play Songs(MP3) With Arduino Using PWM on Speaker or Flyback Transformer: 6 Steps (with Pictures)](https://www.instructables.com/id/Play-SongsMP3-With-Arduino-Using-PWM-on-Speaker-or/)
 
-[cnc simulator on ios and android - Machinists](https://www.reddit.com/r/Machinists/comments/bcq3r5/cnc_simulator_on_ios_and_android/)
 
 [How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
@@ -1177,7 +1167,6 @@
 
 [Casting Car Emblems Via 3D Printing | Hackaday](https://hackaday.com/2019/03/28/casting-car-emblems-via-3d-printing/)
 
-[Casting CNC Parts In Aluminium | Hackaday](https://hackaday.com/2019/04/16/casting-cnc-parts-in-aluminium/)
 
 [Web Components: The Long Game – Infrequently Noted](https://infrequently.org/2017/10/web-components-the-long-game/)
 
@@ -1212,7 +1201,6 @@
 
 [How to Build Your Own 3D Printing Slicer From Scratch : 12 Steps](https://www.instructables.com/id/How-to-Build-Your-Own-3D-Printing-Slicer-From-Scra/)
 
-[CNC Programming with G Code: Definitive Free Tutorial [ 2019 ]](https://www.cnccookbook.com/cnc-programming-g-code/)
 
 [G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)
 
@@ -1363,7 +1351,6 @@
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
-[Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
 
@@ -1393,7 +1380,6 @@
 [Scroll based animate timeline with easing functions on a Webgl scene](https://medium.com/@renaud.rohlinger/scroll-based-animate-timeline-with-easing-functions-on-a-webgl-scene-ef7c3f5a8d9b)
 
 
-[4 Axis CNC Hotwire Foam Cutter by Dodo3441 - Thingiverse](https://www.thingiverse.com/thing:3676825)
 
 [How to Scrape like a (Hype)Beast – Ta-Ying Cheng – Medium](https://medium.com/@taying.cheng/how-to-scrape-like-a-hype-beast-85740c5e0d06)
 
