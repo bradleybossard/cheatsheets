@@ -65,7 +65,6 @@
 
 [kubespy trace: a real-time view into the heart of a Kubernetes Service](https://blog-pulumi-com.cdn.ampproject.org/v/s/blog.pulumi.com/kubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service?amp_js_v=a2&amp_gsa=1&hs_amp=true#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.pulumi.com%2Fkubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service)
 
-[Unity and WebAssembly with Brett Bibby - Software Engineering Daily](https://softwareengineeringdaily.com/2018/09/25/unity-and-webassembly-with-brett-bibby/)
 
 [Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
 
@@ -108,7 +107,6 @@
 
 [Home - Ballerina.io](https://ballerina.io/)
 
-[Manual reverse engineering of WebAssembly: static code analysis | Forcepoint](https://www.forcepoint.com/blog/security-labs/manual-reverse-engineering-webassembly-static-code-analysis)
 
 [The Easy Way to Install Plex Media Server on Ubuntu 18.04 LTS - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2018/10/plex-media-server-ubuntu-snap-app/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2018%2F10%2Fplex-media-server-ubuntu-snap-app)
 
@@ -241,7 +239,6 @@
 
 [Choosing a printer for Linux | Opensource.com](https://opensource.com/article/18/11/choosing-printer-linux)
 
-[An introduction to WebAssembly](https://flaviocopes.com/webassembly/)
 
 [This Cheap Drone Is The Best Selling Product In the United States, Here&#39;s Why It&#39;s Gone Viral.](https://simplediscountfinder.com/drone-discount/?c=Germany&sxid=blze7nv4hcza&i=drone-marbel&OutbrainClickId=v1-0abbdf505a4fb16cd00473dd65b756fe-009fef646178069f635778106eadd37a64-gazgindegy4dollbgiygkljumm2dkllcgu2deljwgjrtmnjsgntgcylfmm&pid=The+Verge+%28Vox+Media%29%7C%7C007e44ce3be72024fea1906c27ed7d6324&scid=www.theverge.com%7C%7C005c87eaf63966a2e74846256516cf5b99&cw=00f7c984aabefae1756c77a506dadd43cd%7C%7C005c87eaf63966a2e74846256516cf5b99&cid=00f7c984aabefae1756c77a506dadd43cd&aid=00f7c984aabefae1756c77a506dadd43cd%7C%7C00c7908a6eb4115404e67ef3b690b37b92&t=This+Cheap+Drone+Might+Be+The+Best+Selling+Gift+In+2018&l=news&a=This+Cheap+Drone+Might+Be+The+Best+Selling+Gift+In+2018%7Cdrone-marbel)
 
@@ -303,7 +300,6 @@
 
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
-[WebAssembly Is Fast: A Real-World Benchmark of WebAssembly vs. ES6](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193)
 
 [Building a Development Environment for Golang with Docker](https://hackernoon.com/building-a-development-environment-for-golang-with-docker-3ccc620c4920)
 
@@ -706,7 +702,6 @@
 
 [Introduction to Ubuntu&#39;s LXD Containers - Make Tech Easier](https://www-maketecheasier-com.cdn.ampproject.org/v/s/www.maketecheasier.com/introduction-ubuntu-lxd-containers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.maketecheasier.com%2Fintroduction-ubuntu-lxd-containers%2F)
 
-[Compiling Go to WebAssembly - Blog | SitePen](https://www.sitepen.com/blog/compiling-go-to-webassembly/)
 
 [New Contest: 3D Printed Gears, Pulleys, and Cams | Hackaday](https://hackaday.com/2019/01/16/new-contest-3d-printed-gears-pulleys-and-cams/)
 
@@ -778,7 +773,6 @@
 
 [Wine 4.0 Released, Here&#39;s How to Install it on Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/wine-4-0)
 
-[Embedding WebAssembly in your Rust application – Wasmer – Medium](https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46)
 
 [Get started with Freeplane, an open source mind mapping application | Opensource.com](https://opensource.com/article/19/1/productivity-tool-freeplane)
 
@@ -832,9 +826,7 @@
 
 [Linux kernel development, open source productivity tools, create an automated calendar with Google apps, and more | Opensource.com](https://opensource.com/article/19/1/weekly-top-10-january-27)
 
-[The Design of WebAssembly – freeCodeCamp.org](https://medium.freecodecamp.org/the-design-of-webassembly-81f1dcabaddd)
 
-[WebAssembly with Golang is Fun! 🕹 – Martin Olsansky (olso) – Medium](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 
 
 [Building a hybrid x86–64 and ARM Kubernetes Cluster](https://medium.com/@carlosedp/building-a-hybrid-x86-64-and-arm-kubernetes-cluster-e7f94ff6e51d)
@@ -1176,7 +1168,6 @@
 
 [Get Started Cloud Application Platform for DevOps | Cloud Foundry](https://www.cloudfoundry.org/get-started/#cf-concepts)
 
-[The Explosive Implications of Tron’s Move to WebAssembly](https://u.today/the-explosive-implications-of-trons-move-to-webassembly)
 
 [Convolutional Neural Network – Towards Data Science](https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529)
 
@@ -1204,7 +1195,6 @@
 
 [Spam Filtering System With Deep Learning – Towards Data Science](https://towardsdatascience.com/spam-filtering-system-with-deep-learning-b8070b28f9e0)
 
-[Running WebAssembly 100x faster 🔥 – Wasmer – Medium](https://medium.com/wasmer/running-webassembly-100x-faster-%EF%B8%8F-a8237e9a372d)
 
 
 
@@ -1505,7 +1495,6 @@
 
 [Cytosurge 3D prints micro-Michelangelo&#39;s David - 3D Printing Industry](https://3dprintingindustry.com/news/cytosurge-3d-prints-micro-michelangelos-david-151705/)
 
-[LLVM 8 shines on WebAssembly, machine learning workloads | InfoWorld](https://www-infoworld-com.cdn.ampproject.org/v/s/www.infoworld.com/article/3376156/llvm-8-shines-on-webassembly-machine-learning-workloads.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F3376156%2Fllvm-8-shines-on-webassembly-machine-learning-workloads.html)
 
 [Distributed systems - Mastering Blockchain](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787125445/1/ch01lvl1sec7/distributed-systems)
 
@@ -1612,7 +1601,6 @@
 
 [jankais3r/DNoiSe: DNS noise generator that looks at your network activity and blends in. Requires pi-hole.](https://github.com/jankais3r/DNoiSe)
 
-[WebAssembly Threads ready to try in Chrome 70  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/10/wasm-threads)
 
 [Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/27/solus-4-linux-gaming-report-nvidia-amd-steam/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F27%2Fsolus-4-linux-gaming-report-nvidia-amd-steam%2F)
 
@@ -1698,7 +1686,6 @@
 
 [Putting Events in Their Place with Dynamic Routing | Confluent](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
 
-[WebAssembly: What Is It And Why Should You Care? | Hackaday](https://hackaday.com/2019/04/04/webassembly-what-is-it-and-why-should-you-care/)
 
 [A Gentle Introduction to Channels First and Channels Last Image Formats for Deep Learning](https://machinelearningmastery.com/a-gentle-introduction-to-channels-first-and-channels-last-image-formats-for-deep-learning/)
 
@@ -1788,7 +1775,6 @@
 [Play Songs(MP3) With Arduino Using PWM on Speaker or Flyback Transformer: 6 Steps (with Pictures)](https://www.instructables.com/id/Play-SongsMP3-With-Arduino-Using-PWM-on-Speaker-or/)
 
 
-[How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) — Smashing Magazine](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=162)
 
 [cnc simulator on ios and android - Machinists](https://www.reddit.com/r/Machinists/comments/bcq3r5/cnc_simulator_on_ios_and_android/)
 
@@ -1870,7 +1856,6 @@
 
 [Home - Flax Engine](https://flaxengine.com/home/)
 
-[Level up command-line playgrounds with WebAssembly | Opensource.com](https://opensource.com/article/19/4/command-line-playgrounds-webassembly)
 
 
 [Chapter 1: Finding words, phrases, names and concepts · Advanced NLP with spaCy](https://course.spacy.io/chapter1)
@@ -1919,7 +1904,6 @@
 [A Brief Introduction To GANs (and how to code them)](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
 
 
-[Announcing WAPM: The WebAssembly Package Manager – Wasmer – Medium](https://medium.com/wasmer/announcing-wapm-the-webassembly-package-manager-18d52fae0eea)
 
 [Introduction to YAML: Creating a Kubernetes deployment | Mirantis](https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/)
 
@@ -1999,7 +1983,6 @@
 
 [The Part-Time Parliament - Microsoft Research](https://www.microsoft.com/en-us/research/publication/part-time-parliament/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Flamport-paxos.pdf)
 
-[Writing your first WebAssembly Project – AppsFlyer – Medium](https://medium.com/appsflyer/writing-your-first-webassembly-project-2a2d86b20e8f)
 
 [Merging TensorFlow Lite and μTensor – Hackster Blog](https://blog.hackster.io/merging-tensorflow-lite-and-%CE%BCtensor-c7abfa38208f)
 
@@ -2064,7 +2047,6 @@
 
 [Using Testinfra with Ansible to verify server state | Opensource.com](https://opensource.com/article/19/5/using-testinfra-ansible-verify-server-state)
 
-[Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
 [Natural Language Processing: From Basics, to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
 
@@ -2273,7 +2255,6 @@
 
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
 
-[Structurae 1.0: Graphs, Strings, and WebAssembly – Maga D. Zandaqo – Medium](https://medium.com/@zandaqo/structurae-1-0-graphs-strings-and-webassembly-25dd964d5a70)
 
 [Statically Linked Rust Executable running on Linux Kernel - rust](https://www.reddit.com/r/rust/comments/bylizk/statically_linked_rust_executable_running_on/)
 
@@ -2307,7 +2288,6 @@
 
 [KDE Plasma 5.16 Released – And It&#39;s a Big One! - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/06/kde-plasma-5-16-features-upgrade/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F06%2Fkde-plasma-5-16-features-upgrade)
 
-[Introducing Lightbeam: An Optimising Streaming WebAssembly Compiler](https://www-parity-io.cdn.ampproject.org/v/s/www.parity.io/lightbeam-webassembly-compiler/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.parity.io%2Flightbeam-webassembly-compiler%2F)
 
 
 [The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)
@@ -2410,7 +2390,6 @@
 
 [How to Use the Linux lsof Command](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/426031/how-to-use-the-linux-lsof-command/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F426031%2Fhow-to-use-the-linux-lsof-command%2F)
 
-[Qt for WebAssembly: Multithreading - Qt Blog](https://blog.qt.io/blog/2019/06/26/qt-webassembly-multithreading/)
 
 [Why we&#39;re using Rust for cloud rendering](https://www.digitalbridge.com/blog/why-were-using-rust-for-cloud-rendering)
 
