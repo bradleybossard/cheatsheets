@@ -1078,15 +1078,12 @@
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
-[Digital Forensics Tips&amp;Tricks: How to Find an Intruder&#39;s Lucky Coin / Habr](https://m.habr.com/en/post/452254/)
+
 
 [Bottom-up CMake introduction - Low Level Bits](https://lowlevelbits.org/bottom-up-cmake-introduction/)
 
 [Chatbot Development Challenges - Part 1 – Hacker Noon](https://hackernoon.com/chatbot-development-challenges-part-1-bf472062be60)
 
-[Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
-
-[0x4D31/fatt: fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic](https://github.com/0x4D31/fatt)
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
@@ -1100,7 +1097,7 @@
 
 [efficientnet · PyPI](https://pypi.org/project/efficientnet/)
 
-[Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
+
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 

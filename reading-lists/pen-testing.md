@@ -38,3 +38,12 @@
 [How to Hack Wi-Fi: Getting Started with Terms &amp; Technologies « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-terms-technologies-0147659/)
 
 [Hack Like a Pro: How to Create Your Own PRISM-Like Spy Tool « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-create-your-own-prism-like-spy-tool-0147583/)
+
+[0x4D31/fatt: fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic](https://github.com/0x4D31/fatt)
+
+
+[Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
+
+[Digital Forensics Tips&amp;Tricks: How to Find an Intruder&#39;s Lucky Coin / Habr](https://m.habr.com/en/post/452254/)
+
+[Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
