@@ -1760,15 +1760,11 @@
 
 [Open Source Robotics: Getting Started with Gazebo and ROS 2](https://www.infoq.com/articles/ros-2-gazebo-tutorial)
 
-
 [Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
-
 
 [A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
 
-
 [Implement dynamic rendering with Rendertron](https://codelabs.developers.google.com/codelabs/dynamic-rendering/#0)
-
 
 [Distributed consensus revised – Part II – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F05%2F08%2Fdistributed-consensus-revised-part-ii%2F)
 
@@ -1780,30 +1776,19 @@
 
 [The Part-Time Parliament - Microsoft Research](https://www.microsoft.com/en-us/research/publication/part-time-parliament/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Flamport-paxos.pdf)
 
-
-
-
 [Linux 2FA: Secure SSH login with Google Authenticator and / or Yubi key](https://www.comparitech.com/blog/information-security/linux-2fa-ssh-login/)
 
 [rastating/shiva: An Ansible playbook to provision a host for penetration testing and CTF challenges](https://github.com/rastating/shiva)
-
 
 [wasm-micro-runtime/README.md at master · intel/wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime/blob/master/README.md)
 
 [Build a Neural Network with Python | Enlight](https://enlight.nyc/projects/neural-network/)
 
-
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
-
 
 [Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
 
-
-
 [How to use SSHFS to Mount Remote Directories over SSH | Linuxize](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
-
-
-
 
 [How to set up Alexa Guard on an Amazon Echo](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/05/14/how-to-set-up-alexa-guard-on-an-amazon-echo.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F05%2F14%2Fhow-to-set-up-alexa-guard-on-an-amazon-echo.html)
 
@@ -1814,7 +1799,6 @@
 [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows — Nick Janetakis](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
 
 [Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
-
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
@@ -1874,15 +1858,11 @@
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
-
 [Supercharging Vim: Blazing fast search and global replace · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-blazing-fast-search/)
-
-
 
 [MoveIt 2 journey: sensorless collision detection with ROS 2](https://acutronicrobotics-com.cdn.ampproject.org/v/s/acutronicrobotics.com/news/ros2-sensorless-collision-detection/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Facutronicrobotics.com%2Fnews%2Fros2-sensorless-collision-detection%2F)
 
 [Zdog, A Clever And Easy To Use Renderer For Browsers, Is A Joy To Behold - Digg](https://digg-com.cdn.ampproject.org/v/digg.com/2019/zdog-pseudo-3d-rendering-desandro?amp_js_v=a2&amp_gsa=1&amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=http%3A%2F%2Fdigg.com%2F2019%2Fzdog-pseudo-3d-rendering-desandro)
-
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
@@ -1906,11 +1886,9 @@
 
 [5 Best Milk Frothers to Complete Morning Lattes and Cappuccinos](https://www.bestproducts.com/appliances/small/a26827724/top-rated-milk-frothers/?src=arb_fb_ga_m_bmm_na&utm_source=google&utm_medium=cpc&utm_campaign=arb_fb_ga_m_bmm_na&gclid=CjwKCAjw583nBRBwEiwA7MKvoOlQ-ypzAIPao6ikTg7V1pdZZS6qFoB7-81GmcPLrtC3_SUrr71K_RoCEWIQAvD_BwE)
 
-
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
-
 
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
@@ -1922,7 +1900,6 @@
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
-
 [Docker builds on ARM servers: you’re not crazy, your builds really are 5x faster](https://www.balena.io/blog/docker-builds-on-arm-servers-youre-not-crazy-your-builds-really-are-5x-faster/)
 
 [Google Chrome’s Hover Cards: My New Favorite Thing I Didn’t Know I Wanted](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/423816/google-chrome%E2%80%99s-hover-cards-is-my-new-favorite-thing-i-didn%E2%80%99t-know-i-wanted/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F423816%2Fgoogle-chrome%25E2%2580%2599s-hover-cards-is-my-new-favorite-thing-i-didn%25E2%2580%2599t-know-i-wanted%2F)
@@ -1931,16 +1908,11 @@
 
 [Generate new repositories with repository templates - The GitHub Blog](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
 
-
 [The Kin Node SDK Has Arrived – Kin Blog – Medium](https://medium.com/kinblog/the-kin-node-sdk-has-arrived-2853a0b74024)
 
 [How to Label Data — Create ML for Object Detection – Hacker Noon](https://hackernoon.com/how-to-label-data-create-ml-for-object-detection-82043957b5cb)
 
-
 [BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
-
-
-
 
 [Install Android 8.1 Oreo On Linux To Run Apps &amp; Games](https://fosspost.org/tutorials/install-android-8-1-oreo-on-linux)
 
@@ -1958,7 +1930,6 @@
 
 [How to Scrape like a (Hype)Beast – Ta-Ying Cheng – Medium](https://medium.com/@taying.cheng/how-to-scrape-like-a-hype-beast-85740c5e0d06)
 
-
 [Language, trees, and geometry in neural networks](https://pair-code.github.io/interpretability/bert-tree/)
 
 [EA Announces Three New Games From Smaller Studios](https://kotaku-com.cdn.ampproject.org/v/s/kotaku.com/ea-announces-three-new-games-from-smaller-studios-1835350265/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fkotaku.com%2Fea-announces-three-new-games-from-smaller-studios-1835350265)
@@ -1966,7 +1937,6 @@
 [RNN Simplified- A beginner’s guide – Towards Data Science](https://towardsdatascience.com/rnn-simplified-a-beginners-guide-cf3ae1a8895b)
 
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
-
 
 [AI deepfakes are now as simple as typing whatever you want your subject to say - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F10%2F18659432%2Fdeepfake-ai-fakes-tech-edit-video-by-typing-new-words)
 
@@ -1976,28 +1946,20 @@
 
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
 
-
 [Anyone can program this cheap robot arm in just 15 minutes](https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyreview.com/s/613577/anyone-can-program-this-cheap-robot-arm-in-just-15-minutes/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F613577%2Fanyone-can-program-this-cheap-robot-arm-in-just-15-minutes%2F)
 
-
 [Increase your scraping speed with Go and Colly! — The Basics](https://medium.com/@mottet.dev/increase-your-scraping-speed-with-go-and-colly-the-basics-41038bc3647e)
-
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
 
 
 [KDE Plasma 5.16 Released – And It&#39;s a Big One! - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/06/kde-plasma-5-16-features-upgrade/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F06%2Fkde-plasma-5-16-features-upgrade)
 
-
-
 [The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)
 
 [APRS: Robust Wireless in an Age of IoT - News - SparkFun Electronics](https://www.sparkfun.com/news/2944)
 
-
-
 [Enforcing Conventional Commits using Git hooks | Enda Phelan](https://endaphelan.me/guides/git/using-git-hooks-to-enforce-conventional-commits/)
-
 
 [Hobby RC: Defying Standard Model Airplane Designs - Tested](https://www.tested.com/art/makers/832329-hobby-rc-defying-model-airplane-preconceptions/)
 
@@ -2005,27 +1967,21 @@
 
 [kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator)
 
-
 [LFS and Standards](http://www.linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
 
 [Introducing OpenFaaS for AWS Lambda (faas-lambda) | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/introducing-openfaas-for-lambda/)
 
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
-
-
-
 [Top 20 Big Data Tools | Big Data Tools 2019](https://www.bibrainia.com/big-data-tools-2019)
 
 [An End to End Introduction to GANs – Towards Data Science](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
-
 
 [How To Test Drive 200+ Linux Distributions Without Ever Downloading Or Installing Them](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/06/15/how-to-test-drive-200-linux-distributions-without-ever-downloading-or-installing-them/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F06%2F15%2Fhow-to-test-drive-200-linux-distributions-without-ever-downloading-or-installing-them%2F)
 
 [Try NopSCADlib For Your Next OpenSCAD Project | Hackaday](https://hackaday.com/2019/06/15/try-nopscadlib-for-your-next-openscad-project/)
 
 [What is PPA? Everything You Need to Know About PPA in Linux](https://itsfoss.com/ppa-guide/)
-
 
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
 
@@ -2044,16 +2000,11 @@
 
 [Deep dive into version control using Git – Towards Data Science](https://towardsdatascience.com/deep-dive-into-version-control-using-git-f0f3018d10f9)
 
-
 [Facebook makes PyRobot open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
-
-
 
 [Better 3D Printable Bearing by BoomZilla1 - Thingiverse](https://www.thingiverse.com/thing:2746804)
 
-[attactics[dot]org](https://attactics.org/)
-
-
+[attactics.org](https://attactics.org/)
 
 [Sucrase, a Faster Babel for Modern JS Runtimes](https://www.infoq.com/news/2019/06/sucrase-fast-babel-modern-js/)
 
@@ -2065,10 +2016,6 @@
 
 [Experimenting with Rootless Docker - Tõnis Tiigi - Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 
-
-
-
-
 [9 Tools for Monitoring Internet Bandwidth and Speed in Linux](https://itsfoss.com/network-speed-monitor-linux/)
 
 [postmarketOS now supports 139 abandoned phones and tablets - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/postmarketos-now-supports-139-abandoned-phones-and-tablets-24581613/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fpostmarketos-now-supports-139-abandoned-phones-and-tablets-24581613%2F)
@@ -2078,12 +2025,6 @@
 [Microsoft Obj-GAN Turns Words into Complex Scenes - SyncedReview - Medium](https://medium.com/syncedreview/microsoft-obj-gan-turns-words-into-complex-scenes-5c6024f0f91d)
 
 [How to Use the Linux lsof Command](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/426031/how-to-use-the-linux-lsof-command/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F426031%2Fhow-to-use-the-linux-lsof-command%2F)
-
-
-
-[Verizon&#39;s Visible Is Offering Truly Unlimited Cell Data Right Now and Honestly, Damn](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/verizons-visible-is-offering-truly-unlimited-cell-data-1835879423/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Fverizons-visible-is-offering-truly-unlimited-cell-data-1835879423)
-
-
 
 [832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1 | JonKensy.com](https://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/)
 
