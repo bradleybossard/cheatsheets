@@ -57,13 +57,11 @@
 
 [Task &amp; time manager synchronised between devices (nvim, vim, browser) - vim](https://www.reddit.com/r/vim/comments/9hhz0r/task_time_manager_synchronised_between_devices/)
 
-[palmerhq/monorepo-starter: Monorepo starter project for Kotlin, Python, TypeScript x React](https://github.com/palmerhq/monorepo-starter)
 
 [5 Ways to Make Your Linux Desktop Look Fantastic](https://www.makeuseof.com/tag/linux-desktop-look-fantastic/)
 
 [Shape Grammars](http://www.shapegrammar.org/)
 
-[Expo vs React Native CLI: A Guide to Bootstrapping New React Native Apps](https://levelup.gitconnected.com/expo-vs-react-native-cli-a-guide-to-bootstrapping-new-react-native-apps-6f0fcafee58f)
 
 [kubespy trace: a real-time view into the heart of a Kubernetes Service](https://blog-pulumi-com.cdn.ampproject.org/v/s/blog.pulumi.com/kubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service?amp_js_v=a2&amp_gsa=1&hs_amp=true#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.pulumi.com%2Fkubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service)
 
@@ -264,7 +262,6 @@
 
 [Netflix’s ‘Roma’ Makes Estimated $200K In 5-day Thanksgiving Opening – Deadline](https://deadline-com.cdn.ampproject.org/v/s/deadline.com/2018/11/netflix-roma-opening-weekend-box-office-1202508491/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdeadline.com%2F2018%2F11%2Fnetflix-roma-opening-weekend-box-office-1202508491%2F)
 
-[GraphQL API with AWS and Use with React ― Scotch](https://scotch-io.cdn.ampproject.org/v/s/scotch.io/tutorials/graphql-api-with-aws-and-use-with-react/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fscotch.io%2Ftutorials%2Fgraphql-api-with-aws-and-use-with-react)
 
 [Fast Pair now syncs Bluetooth accessories across Android devices, Chromebook support in 2019 - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/11/27/fast-pair-android-sync-chromebooks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F11%2F27%2Ffast-pair-android-sync-chromebooks%2F)
 
@@ -310,7 +307,6 @@
 
 [Building a Development Environment for Golang with Docker](https://hackernoon.com/building-a-development-environment-for-golang-with-docker-3ccc620c4920)
 
-[What is ReasonML and why you should care about it](https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/)
 
 [Oracle releases VirtualBox 6.0.0 with improved graphics, user interface and more | Packt Hub](https://hub.packtpub.com/oracle-releases-virtualbox-6-0-0-with-improved-graphics-user-interface-and-more/)
 
@@ -341,9 +337,7 @@
 
 [Deep Learning](http://deeplearning.net/)
 
-[Learn React - Full Course for Beginners | freeCodeCamp News](https://www.freecodecamp.org/news/beaucarnes/learn-react-course--jiLKNpplm)
 
-[Modern Front End: React, GraphQL, VR, WebAssembly with Adam Conrad - Software Engineering Daily](https://softwareengineeringdaily.com/2018/12/20/modern-front-end-react-graphql-vr-webassembly-with-adam-conrad/)
 
 
 [Text Summarization Using Keras Models – Hacker Noon](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)
@@ -435,7 +429,6 @@
 
 [Amazon Echo Wall Clock Review - The Kitchen Timer Missing Link](https://theinventory-com.cdn.ampproject.org/v/s/theinventory.com/i-hate-how-much-i-like-amazons-echo-wall-clock-1831322467/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftheinventory.com%2Fi-hate-how-much-i-like-amazons-echo-wall-clock-1831322467)
 
-[The package manager for React components - DEV Community 👩‍💻👨‍💻](https://dev.to/bsiscanu/the-package-manager-for-web-components-4b92)
 
 
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
@@ -536,7 +529,6 @@
 
 [A Beginner’s Guide to GraphQL – freeCodeCamp.org](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 
-[Versatile Webpack configurations for your React application](https://blog.logrocket.com/versatile-webpack-configurations-for-your-react-application-e6ebf6615cc)
 
 [Flutter: Don’t Fear the Garbage Collector – Flutter – Medium](https://medium.com/flutter-io/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30)
 
@@ -636,7 +628,6 @@
 [JavaScript Data Structures - Array Object](https://www.i-programmer.info/programming/javascript/2865-javascript-data-structures-the-array-object.html)
 
 
-[Going serverless with React and AWS Amplify: Development Environment Set up - DEV Community 👩‍💻👨‍💻](https://dev.to/pmbanugo/going-serverless-with-react-and-aws-amplify-development-environment-set-up-43hj)
 
 [Use Pyspark with a Jupyter Notebook in an AWS EMR cluster](https://towardsdatascience.com/use-pyspark-with-a-jupyter-notebook-in-an-aws-emr-cluster-e5abc4cc9bdd)
 
@@ -681,7 +672,6 @@
 
 [How to start contributing to an OSS project – Coding Coach – Medium](https://medium.com/codingcoach-io/how-to-start-contributing-to-an-oss-project-e986d210dbcf)
 
-[Build a Blog Using Express.js and React in 30 Minutes ― Scotch](https://scotch-io.cdn.ampproject.org/v/s/scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fscotch.io%2Ftutorials%2Fbuild-a-blog-using-expressjs-and-react-in-30-minutes)
 
 
 [3D Printed Holo Clock from mectok on Tindie](https://www.tindie.com/products/ekaggrat/3d-printed-holo-clock/)
@@ -705,7 +695,6 @@
 
 [AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project – GeekWire](https://www-geekwire-com.cdn.ampproject.org/v/s/www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.geekwire.com%2F2019%2Faws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project%2F)
 
-[Building A ToDo App in React with Firebase and Redux](https://blog.bitsrc.io/building-a-todo-app-in-react-with-firebase-and-redux-ba3ab53a671b)
 
 [Introduction to Computer Vision in JavaScript using OpenCV.js ― Scotch.io](https://scotch.io/tutorials/introduction-to-computer-vision-in-javascript-using-opencvjs)
 
@@ -847,11 +836,9 @@
 
 [WebAssembly with Golang is Fun! 🕹 – Martin Olsansky (olso) – Medium](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 
-[Setting up a Full-Stack TypeScript Application: featuring Express and React](https://levelup.gitconnected.com/setting-up-a-full-stack-typescript-application-featuring-express-and-react-ccfe07f2ea47)
 
 [Building a hybrid x86–64 and ARM Kubernetes Cluster](https://medium.com/@carlosedp/building-a-hybrid-x86-64-and-arm-kubernetes-cluster-e7f94ff6e51d)
 
-[Flutter State Management has Never Been Easier. Think Statelessly then add Reactivity](https://medium.com/flutter-community/flutter-state-management-has-never-been-easier-think-statelessly-then-add-reactivity-d30c75760da0)
 
 
 [Understanding Kubernetes Cluster Autoscaling – kubecost – Medium](https://medium.com/kubecost/understanding-kubernetes-cluster-autoscaling-675099a1db92)
@@ -1017,7 +1004,6 @@
 
 [Endurance to develop new high powered lasers for 3D printers and CNCs - 3D Printing Industry](https://3dprintingindustry.com/news/endurance-to-develop-new-high-powered-lasers-for-3d-printers-and-cncs-148848/)
 
-[React Native vs Flutter – Bits and Pieces](https://blog.bitsrc.io/react-native-vs-flutter-74f246b616d1)
 
 [This Chrome extension lets you learn a new language by watching Netflix - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/2/12/18220289/language-learning-netflix-chrome-extension-two-subtitles?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F2%2F12%2F18220289%2Flanguage-learning-netflix-chrome-extension-two-subtitles)
 
@@ -1032,7 +1018,6 @@
 [3rd Installment of “Ray Tracing Gems Now Available For Free - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/3rd-installment-of-ray-tracing-gems-now-available-for-free/)
 
 
-[How to implement runtime environment variables with create-react-app, Docker, and Nginx](https://medium.freecodecamp.org/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70)
 
 [3 new ways to contribute code to Ansible | Opensource.com](https://opensource.com/article/19/2/get-involved-ansible)
 
@@ -1059,7 +1044,6 @@
 
 [Disrupting the Disruptors, Low Cost 3D Metal Printing - 3D Printing Industry](https://3dprintingindustry.com/news/disrupting-the-disruptors-low-cost-3d-metal-printing-149122/)
 
-[How to set up &amp; deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4)
 
 [Dark Net: Seasons, Episodes, Cast, Characters - Official Series Site | SHOWTIME](https://www.sho.com/dark-net)
 
@@ -1189,7 +1173,6 @@
 
 [Bogdan-Lyashenko/codecrumbs: Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.](https://github.com/Bogdan-Lyashenko/codecrumbs)
 
-[Top free JavaScript User Authentication Libraries - Web Design and Web Development news,javascript, angular, react, vue, php](https://www.ma-no.org/en/content/index_top-free-javascript-user-authentication-libraries_2425.php)
 
 [Get Started Cloud Application Platform for DevOps | Cloud Foundry](https://www.cloudfoundry.org/get-started/#cf-concepts)
 
@@ -1280,7 +1263,6 @@
 
 [Ultimaker Still Tweaking Cura 4.0](https://www.fabbaloo.com/blog/2019/3/2/ultimaker-still-tweaking-cura-40)
 
-[ReactOS 0.4.11 &quot;Open-Source Windows&quot; Available With Big Kernel Improvements - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.11-Released)
 
 [GitLab 11.9 Released With Automated Secrets Detection](https://www.infoq.com/news/2019/04/gitlab-11.9-secrets-detection)
 
@@ -1342,7 +1324,6 @@
 
 [Zero Downtime: Jenkins Continuous Deployment with Terraform on AWS | Toptal](https://www.toptal.com/devops/terraform-jenkins-continuous-deployment)
 
-[useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 
 
 [Building a Flask API to Automatically Extract Named Entities Using SpaCy](https://towardsdatascience.com/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6)
@@ -1365,7 +1346,6 @@
 
 [13 open source backup solutions | Opensource.com](https://opensource.com/article/19/3/backup-solutions)
 
-[Get “Hooked” on React Hooks – Bits and Pieces](https://blog.bitsrc.io/get-hooked-on-react-hooks-706b0dda1058)
 
 [How to Become a Professional 3D Modeler | 3D Printing Blog | i.materialise](https://i.materialise.com/blog/en/how-to-become-a-professional-3d-modeler-an-interview-with-3d-modelling-expert-jonathan-williamson/)
 
@@ -1374,7 +1354,6 @@
 [Advanced SSH Cheat Sheet | Opensource.com](https://opensource.com/downloads/advanced-ssh-cheat-sheet?intcmp=7016000000127cYAAQ)
 
 
-[React — Redux workflow in 4 steps — Beginner Friendly Guide](https://hackernoon.com/https-medium-com-heypb-react-redux-workflow-in-4-steps-beginner-friendly-guide-4aea9d56f5bd)
 
 
 
@@ -1745,7 +1724,6 @@
 [Run a server with Git | Opensource.com](https://opensource.com/article/19/4/server-administration-git)
 
 
-[How To Set Up ESLint, TypeScript, Prettier with Create React App - DEV Community 👩‍💻👨‍💻](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)
 
 [[Project] Smooth the 3D Printed Layers Away with Polymer Clay | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fm.all3dp.com%2F1%2Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%2F%23referrer%3Dhttps%253A%252F%252Fwww.google.com%26amp_tf%3DFrom%2520%25251%2524s%26ampshare%3Dhttps%253A%252F%252Fall3dp.com%252F1%252Fweekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay%252F)
 
@@ -2061,7 +2039,6 @@
 
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
-[Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 
 [Using WSL and MobaXterm to Create a Linux Dev Environment on Windows — Nick Janetakis](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
 
@@ -2342,7 +2319,6 @@
 
 [Enforcing Conventional Commits using Git hooks | Enda Phelan](https://endaphelan.me/guides/git/using-git-hooks-to-enforce-conventional-commits/)
 
-[Create your first React application with express and mongodb.](https://medium.com/@rajat_sehgal/create-your-first-react-application-with-express-and-mongodb-e4aa34cacb20)
 
 [Hobby RC: Defying Standard Model Airplane Designs - Tested](https://www.tested.com/art/makers/832329-hobby-rc-defying-model-airplane-preconceptions/)
 
