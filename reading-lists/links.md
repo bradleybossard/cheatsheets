@@ -132,7 +132,6 @@
 
 
 
-[The success of Go heralds that of Rust – George Hosu – Medium](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
 
 [ICMP Attacks](https://resources.infosecinstitute.com/icmp-attacks/#gref)
 
@@ -407,7 +406,6 @@
 
 [Dart vs Swift: a comparison – Coding with Flutter – Medium](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
 
-[The Rust Programming Language](https://doc.rust-lang.org/1.5.0/book/)
 
 
 [Three creepy, yet useful robots for rescue missions and deep space travel](https://www-teslarati-com.cdn.ampproject.org/v/s/www.teslarati.com/three-creepy-useful-robots-rescue-missions-deep-space-travel/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.teslarati.com%2Fthree-creepy-useful-robots-rescue-missions-deep-space-travel%2F)
@@ -497,7 +495,6 @@
 
 [MIT researchers automate reverse engineering of 3D models - 3D Printing Industry](https://3dprintingindustry.com/news/mit-researchers-automate-reverse-engineering-of-3d-models-146286/)
 
-[PyOxidizer uses Rust to make Python executables | InfoWorld](https://www-infoworld-com.cdn.ampproject.org/v/s/www.infoworld.com/article/3330601/python/pyoxidizer-uses-rust-to-make-python-executables.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.infoworld.com%2Farticle%2F3330601%2Fpython%2Fpyoxidizer-uses-rust-to-make-python-executables.html)
 
 [Take to the virtual skies with FlightGear | Opensource.com](https://opensource.com/article/19/1/flightgear)
 
@@ -535,11 +532,8 @@
 
 [AWS RoboMaker: A cheat sheet - TechRepublic](https://www.techrepublic.com/article/aws-robomaker-a-cheat-sheet/#ftag=CAD-00-10aag7f)
 
-[Using Rust for Gamedev – Matthew Michelotti – Medium](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
 
-[A web application completely in Rust – Sascha Grunert – Medium](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 
-[DenisKolodin/yew: Rust framework for building client web apps](https://github.com/DenisKolodin/yew)
 
 [kinetic/Installation - ROS Wiki](http://wiki.ros.org/kinetic/Installation)
 
@@ -845,7 +839,6 @@
 
 [Stan Winston School of Character Arts](https://www.stanwinstonschool.com/tutorials)
 
-[A detailed guide to writing your first Neovim plugin in Rust](https://medium.com/@srishanbhattarai/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1)
 
 [Top 5 open source network monitoring tools | Opensource.com](https://opensource.com/article/19/2/network-monitoring-tools)
 
@@ -924,7 +917,6 @@
 
 [Why All Engineers Must Understand Management: The View from Both Ladders](https://hackernoon.com/why-all-engineers-must-understand-management-the-view-from-both-ladders-cc749ae14905)
 
-[Ray tracing experiment in Rust - rust](https://www.reddit.com/r/rust/comments/aon8oc/ray_tracing_experiment_in_rust/)
 
 [Try out walrus operator in Python 3.8 – Hultnér – Medium](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 
@@ -949,7 +941,6 @@
 
 [Kinematic Mount For 3D Printer Bed Shows Practical Design | Hackaday](https://hackaday.com/2019/02/09/kinematic-mount-for-3d-printer-bed-shows-practical-design/)
 
-[Writing a Rust Roguelike for the Desktop and the Web — Aimlessly Going Forward](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
 
 [Show off your Data Science skills with Kaggle Kernels](https://towardsdatascience.com/show-off-your-data-science-skills-with-kaggle-kernels-762403618c5)
 
@@ -1107,7 +1098,6 @@
 
 [Wired2Fish - Fishing How-To Guides, Tips, Videos and Tackle Reviews - Wired2Fish.com](https://www.wired2fish.com/)
 
-[bradtraversy/rust_sandbox: Fundamentals of the Rust language](https://github.com/bradtraversy/rust_sandbox)
 
 
 [18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
@@ -1260,7 +1250,6 @@
 
 [All-electric GT unveiled with over 300 miles of range and 5-min charging enabled by mysterious battery - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/electric-gt-piech-mark-zero-mysterious-battery/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Felectric-gt-piech-mark-zero-mysterious-battery%2F)
 
-[Building fast interpreters in Rust](https://blog-cloudflare-com.cdn.ampproject.org/v/s/blog.cloudflare.com/building-fast-interpreters-in-rust/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.cloudflare.com%2Fbuilding-fast-interpreters-in-rust%2F)
 
 [Holistically-Nested Edge Detection with OpenCV and Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2019/03/04/holistically-nested-edge-detection-with-opencv-and-deep-learning/)
 
@@ -1304,7 +1293,6 @@
 
 [How to Restart Network in Ubuntu [Command Line &amp; GUI]](https://itsfoss.com/restart-network-ubuntu/)
 
-[5 Minute Rust - A new series where we explore Rust in 5 minute chunks - rust](https://www.reddit.com/r/rust/comments/aybtxl/5_minute_rust_a_new_series_where_we_explore_rust/)
 
 [13 open source backup solutions | Opensource.com](https://opensource.com/article/19/3/backup-solutions)
 
@@ -1328,14 +1316,11 @@
 [17 Great SketchUp Tools You Should Know | All3DP](https://m.all3dp.com/2/great-sketchup-tools-you-should-know/?omhide=true&utm_source=Newsletter&utm_campaign=4e612fba33-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-4e612fba33-401459815)
 
 
-[Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
 
-[Programming in Rust: the good, the bad, the ugly. – Hacker Noon](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
 [OpenSCAD Gives You Parametric Boxes | Hackaday](https://hackaday.com/2019/03/11/openscad-gives-you-parametric-boxes/)
 
 
-[Building the virtualization stack of the future with rust-vmm | Opensource.com](https://opensource.com/article/19/3/rust-virtual-machine)
 
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
 
@@ -1344,11 +1329,8 @@
 [10 Docker Image Security Best Practices - docker](https://www.reddit.com/r/docker/comments/azssj2/10_docker_image_security_best_practices/)
 
 
-[Why I rewrote the mesh generator of Dust3D from Rust to C++ · Dust3D](https://blogs.dust3d.org/2019/03/13/why-i-rewrote-the-mesh-generator-of-dust3d-from-rust-to-cplusplus/)
 
-[Are we game yet? - Rust](http://arewegameyet.com/)
 
-[rustwasm/gloo: A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm](https://github.com/rustwasm/gloo)
 
 [Drone (Quadcopter) Frame Sizes - Mini, Micro, Nano • LearningRC](http://learningrc.com/drone-quadcopter-frame-sizes/)
 
@@ -1454,7 +1436,6 @@
 
 [Microsoft&#39;s Big Bet on Virtualized Desktops Reaches Public Preview - Petri](https://www.petri.com/microsofts-big-bet-on-virtualized-desktop-reaches-public-preview)
 
-[Rust: The Hard Parts - Part One · naftuli.wtf](https://naftuli.wtf/2019/03/20/rust-the-hard-parts/)
 
 [Autodesk joins with Rokoko for MoCap Marketplace | fxguide](https://www.fxguide.com/quicktakes/autodesk-joins-with-rokoko-fro-mocap-marketplace/)
 
@@ -1611,7 +1592,6 @@
 
 [How Kubeflow is evolving without ksonnet | Opensource.com](https://opensource.com/article/19/4/kubeflow-evolution)
 
-[Rust for Python Developers: Environment Setup – Raja Sekar – Medium](https://medium.com/@rajasekar3eg/rust-for-python-developers-environment-setup-6752315a61bd)
 
 [AWS drops cloud storage price to $2/terabyte/month - Cloud - Storage - iTnews](https://www.itnews.com.au/news/aws-drops-cloud-storage-price-to-2-terabyte-month-523086)
 
@@ -1712,7 +1692,6 @@
 
 [Machine learning on graphs course](https://www.octavian.ai/machine-learning-on-graphs-course)
 
-[Rust All Hands 2019: Array iterators, Rayon, and more - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/03/22/rust-all-hands-2019-array-iterators-rayon-and-more/)
 
 [Adventures in Docker: Coding on a Remote Browser with VS Code &amp; ngrok | Elton Stoneman](https://blog.sixeyed.com/adventures-in-docker-coding-on-a-remote-browser/)
 
@@ -1994,7 +1973,6 @@
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
 
 
-[rust-vmm](https://github.com/rust-vmm?tab=repositories)
 
 [Real-Time Rendering · Get Your Book, Make It Free](http://www.realtimerendering.com/blog/get-your-book-make-it-free/)
 
@@ -2009,9 +1987,7 @@
 
 [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
 
-[Using Rust to Scale Elixir for 11 Million Concurrent Users](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
 
-[My command-line rasterizer can export to javascript now - rust](https://www.reddit.com/r/rust/comments/bq42ib/my_commandline_rasterizer_can_export_to/)
 
 [NodeMCU ESP8266 OTA (Over-the-Air) Update Programming using Arduino IDE](https://circuitdigest.com/microcontroller-projects/esp8266-ota-update-programming-using-arduino-ide)
 
@@ -2207,7 +2183,6 @@
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
 
 
-[Statically Linked Rust Executable running on Linux Kernel - rust](https://www.reddit.com/r/rust/comments/bylizk/statically_linked_rust_executable_running_on/)
 
 
 [Machine Learning Sentiment Analysis And Word Embeddings Python Keras Example](https://towardsdatascience.com/machine-learning-sentiment-analysis-and-word-embeddings-python-keras-example-4dfb93c5a6cf)
@@ -2335,7 +2310,6 @@
 [How to Use the Linux lsof Command](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/426031/how-to-use-the-linux-lsof-command/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F426031%2Fhow-to-use-the-linux-lsof-command%2F)
 
 
-[Why we&#39;re using Rust for cloud rendering](https://www.digitalbridge.com/blog/why-were-using-rust-for-cloud-rendering)
 
 [Verizon&#39;s Visible Is Offering Truly Unlimited Cell Data Right Now and Honestly, Damn](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/verizons-visible-is-offering-truly-unlimited-cell-data-1835879423/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Fverizons-visible-is-offering-truly-unlimited-cell-data-1835879423)
 
