@@ -1968,10 +1968,7 @@
 
 [Physically Based Rendering: From Theory to Implementation](http://www.pbr-book.org/3ed-2018/contents.html)
 
-
-
 [NodeMCU ESP8266 OTA (Over-the-Air) Update Programming using Arduino IDE](https://circuitdigest.com/microcontroller-projects/esp8266-ota-update-programming-using-arduino-ide)
-
 
 [ESP8266 to ESP8266 Communication - Hackster.io](https://www.hackster.io/hammadiqbal12/esp8266-to-esp8266-communication-bf96ce)
 
@@ -1984,9 +1981,6 @@
 [Windows Sandbox: How to use Microsoft&#39;s simple virtual Windows PC to secure your digital life | PCWorld](https://www-pcworld-com.cdn.ampproject.org/v/s/www.pcworld.com/article/3338084/how-to-use-windows-sandbox-microsoft.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcworld.com%2Farticle%2F3338084%2Fhow-to-use-windows-sandbox-microsoft.html)
 
 [Set up a static network connection in Linux | Opensource.com](https://opensource.com/article/19/5/set-static-network-connection-linux)
-
-
-[Microsoft’s next major Windows 10 update is now available - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/5/21/18634343/microsoft-windows-10-may-2019-download-install-release?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F5%2F21%2F18634343%2Fmicrosoft-windows-10-may-2019-download-install-release)
 
 [🌻 The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
@@ -2002,16 +1996,11 @@
 
 [How to Set Up an SSH Server with Tor to Hide It from Shodan &amp; Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/set-up-ssh-server-with-tor-hide-from-shodan-hackers-0194455/)
 
-
-
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
-
-
 
 [Monitoring Linux Processes using Prometheus and Grafana – devconnected](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 
 [Monitoring Linux host metrics with the Node Exporter | Prometheus](https://prometheus.io/docs/guides/node-exporter/)
-
 
 [A selection of Datasets for Machine learning / Habr](https://m.habr.com/en/post/452740/)
 
@@ -2045,7 +2034,6 @@
 
 [Supercharging Vim: Blazing fast search and global replace · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-blazing-fast-search/)
 
-
 [» Longer Orange 30 Affordable Resin LCD 3D Printer is Live on Kickstarter](https://3dprint.com/245365/longer-orange-30-affordable-resin-lcd-3d-printer-is-live-on-kickstarter/)
 
 [Nano-Sized Drone Uses Deep Learning for Autonomous Navigation](https://blog.hackster.io/nano-sized-drone-uses-deep-learning-for-autonomous-navigation-331fecdab3)
@@ -2054,9 +2042,7 @@
 
 [Zdog, A Clever And Easy To Use Renderer For Browsers, Is A Joy To Behold - Digg](https://digg-com.cdn.ampproject.org/v/digg.com/2019/zdog-pseudo-3d-rendering-desandro?amp_js_v=a2&amp_gsa=1&amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=http%3A%2F%2Fdigg.com%2F2019%2Fzdog-pseudo-3d-rendering-desandro)
 
-
 [Advanced Deep Learning with Keras in Python | DataCamp](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
-
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
@@ -2082,19 +2068,15 @@
 
 [Review of Zonestar Z6 Low-cost 3D Printer](https://www-cnx--software-com.cdn.ampproject.org/v/s/www.cnx-software.com/2019/06/02/zonestar-z6-review-low-cost-3d-printer/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnx-software.com%2F2019%2F06%2F02%2Fzonestar-z6-review-low-cost-3d-printer%2F)
 
-
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
-
 
 [AutoEncoders in Keras – Towards Data Science](https://towardsdatascience.com/autoencoders-in-keras-273389677c20)
 
 [How to Build a DIY Racing Drone or Quadcopter | What You Need to Know | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/cool-tech/how-to-build-diy-racing-drone/?amp_js_v=a2&amp_gsa=1&amp#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcool-tech%2Fhow-to-build-diy-racing-drone%2F)
 
-
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
-
 
 [Bird Cruiser unveiled as moped-style electric bicycle with seating for two](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/06/04/bird-cruiser-electric-bicycle-moped/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F06%2F04%2Fbird-cruiser-electric-bicycle-moped%2F)
 
@@ -2102,13 +2084,11 @@
 
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
-
 [How to Perform Face Recognition With VGGFace2 in Keras](https://machinelearningmastery.com/how-to-perform-face-recognition-with-vggface2-convolutional-neural-network-in-keras/)
 
 [Docker builds on ARM servers: you’re not crazy, your builds really are 5x faster](https://www.balena.io/blog/docker-builds-on-arm-servers-youre-not-crazy-your-builds-really-are-5x-faster/)
 
 [Google Chrome’s Hover Cards: My New Favorite Thing I Didn’t Know I Wanted](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/423816/google-chrome%E2%80%99s-hover-cards-is-my-new-favorite-thing-i-didn%E2%80%99t-know-i-wanted/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F423816%2Fgoogle-chrome%25E2%2580%2599s-hover-cards-is-my-new-favorite-thing-i-didn%25E2%2580%2599t-know-i-wanted%2F)
-
 
 [Dashing Diademata Delivers Second Generation ROS | Hackaday](https://hackaday.com/2019/06/06/dashing-diademata-delivers-second-generation-ros/)
 
@@ -2127,7 +2107,6 @@
 [Creality Ender 5 vs Ender 3 – 3D Printer Shootout | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/creality-ender-5-vs-ender-3-3d-printer-shootout/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fcreality-ender-5-vs-ender-3-3d-printer-shootout%2F)
 
 [Extruders 101: A crash course on an essential component of your 3D printer | MatterHackers](https://www.matterhackers.com/articles/extruders-101:-a-crash-course-on-an-essential-component-of-your-3d-printer)
-
 
 [How to Develop a Face Recognition System Using FaceNet in Keras](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/)
 
@@ -2155,16 +2134,9 @@
 
 [RNN Simplified- A beginner’s guide – Towards Data Science](https://towardsdatascience.com/rnn-simplified-a-beginners-guide-cf3ae1a8895b)
 
-
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
 
-
-
-
 [Machine Learning Sentiment Analysis And Word Embeddings Python Keras Example](https://towardsdatascience.com/machine-learning-sentiment-analysis-and-word-embeddings-python-keras-example-4dfb93c5a6cf)
-
-[Amazon launches a credit card for the &#39;underbanked&#39; with bad credit](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/06/10/amazon-launches-a-credit-card-for-the-underbanked-with-bad-credit.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F06%2F10%2Famazon-launches-a-credit-card-for-the-underbanked-with-bad-credit.html)
-
 
 [AI deepfakes are now as simple as typing whatever you want your subject to say - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F10%2F18659432%2Fdeepfake-ai-fakes-tech-edit-video-by-typing-new-words)
 
