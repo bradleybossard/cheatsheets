@@ -26,8 +26,6 @@
 
 [Introduction](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-intro.html)
 
-[Freaky Robotic Skin Brings Inanimate Objects to Life](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/freaky-robotic-skin-brings-inanimate-objects-to-life-1829169173/amp?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Ffreaky-robotic-skin-brings-inanimate-objects-to-life-1829169173)
-
 [Developing Modern APIs with Hapi.js, Node.js, and Redis](https://auth0-com.cdn.ampproject.org/v/s/auth0.com/blog/amp/developing-modern-apis-with-nodejs-hapijs-and-redis/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fauth0.com%2Fblog%2Fdeveloping-modern-apis-with-nodejs-hapijs-and-redis%2F)
 
 [Shape Grammars](http://www.shapegrammar.org/)
@@ -226,11 +224,7 @@
 
 [MiteshSharma/go-project: Basic go project directory structure with wire frame code](https://github.com/MiteshSharma/go-project)
 
-[Crazyflie 2.0 - We create open platforms that enable people to explore the world of flying robotics](https://www.seeedstudio.com/crazyflie.html)
-
 [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-
-[Robocademy | An online robotics academy](http://robocademy.com/)
 
 [The Science Behind Making Your Child Smarter - WSJ](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
 
@@ -245,8 +239,6 @@
 [21 foundations of animation |](http://www.angryanimator.com/word/2018/04/23/21-foundations-of-animation/)
 
 [Aura: Speeds &amp; Simplifies ALL Your Scanning Needs | Indiegogo](https://www.indiegogo.com/projects/aura-speeds-simplifies-all-your-scanning-needs/#/)
-
-[Three creepy, yet useful robots for rescue missions and deep space travel](https://www-teslarati-com.cdn.ampproject.org/v/s/www.teslarati.com/three-creepy-useful-robots-rescue-missions-deep-space-travel/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.teslarati.com%2Fthree-creepy-useful-robots-rescue-missions-deep-space-travel%2F)
 
 [Zotac PI225-GK is a pocket-sized computer with Intel Gemini Lake CPU - Liliputing](https://liliputing.com/2018/12/zotac-pi225-gk-is-a-pocket-sized-computer-with-intel-gemini-lake-cpu.html)
 
@@ -480,8 +472,6 @@
 
 [Coding The Matrix](http://codingthematrix.com/)
 
-[Hexbot Desktop Robot Arm](https://www.coolthings.com/hexbot-desktop-robot-arm-modular-programmable/)
-
 [Get started with eDEX-UI, a Tron-influenced terminal program for tablets and desktops | Opensource.com](https://opensource.com/article/19/1/productivity-tool-edex-ui)
 
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
@@ -545,8 +535,6 @@
 [How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
 
 [Go by Example: Arrays](https://gobyexample.com/arrays)
-
-[QUT Robot Academy](https://robotacademy.net.au/)
 
 [Show off your Data Science skills with Kaggle Kernels](https://towardsdatascience.com/show-off-your-data-science-skills-with-kaggle-kernels-762403618c5)
 
@@ -1052,8 +1040,6 @@
 
 [📣 Announcing Tinkersynth 2.0 - Josh W. Comeau&#39;s Blog](https://www.joshwcomeau.com/posts/tinkersynth-two-point-oh/)
 
-[Open Source Robotics: Getting Started with Gazebo and ROS 2](https://www.infoq.com/articles/ros-2-gazebo-tutorial)
-
 [Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
 
 [A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
@@ -1104,8 +1090,6 @@
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
-[MoveIt 2 journey: sensorless collision detection with ROS 2](https://acutronicrobotics-com.cdn.ampproject.org/v/s/acutronicrobotics.com/news/ros2-sensorless-collision-detection/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Facutronicrobotics.com%2Fnews%2Fros2-sensorless-collision-detection%2F)
-
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
@@ -1115,8 +1099,6 @@
 [Reinventing the Small Wind Turbine - LOW-TECH MAGAZINE](https://www.lowtechmagazine.com/2019/06/small-wooden-wind-turbines.html)
 
 [efficientnet · PyPI](https://pypi.org/project/efficientnet/)
-
-[Nvidia Jetson Robots Get A Head Start With Isaac Software Tools | Hackaday](https://hackaday.com/2019/06/01/nvidia-jetson-robots-get-a-head-start-with-isaac-software-tools/)
 
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
@@ -1156,8 +1138,6 @@
 
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
 
-[Anyone can program this cheap robot arm in just 15 minutes](https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyreview.com/s/613577/anyone-can-program-this-cheap-robot-arm-in-just-15-minutes/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F613577%2Fanyone-can-program-this-cheap-robot-arm-in-just-15-minutes%2F)
-
 [Increase your scraping speed with Go and Colly! — The Basics](https://medium.com/@mottet.dev/increase-your-scraping-speed-with-go-and-colly-the-basics-41038bc3647e)
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
@@ -1195,8 +1175,6 @@
 [Facebook’s Libra cryptocurrency: everything you need to know - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/20/18693521/facebook-libra-cryptocurrency-calibra-explainer-how-does-work-features?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F20%2F18693521%2Ffacebook-libra-cryptocurrency-calibra-explainer-how-does-work-features)
 
 [Deep dive into version control using Git – Towards Data Science](https://towardsdatascience.com/deep-dive-into-version-control-using-git-f0f3018d10f9)
-
-[Facebook makes PyRobot open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
 
 [Better 3D Printable Bearing by BoomZilla1 - Thingiverse](https://www.thingiverse.com/thing:2746804)
 
