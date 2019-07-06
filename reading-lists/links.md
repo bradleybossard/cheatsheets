@@ -85,8 +85,6 @@
 
 [Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
 
-[Amazon.com: Naked Statistics: Stripping the Dread from the Data (9780393347777): Charles Wheelan: Books](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/ref=sr_1_1)
-
 [Linear Algebra: Step by Step: Kuldeep Singh: 8601300149776: Amazon.com: Books](https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441/ref=sr_1_7)
 
 [How to Write a Resume That Will Get You an Interview](https://www.thebalancecareers.com/how-to-write-a-resume-2063336)
@@ -495,16 +493,6 @@
 
 [Probabiliy theory basics – Towards Data Science](https://towardsdatascience.com/probabiliy-theory-basics-4ef523ae0820)
 
-[All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics): Larry Wasserman: 9780387402727: Amazon.com: Books](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
-
-[Bayes&#39; Theorem with Lego — Count Bayesie](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
-
-[Han Solo and Bayesian Priors — Count Bayesie](https://www.countbayesie.com/blog/2015/2/18/hans-solo-and-bayesian-priors)
-
-[Bayesian Reasoning in The Twilight Zone! — Count Bayesie](https://www.countbayesie.com/blog/2016/3/16/bayesian-reasoning-in-the-twilight-zone)
-
-[Use Bayes&#39; Theorem to Investigate Food Allergies — Count Bayesie](https://www.countbayesie.com/blog/2016/1/22/why-you-should-believe-your-friends-claims-about-food-allergies)
-
 [www.dartmouth.edu](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter6.pdf)
 
 [Ultimaker Still Tweaking Cura 4.0](https://www.fabbaloo.com/blog/2019/3/2/ultimaker-still-tweaking-cura-40)
@@ -522,8 +510,6 @@
 [The web just got an official password-free login standard](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/03/04/web-authentication-becomes-official-standard/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F03%2F04%2Fweb-authentication-becomes-official-standard%2F)
 
 [Chromium OS Docs - Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Can-I-run-my-own-VM_kernel)
-
-[Zero Downtime: Jenkins Continuous Deployment with Terraform on AWS | Toptal](https://www.toptal.com/devops/terraform-jenkins-continuous-deployment)
 
 [Building a Flask API to Automatically Extract Named Entities Using SpaCy](https://towardsdatascience.com/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6)
 
@@ -543,11 +529,7 @@
 
 [Building Chrome Extensions 101 – Bits and Pieces](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
-[17 Great SketchUp Tools You Should Know | All3DP](https://m.all3dp.com/2/great-sketchup-tools-you-should-know/?omhide=true&utm_source=Newsletter&utm_campaign=4e612fba33-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-4e612fba33-401459815)
-
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
-
-[Statsbot Blog](https://statsbot.co/blog/)
 
 [The What and the Why of the Cluster API - Cloud Native Apps](https://blogs.vmware.com/cloudnative/2019/03/14/what-and-why-of-cluster-api/)
 
@@ -634,8 +616,6 @@
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
 
 [CanonicalLtd/multipass: Multipass orchestrates virtual Ubuntu instances](https://github.com/CanonicalLtd/multipass)
-
-[Deploy Jenkins Helm chart on K3s running on Macbook](https://medium.com/@zhimin.wen/deploy-jenkins-helm-chart-on-k3s-running-on-macbook-484bb7ba588f)
 
 [Running K3s with Multipass on Mac – Zhimin Wen – Medium](https://medium.com/@zhimin.wen/running-k3s-with-multipass-on-mac-fbd559966f7c)
 
