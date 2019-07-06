@@ -97,13 +97,9 @@
 
 [Roku Google Assistant support arrives, how to set it up - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/10/29/roku-google-assistant-available-now/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F10%2F29%2Froku-google-assistant-available-now%2F)
 
-[Now Available: Use the ASK Music Skill API to Stream from Your Music Service to Alexa Customers : Alexa Blogs](https://developer.amazon.com/blogs/alexa/post/870491c3-0e95-4ea9-9e2e-ce1ae0cf0a79/now-available-use-the-ask-music-skill-api-to-stream-from-your-music-service-to-alexa-customers)
-
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
-
-[How Road Redemption Redefines Motorcycle Combat, Out Today on PS4 – PlayStation.Blog](https://blog.us.playstation.com/2018/11/06/how-road-redemption-redefines-motorcycle-combat-out-today-on-ps4/)
 
 [Family Link For Chromebooks Hits The Beta Channel And It’s AWESOME](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/family-link-chromebook-supervised-users-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Ffamily-link-chromebook-supervised-users-android)
 
@@ -123,11 +119,7 @@
 
 [Udemy Free Coupons, 100% Off Udemy Coupons December 2018](https://couponscorpion.com/)
 
-[Amazon adds location-specific reminders and routines to Alexa](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/12/10/alexa-location-specific-reminders-and-routines/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F12%2F10%2Falexa-location-specific-reminders-and-routines%2F)
-
 [Intel&#39;s Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86](https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86)
-
-[Sony May Have Just Accidentally Revealed The Playercounts Of Every PS4 Game](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2018/12/17/sony-may-have-just-accidentally-revealed-the-playercounts-of-every-ps4-game/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2018%2F12%2F17%2Fsony-may-have-just-accidentally-revealed-the-playercounts-of-every-ps4-game%2F)
 
 [Nvidia’s Scary AI Generates Humans That Look 100% Real](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/nvidia-ai-faces-generative-adversarial-network,news-28869.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Fnvidia-ai-faces-generative-adversarial-network%2Cnews-28869.html)
 
@@ -147,15 +139,11 @@
 
 [Text Summarization Using Keras Models – Hacker Noon](https://hackernoon.com/text-summarization-using-keras-models-366b002408d9)
 
-[Alexa Just Got a Heck of a Lot Smarter](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/alexa-wolfram-alpha,news-28914.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Falexa-wolfram-alpha%2Cnews-28914.html)
-
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
 
 [This Algorithm Can Create 3D Animations From A Single Still Image](https://futurism-com.cdn.ampproject.org/v/s/futurism.com/algorithm-3d-animations-still-image/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ffuturism.com%2Falgorithm-3d-animations-still-image%2F)
 
 [Google Home Hub bundled with two Home Minis for just $130 at Best Buy](https://www.androidpolice.com/2018/12/22/google-home-hub-bundled-with-two-home-minis-for-just-130-at-best-buy/)
-
-[Smart Speaker IQ test of Cortana, Alexa, Siri and Google Assistant shows most are smarter than ever - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/smart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fsmart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever%2F)
 
 [A Starter Pack to Exploratory Data Analysis with Python, pandas, seaborn, and scikit-Learn](https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf)
 
@@ -484,8 +472,6 @@
 [New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
 
 [500 miles on a GenZe 2.0 electric scooter (and why I no longer drive a car) - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/02/19/500-miles-genze-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F02%2F19%2F500-miles-genze-electric-scooter%2F)
-
-[The discounted Garmin Speak is a tiny GPS with Alexa built in | Android Central](https://www-androidcentral-com.cdn.ampproject.org/v/s/www.androidcentral.com/thrifter-deal-garmin-speak-amazon-alexa?amp_js_v=a2&amp_gsa=1&amp#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.androidcentral.com%2Fthrifter-deal-garmin-speak-amazon-alexa)
 
 [WiFi Hides Inside a USB Cable | Hackaday](https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/)
 
