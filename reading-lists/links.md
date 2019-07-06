@@ -669,7 +669,6 @@
 
 [Manage Kubernetes locally with RKE DIND](https://the.binbashtheory.com/rke-dind/)
 
-[The Best Cheap Drones for Beginners](https://gizmodo.com/the-very-best-beginner-drone-1826762657/amp)
 
 [Best DIY 3D Scanners of 2018 (You Can Build or Buy) | All3DP](https://m.all3dp.com/2/best-diy-3d-scanners-you-can-build-or-buy/)
 
@@ -697,7 +696,6 @@
 
 [Scaling a Distributed Stream Processor in a Containerized Environment](https://www.infoq.com/articles/distributed-stream-processor-container)
 
-[Top 10 Best Drones with Virtual Reality (VR) Headsets - 2018 | Top 10 Drone](http://www.top10drone.com/top-10-best-drones-virtual-reality-vr-headsets/)
 
 [Jessie Frazelle&#39;s Blog: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
 
@@ -2459,7 +2457,6 @@
 
 [Fuchsia.dev: Google launches official site about Fuchsia OS - 9to5Google](https://9to5google.com/2019/06/28/google-launches-fuchsia-dev/)
 
-[Confused? DJI Spark vs Mavic - which drone is the best value? [2019]](https://www.dronesbuy.net/dji-spark-vs-mavic-pro/)
 
 [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling: 8601405019745: Computer Science Books @ Amazon.com](https://www.amazon.com/gp/product/1118530802/)
 
