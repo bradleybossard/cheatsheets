@@ -87,13 +87,9 @@
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
 
-[Family Link For Chromebooks Hits The Beta Channel And It’s AWESOME](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/family-link-chromebook-supervised-users-android/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Ffamily-link-chromebook-supervised-users-android)
-
 [You can now sync Chromecast with Google Home speakers](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/11/19/chromecast-google-home-speaker-groups/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F11%2F19%2Fchromecast-google-home-speaker-groups%2F)
 
 [Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
-
-[Fast Pair now syncs Bluetooth accessories across Android devices, Chromebook support in 2019 - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2018/11/27/fast-pair-android-sync-chromebooks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2018%2F11%2F27%2Ffast-pair-android-sync-chromebooks%2F)
 
 [Nvidia open-source PhysX physics engine | Rock Paper Shotgun](https://www-rockpapershotgun-com.cdn.ampproject.org/v/s/www.rockpapershotgun.com/2018/12/04/nvidia-open-source-physx/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.rockpapershotgun.com%2F2018%2F12%2F04%2Fnvidia-open-source-physx%2F)
 
@@ -105,13 +101,9 @@
 
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
-[Chromebooks May be Able to Run Windows in the New Year | Digital Trends](https://www-digitaltrends-com.cdn.ampproject.org/v/s/www.digitaltrends.com/computing/chromebooks-windows-dual-boot/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fchromebooks-windows-dual-boot%2F)
-
 [Announcing Gluegun 2.0 — A delightful way to build command line apps in Node](https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d)
 
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
-
-[Chrome Canvas: A Web App For Drawing On Your Chromebook From Google](https://chromeunboxed-com.cdn.ampproject.org/v/s/chromeunboxed.com/news/chrome-canvas-draw-chromebook-google-web-app/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fchromeunboxed.com%2Fnews%2Fchrome-canvas-draw-chromebook-google-web-app%2F)
 
 [User guide: contents — scikit-learn 0.20.2 documentation](https://scikit-learn.org/stable/user_guide.html)
 
@@ -150,8 +142,6 @@
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
 
 [Signature Vinyl Record Player Classic Turntable Stereo System | Electrohome](https://www.electrohome.com/signature-vinyl-record-player-classic-turntable-stereo-system#)
-
-[Windows is coming to your Chromebook | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/windows-is-coming-to-your-chromebook/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwindows-is-coming-to-your-chromebook%2F)
 
 [Linear Algebra for Data Science – Ankit Rathi – Medium](https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0)
 
@@ -211,8 +201,6 @@
 
 [Complicated patterns aren’t always that complicated. Usually it’s the simple ones that bite you.](https://hackernoon.com/complicated-patterns-arent-always-that-complicated-usually-it-s-the-simple-ones-that-bite-you-caf870f2bf03)
 
-[Asus’s new Chromebook Flip ups the screen size, adds 8th Gen Intel CPUs - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/circuitbreaker/2019/1/7/18171772/asus-chromebook-flip-c434-release-date-price-features-ces-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2019%2F1%2F7%2F18171772%2Fasus-chromebook-flip-c434-release-date-price-features-ces-2019)
-
 [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282)
 
 [The best new 3D tools for 2019 | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/the-best-new-3d-tools-for-2019?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2Fthe-best-new-3d-tools-for-2019)
@@ -260,8 +248,6 @@
 [Scaling a Distributed Stream Processor in a Containerized Environment](https://www.infoq.com/articles/distributed-stream-processor-container)
 
 [Jessie Frazelle&#39;s Blog: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
-
-[The 15-minute Chromebook tune-up | Computerworld](https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3333005/chrome-os/chromebook-tune-up.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3333005%2Fchrome-os%2Fchromebook-tune-up.html)
 
 [AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project – GeekWire](https://www-geekwire-com.cdn.ampproject.org/v/s/www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.geekwire.com%2F2019%2Faws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project%2F)
 
@@ -422,8 +408,6 @@
 [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets)
 
 [US and World News | NBC 5 Dallas-Fort Worth](https://www.nbcdfw.com/news/national-international/)
-
-[18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
 
 [Menu — Bang Bang PDX](http://www.bangbangpdx.com/menu)
 
