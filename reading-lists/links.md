@@ -219,7 +219,6 @@
 
 
 
-[Choosing a printer for Linux | Opensource.com](https://opensource.com/article/18/11/choosing-printer-linux)
 
 
 
@@ -839,7 +838,6 @@
 
 [How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
 
-[Creality3D Ender-3 3D Printer – Creality 3D](https://www.creality3d.shop/collections/3d-printer/products/creality-ender-3-3d-printer-economic-ender-diy-kits-with-resume-printing-function-v-slot-prusa-i3-220x220x250mm?gclid=CjwKCAiAqOriBRAfEiwAEb9oXX5_Dmo9faqunIZ_SRX4HKQeCj74k-bEm_RPLpzvoecXdvQr8W3YCBoCxCUQAvD_BwE)
 
 [Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
 
@@ -851,7 +849,6 @@
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
 
-[A 3D Printer To PCB Miller Conversion | Hackaday](https://hackaday.com/2019/02/06/a-3d-printer-to-pcb-miller-conversion/)
 
 
 [Arduino Enters the Cloud | Hackaday](https://hackaday.com/2019/02/07/arduino-enters-the-cloud/)
@@ -901,7 +898,6 @@
 
 [QUT Robot Academy](https://robotacademy.net.au/)
 
-[Kinematic Mount For 3D Printer Bed Shows Practical Design | Hackaday](https://hackaday.com/2019/02/09/kinematic-mount-for-3d-printer-bed-shows-practical-design/)
 
 
 [Show off your Data Science skills with Kaggle Kernels](https://towardsdatascience.com/show-off-your-data-science-skills-with-kaggle-kernels-762403618c5)
@@ -922,7 +918,6 @@
 [Two graphical tools for manipulating PDFs on the Linux desktop | Opensource.com](https://opensource.com/article/19/2/manipulating-pdfs-linux)
 
 
-[Endurance to develop new high powered lasers for 3D printers and CNCs - 3D Printing Industry](https://3dprintingindustry.com/news/endurance-to-develop-new-high-powered-lasers-for-3d-printers-and-cncs-148848/)
 
 
 
@@ -978,14 +973,12 @@
 
 [How to Name Your Smarthome Devices for Better Voice Control](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/404609/how-to-name-your-smarthome-devices-for-better-voice-control/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F404609%2Fhow-to-name-your-smarthome-devices-for-better-voice-control%2F)
 
-[Michal Altair Valasek, Author at Prusa Printers](https://www.prusaprinters.org/author/michalvalasek/)
 
 [Graph Databases for Beginners: Native vs. Non-Native Graph Technology](https://neo4j.com/blog/native-vs-non-native-graph-technology/)
 
 
 [Microsoft&#39;s new Remote Desktop Preview app leaks - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/microsofts-new-remote-desktop-preview-app-leaks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fmicrosofts-new-remote-desktop-preview-app-leaks%2F)
 
-[Photogrammetry - 3D scanning with just your phone/camera - Prusa Printers](https://www.prusaprinters.org/photogrammetry-3d-scanning-just-phone-camera/)
 
 [How To Program A Really Cheap Microcontroller | Hackaday](https://hackaday.com/2019/02/17/how-to-program-a-really-cheap-microcontroller/)
 
@@ -993,7 +986,6 @@
 
 [Cheerp 2.0 released — the most powerful Cheerp yet – leaningtech – Medium](https://medium.com/leaningtech/cheerp-2-0-release-880f249a5677)
 
-[Active Strain Relief for 3D-Printer Filament | Hackaday](https://hackaday.com/2019/02/19/active-strain-relief-for-3d-printer-filament/)
 
 [Microsoft’s new Chrome extension lets you resume browsing across Windows 10 devices - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/2/19/18231226/microsoft-google-chrome-extension-timeline-support?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F2%2F19%2F18231226%2Fmicrosoft-google-chrome-extension-timeline-support)
 
@@ -1007,7 +999,6 @@
 
 [New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
 
-[3ders.org - E3D releases Pathio, a brand new slicer for FFF/FDM 3D printers | 3D Printer News &amp; 3D Printing News](http://www.3ders.org/articles/20190218-e3d-releases-pathio-a-brand-new-slicer-for-fff-fdm-3d-printers.html)
 
 [500 miles on a GenZe 2.0 electric scooter (and why I no longer drive a car) - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/02/19/500-miles-genze-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F02%2F19%2F500-miles-genze-electric-scooter%2F)
 
@@ -1182,7 +1173,6 @@
 
 [Understanding Decision Trees (once and for all!) 🙌](https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579)
 
-[E3D releases SuperVolcano 3D printer hotend upgrade - 3D Printing Industry](https://3dprintingindustry.com/news/e3d-releases-supervolcano-3d-printer-hotend-upgrade-150205/)
 
 [Say hi to Flutter Press Weekly, the new weekly digest of Flutter development news and articles! - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/ax4z24/say_hi_to_flutter_press_weekly_the_new_weekly/)
 
@@ -1289,7 +1279,6 @@
 
 [How to configure Webpack 4 from scratch for a basic website - DEV Community 👩‍💻👨‍💻](https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5)
 
-[Hackaday Podcast Ep10 – XKCD Graphs, Turing Complete Meta Computers, False Finger Printing 3D Printers, and Jargon | Hackaday](https://hackaday.com/2019/03/15/hackaday-podcast-ep10-xkcd-graphs-turing-complete-meta-computers-false-finger-printing-3d-printers-and-jargon/)
 
 
 [TL;DR AWS — Open Distro Elasticsearch – Mayank Patel – Medium](https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a)
@@ -1531,7 +1520,6 @@
 
 [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/)
 
-[Formlabs offers more accuracy and larger print sizes with latest 3D printers – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/02/formlabs-offers-more-accuracy-and-larger-print-sizes-with-latest-3d-printers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F02%2Fformlabs-offers-more-accuracy-and-larger-print-sizes-with-latest-3d-printers%2F)
 
 [Cloudflare&#39;s privacy-focused DNS app adds a free VPN](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/04/01/cloudflares-privacy-focused-dns-app-adds-a-free-vpn/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F04%2F01%2Fcloudflares-privacy-focused-dns-app-adds-a-free-vpn%2F)
 
@@ -1612,7 +1600,6 @@
 
 [Google turns your Android phone into a security key – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/04/10/google-turns-your-android-phone-into-a-security-key/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F04%2F10%2Fgoogle-turns-your-android-phone-into-a-security-key%2F)
 
-[2019 FLSUN QQ-S 3D Printer – Review the Specs | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/1/flsun-qq-s-review-3d-printer-specs/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F1%2Fflsun-qq-s-review-3d-printer-specs%2F)
 
 
 
@@ -1910,7 +1897,6 @@
 
 [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
 
-[How to Build a 3D Printer: Parts list and Basic Steps - 3D Insider](https://3dinsider.com/how-to-build-a-3d-printer/)
 
 [How to Set Up an SSH Server with Tor to Hide It from Shodan &amp; Hackers « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/set-up-ssh-server-with-tor-hide-from-shodan-hackers-0194455/)
 
@@ -1947,7 +1933,6 @@
 
 [Supercharging Vim: Blazing fast search and global replace · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-blazing-fast-search/)
 
-[» Longer Orange 30 Affordable Resin LCD 3D Printer is Live on Kickstarter](https://3dprint.com/245365/longer-orange-30-affordable-resin-lcd-3d-printer-is-live-on-kickstarter/)
 
 
 [MoveIt 2 journey: sensorless collision detection with ROS 2](https://acutronicrobotics-com.cdn.ampproject.org/v/s/acutronicrobotics.com/news/ros2-sensorless-collision-detection/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Facutronicrobotics.com%2Fnews%2Fros2-sensorless-collision-detection%2F)
@@ -1977,7 +1962,6 @@
 
 [5 Best Milk Frothers to Complete Morning Lattes and Cappuccinos](https://www.bestproducts.com/appliances/small/a26827724/top-rated-milk-frothers/?src=arb_fb_ga_m_bmm_na&utm_source=google&utm_medium=cpc&utm_campaign=arb_fb_ga_m_bmm_na&gclid=CjwKCAjw583nBRBwEiwA7MKvoOlQ-ypzAIPao6ikTg7V1pdZZS6qFoB7-81GmcPLrtC3_SUrr71K_RoCEWIQAvD_BwE)
 
-[Review of Zonestar Z6 Low-cost 3D Printer](https://www-cnx--software-com.cdn.ampproject.org/v/s/www.cnx-software.com/2019/06/02/zonestar-z6-review-low-cost-3d-printer/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnx-software.com%2F2019%2F06%2F02%2Fzonestar-z6-review-low-cost-3d-printer%2F)
 
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
@@ -2003,7 +1987,6 @@
 
 [Generate new repositories with repository templates - The GitHub Blog](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
 
-[Autodrop3D Continues Working At 3D Printer Automation | Hackaday](https://hackaday.com/2019/06/06/autodrop3d-continues-working-at-3d-printer-automation/)
 
 [The Kin Node SDK Has Arrived – Kin Blog – Medium](https://medium.com/kinblog/the-kin-node-sdk-has-arrived-2853a0b74024)
 
@@ -2012,9 +1995,7 @@
 
 [BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
 
-[Creality Ender 5 vs Ender 3 – 3D Printer Shootout | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/creality-ender-5-vs-ender-3-3d-printer-shootout/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fcreality-ender-5-vs-ender-3-3d-printer-shootout%2F)
 
-[Extruders 101: A crash course on an essential component of your 3D printer | MatterHackers](https://www.matterhackers.com/articles/extruders-101:-a-crash-course-on-an-essential-component-of-your-3d-printer)
 
 
 [Install Android 8.1 Oreo On Linux To Run Apps &amp; Games](https://fosspost.org/tutorials/install-android-8-1-oreo-on-linux)
@@ -2161,7 +2142,6 @@
 
 [Verizon&#39;s Visible Is Offering Truly Unlimited Cell Data Right Now and Honestly, Damn](https://gizmodo-com.cdn.ampproject.org/v/s/gizmodo.com/verizons-visible-is-offering-truly-unlimited-cell-data-1835879423/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgizmodo.com%2Fverizons-visible-is-offering-truly-unlimited-cell-data-1835879423)
 
-[Creality 3D Ender 5 3D Printer Amazon Coupon Promo Code – Coupons Codes and Deals | OpCoupon.com](https://opcoupon.com/store/creality3d/creality-3d-ender-5-3d-printer-amazon-coupon-promo-code/)
 
 [tink FAQ: a Package Unwinder for JavaScript - 👩🏾‍💻 development - npm forum](https://npm.community/t/tink-faq-a-package-unwinder-for-javascript/3191)
 
