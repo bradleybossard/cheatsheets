@@ -14,7 +14,6 @@
 
 [Learn Vim with these Great Free Books - OSS Blog](https://www.ossblog.org/learn-vim-great-free-books/)
 
-[Linux Plex Intel Quick Sync experience on Skylake/Kaby Lake = YOW - PleX](https://www.reddit.com/r/PleX/comments/9fwspn/linux_plex_intel_quick_sync_experience_on/)
 
 [Subnet Zero](https://blog.subnetzero.io/)
 
@@ -36,7 +35,6 @@
 
 [KVM/Networking - Community Help Wiki](https://help.ubuntu.com/community/KVM/Networking)
 
-[Management Tools - KVM](http://www.linux-kvm.org/page/Management_Tools)
 
 [Introduction](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-intro.html)
 
@@ -46,13 +44,11 @@
 
 [Task &amp; time manager synchronised between devices (nvim, vim, browser) - vim](https://www.reddit.com/r/vim/comments/9hhz0r/task_time_manager_synchronised_between_devices/)
 
-[5 Ways to Make Your Linux Desktop Look Fantastic](https://www.makeuseof.com/tag/linux-desktop-look-fantastic/)
 
 [Shape Grammars](http://www.shapegrammar.org/)
 
 [Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
 
-[Swap space on Linux systems: A primer | Opensource.com](https://opensource.com/article/18/9/swap-space-linux-systems)
 
 [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
 
@@ -154,7 +150,6 @@
 
 [If the words &#39;Tigole&#39;, &#39;Featurettes&#39;, and &#39;Plex&#39; mean anything to you, i have some powershell scripts you may be interested in. - DataHoarder](https://www.reddit.com/r/DataHoarder/comments/9s6sln/if_the_words_tigole_featurettes_and_plex_mean/)
 
-[DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](https://distrowatch.com/)
 
 [Now Available: Use the ASK Music Skill API to Stream from Your Music Service to Alexa Customers : Alexa Blogs](https://developer.amazon.com/blogs/alexa/post/870491c3-0e95-4ea9-9e2e-ce1ae0cf0a79/now-available-use-the-ask-music-skill-api-to-stream-from-your-music-service-to-alexa-customers)
 
@@ -162,7 +157,6 @@
 
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
-[r-darwish/alma: Create Arch Linux based bootable USB drives](https://github.com/r-darwish/alma)
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
 
@@ -196,13 +190,11 @@
 
 [Udemy Free Coupons, 100% Off Udemy Coupons December 2018](https://couponscorpion.com/)
 
-[Play Tetris at your Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-tetris)
 
 [Stepper motor: Smooth acceleration vs. sudden, jerky velocity changes - arduino](https://www.reddit.com/r/arduino/comments/a4csj0/stepper_motor_smooth_acceleration_vs_sudden_jerky/)
 
 [Amazon adds location-specific reminders and routines to Alexa](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/12/10/alexa-location-specific-reminders-and-routines/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F12%2F10%2Falexa-location-specific-reminders-and-routines%2F)
 
-[Patch into The Matrix at the Linux command line | Opensource.com](https://opensource.com/article/18/12/linux-toy-cmatrix)
 
 [Intel&#39;s Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86](https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86)
 
@@ -246,19 +238,16 @@
 
 [Pizza delivery in Portland | Caviar](https://www.trycaviar.com/portland/c/pizza)
 
-[Watch YouTube videos at the Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-youtube-dl)
 
 [This Algorithm Can Create 3D Animations From A Single Still Image](https://futurism-com.cdn.ampproject.org/v/s/futurism.com/algorithm-3d-animations-still-image/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ffuturism.com%2Falgorithm-3d-animations-still-image%2F)
 
 [Google Home Hub bundled with two Home Minis for just $130 at Best Buy](https://www.androidpolice.com/2018/12/22/google-home-hub-bundled-with-two-home-minis-for-just-130-at-best-buy/)
 
-[The Linux command line can fetch fun from afar | Opensource.com](https://opensource.com/article/18/12/linux-toy-remote)
 
 [Smart Speaker IQ test of Cortana, Alexa, Siri and Google Assistant shows most are smarter than ever - MSPoweruser](https://mspoweruser-com.cdn.ampproject.org/v/s/mspoweruser.com/smart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fmspoweruser.com%2Fsmart-speaker-iq-test-of-cortana-alexa-siri-and-google-assistant-shows-most-are-smarter-than-ever%2F)
 
 [Want to learn neural networks? Here’s a free Brain.js course! Merry Christmas!](https://medium.freecodecamp.org/want-to-learn-neural-networks-heres-a-free-brain-js-course-merry-christmas-ea801f378041)
 
-[Configure KVM Networking With virsh, nmcli and brctl in Linux - Computingforgeeks](https://computingforgeeks.com/managing-kvm-network-interfaces-in-linux/amp/)
 
 [Seva Zaikov - Node.js Fundamentals: Web Server Without Dependencies](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 
@@ -270,7 +259,6 @@
 
 [Home | GamesIndustry.biz](https://www.gamesindustry.biz/)
 
-[How to show recursive directory listing on Linux or Unix - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/how-to-show-recursive-directory-listing-on-linux-or-unix/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fhow-to-show-recursive-directory-listing-on-linux-or-unix%2F)
 
 [MiteshSharma/go-project: Basic go project directory structure with wire frame code](https://github.com/MiteshSharma/go-project)
 
@@ -294,7 +282,6 @@
 
 [Aura: Speeds &amp; Simplifies ALL Your Scanning Needs | Indiegogo](https://www.indiegogo.com/projects/aura-speeds-simplifies-all-your-scanning-needs/#/)
 
-[Linux Release Roundup: Dash to Panel, Audacious, Linux 4.20 + More - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2018/12/linux-4-20-released)
 
 [Dart vs Swift: a comparison – Coding with Flutter – Medium](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
 
@@ -314,7 +301,6 @@
 
 [The Best Bicycles and Cycling Gear of 2018 • Gear Patrol](https://gearpatrol.com/2018/12/28/the-best-bicycles-and-cycling-gear-of-2018/)
 
-[Linux commands for measuring disk activity | Network World](https://www-networkworld-com.cdn.ampproject.org/v/s/www.networkworld.com/article/3330497/linux/linux-commands-for-measuring-disk-activity.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.networkworld.com%2Farticle%2F3330497%2Flinux%2Flinux-commands-for-measuring-disk-activity.html)
 
 [Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
@@ -328,7 +314,6 @@
 
 [bradtraversy/node_passport_login: Node.js login, registration and access control using Express and Passport](https://github.com/bradtraversy/node_passport_login)
 
-[How to check running process in Ubuntu Linux using command line - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/how-to-check-running-process-in-ubuntu-linux-using-command-line/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fhow-to-check-running-process-in-ubuntu-linux-using-command-line%2F)
 
 [How Google Maps Calculates The Shortest Route | Math Section](https://mathsection.com/how-google-maps-calculates-the-shortest-route/?cookie-state-change=1546220286234)
 
@@ -466,7 +451,6 @@
 
 [Lightworks Video Editor Has Big Plans for 2019 - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/lightworks-plans-for-2019)
 
-[Tutorial - Linux Handbook](https://linuxhandbook.com/category/tutorial/)
 
 [Windows 10 has a built-in free screen recorder that you might not know about | BetaNews](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/)
 
@@ -526,7 +510,6 @@
 
 [Best Javascript Courses &amp; Training (2019 Updated) – Courses Buddy](https://coursesbuddy.com/best-javascript-courses-2019/)
 
-[Orange Pi 3 SBC arrives with Allwinner H6 and mini-PCIe](http://linuxgizmos.com/orange-pi-3-sbc-arrives-with-allwinner-h6-and-mini-pcie/)
 
 [Why the stock market is going higher | greyenlightenment.com](http://greyenlightenment.com/why-the-stock-market-is-going-higher/)
 
@@ -577,7 +560,6 @@
 
 [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
-[Gradio is Dead! Long Live Shortwave! - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/gradio-linux-app-replaced-by-shortwave)
 
 [Watch your code! – Flutter Community – Medium](https://medium.com/flutter-community/watch-your-code-dart-flutter-lint-55a697d01c8d)
 
@@ -595,11 +577,9 @@
 
 [Get started with eDEX-UI, a Tron-influenced terminal program for tablets and desktops | Opensource.com](https://opensource.com/article/19/1/productivity-tool-edex-ui)
 
-[Linux kernel development, open source productivity tools, create an automated calendar with Google apps, and more | Opensource.com](https://opensource.com/article/19/1/weekly-top-10-january-27)
 
 [Netflix&#39;s &#39;Kingdom&#39; Is A Must-Watch For Any &#39;Walking Dead&#39; Fan](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/insertcoin/2019/01/30/netflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Finsertcoin%2F2019%2F01%2F30%2Fnetflixs-kingdom-is-a-must-watch-for-any-walking-dead-fan%2F)
 
-[Linux Fu: Easier File Watching | Hackaday](https://hackaday.com/2019/01/31/linux-fu-easier-file-watching/)
 
 [Android for Hackers: How to Turn an Android Phone into a Hacking Device Without Root « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/)
 
@@ -629,7 +609,6 @@
 
 [Getting started with Vim visual mode | Opensource.com](https://opensource.com/article/19/2/getting-started-vim-visual-mode)
 
-[The Linux command-line cheat sheet | Network World](https://www.networkworld.com/article/3337516/linux/the-linux-command-line-cheat-sheet.html)
 
 [A comprehensive survey on graph neural networks – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/02/06/a-comprehensive-survey-on-graph-neural-networks/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F02%2F06%2Fa-comprehensive-survey-on-graph-neural-networks%2F)
 
@@ -693,7 +672,6 @@
 
 [Announcing Open Web Components - DEV Community 👩‍💻👨‍💻](https://dev.to/thepassle/announcing-open-web-components-5h7)
 
-[Two graphical tools for manipulating PDFs on the Linux desktop | Opensource.com](https://opensource.com/article/19/2/manipulating-pdfs-linux)
 
 [WebGL 2.0—Why It&#39;s the Path to Stable Open Standards-based 3D Web Graphics | Architosh](https://architosh.com/2019/02/webgl-2-0-why-its-the-path-to-stable-open-standards-based-3d-web-graphics/)
 
@@ -725,7 +703,6 @@
 
 [Solidity tips and tricks to save gas and reduce bytecode size](https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6)
 
-[imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 [Low-Poly Models – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/low-poly-models-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Flow-poly-models-need-to-know%2F)
 
@@ -751,7 +728,6 @@
 
 [500 miles on a GenZe 2.0 electric scooter (and why I no longer drive a car) - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/02/19/500-miles-genze-electric-scooter/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F02%2F19%2F500-miles-genze-electric-scooter%2F)
 
-[Using Clear Linux As A Desktop Linux Distribution - It Works Well But With Some &quot;Papercuts&quot; - Phoronix](https://www.phoronix.com/scan.php?page=article&item=clearlinux-main-desktop&num=1)
 
 [gstacks13/plex_set_tracks: Change default Plex audio and subtitles for an entire series, all at once.](https://github.com/gstacks13/plex_set_tracks)
 
@@ -835,7 +811,6 @@
 
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
-[Beaker: the Decentralized Read-Write Browser | Linux Journal](https://www.linuxjournal.com/content/beaker-decentralized-read-write-browser)
 
 
 [Introduction to Kubeflow | Opensource.com](https://opensource.com/article/18/12/introduction-kubeflow?utm_campaign=intrel)
@@ -892,7 +867,6 @@
 
 [All-electric GT unveiled with over 300 miles of range and 5-min charging enabled by mysterious battery - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/03/04/electric-gt-piech-mark-zero-mysterious-battery/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F03%2F04%2Felectric-gt-piech-mark-zero-mysterious-battery%2F)
 
-[The Linux 5.0 kernel has been released #Linux « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/03/04/the-linux-5-0-kernel-has-been-released-linux/)
 
 [The web just got an official password-free login standard](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/03/04/web-authentication-becomes-official-standard/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F03%2F04%2Fweb-authentication-becomes-official-standard%2F)
 
@@ -924,13 +898,10 @@
 
 [How to Become a Professional 3D Modeler | 3D Printing Blog | i.materialise](https://i.materialise.com/blog/en/how-to-become-a-professional-3d-modeler-an-interview-with-3d-modelling-expert-jonathan-williamson/)
 
-[Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators?intcmp=7016000000127cYAAQ)
 
 [Building Chrome Extensions 101 – Bits and Pieces](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
-[Virtual filesystems: Why we need them and how they work | Opensource.com](https://opensource.com/article/19/3/virtual-filesystems-linux)
 
-[fs - kernel/git/torvalds/linux.git - Linux kernel source tree](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/fs)
 
 [17 Great SketchUp Tools You Should Know | All3DP](https://m.all3dp.com/2/great-sketchup-tools-you-should-know/?omhide=true&utm_source=Newsletter&utm_campaign=4e612fba33-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-4e612fba33-401459815)
 
@@ -939,7 +910,6 @@
 [Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
 
 
-[INTRODUCING SINGULARITY DESKTOP: MOBILE AND REPRODUCIBLE LINUX CONTAINERS FOR COMPUTE-DRIVEN WORKLOADS ON MACOS - Sylabs.io](https://www.sylabs.io/2019/03/introducing-singularity-desktop-mobile-and-reproducible-linux-containers-for-compute-driven-workloads-on-macos/)
 
 [Statsbot Blog](https://statsbot.co/blog/)
 
@@ -953,7 +923,6 @@
 
 [ArtisGL 3D Publisher-make your 3D models alive](https://artisgl.com/)
 
-[Chasing Linux Kernel Archives | Linux Journal](https://www.linuxjournal.com/content/chasing-archives)
 
 [Any Steam game can now use Valve’s low-latency, DoS-proofed networking – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gaming/2019/03/valve-brings-dota-2em-s-dos-protected-low-latency-networking-to-all-steam-devs/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgaming%2F2019%2F03%2Fvalve-brings-dota-2em-s-dos-protected-low-latency-networking-to-all-steam-devs%2F)
 
@@ -1002,13 +971,10 @@
 
 [How to set up a homelab from hardware to firewall | Opensource.com](https://opensource.com/article/19/3/home-lab)
 
-[Set Up a Firewall with GUFW on Linux Desktop](https://itsfoss.com/set-up-firewall-gufw/)
 
 [DIY Six Channel Arduino RC Transmitter | Hackaday](https://hackaday.com/2019/03/19/diy-six-channel-arduino-rc-transmitter/)
 
-[Find Files in Linux, Using the Command Line](https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/)
 
-[Pop OS 18.10 Linux Gaming Report: System76 Nails It For Nvidia And AMD Users](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/20/pop_os-18-10-linux-gaming-nvidia-radeon-user-experience/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F20%2Fpop_os-18-10-linux-gaming-nvidia-radeon-user-experience%2F)
 
 [How to rotate your source IP address - Black Hills Information Security](https://www.blackhillsinfosec.com/how-to-rotate-your-source-ip-address/)
 
@@ -1030,7 +996,6 @@
 
 [A Pirates Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
 
-[How to Install OpenLDAP on Ubuntu Server 18.04 | Linux.com | The source for Linux information](https://www.linux.com/blog/2019/3/how-install-openldap-ubuntu-server-1804)
 
 [Modular DIY CNC V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Modular-DIY-CNC-V2/)
 
@@ -1066,7 +1031,6 @@
 
 [Building Ground Station for my Autonomous Rc plane. More than 20 modes and will feature experimental AI flight with RPi and carry loads of environmental sensors, will keep posting progress, everything will be open-source at the end. - arduino](https://www.reddit.com/r/arduino/comments/b4ie4f/building_ground_station_for_my_autonomous_rc/)
 
-[Angry IP Scanner - the original IP scanner for Windows, Mac and Linux](https://angryip.org/)
 
 [Access Your Pi Without Keyboard and Monitor: 3 Steps](https://www.instructables.com/id/Access-Your-Pi-Without-Keyboard-and-Monitor/)
 
@@ -1074,7 +1038,6 @@
 
 [V8 release v7.4 · V8](https://v8.dev/blog/v8-release-74)
 
-[Wizard Kit: How I Protect Myself from Surveillance | Linux Journal](https://www.linuxjournal.com/content/wizard-kit-how-i-protect-myself-surveillance)
 
 [Ten Years in the Trenches: TV on the Radio Return to Dear Science | Pitchfork](https://pitchfork-com.cdn.ampproject.org/v/s/pitchfork.com/thepitch/ten-years-in-the-trenches-tv-on-the-radio-return-to-dear-science/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpitchfork.com%2Fthepitch%2Ften-years-in-the-trenches-tv-on-the-radio-return-to-dear-science%2F)
 
@@ -1099,15 +1062,11 @@
 
 [Running K3s with Multipass on Mac – Zhimin Wen – Medium](https://medium.com/@zhimin.wen/running-k3s-with-multipass-on-mac-fbd559966f7c)
 
-[How to Perform a Task When a New File is Added to a Directory in Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/405468/how-to-perform-a-task-when-a-new-file-is-added-to-a-directory-in-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F405468%2Fhow-to-perform-a-task-when-a-new-file-is-added-to-a-directory-in-linux%2F)
 
-[Subscribers: Auto-Download Linux Journal From the Command Line (v2.0) | Linux Journal](https://www.linuxjournal.com/content/subscribers-auto-download-linux-journal-command-line-v20)
 
-[DIY: Build a Custom Minimal Linux Distribution from Source | Linux Journal](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)
 
 [jankais3r/DNoiSe: DNS noise generator that looks at your network activity and blends in. Requires pi-hole.](https://github.com/jankais3r/DNoiSe)
 
-[Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/27/solus-4-linux-gaming-report-nvidia-amd-steam/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F27%2Fsolus-4-linux-gaming-report-nvidia-amd-steam%2F)
 
 [Graph Theory — Graph Data Structures and Traversal Algorithms Made Easy](https://hackernoon.com/graph-theory-graph-data-structures-and-traversal-algorithms-made-easy-28c7154c9662)
 
@@ -1150,7 +1109,6 @@
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
 
-[Yes, it isn&#39;t completely useless. All About the Linux yes Command. - Putorius](https://www-putorius-net.cdn.ampproject.org/v/s/www.putorius.net/linux-yes-command.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.putorius.net%2Flinux-yes-command.html)
 
 [Putting Events in Their Place with Dynamic Routing | Confluent](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
 
@@ -1166,9 +1124,7 @@
 
 [SerpentAI/D3DShot: Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API](https://github.com/SerpentAI/D3DShot)
 
-[LXD 3.12 has been released - News - Linux Containers Forum](https://discuss.linuxcontainers.org/t/lxd-3-12-has-been-released/4483)
 
-[5 Tools That Will Help You Create Your Own Linux Distro - Analytics India Magazine](https://www.analyticsindiamag.com/5-tools-that-will-help-you-create-your-own-linux-distro/)
 
 [Run a server with Git | Opensource.com](https://opensource.com/article/19/4/server-administration-git)
 
@@ -1358,11 +1314,9 @@
 
 [How to set up Alexa Guard on an Amazon Echo](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/05/14/how-to-set-up-alexa-guard-on-an-amazon-echo.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F05%2F14%2Fhow-to-set-up-alexa-guard-on-an-amazon-echo.html)
 
-[How to Find Linux Server Geographic Location in Terminal](https://www-tecmint-com.cdn.ampproject.org/v/s/www.tecmint.com/find-linux-server-geographic-location/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tecmint.com%2Ffind-linux-server-geographic-location%2F)
 
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
-[Using WSL and MobaXterm to Create a Linux Dev Environment on Windows — Nick Janetakis](https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows)
 
 [Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
 
@@ -1388,7 +1342,6 @@
 
 [Windows Sandbox: How to use Microsoft&#39;s simple virtual Windows PC to secure your digital life | PCWorld](https://www-pcworld-com.cdn.ampproject.org/v/s/www.pcworld.com/article/3338084/how-to-use-windows-sandbox-microsoft.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcworld.com%2Farticle%2F3338084%2Fhow-to-use-windows-sandbox-microsoft.html)
 
-[Set up a static network connection in Linux | Opensource.com](https://opensource.com/article/19/5/set-static-network-connection-linux)
 
 [🌻 The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
@@ -1398,9 +1351,7 @@
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
-[Monitoring Linux Processes using Prometheus and Grafana – devconnected](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 
-[Monitoring Linux host metrics with the Node Exporter | Prometheus](https://prometheus.io/docs/guides/node-exporter/)
 
 [Digital Forensics Tips&amp;Tricks: How to Find an Intruder&#39;s Lucky Coin / Habr](https://m.habr.com/en/post/452254/)
 
@@ -1412,7 +1363,6 @@
 
 [0x4D31/fatt: fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic](https://github.com/0x4D31/fatt)
 
-[How to Use the wall Command on Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/415914/how-to-use-the-wall-command-on-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F415914%2Fhow-to-use-the-wall-command-on-linux%2F)
 
 [Eight million pixels and counting – A look at pathfinder](https://nical.github.io/posts/a-look-at-pathfinder.html)
 
@@ -1466,17 +1416,14 @@
 
 [BERT to the rescue! – Towards Data Science](https://towardsdatascience.com/bert-to-the-rescue-17671379687f)
 
-[Install Android 8.1 Oreo On Linux To Run Apps &amp; Games](https://fosspost.org/tutorials/install-android-8-1-oreo-on-linux)
 
 [Vimways ~ You Should Be Using Tags In Vim](https://vimways.org/2018/you-should-be-using-tags-in-vim/)
 
 [Random Forest vs Neural Network: Which is Better, and When?](https://www.kdnuggets.com/2019/06/random-forest-vs-neural-network.html)
 
-[How to determine number of CPUs on Linux using command line - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/how-to-determine-number-of-cpus-on-linux-using-command-line/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fhow-to-determine-number-of-cpus-on-linux-using-command-line%2F)
 
 [Scroll based animate timeline with easing functions on a Webgl scene](https://medium.com/@renaud.rohlinger/scroll-based-animate-timeline-with-easing-functions-on-a-webgl-scene-ef7c3f5a8d9b)
 
-[Linux for Pentester : ZIP Privilege Escalation](https://www.hackingarticles.in/linux-for-pentester-zip-privilege-escalation/)
 
 [4 Axis CNC Hotwire Foam Cutter by Dodo3441 - Thingiverse](https://www.thingiverse.com/thing:3676825)
 
@@ -1494,7 +1441,6 @@
 
 [Modern JavaScript ctags configuration – Adorable – Medium](https://medium.com/adorableio/modern-javascript-ctags-configuration-199884dbcc1)
 
-[Fundamentals of Linux [Video]](https://subscription.packtpub.com/video/networking_and_servers/9781788293945)
 
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
 
@@ -1518,7 +1464,6 @@
 
 [kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator)
 
-[LFS and Standards](http://www.linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
 
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
@@ -1526,11 +1471,9 @@
 
 [An End to End Introduction to GANs – Towards Data Science](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
 
-[How To Test Drive 200+ Linux Distributions Without Ever Downloading Or Installing Them](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/06/15/how-to-test-drive-200-linux-distributions-without-ever-downloading-or-installing-them/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F06%2F15%2Fhow-to-test-drive-200-linux-distributions-without-ever-downloading-or-installing-them%2F)
 
 [Try NopSCADlib For Your Next OpenSCAD Project | Hackaday](https://hackaday.com/2019/06/15/try-nopscadlib-for-your-next-openscad-project/)
 
-[What is PPA? Everything You Need to Know About PPA in Linux](https://itsfoss.com/ppa-guide/)
 
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
 
@@ -1542,7 +1485,6 @@
 
 [Facebook’s Libra cryptocurrency: everything you need to know - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/20/18693521/facebook-libra-cryptocurrency-calibra-explainer-how-does-work-features?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F20%2F18693521%2Ffacebook-libra-cryptocurrency-calibra-explainer-how-does-work-features)
 
-[Digging into the new features in OpenZFS post-Linux migration | Ars Technica](https://arstechnica.com/gadgets/2019/06/zfs-features-bugfixes-0-8-1/)
 
 [Deep dive into version control using Git – Towards Data Science](https://towardsdatascience.com/deep-dive-into-version-control-using-git-f0f3018d10f9)
 
@@ -1554,14 +1496,11 @@
 
 [Sucrase, a Faster Babel for Modern JS Runtimes](https://www.infoq.com/news/2019/06/sucrase-fast-babel-modern-js/)
 
-[Chrome OS 76 will disable Crostini Linux backups by default – About Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-76-will-disable-crostini-linux-backups-by-default/)
 
-[Python&#39;s Mypy--Advanced Usage | Linux Journal](https://www.linuxjournal.com/content/pythons-mypy-advanced-usage)
 
 [Chrome OS will show Android cloud storage apps in Files app - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/chrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fchrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610%2F)
 
 
-[9 Tools for Monitoring Internet Bandwidth and Speed in Linux](https://itsfoss.com/network-speed-monitor-linux/)
 
 [postmarketOS now supports 139 abandoned phones and tablets - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/postmarketos-now-supports-139-abandoned-phones-and-tablets-24581613/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fpostmarketos-now-supports-139-abandoned-phones-and-tablets-24581613%2F)
 
@@ -1569,13 +1508,10 @@
 
 [Microsoft Obj-GAN Turns Words into Complex Scenes - SyncedReview - Medium](https://medium.com/syncedreview/microsoft-obj-gan-turns-words-into-complex-scenes-5c6024f0f91d)
 
-[How to Use the Linux lsof Command](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/426031/how-to-use-the-linux-lsof-command/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F426031%2Fhow-to-use-the-linux-lsof-command%2F)
 
-[832 TB – ZFS on Linux – Project “Cheap and Deep”: Part 1 | JonKensy.com](https://www.jonkensy.com/832-tb-zfs-on-linux-project-cheap-and-deep-part-1/)
 
 [Reduce JavaScript Payloads with Tree Shaking  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 
-[Without a GUI--How to Live Entirely in a Terminal | Linux Journal](https://www.linuxjournal.com/content/without-gui-how-live-entirely-terminal)
 
 [How Do You Install Windows to Multiple Computers at Once?](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-do-you-install-windows-to-multiple-computers-at-onc-1835848340/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-do-you-install-windows-to-multiple-computers-at-onc-1835848340)
 
@@ -1583,7 +1519,5 @@
 
 [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling: 8601405019745: Computer Science Books @ Amazon.com](https://www.amazon.com/gp/product/1118530802/)
 
-[Create a virtual machine with libvirt tools](https://www.lynda.com/Linux-tutorials/Create-virtual-machine-libvirt-tools/633864/671172-4.html?autoplay=true)
 
-[Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.lynda.com/Linux-tutorials/Linux-Foundation-Cert-Prep-Virtualization-Ubuntu/633864-2.html)
 
