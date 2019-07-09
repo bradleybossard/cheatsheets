@@ -41,7 +41,6 @@
 
 [0x4D31/fatt: fatt /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic](https://github.com/0x4D31/fatt)
 
-
 [Deconstructing Fileless Attacks into 4 Underlying Techniques](https://blog.minerva-labs.com/deconstructing-fileless-attacks-into-4-underlying-techniques?hs_amp=true)
 
 [Digital Forensics Tips&amp;Tricks: How to Find an Intruder&#39;s Lucky Coin / Habr](https://m.habr.com/en/post/452254/)
@@ -49,3 +48,7 @@
 [Hack The Box - Sizzle | 0xRick Owned Root !](https://0xrick.github.io/hack-the-box/sizzle/)
 
 [17 penetration testing tools the pros use | CSO Online](https://www.csoonline.com/article/2943524/network-security/17-penetration-testing-tools-the-pros-use.amp.html)
+
+[Five Pentesting Tools and Techniques (That Every Sysadmin Should Know)](https://medium.com/@jeremy.trinka/five-pentesting-tools-and-techniques-that-sysadmins-should-know-about-4ceca1488bff)
+
+[How to Learn Penetration Testing: A Beginners Tutorial | ExplainHowNow](https://www.explainhownow.com/2019/learn-penetration-testing/)

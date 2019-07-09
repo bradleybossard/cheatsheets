@@ -42,5 +42,4 @@
 
 [pgSphere](https://pgsphere.github.io/)
 
-
-
+[plprofiler - Getting a Handy Tool for Profiling Your PL/pgSQL Code - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/13/plprofiler-getting-a-handy-tool-for-profiling-your-pl-pgsql-code/)

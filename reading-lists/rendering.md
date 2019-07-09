@@ -20,3 +20,7 @@
 [Introduction to Real-Time Ray Tracing with Vulkan | NVIDIA Developer Blog](https://devblogs.nvidia.com/vulkan-raytracing/)
 
 [Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
+
+[3rd Installment of “Ray Tracing Gems Now Available For Free - NVIDIA Developer News CenterNVIDIA Developer News Center](https://news.developer.nvidia.com/3rd-installment-of-ray-tracing-gems-now-available-for-free/)
+
+[Introduction](http://www.pbr-book.org/3ed-2018/Introduction.html)

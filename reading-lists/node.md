@@ -5,3 +5,5 @@
 [Build a task app with Hapi, MongoDB and Vue.js – Employbl – Medium](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778)
 
 [Announcing Gluegun 2.0 — A delightful way to build command line apps in Node](https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d)
+
+[Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)

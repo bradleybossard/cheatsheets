@@ -144,3 +144,13 @@
 [How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
 
 [How to securely erase hard drives (HDDs) and solid state drives (SSDs) | ZDNet](https://www.zdnet.com/article/how-to-securely-erase-hard-drives-hdds-and-solid-state-drives-ssds/#ftag=CAD-00-10aag7f)
+
+[Its Hard to Believe That This is a Screenshot of Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/epic-custom-openbox-ubuntu-desktop)
+
+[How to List Installed Packages on Ubuntu and Debian](https://itsfoss.com/list-installed-packages-ubuntu/)
+
+[Canonical Is Planning Some Awesome New Content For The Snap Store](https://www.forbes.com/sites/jasonevangelho/2019/02/20/canonical-is-planning-some-awesome-new-content-for-the-snap-store/#30ad0d8120f8)
+
+[How to Restart Network in Ubuntu](https://itsfoss.com/restart-network-ubuntu/)
+
+[13 open source backup solutions | Opensource.com](https://opensource.com/article/19/3/backup-solutions)

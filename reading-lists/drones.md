@@ -74,3 +74,7 @@
 [CHEAP: A bird? A plane? NO — it&#39;s 56% off a DJI Spark Drone](https://thenextweb-com.cdn.ampproject.org/v/s/thenextweb.com/plugged/2019/06/25/cheap-a-bird-a-plane-no-its-56-off-a-dji-spark-drone/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fthenextweb.com%2Fplugged%2F2019%2F06%2F25%2Fcheap-a-bird-a-plane-no-its-56-off-a-dji-spark-drone%2F)
 
 [DJI Spark Sunrise Yellow Quadcopter Drone - 12MP 1080p 190021294417 | eBay](https://m.ebay.com/itm/DJI-Spark-Sunrise-Yellow-Quadcopter-Drone-12MP-1080p/223383016742?ul_ref=https%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-53200-19255-0%2F1%3Fff3%3D4%26toolid%3D11800%26pub%3D5575402880%26campid%3D5338330150%26mpre%3Dhttps%253A%252F%252Fwww.ebay.com%252Fitm%252FDJI-Spark-Sunrise-Yellow-Quadcopter-Drone-12MP-1080p%252F223383016742%253F_trkparms%253D5079%25253A5000006430%26srcrot%3D711-53200-19255-0%26rvr_id%3D2024686948481%26rvr_ts%3Da39ef43a16b0ad4844a02bdcffe4bdbf&_trkparms=5079%3A5000006430&_mwBanner=1&_rdt=1&ul_noapp=true)
+
+[Build an FPV-Style Quadcopter with a 3D Printed Frame | Make:](https://makezine.com/projects/build-an-fpv-style-quadcopter-with-a-3d-printed-frame/)
+
+[Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)

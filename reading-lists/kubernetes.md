@@ -113,3 +113,5 @@
 [Kubeval](https://kubeval.instrumenta.dev/)
 
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
+
+[Running K3s with Multipass on Mac – Zhimin Wen – Medium](https://medium.com/@zhimin.wen/running-k3s-with-multipass-on-mac-fbd559966f7c)

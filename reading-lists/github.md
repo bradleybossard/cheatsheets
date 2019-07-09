@@ -6,3 +6,4 @@
 
 [Advanced Github: Webhooks and Automation — Monday Morning Haskell](https://mmhaskell.com/blog/2018/5/14/advanced-github-webhooks-and-automation)
 
+[Generate new repositories with repository templates - The GitHub Blog](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
