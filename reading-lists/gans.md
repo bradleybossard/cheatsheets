@@ -14,3 +14,5 @@
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
 [An End to End Introduction to GANs – Towards Data Science](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
+
+[The Rise of Generative Adversarial Networks](https://www.kdnuggets.com/2019/04/rise-generative-adversarial-networks.html)

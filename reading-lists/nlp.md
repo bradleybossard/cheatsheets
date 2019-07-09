@@ -43,3 +43,5 @@
 [🌻 The Best and Most Current of Modern Natural Language Processing](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
+
+[Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library - Facebook Code](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)

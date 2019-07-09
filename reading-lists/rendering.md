@@ -17,3 +17,6 @@
 
 [Introduction](http://www.pbr-book.org/3ed-2018/Introduction.html)
 
+[Introduction to Real-Time Ray Tracing with Vulkan | NVIDIA Developer Blog](https://devblogs.nvidia.com/vulkan-raytracing/)
+
+[Ray Tracing Gems Preview | NVIDIA Developer](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)

@@ -9,3 +9,7 @@
 [containers/buildah: A tool that facilitates building OCI images](https://github.com/containers/buildah)
 
 [containerd – An industry-standard container runtime with an emphasis on simplicity, robustness and portability](https://containerd.io/)
+
+[How To Set Up a Network Bridge for LXD Containers – Hacker Noon](https://hackernoon.com/how-to-set-up-a-network-bridge-for-lxd-containers-98e3e7d1f273)
+
+[Introduction to Ubuntus LXD Containers - Make Tech Easier](https://www-maketecheasier-com.cdn.ampproject.org/v/s/www.maketecheasier.com/introduction-ubuntu-lxd-containers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.maketecheasier.com%2Fintroduction-ubuntu-lxd-containers%2F)

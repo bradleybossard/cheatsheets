@@ -75,3 +75,9 @@
 [storyicon/gos: Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)](https://github.com/storyicon/gos)
 
 [superhawk610/bar: Port of the node-progress package, written in Golang.](https://github.com/superhawk610/bar)
+
+[MiteshSharma/go-project: Basic go project directory structure with wire frame code](https://github.com/MiteshSharma/go-project)
+
+[Could Koazee be for Go like lodash is for NodeJS? – Iván Corrales Solera – Medium](https://medium.com/@ivan.corrales.solera/could-koazee-be-for-go-like-lodash-is-for-nodejs-5d08b1d3f01e)
+
+[Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)

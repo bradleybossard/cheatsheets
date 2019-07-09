@@ -109,3 +109,7 @@
 [Kubernetes ingress-nginx troubleshooting made easy with kubectl plugins](https://medium.com/@awkwardferny/kubernetes-ingress-nginx-troubleshooting-made-easy-with-kubectl-plugins-dbc8fdff35fd)
 
 [Base Images - kubedex.com](https://kubedex.com/base-images/)
+
+[Kubeval](https://kubeval.instrumenta.dev/)
+
+[K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)

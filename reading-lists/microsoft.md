@@ -22,3 +22,15 @@
 [Windows Sandbox: How to use Microsoft&#39;s simple virtual Windows PC to secure your digital life | PCWorld](https://www-pcworld-com.cdn.ampproject.org/v/s/www.pcworld.com/article/3338084/how-to-use-windows-sandbox-microsoft.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcworld.com%2Farticle%2F3338084%2Fhow-to-use-windows-sandbox-microsoft.html)
 
 [Microsoft Obj-GAN Turns Words into Complex Scenes - SyncedReview - Medium](https://medium.com/syncedreview/microsoft-obj-gan-turns-words-into-complex-scenes-5c6024f0f91d)
+
+[Running Ubuntu VMs on Windows just got a whole lot more streamlined | Ars Technica](https://arstechnica.com/gadgets/2018/09/running-ubuntu-vms-on-windows-just-got-a-whole-lot-more-streamlined/)
+
+[Top 10 Best Windows Alternative Open Source Operating System](https://www-ubuntupit-com.cdn.ampproject.org/v/s/www.ubuntupit.com/top-10-best-windows-alternative-open-source-operating-system/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.ubuntupit.com%2Ftop-10-best-windows-alternative-open-source-operating-system%2F)
+
+[Install Ubuntu Alongside Windows 8.1 or Windows 10](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)
+
+[Windows 10 has a built-in free screen recorder that you might not know about | BetaNews](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/)
+
+[How Do You Install Windows to Multiple Computers at Once?](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-do-you-install-windows-to-multiple-computers-at-onc-1835848340/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-do-you-install-windows-to-multiple-computers-at-onc-1835848340)
+
+[Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)

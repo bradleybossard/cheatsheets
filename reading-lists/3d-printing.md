@@ -69,3 +69,15 @@
 [G-Code Example – 6 Easy G-Code Examples to Begin With | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/easy-g-code-examples-to-begin-with/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Feasy-g-code-examples-to-begin-with%2F)
 
 [G-Code Generator – All You Need to Know | All3DP](https://m-all3dp-com.cdn.ampproject.org/v/s/m.all3dp.com/2/g-code-generator-all-you-need-to-know/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fall3dp.com%2F2%2Fg-code-generator-all-you-need-to-know%2F)
+
+[Casting Concrete with 3D Printed Molds | Hackaday](https://hackaday.com/2019/01/27/casting-concrete-with-3d-printed-molds/)
+
+[A Crash Course In 3D Printed Venturi Pumps | Hackaday](https://hackaday.com/2019/02/08/a-crash-course-in-3d-printed-venturi-pumps/)
+
+[In the mood for light reading? Nvidia is writing a book on ray tracing | PC Gamer](https://www-pcgamer-com.cdn.ampproject.org/v/s/www.pcgamer.com/amp/in-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.pcgamer.com%2Fin-the-mood-for-light-reading-nvidia-is-writing-a-book-on-ray-tracing%2F)
+
+[Open Source 3-D Printing - Wikiversity](https://en.m.wikiversity.org/wiki/Open_Source_3-D_Printing)
+
+[Prusa Launches Their Own 3D Model Repository | Hackaday](https://hackaday.com/2019/04/24/prusa-launches-their-own-3d-model-repository/)
+
+[How to Build Your Own 3D Printing Slicer From Scratch : 12 Steps](https://www.instructables.com/id/How-to-Build-Your-Own-3D-Printing-Slicer-From-Scra/)

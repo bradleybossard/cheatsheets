@@ -39,3 +39,8 @@
 [Bitnami Engineering Portal: Create a Production-Ready PostgreSQL Cluster with Bitnami, Kubernetes and Helm](https://engineering.bitnami.com/articles/create-a-production-ready-postgresql-cluster-bitnami-kubernetes-and-helm.html)
 
 [Bloom Indexes in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2019/06/14/bloom-indexes-in-postgresql/)
+
+[pgSphere](https://pgsphere.github.io/)
+
+
+

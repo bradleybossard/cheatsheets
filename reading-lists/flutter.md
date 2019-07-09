@@ -52,3 +52,5 @@
 [GraphQL with Flutter - FlutterDev](https://www.reddit.com/r/FlutterDev/comments/biyoz6/graphql_with_flutter/)
 
 [Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
+
+[Hummingbird vs Angular Dart – Raveesh Agarwal – Medium](https://medium.com/@raveeshagarwal/hummingbird-vs-angular-dart-b636b7147099)

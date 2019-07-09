@@ -132,3 +132,15 @@
 [Linux Foundation Cert Prep: Virtualization (Ubuntu)](https://www.lynda.com/Linux-tutorials/Linux-Foundation-Cert-Prep-Virtualization-Ubuntu/633864-2.html)
 
 [ZFS Indications Have Us Already Eager For Ubuntu 19.10 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-GRUB-More-Bits-April-Ubuntu)
+
+[Waypipe Offers A Transparent Wayland Proxy For Running Programs Over The Network - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Wayland-Proxy)
+
+[How to create a custom Ubuntu live from scratch – ITNEXT](https://itnext.io/how-to-create-a-custom-ubuntu-live-from-scratch-dd3b3f213f81)
+
+[Take screenshots in background silently for archive purposes - Ask Ubuntu](https://askubuntu.com/questions/1083128/take-screenshots-in-background-silently-for-archive-purposes)
+
+[Top 5 open source network monitoring tools | Opensource.com](https://opensource.com/article/19/2/network-monitoring-tools)
+
+[How to Install Flatpak on Ubuntu (Step-by-Step Guide) - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/how-to-install-flatpak-on-ubuntu-flathub)
+
+[How to securely erase hard drives (HDDs) and solid state drives (SSDs) | ZDNet](https://www.zdnet.com/article/how-to-securely-erase-hard-drives-hdds-and-solid-state-drives-ssds/#ftag=CAD-00-10aag7f)
