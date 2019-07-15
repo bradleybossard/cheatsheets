@@ -19,4 +19,6 @@ npm info
 
 npm install <library-name>
 npm install <library-name>@beta     # Download beta version (if libary was published with --tag beta)
+
+npm repo                            # Open the repo of the current project in the browser
 ```
