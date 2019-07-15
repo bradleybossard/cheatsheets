@@ -1,6 +1,3 @@
-
-[vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
-
 [What is pnpm?](https://flaviocopes.com/pnpm/)
 
 [Next Genpm | CSS-Tricks](https://css-tricks.com/next-genpm/)
@@ -12,3 +9,7 @@
 [tink FAQ: a Package Unwinder for JavaScript - 👩🏾‍💻 development - npm forum](https://npm.community/t/tink-faq-a-package-unwinder-for-javascript/3191)
 
 [Creating malicious packages and dealing with them using npm audit](https://wanago.io/2019/04/15/malicious-packages-npm-audit/)
+
+[vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
+
+[shelljs - npm](https://www.npmjs.com/package/shelljs)

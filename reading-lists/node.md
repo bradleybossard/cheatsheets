@@ -7,3 +7,9 @@
 [Announcing Gluegun 2.0 — A delightful way to build command line apps in Node](https://shift.infinite.red/announcing-gluegun-2-0-a-delightful-way-to-build-command-line-apps-in-node-936f9ab9916d)
 
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
+
+## packages to try out
+
+[vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
+
+[shelljs - npm](https://www.npmjs.com/package/shelljs)
