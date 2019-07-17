@@ -81,3 +81,7 @@
 [Could Koazee be for Go like lodash is for NodeJS? – Iván Corrales Solera – Medium](https://medium.com/@ivan.corrales.solera/could-koazee-be-for-go-like-lodash-is-for-nodejs-5d08b1d3f01e)
 
 [Better Go error handling with xerrors – Yakka – Medium](https://medium.com/yakka/better-go-error-handling-with-xerrors-1987650e0c79)
+
+[Go modules example - My Code Smells!](https://www.mycodesmells.com/post/go-modules-example)
+
+[Getting Started with Go modules - Niraj Fonseka - Medium](https://medium.com/@fonseka.live/getting-started-with-go-modules-b3dac652066d)
