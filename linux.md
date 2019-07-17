@@ -54,6 +54,13 @@ fg <job-no>                # bring background job to foreground
     nl <text-file>             # cat with line numbers
 ```
 
+### clipboard
+```
+cat <text-file> | xclip             # copy text file to clipboard (to be pasted by middle mouse click)
+cat <text-file> | xclip -sel clip   # copy text file to clipboard (to be pasted by Ctrl-V)
+xclip -o > <text-file>              # dump contents of clipboard to file
+```
+
 ### misc
 ```
     stress --cpu 2 --timeout 60  # Stress 2 cpus for 60 seconds
