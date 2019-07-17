@@ -45,3 +45,13 @@
 [Exploring Natural Language Processing with Alice in Wonderland - DEV Community 👩‍💻👨‍💻](https://dev.to/valeriecodes/exploring-natural-language-processing-with-alice-in-wonderland-ldc)
 
 [Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library - Facebook Code](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
+
+[An Easy Introduction To Natural Language Processing | Built In](https://builtin.com/data-science/easy-introduction-natural-language-processing)
+
+[A high-level guide to natural language processing techniques](https://builtin.com/data-science/high-level-guide-natural-language-processing-techniques)
+
+[A Simple Introduction to Natural Language Processing](https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32)
+
+[Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
+
+[Introduction to Natural Language Processing: Part 1](https://medium.com/analytics-vidhya/introduction-to-natural-language-processing-part-1-777f972cc7b3)
