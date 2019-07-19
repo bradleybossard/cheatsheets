@@ -115,3 +115,11 @@
 [K8S Tips: using a ServiceAccount – @lucjuggery – Medium](https://medium.com/lucjuggery/k8s-tips-using-a-serviceaccount-801c433d0023)
 
 [Running K3s with Multipass on Mac – Zhimin Wen – Medium](https://medium.com/@zhimin.wen/running-k3s-with-multipass-on-mac-fbd559966f7c)
+
+[Kubernetes DNS for Services and Pods - Supergiant.io - Medium](https://medium.com/kubernetes-tutorials/kubernetes-dns-for-services-and-pods-664804211501)
+
+[Kubernetes 203 — Security Basics - uptime 99 - Medium](https://medium.com/uptime-99/kubernetes-203-security-basics-6af5aee0367d)
+
+[Deploying apps on multiple Kubernetes clusters with Helm](https://medium.com/dailymotion/deploying-apps-on-multiple-kubernetes-clusters-with-helm-19ee2b06179e)
+
+[Kubernetes CKAD weekly challenge #7 Migrate a Service](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Kubernetes%20CKAD%20weekly%20challenge%20%237%20Migrate%20a%20Service&uri=https://codeburst.io/kubernetes-ckad-weekly-challenge-7-migrate-a-service-68c7af41c8df)
