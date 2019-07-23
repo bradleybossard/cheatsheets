@@ -8,3 +8,7 @@
 [laconiajs/laconia: Create well-crafted serverless applications, effortlessly](https://github.com/laconiajs/laconia)
 
 [Introducing OpenFaaS for AWS Lambda (faas-lambda) | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/introducing-openfaas-for-lambda/)
+
+[FaaS is the Least Important Thing About Serverless - Speaker Deck](https://speakerdeck.com/eoinsha/faas-is-the-least-important-thing-about-serverless)
+
+[fourTheorem/slic-starter: A complete, serverless starter project](https://github.com/fourTheorem/slic-starter)
