@@ -11,10 +11,10 @@ conda info --env            # list environments (same as conda env list)
 
 ## create/remove environments
 ```
-conda create --name <env-name> python=<python-version>      # create a new environment using a certain python version
-conda env create --file <env-filename>                      # create an environment from a file
-conda create --clone <env-name> --name <env-name>           # clone an existing environment
-conda env remove --name <env-name>                          # remove an environment
+conda create --yes --name <env-name> python=<python-version>    # create a new environment using a certain python version
+conda env create --file <env-filename>                          # create an environment from a file
+conda create --clone <env-name> --name <env-name>               # clone an existing environment
+conda env remove --name <env-name>                              # remove an environment
 ```
 
 ## activate/export environment
