@@ -1,9 +1,5 @@
 [3D Printed Geometric Concrete Pot Molds | All3DP](https://all3dp.com/1/weekend-project-3d-printed-geometric-concrete-molds-for-planters)
 
-[How to Turn Your Creality 3D Printer into an Engraving Tool | All3DP](https://all3dp.com/1/weekend-project-turn-creality-3d-printer-engraving-tool/)
-
-[35 Must-Have Creality Ender 3 (Pro) Upgrades & Mods in 2019 | All3DP](https://all3dp.com/1/20-must-creality-ender-3-upgrades-mods/)
-
 [3D Printed PiKon Telescope | All3DP](https://all3dp.com/1/project-3d-printed-pikon-telescope/?omhide=true&utm_source=Newsletter&utm_campaign=e23bd731f4-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-e23bd731f4-401459815)
 
 [Best Resin (LCD/DLP/SLA) 3D Printers of Summer 2019 | All3DP](https://all3dp.com/1/best-resin-dlp-sla-3d-printer-kit-stereolithography/?omhide=true&utm_source=Newsletter&utm_campaign=e23bd731f4-Newsletter&utm_medium=email&utm_term=0_9dffeeddae-e23bd731f4-401459815)
@@ -21,8 +17,6 @@
 [https://wikifactory.com/discover](https://wikifactory.com/discover)
 
 [Choosing a printer for Linux | Opensource.com](https://opensource.com/article/18/11/choosing-printer-linux)
-
-[Creality3D Ender-3 3D Printer – Creality 3D](https://www.creality3d.shop/collections/3d-printer/products/creality-ender-3-3d-printer-economic-ender-diy-kits-with-resume-printing-function-v-slot-prusa-i3-220x220x250mm?gclid=CjwKCAiAqOriBRAfEiwAEb9oXX5_Dmo9faqunIZ_SRX4HKQeCj74k-bEm_RPLpzvoecXdvQr8W3YCBoCxCUQAvD_BwE)
 
 [A 3D Printer To PCB Miller Conversion | Hackaday](https://hackaday.com/2019/02/06/a-3d-printer-to-pcb-miller-conversion/)
 
