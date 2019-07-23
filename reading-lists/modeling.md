@@ -9,3 +9,19 @@
 [ParaMatters upgrades generative design software with CogniCAD 2.1 - 3D Printing Industry](https://3dprintingindustry.com/news/paramatters-upgrades-generative-design-software-with-cognicad-2-1-154608/)
 
 [CC0 Textures - Free PBR Materials](https://cc0textures.com/)
+
+## Web-based
+
+[Kiri:Moto](https://grid.space/kiri)
+
+[GRID:SPACE](https://grid.space/)
+
+[Home · GridSpace/grid-apps Wiki](https://github.com/GridSpace/grid-apps/wiki)
+
+[GridSpace/grid-apps: A 3D slicer (Kiri:Moto) and block modeler (Meta:Moto)](https://github.com/GridSpace/grid-apps)
+
+[cncjs | cncjs](https://cnc.js.org/)
+
+[CNC for hobbyists](https://www.reddit.com/r/hobbycnc/)
+
+[Image to Lithophane](http://3dp.rocks/lithophane/)

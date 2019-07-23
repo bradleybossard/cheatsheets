@@ -26,3 +26,19 @@
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
 [4 Axis CNC Hotwire Foam Cutter by Dodo3441 - Thingiverse](https://www.thingiverse.com/thing:3676825)
+
+[CNC router for $200 - Sainsmart Genmitsu 3018 Pro review and tutorial - YouTube](https://www.youtube.com/watch?v=Y5nyjvytlBk&t=2s)
+
+[Kiri:Moto](https://grid.space/kiri)
+
+[GRID:SPACE](https://grid.space/)
+
+[Home · GridSpace/grid-apps Wiki](https://github.com/GridSpace/grid-apps/wiki)
+
+[GridSpace/grid-apps: A 3D slicer (Kiri:Moto) and block modeler (Meta:Moto)](https://github.com/GridSpace/grid-apps)
+
+[cncjs | cncjs](https://cnc.js.org/)
+
+[CNC for hobbyists](https://www.reddit.com/r/hobbycnc/)
+
+[Image to Lithophane](http://3dp.rocks/lithophane/)
