@@ -2,4 +2,8 @@
 
 [How to Build a Network Video Recorder With an Nvidia Jetson Nano - ExtremeTech](https://www.extremetech.com/electronics/289578-diy-build-a-network-video-recorder-with-an-nvidia-jetson-nano)
 
-[NVIDIA Goes Live with Complimentary Course: &quot;Getting Started on AI with the Jetson Nano&quot; - News - SparkFun Electronics](https://www.sparkfun.com/news/2941)
+[Jetson Zoo - eLinux.org](https://elinux.org/Jetson_Zoo)
+
+## Courses
+
+[C-RX-02 Course Info | Deep Learning Institute](https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/info)
