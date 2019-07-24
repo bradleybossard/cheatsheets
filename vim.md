@@ -7,4 +7,7 @@ insert - For editing text
 visual - For visually selecting text
 command - For running commands
 
-Pressing esc from 
+### Show all currently loaded script names
+```
+:scriptnames
+```
