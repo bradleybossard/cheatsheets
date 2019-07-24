@@ -1,15 +1,8 @@
-
-[Linux Plex Intel Quick Sync experience on Skylake/Kaby Lake = YOW - PleX](https://www.reddit.com/r/PleX/comments/9fwspn/linux_plex_intel_quick_sync_experience_on/)
-
-[Management Tools - KVM](http://www.linux-kvm.org/page/Management_Tools)
-
 [5 Ways to Make Your Linux Desktop Look Fantastic](https://www.makeuseof.com/tag/linux-desktop-look-fantastic/)
 
 [Swap space on Linux systems: A primer | Opensource.com](https://opensource.com/article/18/9/swap-space-linux-systems)
 
 [DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](https://distrowatch.com/)
-
-[r-darwish/alma: Create Arch Linux based bootable USB drives](https://github.com/r-darwish/alma)
 
 [Play Tetris at your Linux terminal | Opensource.com](https://opensource.com/article/18/12/linux-toy-tetris)
 
@@ -154,3 +147,5 @@
 [How to Restart Network in Ubuntu](https://itsfoss.com/restart-network-ubuntu/)
 
 [13 open source backup solutions | Opensource.com](https://opensource.com/article/19/3/backup-solutions)
+
+[Linux Server Monitoring: A Guide to Different Approaches • Capsule8](https://capsule8.com/blog/different-approaches-to-linux-monitoring/)
