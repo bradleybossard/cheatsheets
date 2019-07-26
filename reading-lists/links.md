@@ -58,8 +58,6 @@
 
 [21 foundations of animation |](http://www.angryanimator.com/word/2018/04/23/21-foundations-of-animation/)
 
-[Aura: Speeds &amp; Simplifies ALL Your Scanning Needs | Indiegogo](https://www.indiegogo.com/projects/aura-speeds-simplifies-all-your-scanning-needs/#/)
-
 [Zotac PI225-GK is a pocket-sized computer with Intel Gemini Lake CPU - Liliputing](https://liliputing.com/2018/12/zotac-pi225-gk-is-a-pocket-sized-computer-with-intel-gemini-lake-cpu.html)
 
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
