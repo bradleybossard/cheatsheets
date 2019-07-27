@@ -1,6 +1,3 @@
-
-[Blobmaker – a online tool that helps you create organic svg shapes - web_design](https://www.reddit.com/r/web_design/comments/abtktb/blobmaker_a_online_tool_that_helps_you_create/)
-
 [Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
 
 [An intuitive introduction to Generative Adversarial Networks (GANs)](https://medium.freecodecamp.org/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
