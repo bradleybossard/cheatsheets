@@ -52,3 +52,5 @@
 [Five Pentesting Tools and Techniques (That Every Sysadmin Should Know)](https://medium.com/@jeremy.trinka/five-pentesting-tools-and-techniques-that-sysadmins-should-know-about-4ceca1488bff)
 
 [How to Learn Penetration Testing: A Beginners Tutorial | ExplainHowNow](https://www.explainhownow.com/2019/learn-penetration-testing/)
+
+[Professor Messer&#39;s CompTIA SY0-401 Security+ Training Course | Professor Messer IT Certification Training Courses](https://www.professormesser.com/security-plus/sy0-401/sy0-401-course-index/)

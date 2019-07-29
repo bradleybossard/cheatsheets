@@ -1,3 +1,4 @@
+[First impressions of Pulumi - DEV Community 👩‍💻👨‍💻](https://dev.to/davidk01/first-impressions-of-pulumi-1knp)
 
 [Write and Deploy Your First Serverless Function Within 10 Minutes, or Less](https://codeburst.io/write-and-deploy-your-first-serverless-function-within-10-minutes-or-less-d7552fcd6550)
 
@@ -12,3 +13,5 @@
 [FaaS is the Least Important Thing About Serverless - Speaker Deck](https://speakerdeck.com/eoinsha/faas-is-the-least-important-thing-about-serverless)
 
 [fourTheorem/slic-starter: A complete, serverless starter project](https://github.com/fourTheorem/slic-starter)
+
+[Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)

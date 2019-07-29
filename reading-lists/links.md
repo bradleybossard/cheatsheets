@@ -1,32 +1,10 @@
-[Professor Messer&#39;s CompTIA SY0-401 Security+ Training Course | Professor Messer IT Certification Training Courses](https://www.professormesser.com/security-plus/sy0-401/sy0-401-course-index/)
-
-[Futurism | Science and Technology News, Videos, and Infographics](https://futurism.com/amp/)
-
-[Subnet Zero](https://blog.subnetzero.io/)
-
-[Thing Explainer: Complicated Stuff in Simple Words: Randall Munroe: 9780544668256: Amazon.com: Books](https://www.amazon.com/dp/0544668251//ref=cm_sw_su_dp?tag=dudetxt-20)
-
-[Introduction](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-intro.html)
-
-[Performance and Usability as Top Priorities: Interview with Slim.js Creator - Semaphore](https://semaphoreci.com/blog/2018/09/25/slimjs-interview.html)
-
 [Won’t You Be My Neighbor? Quickly Finding Who is Nearby](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/wont-you-be-my-neighbor-quickly-finding-who-is-nearby?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fwont-you-be-my-neighbor-quickly-finding-who-is-nearby)
 
-[Power of Virtualization Multiplied with Enhanced vGPU Solutions | NVIDIA Blog](https://blogs.nvidia.com/blog/2018/10/09/the-power-of-virtualization-multiplied-with-enhanced-vgpu-solutions/)
-
-[Nano Node Version 16.2 Released – Nano – Medium](https://medium.com/nanocurrency/nano-node-version-16-2-released-ce84ce5d6ed)
-
 [Home - Ballerina.io](https://ballerina.io/)
-
-[How to Backup USB Drives and Restore Them, Bootable State and All - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/guides/1721-clone-backup-usb-drive/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1721-clone-backup-usb-drive%2F)
-
-[Advantages of Functional Programming for Blockchain Protocols](https://hackernoon.com/advantages-of-functional-programming-for-blockchain-protocols-1ca2d4ac1033)
 
 [JAMstack. How sites are becoming even faster in a bloated web. - DEV Community 👩‍💻👨‍💻](https://dev.to/lewismenelaws/jamstack-how-sites-are-becoming-even-faster-in-a-bloated-web-fig)
 
 [Getting to know some pragmatic programming language features](https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118)
-
-[First impressions of Pulumi - DEV Community 👩‍💻👨‍💻](https://dev.to/davidk01/first-impressions-of-pulumi-1knp)
 
 [Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
 

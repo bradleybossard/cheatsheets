@@ -149,3 +149,5 @@
 [13 open source backup solutions | Opensource.com](https://opensource.com/article/19/3/backup-solutions)
 
 [Linux Server Monitoring: A Guide to Different Approaches • Capsule8](https://capsule8.com/blog/different-approaches-to-linux-monitoring/)
+
+[How to Backup USB Drives and Restore Them, Bootable State and All - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/guides/1721-clone-backup-usb-drive/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1721-clone-backup-usb-drive%2F)
