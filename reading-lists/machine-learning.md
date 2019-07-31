@@ -9,3 +9,7 @@
 [A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
 
 [Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
+
+[Machine Learning for Everyone :: In simple words. With real-world examples. Yes, again :: vas3k.com](https://vas3k.com/blog/machine_learning/)
+
+[rasbt/deeplearning-models: A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)

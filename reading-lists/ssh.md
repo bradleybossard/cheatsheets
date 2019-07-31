@@ -37,3 +37,5 @@
 [Terminal File Manager nnn 2.5 Adds Plugins, Mouse And SSHFS Support - Linux Uprising Blog](https://www.linuxuprising.com/2019/05/terminal-file-manager-nnn-25-adds.html?m=1)
 
 [Kippo - SSH Honeypot](https://www.kitploit.com/2019/06/kippo-ssh-honeypot.html?m=1)
+
+[Getting started with OpenSSL: Cryptography basics | Opensource.com](https://opensource.com/article/19/6/cryptography-basics-openssl-part-1?utm_campaign=intrel)

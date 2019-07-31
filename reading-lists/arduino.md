@@ -35,3 +35,5 @@
 [Overview | Bootloading Basics | Adafruit Learning System](https://learn.adafruit.com/bootloader-basics/overview)
 
 [Little Bird Electronics How-to Guides & Tutorials](https://www.littlebird.com.au/a/how-to#arduino)
+
+[Automating the making of beautiful pinout diagrams for microcontroller boards #Documentation @AT_Makers « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/07/11/automating-the-making-of-beautiful-pinout-diagrams-for-microcontroller-boards-documentation-at_makers/)

@@ -12,6 +12,16 @@
 
 [Introduction · Crafting Interpreters](http://www.craftinginterpreters.com/introduction.html)
 
+[So You Want to Build a Language VM - Part 01 - Overview and a Simple VM](https://blog.subnetzero.io/project/iridium-vm/building-language-vm-part-01/)
+
+[An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)
+
+[My First Fifteen Compilers | SIGPLAN Blog](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
+
+[namin/inc: an incremental approach to compiler construction](https://github.com/namin/inc)
+
+[FA18: COMPILERS: 12421](https://iu.instructure.com/courses/1735985)
+
 ## Phil Eaton
 
 [Notes by a software developer | notes.eatonphil.com](http://notes.eatonphil.com/)
@@ -23,7 +33,3 @@
 [Compiler basics (3): LLVM | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-llvm.html)
 
 [Compiler basics (4): LLVM conditionals and compiling fibonacci | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-llvm-conditionals.html)
-
-[So You Want to Build a Language VM - Part 01 - Overview and a Simple VM](https://blog.subnetzero.io/project/iridium-vm/building-language-vm-part-01/)
-
-[An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)

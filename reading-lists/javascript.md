@@ -1,5 +1,3 @@
-
-[Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 [Understanding Design Patterns in JavaScript – Bits and Pieces](https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd)
 
 [Infinite Data Structures In JavaScript – Hacker Noon](https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb)
@@ -23,3 +21,5 @@
 [Authenticate a Node ES6 API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens)
 
 [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
+
+[QuickJS Javascript Engine](https://bellard.org/quickjs/)

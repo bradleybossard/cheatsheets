@@ -123,3 +123,5 @@
 [Deploying apps on multiple Kubernetes clusters with Helm](https://medium.com/dailymotion/deploying-apps-on-multiple-kubernetes-clusters-with-helm-19ee2b06179e)
 
 [Kubernetes CKAD weekly challenge #7 Migrate a Service](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Kubernetes%20CKAD%20weekly%20challenge%20%237%20Migrate%20a%20Service&uri=https://codeburst.io/kubernetes-ckad-weekly-challenge-7-migrate-a-service-68c7af41c8df)
+
+[what-happens-when-k8s/README.md at master · jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
