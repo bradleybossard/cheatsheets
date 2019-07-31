@@ -34,3 +34,5 @@
 [How Do You Install Windows to Multiple Computers at Once?](https://lifehacker-com.cdn.ampproject.org/v/s/lifehacker.com/how-do-you-install-windows-to-multiple-computers-at-onc-1835848340/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Flifehacker.com%2Fhow-do-you-install-windows-to-multiple-computers-at-onc-1835848340)
 
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
+
+[Install WSL 2 on Windows 10 - Thomas Maurer](https://www.thomasmaurer.ch/2019/06/install-wsl-2-on-windows-10/)
