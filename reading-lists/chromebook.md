@@ -16,3 +16,5 @@
 [18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
 
 [How to run Chrome OS from a USB drive / Boing Boing](https://boingboing.net/2019/04/02/how-to-run-chrome-os-from-a-us.html)
+
+[Chrome OS will show Android cloud storage apps in Files app - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/chrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fchrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610%2F)

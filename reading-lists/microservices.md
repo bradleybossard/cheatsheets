@@ -20,3 +20,5 @@
 [Istio Observability with Go, gRPC, and Protocol Buffers-based Microservices - docker](https://www.reddit.com/r/docker/comments/bey0to/istio_observability_with_go_grpc_and_protocol/)
 
 [Gubernator: Cloud-native distributed rate limiting for microservices | Mailgun](https://www.mailgun.com/blog/gubernator-cloud-native-distributed-rate-limiting-microservices)
+
+[Distributed Tracing, OpenTracing and Elastic APM | Elastic](https://www.elastic.co/blog/distributed-tracing-opentracing-and-elastic-apm)

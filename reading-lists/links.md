@@ -108,13 +108,9 @@
 
 [Cheerp 2.0 released — the most powerful Cheerp yet – leaningtech – Medium](https://medium.com/leaningtech/cheerp-2-0-release-880f249a5677)
 
-[New AI Generates Freakishly Realistic People Who Don&#39;t Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
-
 [WiFi Hides Inside a USB Cable | Hackaday](https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/)
 
-[How to Create a Fake 3D Image Effect with WebGL | Codrops](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/)
 
-[Distributed Tracing, OpenTracing and Elastic APM | Elastic](https://www.elastic.co/blog/distributed-tracing-opentracing-and-elastic-apm)
 
 [Which benchmark programs are faster? | Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
@@ -164,8 +160,6 @@
 
 [ArtisGL 3D Publisher-make your 3D models alive](https://artisgl.com/)
 
-[Any Steam game can now use Valve’s low-latency, DoS-proofed networking – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gaming/2019/03/valve-brings-dota-2em-s-dos-protected-low-latency-networking-to-all-steam-devs/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgaming%2F2019%2F03%2Fvalve-brings-dota-2em-s-dos-protected-low-latency-networking-to-all-steam-devs%2F)
-
 [Pocket NC V2–50… More RMS’s = More Better – Hackster Blog](https://blog.hackster.io/pocket-nc-v2-50-more-rmss-more-better-d80dac7ae6df)
 
 [Is Google’s New Lingvo Framework a Big Deal for Machine Translation? | Slator](https://slator.com/technology/is-googles-new-lingvo-framework-a-big-deal-for-machine-translation/)
@@ -176,13 +170,9 @@
 
 [Introducing: Monado](https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html)
 
-
-
 [Quantum computing for the very curious](https://quantum.country/qcvc)
 
 [Exceptions tutorial from IH book](https://markkarpov.com/tutorial/exceptions.html)
-
-[Nvidia’s latest AI software turns rough doodles into realistic landscapes - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/3/19/18272602/ai-art-generation-gan-nvidia-doodle-landscapes?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F3%2F19%2F18272602%2Fai-art-generation-gan-nvidia-doodle-landscapes)
 
 [How to set up a homelab from hardware to firewall | Opensource.com](https://opensource.com/article/19/3/home-lab)
 
@@ -190,29 +180,17 @@
 
 [How to Make an Awesome Blog Using Gatsbyjs and AWS - DEV Community 👩‍💻👨‍💻](https://dev.to/kylegalbraith/how-to-make-an-awesome-blog-using-gatsbyjs-and-aws-33nc?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=)
 
-[Cytosurge 3D prints micro-Michelangelo&#39;s David - 3D Printing Industry](https://3dprintingindustry.com/news/cytosurge-3d-prints-micro-michelangelos-david-151705/)
-
 [A Pirates Life](https://www.claremont.org/crb/basicpage/a-pirates-life/)
-
-[Build a voting website that doesn’t crash under load (in under an hour)](https://itnext.io/build-a-voting-website-that-doesnt-crash-under-load-in-under-an-hour-1c0948307773)
 
 [An Introduction to Existential Types – Stephen Bly – Medium](https://medium.com/@stephenebly/an-introduction-to-existential-types-25c130ba61a4)
 
-[How to Create Smooth WebGL Transitions on Scroll using Phenomenon | Codrops](https://tympanus.net/codrops/2019/03/22/how-to-create-smooth-webgl-transitions-on-scroll-using-phenomenon/)
+
 
 [Repl.it - Repl.it GFX: Native graphics development in the browser](https://repl.it/site/blog/gfx)
-
-[Three protocols and a future of the decentralized internet](https://blog.datproject.org/2019/03/22/three-protocols-and-a-future-of-the-decentralized-internet/)
 
 [qri-io/qri: youre invited to a data party!](https://github.com/qri-io/qri)
 
 [ryantimpe/brickr: 3D LEGO models and mosaics from images using R and #tidyverse](https://github.com/ryantimpe/brickr)
-
-[Access Your Pi Without Keyboard and Monitor: 3 Steps](https://www.instructables.com/id/Access-Your-Pi-Without-Keyboard-and-Monitor/)
-
-[Taig Tools - Desktop Milling Machines and Lathes.](http://www.taigtools.com/)
-
-[V8 release v7.4 · V8](https://v8.dev/blog/v8-release-74)
 
 [Ten Years in the Trenches: TV on the Radio Return to Dear Science | Pitchfork](https://pitchfork-com.cdn.ampproject.org/v/s/pitchfork.com/thepitch/ten-years-in-the-trenches-tv-on-the-radio-return-to-dear-science/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpitchfork.com%2Fthepitch%2Ften-years-in-the-trenches-tv-on-the-radio-return-to-dear-science%2F)
 
@@ -224,17 +202,7 @@
 
 [Po.et is Officially 100% Open Sourced – Po.et Blog](https://blog.po.et/po-et-api-open-source-aad87d92dc0c)
 
-[Solar EV Charging Options For Renters | CleanTechnica](https://cleantechnica.com/2019/03/30/solar-ev-charging-options-for-renters/)
-
-[ROS Gets Quick Sensor Debugging In The Terminal | Hackaday](https://hackaday.com/2019/03/31/ros-gets-quick-sensor-debugging-in-the-terminal/)
-
 [How to enable Remote Desktop connections to your Windows 10 PC OnMSFT.com](https://www.onmsft.com/how-to/how-to-enable-remote-desktop-connections-to-your-windows-10-pc)
-
-[Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/)
-
-[NVIDIA SHIELD has a hidden split screen mode - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/nvidia-shield-has-a-hidden-split-screen-mode-02571804/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fnvidia-shield-has-a-hidden-split-screen-mode-02571804%2F)
-
-[How to run Chrome OS from a USB drive / Boing Boing](https://boingboing.net/2019/04/02/how-to-run-chrome-os-from-a-us.html)
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
 
@@ -243,8 +211,6 @@
 [File sharing for Git with SparkleShare | Opensource.com](https://opensource.com/article/19/4/file-sharing-git)
 
 [Using Grafana for personal financial management – Denis Isidoro – Medium](https://medium.com/@den.isidoro/using-grafana-for-personal-financial-management-ac0e4d0cb43)
-
-[SerpentAI/D3DShot: Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API](https://github.com/SerpentAI/D3DShot)
 
 [low voltage shoji lanterns in the garden match East Asian roots of hostas](https://www.hostaseizure.com/shoji/)
 
@@ -260,13 +226,9 @@
 
 [Serious flaws leave WPA3 vulnerable to hacks that steal Wi-Fi passwords – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/information-technology/2019/04/serious-flaws-leave-wpa3-vulnerable-to-hacks-that-steal-wi-fi-passwords/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Finformation-technology%2F2019%2F04%2Fserious-flaws-leave-wpa3-vulnerable-to-hacks-that-steal-wi-fi-passwords%2F)
 
-[Kibana 7.0.0 released | Elastic Blog](https://www.elastic.co/blog/kibana-7-0-0-released)
 
-[5 Ways 3D Render Graphics Can Enhance Your Website](https://webdesign.tutsplus.com/articles/5-ways-3d-render-graphics-can-enhance-your-website--cms-33058)
 
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
-
-[How to Use and Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
 [Wonder How To » Fresh Hacks For a Changing World](https://www.wonderhowto.com/)
 
@@ -324,8 +286,6 @@
 
 [The Kin Node SDK Has Arrived – Kin Blog – Medium](https://medium.com/kinblog/the-kin-node-sdk-has-arrived-2853a0b74024)
 
-[Scroll based animate timeline with easing functions on a Webgl scene](https://medium.com/@renaud.rohlinger/scroll-based-animate-timeline-with-easing-functions-on-a-webgl-scene-ef7c3f5a8d9b)
-
 [APRS: Robust Wireless in an Age of IoT - News - SparkFun Electronics](https://www.sparkfun.com/news/2944)
 
 [kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator)
@@ -338,12 +298,4 @@
 
 [attactics.org](https://attactics.org/)
 
-[Chrome OS will show Android cloud storage apps in Files app - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/chrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fchrome-os-will-show-android-cloud-storage-apps-in-files-app-24581610%2F)
-
-[postmarketOS now supports 139 abandoned phones and tablets - SlashGear](https://www-slashgear-com.cdn.ampproject.org/v/s/www.slashgear.com/postmarketos-now-supports-139-abandoned-phones-and-tablets-24581613/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.slashgear.com%2Fpostmarketos-now-supports-139-abandoned-phones-and-tablets-24581613%2F)
-
-[Devices - postmarketOS](https://wiki.postmarketos.org/wiki/Devices)
-
 [Fuchsia.dev: Google launches official site about Fuchsia OS - 9to5Google](https://9to5google.com/2019/06/28/google-launches-fuchsia-dev/)
-
-

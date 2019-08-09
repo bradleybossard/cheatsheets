@@ -31,3 +31,5 @@
 [3ds Max Indie](https://area.autodesk.com/3ds-max-indie/)
 
 [More Information on Version 2.0 of SelfCAD’s 3D Modeling Software](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)
+
+[How to Become a Professional 3D Modeler | 3D Printing Blog | i.materialise](https://i.materialise.com/blog/en/how-to-become-a-professional-3d-modeler-an-interview-with-3d-modelling-expert-jonathan-williamson/)
