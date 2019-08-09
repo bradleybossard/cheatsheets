@@ -25,3 +25,7 @@
 [CNC for hobbyists](https://www.reddit.com/r/hobbycnc/)
 
 [Image to Lithophane](http://3dp.rocks/lithophane/)
+
+[Maya Indie](https://area.autodesk.com/maya-indie/)
+
+[3ds Max Indie](https://area.autodesk.com/3ds-max-indie/)

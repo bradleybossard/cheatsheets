@@ -10,12 +10,6 @@
 
 [Ask HN: Are any remote desktop solutions good enough for full-time use? | Hacker News](https://news.ycombinator.com/item?id=18326030)
 
-[You can now sync Chromecast with Google Home speakers](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2018/11/19/chromecast-google-home-speaker-groups/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2018%2F11%2F19%2Fchromecast-google-home-speaker-groups%2F)
-
-[Roku Hacks: 20 Mind-Blowing Roku Tricks Every User Should Know](https://amp-dailydot-com.cdn.ampproject.org/v/s/amp.dailydot.com/upstream/roku-hacks/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Froku-hacks%2F)
-
-[Nvidia open-source PhysX physics engine | Rock Paper Shotgun](https://www-rockpapershotgun-com.cdn.ampproject.org/v/s/www.rockpapershotgun.com/2018/12/04/nvidia-open-source-physx/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.rockpapershotgun.com%2F2018%2F12%2F04%2Fnvidia-open-source-physx%2F)
-
 [Intels Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86](https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86)
 
 [Nvidia’s Scary AI Generates Humans That Look 100% Real](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/nvidia-ai-faces-generative-adversarial-network,news-28869.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Fnvidia-ai-faces-generative-adversarial-network%2Cnews-28869.html)
@@ -33,12 +27,6 @@
 [Graduating the Flying Car Nanodegree Term – Hacker Noon](https://hackernoon.com/graduating-the-flying-car-nanodegree-term-e8fc9c722bc3)
 
 [Seeing Theory](https://seeing-theory.brown.edu/index.html)
-
-[21 foundations of animation |](http://www.angryanimator.com/word/2018/04/23/21-foundations-of-animation/)
-
-[Zotac PI225-GK is a pocket-sized computer with Intel Gemini Lake CPU - Liliputing](https://liliputing.com/2018/12/zotac-pi225-gk-is-a-pocket-sized-computer-with-intel-gemini-lake-cpu.html)
-
-[Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
 
 [The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
 

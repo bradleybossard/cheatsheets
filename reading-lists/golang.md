@@ -85,3 +85,11 @@
 [Go modules example - My Code Smells!](https://www.mycodesmells.com/post/go-modules-example)
 
 [Getting Started with Go modules - Niraj Fonseka - Medium](https://medium.com/@fonseka.live/getting-started-with-go-modules-b3dac652066d)
+
+[~eliasnaur/gio - sourcehut git](https://git.sr.ht/~eliasnaur/gio)
+
+[GopherCon 2019 - Go, pls stop breaking my editor](https://about.sourcegraph.com/go/gophercon-2019-go-pls-stop-breaking-my-editor)
+
+[How I Embedded Resources in Go - Level Up Coding](https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a)
+
+[GeertJohan/go.rice: go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy.](https://github.com/GeertJohan/go.rice)
