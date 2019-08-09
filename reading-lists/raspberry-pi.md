@@ -107,3 +107,5 @@
 [Visual Studio Code Remote Development over SSH to a Raspberry Pi is butter - Scott Hanselman](https://www.hanselman.com/blog/VisualStudioCodeRemoteDevelopmentOverSSHToARaspberryPiIsButter.aspx)
 
 [$35 Raspberry Pi 4 announced with 4K support and up to 4GB of RAM - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/circuitbreaker/2019/6/24/18715211/raspberry-pi-4-release-date-news-features-4gb-ram-dual-dual-hdmi-gigabit-ethernet?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2019%2F6%2F24%2F18715211%2Fraspberry-pi-4-release-date-news-features-4gb-ram-dual-dual-hdmi-gigabit-ethernet)
+
+[Access Your Pi Without Keyboard and Monitor: 3 Steps](https://www.instructables.com/id/Access-Your-Pi-Without-Keyboard-and-Monitor/)

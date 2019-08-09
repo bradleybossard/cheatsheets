@@ -39,3 +39,5 @@
 [Kippo - SSH Honeypot](https://www.kitploit.com/2019/06/kippo-ssh-honeypot.html?m=1)
 
 [Getting started with OpenSSL: Cryptography basics | Opensource.com](https://opensource.com/article/19/6/cryptography-basics-openssl-part-1?utm_campaign=intrel)
+
+[The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)

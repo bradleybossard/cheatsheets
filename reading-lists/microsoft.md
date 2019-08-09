@@ -36,3 +36,5 @@
 [Windows 10 Goes To Shell | Hackaday](https://hackaday.com/2019/06/10/windows-10-goes-to-shell/)
 
 [Install WSL 2 on Windows 10 - Thomas Maurer](https://www.thomasmaurer.ch/2019/06/install-wsl-2-on-windows-10/)
+
+[SerpentAI/D3DShot: Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API](https://github.com/SerpentAI/D3DShot)

@@ -10,10 +10,6 @@
 
 [Ask HN: Are any remote desktop solutions good enough for full-time use? | Hacker News](https://news.ycombinator.com/item?id=18326030)
 
-[Intels Architecture Day 2018: The Future of Core, Intel GPUs, 10nm, and Hybrid x86](https://www.anandtech.com/show/13699/intel-architecture-day-2018-core-future-hybrid-x86)
-
-[Nvidia’s Scary AI Generates Humans That Look 100% Real](https://amp-tomsguide-com.cdn.ampproject.org/v/s/amp.tomsguide.com/us/nvidia-ai-faces-generative-adversarial-network,news-28869.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomsguide.com%2Fus%2Fnvidia-ai-faces-generative-adversarial-network%2Cnews-28869.html)
-
 [Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
 
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
@@ -27,12 +23,6 @@
 [Graduating the Flying Car Nanodegree Term – Hacker Noon](https://hackernoon.com/graduating-the-flying-car-nanodegree-term-e8fc9c722bc3)
 
 [Seeing Theory](https://seeing-theory.brown.edu/index.html)
-
-[The Definitive Guide to Pattern Recognition](https://theappsolutions.com/blog/development/pattern-recognition-guide/)
-
-[More Information on Version 2.0 of SelfCAD’s 3D Modeling Software | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)
-
-[Blobmaker](https://www.blobmaker.app/)
 
 [Google - Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
@@ -276,17 +266,13 @@
 
 [BotQueue.com: Internets + Digital Fabrication = Win](https://www.botqueue.com/)
 
-[How to Use &amp; Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
+[How to Use and Abuse the Address Resolution Protocol (ARP) to Locate Hosts on a Network « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/use-abuse-address-resolution-protocol-arp-locate-hosts-network-0150333/)
 
 [Wonder How To » Fresh Hacks For a Changing World](https://www.wonderhowto.com/)
-
-[Using Gitlab’s CI for Periodic Data Mining – Towards Data Science](https://towardsdatascience.com/using-gitlabs-ci-for-periodic-data-mining-b3cc314ecd85)
 
 [The discrete-time physics hiding inside our continuous-time world](https://m.phys.org/news/2019-04-discrete-time-physics-continuous-time-world.html)
 
 [Grantham, Part 2](https://www.morningstar.com/videos/870607/grantham-part-2.html)
-
-[BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern](https://github.com/BurntSushi/ripgrep)
 
 [Sharding 101: The Ways of Weaver – GO-JEK Product + Tech](https://blog.gojekengineering.com/sharding-101-the-ways-of-weaver-6c99360531fa)
 
@@ -304,11 +290,7 @@
 
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
 
-[The Best Backyard Pizza Ovens | Serious Eats](https://www.seriouseats.com/2017/05/best-backyard-pizza-ovens-review.html)
-
 [Automate user acceptance testing with your DevOps pipeline | Opensource.com](https://opensource.com/article/19/4/devops-pipeline-acceptance-testing)
-
-[EMUBook](http://emubook.emulation64.com/)
 
 [About This Book](https://www.textbook.ds100.org/about_this_book.html)
 
@@ -320,23 +302,13 @@
 
 [📣 Announcing Tinkersynth 2.0 - Josh W. Comeau&#39;s Blog](https://www.joshwcomeau.com/posts/tinkersynth-two-point-oh/)
 
-[Random Forests for Complete Beginners - victorzhou.com](https://victorzhou.com/blog/intro-to-random-forests/)
-
-[A Simple Explanation of Gini Impurity - victorzhou.com](https://victorzhou.com/blog/gini-impurity/)
-
-[Distributed consensus revised – Part II – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F05%2F08%2Fdistributed-consensus-revised-part-ii%2F)
-
 [the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer](https://blog.acolyer.org/)
-
-[Implementing SPADE using fastai – Towards Data Science](https://towardsdatascience.com/implementing-spade-using-fastai-6ad86b94030a)
 
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
 
 [Kong | Open Source API Gateway](https://konghq.com/kong/)
-
-[Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
@@ -350,21 +322,9 @@
 
 [efficientnet · PyPI](https://pypi.org/project/efficientnet/)
 
-[Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
-
-[Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
-
 [The Kin Node SDK Has Arrived – Kin Blog – Medium](https://medium.com/kinblog/the-kin-node-sdk-has-arrived-2853a0b74024)
 
-[How to Label Data — Create ML for Object Detection – Hacker Noon](https://hackernoon.com/how-to-label-data-create-ml-for-object-detection-82043957b5cb)
-
 [Scroll based animate timeline with easing functions on a Webgl scene](https://medium.com/@renaud.rohlinger/scroll-based-animate-timeline-with-easing-functions-on-a-webgl-scene-ef7c3f5a8d9b)
-
-[AI deepfakes are now as simple as typing whatever you want your subject to say - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/10/18659432/deepfake-ai-fakes-tech-edit-video-by-typing-new-words?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F10%2F18659432%2Fdeepfake-ai-fakes-tech-edit-video-by-typing-new-words)
-
-[Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
-
-[The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)
 
 [APRS: Robust Wireless in an Age of IoT - News - SparkFun Electronics](https://www.sparkfun.com/news/2944)
 
@@ -372,13 +332,9 @@
 
 [Linear actuator #3DPrinting #3DThursday « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/06/13/linear-actuator-3dprinting-3dthursday/)
 
-[Top 20 Big Data Tools | Big Data Tools 2019](https://www.bibrainia.com/big-data-tools-2019)
-
 [The Wealthy Gardener: Life Lessons on Prosperity between Father and Son: John Soforic: 9781732770539: Amazon.com: Books](https://www.amazon.com/gp/aw/d/1732770530/ref=sspa_mw_detail_2?ie=UTF8&psc=1)
 
 [Watch: Algorithm lets people walk right out of images - Futurity](https://www.futurity.org/photo-wake-up-moving-images-2084262-2/)
-
-[Facebook’s Libra cryptocurrency: everything you need to know - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/6/20/18693521/facebook-libra-cryptocurrency-calibra-explainer-how-does-work-features?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F6%2F20%2F18693521%2Ffacebook-libra-cryptocurrency-calibra-explainer-how-does-work-features)
 
 [attactics.org](https://attactics.org/)
 
@@ -390,4 +346,4 @@
 
 [Fuchsia.dev: Google launches official site about Fuchsia OS - 9to5Google](https://9to5google.com/2019/06/28/google-launches-fuchsia-dev/)
 
-[The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling: 8601405019745: Computer Science Books @ Amazon.com](https://www.amazon.com/gp/product/1118530802/)
+

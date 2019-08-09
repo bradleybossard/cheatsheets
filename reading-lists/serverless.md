@@ -15,3 +15,5 @@
 [fourTheorem/slic-starter: A complete, serverless starter project](https://github.com/fourTheorem/slic-starter)
 
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
+
+[Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)

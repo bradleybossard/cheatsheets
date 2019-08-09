@@ -29,3 +29,5 @@
 [Maya Indie](https://area.autodesk.com/maya-indie/)
 
 [3ds Max Indie](https://area.autodesk.com/3ds-max-indie/)
+
+[More Information on Version 2.0 of SelfCAD’s 3D Modeling Software](https://3dprint.com/232880/version-2-0-selfcad-3d-modeling-software/)

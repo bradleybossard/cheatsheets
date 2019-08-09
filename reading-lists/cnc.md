@@ -42,3 +42,5 @@
 [CNC for hobbyists](https://www.reddit.com/r/hobbycnc/)
 
 [Image to Lithophane](http://3dp.rocks/lithophane/)
+
+[Taig Tools - Desktop Milling Machines and Lathes.](http://www.taigtools.com/)

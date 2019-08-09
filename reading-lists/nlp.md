@@ -55,3 +55,5 @@
 [Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 
 [Introduction to Natural Language Processing: Part 1](https://medium.com/analytics-vidhya/introduction-to-natural-language-processing-part-1-777f972cc7b3)
+
+[Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)

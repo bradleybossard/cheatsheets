@@ -14,3 +14,5 @@
 [The 15-minute Chromebook tune-up | Computerworld](https://www-computerworld-com.cdn.ampproject.org/v/s/www.computerworld.com/article/3333005/chrome-os/chromebook-tune-up.amp.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3333005%2Fchrome-os%2Fchromebook-tune-up.html)
 
 [18 Terminal Commands All Chromebook Users Should Know](https://www.makeuseof.com/tag/terminal-commands-chromebook/)
+
+[How to run Chrome OS from a USB drive / Boing Boing](https://boingboing.net/2019/04/02/how-to-run-chrome-os-from-a-us.html)

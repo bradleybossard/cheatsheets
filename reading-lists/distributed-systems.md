@@ -1,6 +1,9 @@
 [Many Nodes, One Distributed System – baseds – Medium](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
 
-[Distributed consensus revised – Part I | the morning paper](https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/)
-
 [The Part-Time Parliament | the morning paper](https://blog.acolyer.org/2015/03/03/the-part-time-parliament/)
 
+[Distributed consensus revised – Part I | the morning paper](https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/)
+
+[Distributed consensus revised – Part II – the morning paper](https://blog-acolyer-org.cdn.ampproject.org/v/s/blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.acolyer.org%2F2019%2F05%2F08%2Fdistributed-consensus-revised-part-ii%2F)
+
+[Three protocols and a future of the decentralized internet](https://blog.datproject.org/2019/03/22/three-protocols-and-a-future-of-the-decentralized-internet/)

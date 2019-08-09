@@ -1,4 +1,3 @@
-
 [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
 
 [TypeScript Express tutorial #1. Routing, controller, middleware - wanago.io](https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/)
