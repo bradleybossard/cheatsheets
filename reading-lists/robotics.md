@@ -21,3 +21,7 @@
 [Anyone can program this cheap robot arm in just 15 minutes](https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyreview.com/s/613577/anyone-can-program-this-cheap-robot-arm-in-just-15-minutes/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F613577%2Fanyone-can-program-this-cheap-robot-arm-in-just-15-minutes%2F)
 
 [Facebook makes PyRobot open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
+
+[Program Robotics - Synthiam](https://synthiam.com/)
+
+[Tutorials - Community - Synthiam](https://synthiam.com/Community/Tutorials)
