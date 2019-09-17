@@ -10,27 +10,11 @@
 
 [Amazon.com: Developer&#39;s Dilemma: The Secret World of Videogame Creators (Inside Technology) (9780262028196): Casey O&#39;Donnell, Wiebe E. Bijker, W. Bernard Carlson, Trevor Pinch: Books](https://www.amazon.com/Developers-Dilemma-Videogame-Creators-Technology/dp/0262028190/ref=as_li_ss_tl?ie=UTF8&qid=1447885313&sr=8-1&keywords=developer%27s+dilemma&linkCode=sl1&tag=sicaodo-20&linkId=9e190abc3825a5d89c98f032af611551)
 
-[The Science Behind Making Your Child Smarter - WSJ](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
-
-[Graduating the Flying Car Nanodegree Term – Hacker Noon](https://hackernoon.com/graduating-the-flying-car-nanodegree-term-e8fc9c722bc3)
-
 [Google - Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 [Take to the virtual skies with FlightGear | Opensource.com](https://opensource.com/article/19/1/flightgear)
 
-[Kammok Kuhli Pro Weather Shelter | HiConsumption](https://hiconsumption.com/2019/01/kammok-kuhli-pro-weather-shelter/)
-
-[The Sneerwell Flasks Online Shop | Gallantry](https://gallantry.com/collections/the-sneerwell)
-
-[Moby](https://mobyproject.org/)
-
 [Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
-
-[AstroNavigation | Vanderbilt University](https://my.vanderbilt.edu/astronav/)
-
-[YDLIDAR X4 - Google Search](https://www.google.com/search?q=YDLIDAR+X4+&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
-
-[How To Manage Your Browser Tabs, According To The Guy Who Invented Them | HuffPost Life](https://www.huffpost.com/entry/browser-tabs-tips_n_5c2e773de4b05c88b70785ee)
 
 [How to Do Data Science Using SQL on Raw JSON](https://rockset.com/blog/how-to-do-data-science-using-sql-on-raw-json/)
 
@@ -99,8 +83,6 @@
 [Cheerp 2.0 released — the most powerful Cheerp yet – leaningtech – Medium](https://medium.com/leaningtech/cheerp-2-0-release-880f249a5677)
 
 [WiFi Hides Inside a USB Cable | Hackaday](https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/)
-
-
 
 [Which benchmark programs are faster? | Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
@@ -259,8 +241,6 @@
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
 
 [RealTalk: This Speech Synthesis Model Our Engineers Built Recreates a Human Voice Perfectly (Part…](https://medium.com/@dessa_/real-talk-speech-synthesis-5dd0897eef7f)
-
-[Kong | Open Source API Gateway](https://konghq.com/kong/)
 
 [How to host a Git repository on a subdomain with Netlify](https://www.freecodecamp.org/news/how-to-host-a-git-repository-on-a-subdomain-with-netlify-b8afb5fca96e/)
 
