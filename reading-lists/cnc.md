@@ -44,3 +44,5 @@
 [Image to Lithophane](http://3dp.rocks/lithophane/)
 
 [Taig Tools - Desktop Milling Machines and Lathes.](http://www.taigtools.com/)
+
+[Lean and clean in waterjet cutting](https://www.thefabricator.com/article/waterjetcutting/lean-and-clean-in-waterjet-cutting)

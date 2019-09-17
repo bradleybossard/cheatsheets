@@ -20,10 +20,6 @@
 
 [Amazons IMDb Launches Free Movie and TV Streaming Service - Geek.com](https://www.geek.com/tech/amazons-imdb-launches-free-movie-and-tv-streaming-service-1769318/)
 
-[Dropgangs, or the future of darknet markets • Opaque Link](https://opaque.link/post/dropgang/)
-
-[Lightworks Video Editor Has Big Plans for 2019 - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/lightworks-plans-for-2019)
-
 [retroplasma/earth-reverse-engineering: WIP](https://github.com/retroplasma/earth-reverse-engineering)
 
 [3D Printed Holo Clock from mectok on Tindie](https://www.tindie.com/products/ekaggrat/3d-printed-holo-clock/)
@@ -64,11 +60,7 @@
 
 [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets)
 
-[Building an advanced search engine powered by Elasticsearch](https://info.elastic.co/app-search-trial-v5.html?blade=elastic-adwords&hulk=cpc&ultron=app-search-trial&camp=rmk-appsearch&src=adwords&mdm=cpc&trm=&gclid=EAIaIQobChMIi5DhvpbS4AIVDo5-Ch3qmg4ZEAEYASAAEgI6D_D_BwE)
-
 [Ontology](https://ont.io/)
-
-[Lean and clean in waterjet cutting](https://www.thefabricator.com/article/waterjetcutting/lean-and-clean-in-waterjet-cutting)
 
 [Bogdan-Lyashenko/codecrumbs: Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.](https://github.com/Bogdan-Lyashenko/codecrumbs)
 
@@ -76,29 +68,15 @@
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
 
-[A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
-
 [Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
 
 [Solve any Image Classification Problem Quickly and Easily](https://www.kdnuggets.com/2018/12/solve-image-classification-problem-quickly-easily.html)
 
 [web/README.md at master · pikapkg/web](https://github.com/pikapkg/web/blob/master/README.md)
 
-[Probabiliy theory basics – Towards Data Science](https://towardsdatascience.com/probabiliy-theory-basics-4ef523ae0820)
-
-[www.dartmouth.edu](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter6.pdf)
-
-[Ultimaker Still Tweaking Cura 4.0](https://www.fabbaloo.com/blog/2019/3/2/ultimaker-still-tweaking-cura-40)
-
-[Understanding Decision Trees (once and for all!) 🙌](https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579)
-
 [The web just got an official password-free login standard](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/03/04/web-authentication-becomes-official-standard/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F03%2F04%2Fweb-authentication-becomes-official-standard%2F)
 
-[Chromium OS Docs - Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Can-I-run-my-own-VM_kernel)
-
 [Building a Flask API to Automatically Extract Named Entities Using SpaCy](https://towardsdatascience.com/building-a-flask-api-to-automatically-extract-named-entities-using-spacy-2fd3f54ebbc6)
-
-[How to Become a Professional 3D Modeler | 3D Printing Blog | i.materialise](https://i.materialise.com/blog/en/how-to-become-a-professional-3d-modeler-an-interview-with-3d-modelling-expert-jonathan-williamson/)
 
 [Building Chrome Extensions 101 – Bits and Pieces](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
