@@ -34,27 +34,15 @@
 
 [Urbit / Primer](https://urbit.org/primer/)
 
-[Scaling a Distributed Stream Processor in a Containerized Environment](https://www.infoq.com/articles/distributed-stream-processor-container)
-
 [Introducing Scylla Open Source 3.0 - ScyllaDB](https://www.scylladb.com/2019/01/17/scylla-open-source-3-0-overview/)
-
-[Get started with Freeplane, an open source mind mapping application | Opensource.com](https://opensource.com/article/19/1/productivity-tool-freeplane)
 
 [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
-[Donkey Car - Home](http://www.donkeycar.com/)
-
-[tawnkramer/sdsandbox at donkey](https://github.com/tawnkramer/sdsandbox/tree/donkey)
-
 [Coding The Matrix](http://codingthematrix.com/)
-
-[Get started with eDEX-UI, a Tron-influenced terminal program for tablets and desktops | Opensource.com](https://opensource.com/article/19/1/productivity-tool-edex-ui)
 
 [Pine64&#39;s single-board computers are getting 2019 upgrades, prices still start at $25 - Liliputing](https://liliputing.com/2019/02/pine64s-single-board-computers-are-getting-2019-upgrades-prices-still-start-at-25.html)
 
 [Stan Winston School of Character Arts](https://www.stanwinstonschool.com/tutorials)
-
-[Chrome OS apps are a mess, but the App Service could fix it - 9to5Google](https://9to5google-com.cdn.ampproject.org/v/s/9to5google.com/2019/02/06/chrome-os-app-service/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F9to5google.com%2F2019%2F02%2F06%2Fchrome-os-app-service%2F)
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
 
@@ -63,10 +51,6 @@
 [WebGL 2.0—Why It&#39;s the Path to Stable Open Standards-based 3D Web Graphics | Architosh](https://architosh.com/2019/02/webgl-2-0-why-its-the-path-to-stable-open-standards-based-3d-web-graphics/)
 
 [Chris Gammell Talks Circuit Toolboxes | Hackaday](https://hackaday.com/2019/02/11/chris-gammell-talks-circuit-toolboxes/)
-
-[Thispersondoesnotexist.com is face-generating AI at its creepiest](https://thenextweb-com.cdn.ampproject.org/v/s/thenextweb.com/artificial-intelligence/2019/02/13/thispersondoesnotexist-com-is-face-generating-ai-at-its-creepiest/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F02%2F13%2Fthispersondoesnotexist-com-is-face-generating-ai-at-its-creepiest%2F)
-
-[New AI fake text generator may be too dangerous to release, say creators | Technology | The Guardian](https://amp-theguardian-com.cdn.ampproject.org/v/s/amp.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2019%2Ffeb%2F14%2Felon-musk-backed-ai-writes-convincing-news-fiction)
 
 [Dark Net: Seasons, Episodes, Cast, Characters - Official Series Site | SHOWTIME](https://www.sho.com/dark-net)
 
