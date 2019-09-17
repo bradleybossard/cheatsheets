@@ -22,3 +22,5 @@
 [Experimenting with Rootless Docker - Tõnis Tiigi - Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 
 [Moby](https://mobyproject.org/)
+
+[How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)

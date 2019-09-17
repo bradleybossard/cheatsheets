@@ -40,15 +40,7 @@
 
 [Coding The Matrix](http://codingthematrix.com/)
 
-[Pine64&#39;s single-board computers are getting 2019 upgrades, prices still start at $25 - Liliputing](https://liliputing.com/2019/02/pine64s-single-board-computers-are-getting-2019-upgrades-prices-still-start-at-25.html)
-
 [Stan Winston School of Character Arts](https://www.stanwinstonschool.com/tutorials)
-
-[How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
-
-[Using AWS Amplify feels like cheating. – Cory Schimmoeller – Medium](https://medium.com/@coryschimmoeller/using-aws-amplify-feels-like-cheating-e5eabcaea500)
-
-[WebGL 2.0—Why It&#39;s the Path to Stable Open Standards-based 3D Web Graphics | Architosh](https://architosh.com/2019/02/webgl-2-0-why-its-the-path-to-stable-open-standards-based-3d-web-graphics/)
 
 [Chris Gammell Talks Circuit Toolboxes | Hackaday](https://hackaday.com/2019/02/11/chris-gammell-talks-circuit-toolboxes/)
 
