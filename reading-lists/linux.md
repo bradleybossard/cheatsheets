@@ -1,5 +1,3 @@
-[5 Ways to Make Your Linux Desktop Look Fantastic](https://www.makeuseof.com/tag/linux-desktop-look-fantastic/)
-
 [Swap space on Linux systems: A primer | Opensource.com](https://opensource.com/article/18/9/swap-space-linux-systems)
 
 [DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](https://distrowatch.com/)
@@ -24,8 +22,6 @@
 
 [Tutorial - Linux Handbook](https://linuxhandbook.com/category/tutorial/)
 
-[Orange Pi 3 SBC arrives with Allwinner H6 and mini-PCIe](http://linuxgizmos.com/orange-pi-3-sbc-arrives-with-allwinner-h6-and-mini-pcie/)
-
 [Gradio is Dead! Long Live Shortwave! - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/01/gradio-linux-app-replaced-by-shortwave)
 
 [Linux kernel development, open source productivity tools, create an automated calendar with Google apps, and more | Opensource.com](https://opensource.com/article/19/1/weekly-top-10-january-27)
@@ -34,13 +30,9 @@
 
 [The Linux command-line cheat sheet | Network World](https://www.networkworld.com/article/3337516/linux/the-linux-command-line-cheat-sheet.html)
 
-[Two graphical tools for manipulating PDFs on the Linux desktop | Opensource.com](https://opensource.com/article/19/2/manipulating-pdfs-linux)
-
 [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 [Using Clear Linux As A Desktop Linux Distribution - It Works Well But With Some &quot;Papercuts&quot; - Phoronix](https://www.phoronix.com/scan.php?page=article&item=clearlinux-main-desktop&num=1)
-
-[Beaker: the Decentralized Read-Write Browser | Linux Journal](https://www.linuxjournal.com/content/beaker-decentralized-read-write-browser)
 
 [The Linux 5.0 kernel has been released #Linux « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/03/04/the-linux-5-0-kernel-has-been-released-linux/)
 
@@ -50,15 +42,11 @@
 
 [fs - kernel/git/torvalds/linux.git - Linux kernel source tree](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/fs)
 
-[INTRODUCING SINGULARITY DESKTOP: MOBILE AND REPRODUCIBLE LINUX CONTAINERS FOR COMPUTE-DRIVEN WORKLOADS ON MACOS - Sylabs.io](https://www.sylabs.io/2019/03/introducing-singularity-desktop-mobile-and-reproducible-linux-containers-for-compute-driven-workloads-on-macos/)
-
 [Chasing Linux Kernel Archives | Linux Journal](https://www.linuxjournal.com/content/chasing-archives)
 
 [Set Up a Firewall with GUFW on Linux Desktop](https://itsfoss.com/set-up-firewall-gufw/)
 
 [Find Files in Linux, Using the Command Line](https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/)
-
-[Pop OS 18.10 Linux Gaming Report: System76 Nails It For Nvidia And AMD Users](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/20/pop_os-18-10-linux-gaming-nvidia-radeon-user-experience/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F20%2Fpop_os-18-10-linux-gaming-nvidia-radeon-user-experience%2F)
 
 [How to Install OpenLDAP on Ubuntu Server 18.04 | Linux.com | The source for Linux information](https://www.linux.com/blog/2019/3/how-install-openldap-ubuntu-server-1804)
 
@@ -71,8 +59,6 @@
 [Subscribers: Auto-Download Linux Journal From the Command Line (v2.0) | Linux Journal](https://www.linuxjournal.com/content/subscribers-auto-download-linux-journal-command-line-v20)
 
 [DIY: Build a Custom Minimal Linux Distribution from Source | Linux Journal](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)
-
-[Solus 4 Linux Gaming Report: A Great Nvidia, Radeon And Steam User Experience](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/03/27/solus-4-linux-gaming-report-nvidia-amd-steam/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F03%2F27%2Fsolus-4-linux-gaming-report-nvidia-amd-steam%2F)
 
 [Yes, it isn&#39;t completely useless. All About the Linux yes Command. - Putorius](https://www-putorius-net.cdn.ampproject.org/v/s/www.putorius.net/linux-yes-command.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.putorius.net%2Flinux-yes-command.html)
 
@@ -92,13 +78,11 @@
 
 [How to Use the wall Command on Linux](https://www-howtogeek-com.cdn.ampproject.org/v/s/www.howtogeek.com/415914/how-to-use-the-wall-command-on-linux/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.howtogeek.com%2F415914%2Fhow-to-use-the-wall-command-on-linux%2F)
 
-[Install Android 8.1 Oreo On Linux To Run Apps &amp; Games](https://fosspost.org/tutorials/install-android-8-1-oreo-on-linux)
-
 [How to determine number of CPUs on Linux using command line - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/how-to-determine-number-of-cpus-on-linux-using-command-line/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fhow-to-determine-number-of-cpus-on-linux-using-command-line%2F)
 
 [Linux for Pentester : ZIP Privilege Escalation](https://www.hackingarticles.in/linux-for-pentester-zip-privilege-escalation/)
 
-[Fundamentals of Linux [Video]](https://subscription.packtpub.com/video/networking_and_servers/9781788293945)
+[Fundamentals of Linux](https://subscription.packtpub.com/video/networking_and_servers/9781788293945)
 
 [LFS and Standards](http://www.linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
 
@@ -110,7 +94,7 @@
 
 [Chrome OS 76 will disable Crostini Linux backups by default – About Chromebooks](https://www.aboutchromebooks.com/news/chrome-os-76-will-disable-crostini-linux-backups-by-default/)
 
-[Python&#39;s Mypy--Advanced Usage | Linux Journal](https://www.linuxjournal.com/content/pythons-mypy-advanced-usage)
+[Pythons Mypy--Advanced Usage | Linux Journal](https://www.linuxjournal.com/content/pythons-mypy-advanced-usage)
 
 [9 Tools for Monitoring Internet Bandwidth and Speed in Linux](https://itsfoss.com/network-speed-monitor-linux/)
 
@@ -138,11 +122,7 @@
 
 [How to securely erase hard drives (HDDs) and solid state drives (SSDs) | ZDNet](https://www.zdnet.com/article/how-to-securely-erase-hard-drives-hdds-and-solid-state-drives-ssds/#ftag=CAD-00-10aag7f)
 
-[Its Hard to Believe That This is a Screenshot of Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/epic-custom-openbox-ubuntu-desktop)
-
 [How to List Installed Packages on Ubuntu and Debian](https://itsfoss.com/list-installed-packages-ubuntu/)
-
-[Canonical Is Planning Some Awesome New Content For The Snap Store](https://www.forbes.com/sites/jasonevangelho/2019/02/20/canonical-is-planning-some-awesome-new-content-for-the-snap-store/#30ad0d8120f8)
 
 [How to Restart Network in Ubuntu](https://itsfoss.com/restart-network-ubuntu/)
 
