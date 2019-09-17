@@ -12,6 +12,8 @@ cat /proc/cpuinfo              # get CPU information
 sudo lshw -short               # get hardware information
 sudo dmidecode --type memory   # get memory information
 sudo lshw -short -C memory     # get memory Class hardware info
+sudo inxi -Fxz
+hwinfo --short
 ```
 
 ### power
