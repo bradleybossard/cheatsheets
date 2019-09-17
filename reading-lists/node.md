@@ -13,3 +13,5 @@
 [vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
 
 [shelljs - npm](https://www.npmjs.com/package/shelljs)
+
+[How to Make an Awesome Blog Using Gatsbyjs and AWS - DEV Community 👩‍💻👨‍💻](https://dev.to/kylegalbraith/how-to-make-an-awesome-blog-using-gatsbyjs-and-aws-33nc?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=)

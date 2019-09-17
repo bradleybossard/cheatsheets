@@ -17,3 +17,5 @@
 [New AI Generates Freakishly Realistic People Who Dont Actually Exist](https://www-sciencealert-com.cdn.ampproject.org/v/s/www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.sciencealert.com%2Fai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist)
 
 [How to Generate Game of Thrones Characters Using StyleGAN](https://blog-nanonets-com.cdn.ampproject.org/v/s/blog.nanonets.com/stylegan-got/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.nanonets.com%2Fstylegan-got%2F)
+
+
