@@ -2,17 +2,9 @@
 
 [Home - Ballerina.io](https://ballerina.io/)
 
-[JAMstack. How sites are becoming even faster in a bloated web. - DEV Community 👩‍💻👨‍💻](https://dev.to/lewismenelaws/jamstack-how-sites-are-becoming-even-faster-in-a-bloated-web-fig)
-
 [Getting to know some pragmatic programming language features](https://hackernoon.com/do-you-know-these-interesting-programming-languages-features-1fab3fcb2118)
 
-[Browsing the web with Min, a minimalist open source web browser | Opensource.com](https://opensource.com/article/18/10/min-web-browser)
-
 [Ask HN: Are any remote desktop solutions good enough for full-time use? | Hacker News](https://news.ycombinator.com/item?id=18326030)
-
-[Bubblin Superbooks—An online café of books | Bubblin Superbooks](https://bubblin.io/#popular)
-
-[Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
 [This Algorithm Can Create 3D Animations From A Single Still Image](https://futurism-com.cdn.ampproject.org/v/s/futurism.com/algorithm-3d-animations-still-image/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ffuturism.com%2Falgorithm-3d-animations-still-image%2F)
 
@@ -21,8 +13,6 @@
 [The Science Behind Making Your Child Smarter - WSJ](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
 
 [Graduating the Flying Car Nanodegree Term – Hacker Noon](https://hackernoon.com/graduating-the-flying-car-nanodegree-term-e8fc9c722bc3)
-
-[Seeing Theory](https://seeing-theory.brown.edu/index.html)
 
 [Google - Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 

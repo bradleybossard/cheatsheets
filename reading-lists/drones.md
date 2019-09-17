@@ -78,3 +78,5 @@
 [Build an FPV-Style Quadcopter with a 3D Printed Frame | Make:](https://makezine.com/projects/build-an-fpv-style-quadcopter-with-a-3d-printed-frame/)
 
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
+
+[Blog | All That I Do - DIY | RC | FPV | DRONE | TECH](http://allthatido.com/blog/)
