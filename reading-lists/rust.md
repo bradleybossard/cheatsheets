@@ -58,4 +58,6 @@
 
 [Statically Linked Rust Executable running on Linux Kernel - rust](https://www.reddit.com/r/rust/comments/bylizk/statically_linked_rust_executable_running_on/)
 
-[Why we&#39;re using Rust for cloud rendering](https://www.digitalbridge.com/blog/why-were-using-rust-for-cloud-rendering)
+[Why we're using Rust for cloud rendering](https://www.digitalbridge.com/blog/why-were-using-rust-for-cloud-rendering)
+
+[Rust Language Cheat Sheet](https://cheats.rs/#data-structures)
