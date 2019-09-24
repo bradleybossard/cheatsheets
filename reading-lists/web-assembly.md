@@ -73,3 +73,9 @@
 [Write Web Assembly With LLVM – Richard Anaya – Medium](https://medium.com/@richardanaya/write-web-assembly-with-llvm-fbee788b2817)
 
 [Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
+
+[An Abridged Cartoon Introduction To WebAssembly — Smashing Magazine](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
+
+[Where is WebAssembly now and what’s next? - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/)
+
+[A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
