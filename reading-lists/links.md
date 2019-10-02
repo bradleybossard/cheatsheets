@@ -68,8 +68,6 @@
 
 [Turn VM off and give my money back - DEV Community 👩‍💻👨‍💻](https://dev.to/rafalpienkowski/turn-vm-off-and-give-my-money-back-3ekb)
 
-[Setting up your first distributed private storage network on IPFS: Part 2](https://medium.com/coinmonks/setting-up-your-first-distributed-private-storage-network-on-ipfs-part-2-4b6f96712bae)
-
 [Solve any Image Classification Problem Quickly and Easily](https://www.kdnuggets.com/2018/12/solve-image-classification-problem-quickly-easily.html)
 
 [web/README.md at master · pikapkg/web](https://github.com/pikapkg/web/blob/master/README.md)
