@@ -81,3 +81,5 @@
 [3D Printing a Combination Lock | Hackaday](https://hackaday.com/2019/03/21/3d-printing-a-combination-lock/)
 
 [How To Succeed When Printing With ABS | MatterHackers](https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs)
+
+[Ultimate 3D Print Quality Troubleshooting Guide 2018](https://rigid.ink/pages/ultimate-troubleshooting-guide#issue-first-layer-issues-1)
