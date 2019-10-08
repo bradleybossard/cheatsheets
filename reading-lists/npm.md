@@ -13,3 +13,4 @@
 [vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
 
 [shelljs - npm](https://www.npmjs.com/package/shelljs)
+[Verdaccio · A lightweight private npm proxy registry](https://verdaccio.org/)
