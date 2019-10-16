@@ -66,8 +66,6 @@
 
 [Fast, extensible, configurable, and beautiful linter for Go · Minko Gechev&#39;s blog](https://blog.mgechev.com/2018/05/28/revive-golang-golint-linter/)
 
-[Remote Golang job: Senior Backend Engineer at Splice (Remote, United States)](https://www.golangprojects.com/golang-go-job-cnw-Senior-Backend-Engineer-remote-work-possible-Remote-Splice.html)
-
 [Understand Go Memory Allocator from Stratch – Learn Go Programming](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
 [Job Search Results that include the keywords &lt;strong&gt;&quot;Golang&quot;&lt;/strong&gt;](https://www.flexjobs.com/search?search=Golang&show_save=1&location=)
