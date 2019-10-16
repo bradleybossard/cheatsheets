@@ -43,3 +43,11 @@
 [pgSphere](https://pgsphere.github.io/)
 
 [plprofiler - Getting a Handy Tool for Profiling Your PL/pgSQL Code - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/13/plprofiler-getting-a-handy-tool-for-profiling-your-pl-pgsql-code/)
+
+[database - Relational table naming convention - Stack Overflow](https://stackoverflow.com/questions/4702728/relational-table-naming-convention/4702951#4702951)
+
+[How I Write SQL, Part 1: Naming Conventions](https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/)
+
+[New explain | explain.depesz.com](https://explain.depesz.com/)
+
+[Relational algebra - Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
