@@ -1,5 +1,7 @@
 [WebAssembly](https://webassembly.org/)
 
+[WebAssembly Specification — WebAssembly 1.0](https://webassembly.github.io/spec/core/index.html)
+
 [Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
 
 [CraneStation/wasmtime: Standalone JIT-style runtime for WebAsssembly, using Cranelift](https://github.com/CraneStation/wasmtime)
