@@ -5,3 +5,5 @@
 [Power of Virtualization Multiplied with Enhanced vGPU Solutions | NVIDIA Blog](https://blogs.nvidia.com/blog/2018/10/09/the-power-of-virtualization-multiplied-with-enhanced-vgpu-solutions/)
 
 [Intel unveils HdOSPRay and OpenVKL | CG Channel](http://www.cgchannel.com/2019/06/intel-unveils-hdospray-and-openvkl/)
+
+[GPU Gems | NVIDIA Developer](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)

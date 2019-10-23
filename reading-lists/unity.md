@@ -4,6 +4,6 @@
 
 [Pixar’s Universal Scene Description for Unity out in Preview – Unity Blog](https://blogs.unity3d.com/2019/03/28/pixars-universal-scene-description-for-unity-out-in-preview/)
 
-[Look closer. That’s the power of real-time 3D for AEC – Unity Blog](https://blogs.unity3d.com/2019/03/12/look-closer-thats-the-power-of-real-time-3d-for-aec/)
-
 [Syomus/ProceduralToolkit: Procedural generation library for Unity](https://github.com/Syomus/ProceduralToolkit)
+
+[Unity Basics Tutorials](https://catlikecoding.com/unity/tutorials/basics/)
