@@ -54,3 +54,7 @@
 [Not a nonsense example of a web application with Flutter and Dart.](https://medium.com/@minikin/not-a-nonsense-example-of-a-web-application-with-flutter-and-dart-cf3b0bc5399f)
 
 [Hummingbird vs Angular Dart – Raveesh Agarwal – Medium](https://medium.com/@raveeshagarwal/hummingbird-vs-angular-dart-b636b7147099)
+
+[Install and run DevTools from the command line - Flutter](https://flutter.dev/docs/development/tools/devtools/cli)
+
+[Announcing Dart 2.5: Super-charged development - Dart - Medium](https://medium.com/dartlang/announcing-dart-2-5-super-charged-development-328822024970)

@@ -91,3 +91,5 @@
 [How I Embedded Resources in Go - Level Up Coding](https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a)
 
 [GeertJohan/go.rice: go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy.](https://github.com/GeertJohan/go.rice)
+
+[Manage multiple versions of Go with GVM | Opensource.com](https://opensource.com/article/19/10/go-introduction-gvm)
