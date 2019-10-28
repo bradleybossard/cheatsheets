@@ -5,3 +5,5 @@
 [OpenSCAD Gives You Parametric Boxes | Hackaday](https://hackaday.com/2019/03/11/openscad-gives-you-parametric-boxes/)
 
 [Try NopSCADlib For Your Next OpenSCAD Project | Hackaday](https://hackaday.com/2019/06/15/try-nopscadlib-for-your-next-openscad-project/)
+
+[OpenSCAD Snippet Pad: procedural](https://openscadsnippetpad.blogspot.com/search/label/procedural)
