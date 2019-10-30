@@ -3,3 +3,5 @@
 [How to Create Smooth WebGL Transitions on Scroll using Phenomenon | Codrops](https://tympanus.net/codrops/2019/03/22/how-to-create-smooth-webgl-transitions-on-scroll-using-phenomenon/)
 
 [hoverinc/ray-tracing-renderer: Real-time path tracing with three.js](https://github.com/hoverinc/ray-tracing-renderer)
+
+[mourner/robust-predicates: Fast robust predicates for computational geometry in JavaScript](https://github.com/mourner/robust-predicates)
