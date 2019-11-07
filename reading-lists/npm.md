@@ -17,3 +17,5 @@
 [Verdaccio · A lightweight private npm proxy registry](https://verdaccio.org/)
 
 [nikersify/jay: 😎 Supercharged JavaScript REPL](https://github.com/nikersify/jay)
+
+[How to create and publish your npm package Node module in just 10 minutes](https://medium.com/signature-networks/how-to-create-and-publish-your-npm-package-node-module-in-just-10-minutes-b8ca3a100050)

@@ -10,8 +10,6 @@
 
 [ANTLR Development Tools](https://www.antlr.org/tools.html)
 
-[Introduction · Crafting Interpreters](http://www.craftinginterpreters.com/introduction.html)
-
 [So You Want to Build a Language VM - Part 01 - Overview and a Simple VM](https://blog.subnetzero.io/project/iridium-vm/building-language-vm-part-01/)
 
 [An introduction to language lexing and parsing with ANTLR](https://willowtreeapps.com/ideas/an-introduction-to-language-lexing-and-parsing-with-antlr)

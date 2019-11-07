@@ -23,3 +23,7 @@
 [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
 [QuickJS Javascript Engine](https://bellard.org/quickjs/)
+
+[Implicit Coercion in JavaScript - Frontend Weekly - Medium](https://medium.com/front-end-weekly/implicit-coercion-in-javascript-5077ad5510d)
+
+[Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)

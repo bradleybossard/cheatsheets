@@ -81,3 +81,5 @@
 [Where is WebAssembly now and what’s next? - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/)
 
 [A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+
+[Sneak Peek at WebAssembly Studio - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/)

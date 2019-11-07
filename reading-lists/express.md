@@ -9,3 +9,5 @@
 [Advanced Express](https://www.lynda.com/Node-js-tutorials/Advanced-Express/798496-2.html)
 
 [Understanding Express.js: Creating Your Own Node HTTP Request Router](https://hackernoon.com/understanding-express-js-creating-your-own-node-http-request-router-4190a9b6aad6)
+
+[How to Build a simple REST API: Introduction to NodeJS and Express.](https://medium.com/quick-code/building-a-simple-rest-api-introduction-to-nodejs-and-express-fc25daf57baf)

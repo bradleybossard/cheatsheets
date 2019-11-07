@@ -1,5 +1,9 @@
 [zeit/pkg: Package your Node.js project into an executable](https://github.com/zeit/pkg)
 
+[Implementing Publisher-Subscriber Pattern Using JavaScript, NodeJS and WebSockets](https://medium.com/unprogrammer/implementing-publisher-subscriber-pattern-using-javascript-nodejs-and-websockets-82036da7e174)
+
+[Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://medium.com/@smashingmag/keeping-node-js-fast-tools-techniques-and-tips-for-making-high-performance-node-js-servers-8cfcb55e3d7)
+
 [Useful tools: Headless Chrome &amp; puppeteer for browser automation &amp; testing.](https://medium.com/square-corner-blog/useful-tools-headless-chrome-puppeteer-for-browser-automation-testing-1ac7707bad40)
 
 [Build a task app with Hapi, MongoDB and Vue.js – Employbl – Medium](https://medium.com/employbl/build-a-task-app-with-hapi-mongodb-and-vue-js-dc05c1bb8778)

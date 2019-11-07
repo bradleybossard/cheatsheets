@@ -93,3 +93,15 @@
 [GeertJohan/go.rice: go.rice is a Go package that makes working with resources such as html,js,css,images,templates, etc very easy.](https://github.com/GeertJohan/go.rice)
 
 [Manage multiple versions of Go with GVM | Opensource.com](https://opensource.com/article/19/10/go-introduction-gvm)
+
+[Getting Started With Golang Interfaces - Everything Programming - Medium](https://medium.com/everything-programming/getting-started-with-golang-interfaces-d27121b8fa8c)
+
+[Go: Understand the Empty Interface - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
+
+[A Stream Processing API for Go - Vladimir Vivien - Medium](https://medium.com/@vladimirvivien/a-stream-processing-api-for-go-842676efe315)
+
+[Managing Groups of Goroutines in Go - The Startup - Medium](https://medium.com/swlh/managing-groups-of-gorutines-in-go-ee7523e3eaca)
+
+[Yet another tool to mock interfaces in Go - ITNEXT](https://itnext.io/yet-another-tool-to-mock-interfaces-in-go-73de1b02c041)
+
+[Go: Concurrency Bugs in Go - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-concurrency-bugs-in-go-7d3677a1f2a2)
