@@ -38,22 +38,6 @@ Start->Run, type "shell:startup".  Paste an app shortcut into folder opened.
 3.  `sudo sed -i 's$<listen>.*</listen>$<listen>tcp:host=localhost,port=0</listen>$' /etc/dbus-1/session.conf`
 4.  Restart bash
 
-### Run sshd server on Ubuntu for Windows
-1.  From the Windows 10 search box, search 'Services', then find the service 'SSH Server Broker', right-click and select 'Stop'
-2.  From the bash shell, run the following 2 commands
-```
-    sudo apt-get remove --yes openssh-server`
-    sudo apt-get install --yes openssh-server`
-```
-3.  Edit sshd_config (`sudo vi /etc/ssh/sshd_config`) and make the following edits
-  1.  PermitRootLogin no
-  2.  AllowUsers <username> # i.e. bradleybossard
-  3.  PasswordAuthentication yes  # to login using a password
-  4.  UsePrivilegeSeparation no
-4.  `sudo service ssh --full-restart`
-5.  `service --status-all` # to verify ssh is running
-
-
 ### Uninstall Ubuntu for Windows 10
 
     lxrun /uninstall        ## Uninstall
