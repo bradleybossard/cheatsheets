@@ -28,8 +28,7 @@
 
 [bradtraversy/rust_sandbox: Fundamentals of the Rust language](https://github.com/bradtraversy/rust_sandbox)
 
-[Building fast interpreters in Rust](https://blog-cloudflare-com.cdn.ampproject.org/v/s/blog.cloudflare.com/building-fast-interpreters-in-rust/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.cloudflare.com%2Fbuilding-fast-interpreters-in-rust%2F)
-
+ea
 [5 Minute Rust - A new series where we explore Rust in 5 minute chunks - rust](https://www.reddit.com/r/rust/comments/aybtxl/5_minute_rust_a_new_series_where_we_explore_rust/)
 
 [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
