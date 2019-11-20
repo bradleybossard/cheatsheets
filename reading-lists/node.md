@@ -12,6 +12,8 @@
 
 [Meet Carlo, a web rendering surface for Node applications by the Google Chrome team | Packt Hub](https://hub.packtpub.com/meet-carlo-a-web-rendering-surface-for-node-applications-by-the-google-chrome-team/)
 
+[CheatSheetSeries/Nodejs_security_cheat_sheet.md at master · OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Nodejs_security_cheat_sheet.md)
+
 ## packages to try out
 
 [vinyl-fs - npm](https://www.npmjs.com/package/vinyl-fs)
