@@ -127,3 +127,7 @@
 [what-happens-when-k8s/README.md at master · jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 
 [Falco — Container-native Runtime Security](https://falco.org/)
+
+[virtual-kubelet/virtual-kubelet: Virtual Kubelet is an open source Kubernetes kubelet implementation.](https://github.com/virtual-kubelet/virtual-kubelet)
+
+[Kubernetes + Compose = Kompose](https://kompose.io/)

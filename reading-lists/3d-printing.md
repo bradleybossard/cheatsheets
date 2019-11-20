@@ -85,3 +85,5 @@
 [Ultimate 3D Print Quality Troubleshooting Guide 2018](https://rigid.ink/pages/ultimate-troubleshooting-guide#issue-first-layer-issues-1)
 
 [Rarely Adjusted Slicer Setting Makes A Difference | Hackaday](https://hackaday.com/2019/11/02/rarely-adjusted-slicer-setting-makes-a-difference/)
+
+[Core XY Explained | Hackaday](https://hackaday.com/2019/11/12/core-xy-explained/)
