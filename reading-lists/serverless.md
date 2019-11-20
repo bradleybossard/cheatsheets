@@ -17,3 +17,7 @@
 [Netlify Lambda Functions Tutorial](https://flaviocopes.com/netlify-functions/)
 
 [Pulumi Crosswalk Aims to Simplify Deploying to AWS - The New Stack](https://thenewstack.io/pulumi-crosswalk-aims-to-simplify-deploying-to-aws/)
+
+[Structuring a Real-World Serverless App](https://serverless.com/blog/structuring-a-real-world-serverless-app/)
+
+[Moving to a Self-Hosted Model With Serverless Framework](https://blog.webiny.com/moving-to-a-self-hosted-model-with-serverless-framework-72548075694e)

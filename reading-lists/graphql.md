@@ -1,4 +1,3 @@
-
 [GraphQL concepts I wish someone explained to me a year ago](https://medium.com/naresh-bhatia/graphql-concepts-i-wish-someone-explained-to-me-a-year-ago-6a55981f3a7e)
 
 [A Beginner’s Guide to GraphQL – freeCodeCamp.org](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
@@ -16,3 +15,5 @@
 [Introducing GraphQL Birdseye 🦅 - DEV Community 👩‍💻👨‍💻](https://dev.to/novvumio/introducing-graphql-birdseye-33i6)
 
 [GraphQL made easy with Hooks - Marco Pegoraro](https://marcopeg.com/2019/graphql-made-easy)
+
+[Interactive GraphQL Tutorial for beginners | GraphQL Blog: Learning GraphQL, Tutorials, Examples, Tools](https://blog.graphqleditor.com/interactive-graphql-tutorial/)
