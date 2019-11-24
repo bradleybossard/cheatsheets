@@ -51,3 +51,5 @@
 [New explain | explain.depesz.com](https://explain.depesz.com/)
 
 [Relational algebra - Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+
+[Open Street Map (OSM) to PostGIS - The Basics - Cybertec](https://www.cybertec-postgresql.com/en/open-street-map-to-postgis-the-basics/)
