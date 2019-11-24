@@ -15,3 +15,5 @@
 [Introduction to Ubuntus LXD Containers - Make Tech Easier](https://www-maketecheasier-com.cdn.ampproject.org/v/s/www.maketecheasier.com/introduction-ubuntu-lxd-containers/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.maketecheasier.com%2Fintroduction-ubuntu-lxd-containers%2F)
 
 [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5)
+
+[How containers work: overlayfs - Julia Evans](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
