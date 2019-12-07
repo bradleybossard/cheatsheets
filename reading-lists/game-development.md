@@ -9,3 +9,5 @@
 [GDC Vault - Getting off the NavMesh: Navigating in Fully 3D Environments](https://www.gdcvault.com/play/1022016/Getting-off-the-NavMesh-Navigating)
 
 [GDC Vault - Everyone Watching This Is Fired](https://gdcvault.com/play/1025778/Everyone-Watching-This-Is)
+
+[Game jams - itch.io](https://itch.io/jams)
