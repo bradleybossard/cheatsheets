@@ -24,6 +24,10 @@ wsl --set-default-version 2  # Sets default to WSL 2
 wsl --list --verbose         # List currently installed distros
 ```
 
+## Manually install linux distro from command line
+
+[Manually download Windows Subsystem for Linux (WSL) Distros](https://docs.microsoft.com/en-us/windows/wsl/install-manual)
+
 ## Using snap on WSL
 ```
 sudo apt install --yes daemonize
