@@ -35,3 +35,9 @@ or
 \dt <tablename>          # Describe table
 \q                       # Quit
 ```
+
+### See hidden SQL commands behind postgres \<whatever> commands
+```
+\set ECHO_HIDDEN on
+\l  # for example
+```
