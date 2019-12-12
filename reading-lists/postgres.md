@@ -32,7 +32,7 @@
 
 [Building Real-Time Charts With GraphQL And Postgres — Smashing Magazine](https://www.smashingmagazine.com/2019/03/realtime-charts-graphql-postgres/)
 
-[count(*) performance improvements in PostgreSQL- Cybertec](https://www.cybertec-postgresql.com/en/count-made-fast/)
+[count performance improvements in PostgreSQL- Cybertec](https://www.cybertec-postgresql.com/en/count-made-fast/)
 
 [Learn PostgreSQL in Free Video Course](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/postgresql-full-course/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fpostgresql-full-course%2F)
 
@@ -53,3 +53,5 @@
 [Relational algebra - Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
 
 [Open Street Map (OSM) to PostGIS - The Basics - Cybertec](https://www.cybertec-postgresql.com/en/open-street-map-to-postgis-the-basics/)
+
+[PostgreSQL at low level: stay curious! · Erthalion's blog](https://erthalion.info/2019/12/06/postgresql-stay-curious/)
