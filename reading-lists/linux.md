@@ -135,3 +135,7 @@
 [Linux Server Monitoring: A Guide to Different Approaches • Capsule8](https://capsule8.com/blog/different-approaches-to-linux-monitoring/)
 
 [How to set up a homelab from hardware to firewall | Opensource.com](https://opensource.com/article/19/3/home-lab)
+
+[3 Ways to Find Out Which Process Listening on a Particular Port](https://www.tecmint.com/find-out-which-process-listening-on-a-particular-port/)
+
+[How to Check Remote Ports are Reachable Using 'nc' Command](https://www.tecmint.com/check-remote-port-in-linux/)

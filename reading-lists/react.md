@@ -47,3 +47,9 @@
 [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 
 [Create your first React application with express and mongodb.](https://medium.com/@rajat_sehgal/create-your-first-react-application-with-express-and-mongodb-e4aa34cacb20)
+
+[Why React Hooks?](https://tylermcginnis.com/why-react-hooks)
+
+[Free Online React Bootcamp | TylerMcGinnis.com](https://tylermcginnis.com/free-react-bootcamp)
+
+[Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming)

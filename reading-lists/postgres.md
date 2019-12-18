@@ -55,3 +55,13 @@
 [Open Street Map (OSM) to PostGIS - The Basics - Cybertec](https://www.cybertec-postgresql.com/en/open-street-map-to-postgis-the-basics/)
 
 [PostgreSQL at low level: stay curious! · Erthalion's blog](https://erthalion.info/2019/12/06/postgresql-stay-curious/)
+
+[PostgreSQL 12 EXPLAIN SETTINGS – Luca Ferrari – Open Source advocate, human being](https://fluca1978.github.io/2019/12/05/Explain_settings.html)
+
+[It's all in database: Interesting aspects of logical replication at a glance](https://rafiasabih.blogspot.com/2019/12/interesting-aspects-of-logical.html)
+
+[pgMustard – Take the guesswork out of PostgreSQL performance](https://www.pgmustard.com/?referrer=postgresweekly)
+
+[DB Fiddle - SQL Database Playground](https://www.db-fiddle.com/)
+
+[yandex/odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
