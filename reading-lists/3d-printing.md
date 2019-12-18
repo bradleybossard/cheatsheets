@@ -87,3 +87,7 @@
 [Rarely Adjusted Slicer Setting Makes A Difference | Hackaday](https://hackaday.com/2019/11/02/rarely-adjusted-slicer-setting-makes-a-difference/)
 
 [Core XY Explained | Hackaday](https://hackaday.com/2019/11/12/core-xy-explained/)
+
+[Home | Marlin Firmware](http://marlinfw.org/)
+
+[Gcode | Marlin Firmware](http://marlinfw.org/meta/gcode/)
