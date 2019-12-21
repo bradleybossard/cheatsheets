@@ -3,3 +3,9 @@
 [Surge is free, deep synth for every platform, with MPE support - CDM Create Digital Music](https://cdm.link/2019/04/surge-free-deep-synth-mpe/)
 
 [DrumBot: your real-time ML drummer](https://magenta.tensorflow.org/drumbot)
+
+[mobeets/loop-baby: portable audio looper using raspberry pi, neotrellis, and sooperlooper](https://github.com/mobeets/loop-baby)
+
+[SooperLooper - Live Looping Sampler](http://essej.net/sooperlooper/)
+
+[Home](http://www.circularlabs.com/)
