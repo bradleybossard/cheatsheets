@@ -21,7 +21,7 @@
 
 [Casting CNC Parts In Aluminium | Hackaday](https://hackaday.com/2019/04/16/casting-cnc-parts-in-aluminium/)
 
-[CNC Programming with G Code: Definitive Free Tutorial [ 2019 ]](https://www.cnccookbook.com/cnc-programming-g-code/)
+[CNC Programming with G Code: Definitive Free Tutorial](https://www.cnccookbook.com/cnc-programming-g-code/)
 
 [Omni Wheel CNC Plotter V2: 11 Steps (with Pictures)](https://www.instructables.com/id/Omni-Wheel-CNC-Plotter-V2/)
 
@@ -54,3 +54,7 @@
 [cncjs | cncjs](https://cnc.js.org/)
 
 [jscut.org](http://jscut.org/index.html)
+
+[3D Hubs | On-demand Manufacturing: Quotes in Seconds, Parts in Days](https://www.3dhubs.com/)
+
+[Online CNC Machine Shop - PartsBadger - Rapid Quotes - Fast Turnaround](https://parts-badger.com/)
