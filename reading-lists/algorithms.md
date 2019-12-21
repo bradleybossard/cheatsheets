@@ -6,6 +6,8 @@
 
 [Everything you need to know about tree data structures](https://dev.to/leandrotk_/everything-you-need-to-know-about-tree-data-structures-2599)
 
+[Pygorithm — pygorithm 1.0 documentation](https://pygorithm.readthedocs.io/en/latest/)
+
 ## Coursera
 
 [Algorithms, Part I - Home | Coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome)
