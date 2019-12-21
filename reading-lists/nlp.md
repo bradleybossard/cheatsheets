@@ -57,3 +57,7 @@
 [Introduction to Natural Language Processing: Part 1](https://medium.com/analytics-vidhya/introduction-to-natural-language-processing-part-1-777f972cc7b3)
 
 [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
+
+[at16k/at16k: Trained models for automatic speech recognition (ASR). A library to quickly build applications that require speech to text conversion.](https://github.com/at16k/at16k)
+
+[DeepSpeech 0.6: Mozilla's Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/)
