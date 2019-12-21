@@ -46,3 +46,11 @@
 [Taig Tools - Desktop Milling Machines and Lathes.](http://www.taigtools.com/)
 
 [Lean and clean in waterjet cutting](https://www.thefabricator.com/article/waterjetcutting/lean-and-clean-in-waterjet-cutting)
+
+[Add new functions to affordable CNC machines with CNC.js and balena](https://www.balena.io/blog/add-new-functionality-to-affordable-cnc-machines-using-cnc-js-and-balena/?utm_source=Balena+Users+%28Newsletter%29&utm_campaign=cbe5e4dcb9-EMAIL_CAMPAIGN_2019_12_09_04_39&utm_medium=email&utm_term=0_1c73cb7379-cbe5e4dcb9-294002981&mc_cid=cbe5e4dcb9&mc_eid=6981496d1e)
+
+[SainSmart Genmitsu CNC Router 3018-PRO DIY Kit – SainSmart.com](https://www.sainsmart.com/products/sainsmart-genmitsu-cnc-router-3018-pro-diy-kit)
+
+[cncjs | cncjs](https://cnc.js.org/)
+
+[jscut.org](http://jscut.org/index.html)
