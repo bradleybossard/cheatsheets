@@ -91,3 +91,5 @@
 [Home | Marlin Firmware](http://marlinfw.org/)
 
 [Gcode | Marlin Firmware](http://marlinfw.org/meta/gcode/)
+
+[2019 Cura Tutorial: Deep Within Cura 3D Slicer Software | All3DP](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
