@@ -27,3 +27,11 @@
 [10 Python image manipulation tools | Opensource.com](https://opensource.com/article/19/3/python-image-manipulation-tools)
 
 [Scott Shawcroft Is Squeezing Python Into Microcontrollers - IEEE Spectrum](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers)
+
+[Symbolic Maths in Python](https://alexandrugris.github.io/maths/2017/04/30/symbolic-maths-python.html)
+
+[Spyder Website](https://www.spyder-ide.org/)
+
+[Anaconda Python/R Distribution - Free Download](https://www.anaconda.com/distribution/)
+
+[Features](https://www.sympy.org/en/features.html)

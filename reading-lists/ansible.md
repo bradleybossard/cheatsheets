@@ -1,5 +1,4 @@
-
-[​Ansible Tower 3.3 arrives to make DevOps easier than ever | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/ansible-tower-3-3-arrives-to-make-devops-easier-than-ever/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fansible-tower-3-3-arrives-to-make-devops-easier-than-ever%2F)
+[Ansible Tower 3.3 arrives to make DevOps easier than ever](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/ansible-tower-3-3-arrives-to-make-devops-easier-than-ever/?amp_js_v=a2&amp_gsa=1#amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fansible-tower-3-3-arrives-to-make-devops-easier-than-ever%2F)
 
 [Define ssh key per host using ansible_ssh_private_key_file - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/define-ssh-key-per-host-using-ansible_ssh_private_key_file/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fdefine-ssh-key-per-host-using-ansible_ssh_private_key_file%2F)
 
@@ -26,3 +25,5 @@
 [rastating/shiva: An Ansible playbook to provision a host for penetration testing and CTF challenges](https://github.com/rastating/shiva)
 
 [Using Testinfra with Ansible to verify server state | Opensource.com](https://opensource.com/article/19/5/using-testinfra-ansible-verify-server-state)
+
+[Ansible Tutorials & Courses](https://www.toptechskills.com/ansible-tutorials-courses/)
