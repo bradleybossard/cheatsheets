@@ -65,3 +65,5 @@
 [DB Fiddle - SQL Database Playground](https://www.db-fiddle.com/)
 
 [yandex/odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
+
+[Content Guide - Craig Kerstiens](http://www.craigkerstiens.com/content/)
