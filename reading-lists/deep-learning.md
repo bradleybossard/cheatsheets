@@ -150,3 +150,9 @@
 [Machine Learning Sentiment Analysis And Word Embeddings Python Keras Example](https://towardsdatascience.com/machine-learning-sentiment-analysis-and-word-embeddings-python-keras-example-4dfb93c5a6cf)
 
 [The Data Fabric for Machine Learning Part 1-b – Deep Learning on Graphs](https://www.kdnuggets.com/2019/06/data-fabric-machine-learning-deep-learning-graphs.html)
+
+[Dive into Deep Learning — Dive into Deep Learning 0.7.1 documentation](http://d2l.ai/)
+
+[Dive into Deep Learning Compiler — Dive into Deep Learning Compiler 0.1 documentation](http://tvm.d2l.ai/index.html)
+
+[Deep Learning Compiler and Optimizer - Microsoft Research](https://www.microsoft.com/en-us/research/project/deep-learning-compiler-and-optimizer/)
