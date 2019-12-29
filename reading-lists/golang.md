@@ -105,3 +105,13 @@
 [Yet another tool to mock interfaces in Go - ITNEXT](https://itnext.io/yet-another-tool-to-mock-interfaces-in-go-73de1b02c041)
 
 [Go: Concurrency Bugs in Go - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-concurrency-bugs-in-go-7d3677a1f2a2)
+
+[Learn - go.dev](https://learn.go.dev/)
+
+[The Go Memory Model - The Go Programming Language](https://golang.org/ref/mem)
+
+[Go: Goroutines and Apis · blog.gnoack.org](https://blog.gnoack.org/post/go-goroutines-and-apis/)
+
+[gobook.3186517259.pdf](http://www.golang-book.com/public/pdf/gobook.3186517259.pdf)
+
+[Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#goroutines)
