@@ -39,9 +39,10 @@ select, then g and x,y or z      - Translate constrained to x, y or z
 
 ## Rotating Objects
 ```
-select, then r                   - Rotate item
-select, then r and x,y or z      - Rotate constrained to x, y or z
-select, then r, then r           - Rotate trackball-style
+select, r                 - Rotate item, axis constrained to camera
+select, r x|y|z           - Rotate constrained to x, y or z
+select, r x|y|z, <number> - Rotate by angle of number, onstrained to x, y or z
+select, r, r              - Rotate trackball-style
 ```
 
 ## Scaling
