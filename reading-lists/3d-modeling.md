@@ -35,3 +35,5 @@
 [How to Become a Professional 3D Modeler | 3D Printing Blog | i.materialise](https://i.materialise.com/blog/en/how-to-become-a-professional-3d-modeler-an-interview-with-3d-modelling-expert-jonathan-williamson/)
 
 [ArtisGL 3D Publisher-make your 3D models alive](https://artisgl.com/)
+
+[Xfrog - 3D Trees and Plants for CG Artists](https://xfrog.com/)
