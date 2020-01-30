@@ -67,3 +67,5 @@
 [yandex/odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 
 [Content Guide - Craig Kerstiens](http://www.craigkerstiens.com/content/)
+
+[pg_timetable: Advanced PostgreSQL job scheduling - Cybertec](https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling/)
