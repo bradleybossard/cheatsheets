@@ -1,4 +1,3 @@
-
 [A Linux Dev Environment on Windows with WSL, Docker, tmux and VSCode — Nick Janetakis](https://nickjanetakis.com/blog/a-linux-dev-environment-on-windows-with-wsl-docker-tmux-and-vscode?mkt_tok=eyJpIjoiTmpsak5qSTNaVFkyWXpkbCIsInQiOiJ5MVR6SjZRd0hcL3dpd3BuZytRZU9yY0NtUkRTdGxjVGIzVkZCVXZzWlhkZVJraG5QNkh3Q3B6ZDBqNm9TeDJ4UzZjUFd2V0JDWUIxTG1xb2JYcFNuM1AyN00xYnB5b0w3dERGZzhkWFwvenFHZXM0RXJuMU1aWjIwN3FkMm1UaEptIn0%3D)
 
 [Quickstart with Docker | Hasura 1.0 documentation](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)
@@ -24,3 +23,5 @@
 [Moby](https://mobyproject.org/)
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
+
+[Production-ready Docker packaging](https://pythonspeed.com/docker/)
