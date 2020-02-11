@@ -37,3 +37,5 @@
 [Features](https://www.sympy.org/en/features.html)
 
 [jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.](https://github.com/jazzband/pip-tools)
+
+[omegaml/minibatch: Python stream processing for humans](https://github.com/omegaml/minibatch)

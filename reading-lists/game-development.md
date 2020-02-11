@@ -13,3 +13,5 @@
 [Game jams - itch.io](https://itch.io/jams)
 
 [AI DUNGEON 2 | Play now](https://www.aidungeon.io/)
+
+[Collection: Pixel Art Tools](https://github.com/collections/pixel-art-tools)
