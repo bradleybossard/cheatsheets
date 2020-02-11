@@ -69,3 +69,7 @@
 [Content Guide - Craig Kerstiens](http://www.craigkerstiens.com/content/)
 
 [pg_timetable: Advanced PostgreSQL job scheduling - Cybertec](https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling/)
+
+[Table of Contents for Postgres Posts - malisper.me](https://malisper.me/table-of-contents/)
+
+[Postico – a modern PostgreSQL client for the Mac](https://eggerapps.at/postico/)

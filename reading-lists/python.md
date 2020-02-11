@@ -35,3 +35,5 @@
 [Anaconda Python/R Distribution - Free Download](https://www.anaconda.com/distribution/)
 
 [Features](https://www.sympy.org/en/features.html)
+
+[jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.](https://github.com/jazzband/pip-tools)
