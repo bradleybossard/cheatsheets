@@ -31,3 +31,5 @@
 [Compiler basics (3): LLVM | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-llvm.html)
 
 [Compiler basics (4): LLVM conditionals and compiling fibonacci | notes.eatonphil.com](http://notes.eatonphil.com/compiler-basics-llvm-conditionals.html)
+
+[CS143: Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
