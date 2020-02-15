@@ -5,3 +5,5 @@
 [Tungsteno | Online Mathematics for Everybody](https://www.tungsteno.io/)
 
 [Mathpendium](https://mathpendium.org/discover)
+
+[The Map of Mathematics | Quanta Magazine](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
