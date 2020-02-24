@@ -73,3 +73,5 @@
 [Table of Contents for Postgres Posts - malisper.me](https://malisper.me/table-of-contents/)
 
 [Postico – a modern PostgreSQL client for the Mac](https://eggerapps.at/postico/)
+
+[Postgres Rocks! Powered by EDB - Home - Postgres Rocks](https://postgresrocks.enterprisedb.com/)
