@@ -58,3 +58,15 @@
 [Install and run DevTools from the command line - Flutter](https://flutter.dev/docs/development/tools/devtools/cli)
 
 [Announcing Dart 2.5: Super-charged development - Dart - Medium](https://medium.com/dartlang/announcing-dart-2-5-super-charged-development-328822024970)
+
+[How to Learn Flutter in 2020](https://herewecode.io/blog/how-to-learn-flutter-in-2020/)
+
+[What is Flutter and Why You Should Learn It in 2020](https://herewecode.io/blog/what-is-flutter-and-why-you-should-learn-it-in-2020/)
+
+[Flutter Awesome](https://flutterawesome.com/)
+
+[Solido/awesome-flutter: An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.](https://github.com/Solido/awesome-flutter)
+
+[List of Flutter apps | It's All Widgets!](https://itsallwidgets.com/)
+
+[Flutter Community – Medium](https://medium.com/flutter-community)
