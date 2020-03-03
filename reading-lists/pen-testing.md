@@ -60,3 +60,5 @@
 [Serious flaws leave WPA3 vulnerable to hacks that steal Wi-Fi passwords – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/information-technology/2019/04/serious-flaws-leave-wpa3-vulnerable-to-hacks-that-steal-wi-fi-passwords/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Finformation-technology%2F2019%2F04%2Fserious-flaws-leave-wpa3-vulnerable-to-hacks-that-steal-wi-fi-passwords%2F)
 
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
+
+[shhgit: find secrets in real time across GitHub, GitLab and BitBucket](https://shhgit.darkport.co.uk/)
