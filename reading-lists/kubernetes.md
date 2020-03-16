@@ -131,3 +131,7 @@
 [virtual-kubelet/virtual-kubelet: Virtual Kubelet is an open source Kubernetes kubelet implementation.](https://github.com/virtual-kubelet/virtual-kubelet)
 
 [Kubernetes + Compose = Kompose](https://kompose.io/)
+
+[Introducing Arkade - The Kubernetes app installer – Alistair Hey – Consultant Cloud Native Platform Engineer](https://blog.heyal.co.uk/introducing-arkade/)
+
+[lensapp/lens: Lens - The free, smart desktop application for managing Kubernetes clusters](https://github.com/lensapp/lens)

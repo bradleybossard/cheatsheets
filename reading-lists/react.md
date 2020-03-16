@@ -30,11 +30,9 @@
 
 [How to implement runtime environment variables with create-react-app, Docker, and Nginx](https://medium.freecodecamp.org/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70)
 
-[How to set up &amp; deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4)
+[How to set up and deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4)
 
 [Top free JavaScript User Authentication Libraries - Web Design and Web Development news,javascript, angular, react, vue, php](https://www.ma-no.org/en/content/index_top-free-javascript-user-authentication-libraries_2425.php)
-
-[ReactOS 0.4.11 &quot;Open-Source Windows&quot; Available With Big Kernel Improvements - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.11-Released)
 
 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 
@@ -42,7 +40,7 @@
 
 [React — Redux workflow in 4 steps — Beginner Friendly Guide](https://hackernoon.com/https-medium-com-heypb-react-redux-workflow-in-4-steps-beginner-friendly-guide-4aea9d56f5bd)
 
-[How To Set Up ESLint, TypeScript, Prettier with Create React App - DEV Community 👩‍💻👨‍💻](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)
+[How To Set Up ESLint, TypeScript, Prettier with Create React App](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)
 
 [Performance Profiling Your React App](https://www.telerik.com/blogs/performance-profiling-your-react-app)
 
@@ -53,3 +51,5 @@
 [Free Online React Bootcamp | TylerMcGinnis.com](https://tylermcginnis.com/free-react-bootcamp)
 
 [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming)
+
+[Ant Design - A UI Design Language and React UI library](https://ant.design/)

@@ -39,3 +39,5 @@
 [jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.](https://github.com/jazzband/pip-tools)
 
 [omegaml/minibatch: Python stream processing for humans](https://github.com/omegaml/minibatch)
+
+[Advanced usage of Python requests - timeouts, retries, hooks](https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/)

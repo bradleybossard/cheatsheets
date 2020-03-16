@@ -27,3 +27,5 @@
 [Implicit Coercion in JavaScript - Frontend Weekly - Medium](https://medium.com/front-end-weekly/implicit-coercion-in-javascript-5077ad5510d)
 
 [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
+
+[2ality – JavaScript and more](https://2ality.com/index.html)
