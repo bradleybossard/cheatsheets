@@ -13,18 +13,6 @@
 ### Add a program to startup
 Start->Run, type "shell:startup".  Paste an app shortcut into folder opened.
 
-## Ubuntu for Windows 10 subsystem
-
-### Install Ubuntu for Windows 10
-* Go to Settings from Win 10 search
-* Select Updates & Security
-* Select For Developers Tab, then enable the Developer Mode radio button, select Yes to modal
-* Reboot computer
-* Go to Control Panel from Win 10 search
-* Under Programs, select "Turn Windows features on or off"
-* Select "Windows Subsystem for Linux"
-* Reboot computer again
-
 ### Disable beeping on bash
     sudo vi /etc/inputrc
     ## uncomment line set bell-style none
