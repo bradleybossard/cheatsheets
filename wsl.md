@@ -1,23 +1,8 @@
-# WSL (Windows Subsystem for Linux) tips
-
-## Install Ubuntu for Windows 10
-* Go to Settings from Win 10 search
-* Select Updates & Security
-* Select For Developers Tab, then enable the Developer Mode radio button, select Yes to modal
-* Reboot computer
-* Go to Control Panel from Win 10 search
-* Under Programs, select "Turn Windows features on or off"
-* Select "Windows Subsystem for Linux"
-* Reboot computer again
-
-alternatively, the above may be acheived running the following two commands (and rebooting) but I haven't tested this yet
-
-```
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
-```
-
 ## WSL2
+
+https://docs.microsoft.com/en-us/windows/wsl/wsl2-install
+
+tldr - You must enrole in the Windows Insider Program, then enable "Fast Ring" preview builds
 
 ```
 wsl --set-default-version 2  # Sets default to WSL 2
