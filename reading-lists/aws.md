@@ -5,3 +5,5 @@
 [AWS announces Amazon CodeGuru for automated code reviews and application performance recommendations](https://aws.amazon.com/about-aws/whats-new/2019/12/aws-announces-amazon-codeguru-for-automated-code-reviews-and-application-performance-recommendations/)
 
 [99designs/aws-vault: A vault for securely storing and accessing AWS credentials in development environments](https://github.com/99designs/aws-vault)
+
+[AWS Cloud Development Kit - Amazon Web Services](https://aws.amazon.com/cdk/)

@@ -41,3 +41,21 @@
 [omegaml/minibatch: Python stream processing for humans](https://github.com/omegaml/minibatch)
 
 [Advanced usage of Python requests - timeouts, retries, hooks](https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/)
+
+[FastAPI](https://fastapi.tiangolo.com/)
+
+[pydantic](https://pydantic-docs.helpmanual.io/)
+
+[Intermediate Python — Python Tips 0.1 documentation](https://book.pythontips.com/en/latest/index.html)
+
+[MessagePack: It's like JSON. but fast and small.](https://msgpack.org/)
+
+[The definitive guide to setup my Python workspace - Henrique Bastos - Medium](https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14)
+
+[IPython Documentation — IPython 7.13.0 documentation](https://ipython.readthedocs.io/en/stable/index.html)
+
+[geopandas/geopandas: Python tools for geographic data](https://github.com/geopandas/geopandas)
+
+[pyenv/COMMANDS.md at master · pyenv/pyenv](https://github.com/pyenv/pyenv/blob/master/COMMANDS.md)
+
+[The definitive guide to setup my Python workspace - Henrique Bastos - Medium](https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14)

@@ -13,3 +13,17 @@
 [Vimways ~ You Should Be Using Tags In Vim](https://vimways.org/2018/you-should-be-using-tags-in-vim/)
 
 [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html?hn=3)
+
+[VIM and Python – A Match Made in Heaven – Real Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+
+[Supercharging Vim: Navigate files instantly · Matt Layman](https://www.mattlayman.com/blog/2019/supercharging-vim-navigate-files-instantly/)
+
+[vim - Navigating a big Python codebase faster - Stack Overflow](https://stackoverflow.com/questions/11778071/navigating-a-big-python-codebase-faster)
+
+[python-mode/python-mode: Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.](https://github.com/python-mode/python-mode)
+
+[taglist.vim - Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc) : vim online](https://www.vim.org/scripts/script.php?script_id=273)
+
+[Vim Taglist plugin](http://vim-taglist.sourceforge.net/)
+
+[Vim Awesome](https://vimawesome.com/?q=tag:syntax)

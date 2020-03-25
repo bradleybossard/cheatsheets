@@ -7,3 +7,5 @@
 [Mathpendium](https://mathpendium.org/discover)
 
 [The Map of Mathematics | Quanta Magazine](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+
+[PreTeXt](https://pretextbook.org/)

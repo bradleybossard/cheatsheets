@@ -41,3 +41,5 @@
 [PlatformIO IDE: The next-generation integrated development environment for IoT · PlatformIO](https://platformio.org/platformio-ide)
 
 [Cloud & Desktop IDE — PlatformIO 4.1.1b5 documentation](http://docs.platformio.org/en/latest/ide.html#platformio-ide)
+
+[Home | Speeduino - Open, easy engine management](https://speeduino.com/home/)

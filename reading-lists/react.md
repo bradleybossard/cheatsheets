@@ -53,3 +53,9 @@
 [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming)
 
 [Ant Design - A UI Design Language and React UI library](https://ant.design/)
+
+[Webcodesk](https://webcodesk.com/)
+
+[useHooks - Easy to understand React Hook recipes](https://usehooks.com/)
+
+[Divjoy - The React Codebase Generator](https://divjoy.com/)
