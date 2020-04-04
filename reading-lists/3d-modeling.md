@@ -39,3 +39,5 @@
 [Xfrog - 3D Trees and Plants for CG Artists](https://xfrog.com/)
 
 [OpenJSCAD.org](https://openjscad.org/)
+
+[oskardolch/SteamCAD: 2D CAD especially designed to draw steam locomotives](https://github.com/oskardolch/SteamCAD)
