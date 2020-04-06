@@ -15,3 +15,5 @@
 [Repo Remover | Cleanup your GitHub repos with ease.](https://reporemover.xyz/)
 
 [Browse good first issues to start contributing to open source - The GitHub Blog](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/)
+
+[cli/cli: GitHub’s official command line tool](https://github.com/cli/cli)
