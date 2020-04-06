@@ -59,3 +59,5 @@
 [pyenv/COMMANDS.md at master · pyenv/pyenv](https://github.com/pyenv/pyenv/blob/master/COMMANDS.md)
 
 [The definitive guide to setup my Python workspace - Henrique Bastos - Medium](https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14)
+
+[What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
