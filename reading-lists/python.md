@@ -61,3 +61,5 @@
 [The definitive guide to setup my Python workspace - Henrique Bastos - Medium](https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14)
 
 [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
+
+[Pygal — pygal 2.0.0 documentation](http://www.pygal.org/en/stable/)
