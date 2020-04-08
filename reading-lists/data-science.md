@@ -19,3 +19,5 @@
 [Dimensionality Reduction For Dummies — Part 1: Intuition](https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79)
 
 [Using Gitlab’s CI for Periodic Data Mining – Towards Data Science](https://towardsdatascience.com/using-gitlabs-ci-for-periodic-data-mining-b3cc314ecd85)
+
+[Fast subsets of large datasets with Pandas and SQLite](https://pythonspeed.com/articles/indexing-pandas-sqlite/)

@@ -17,3 +17,5 @@
 [Its Hard to Believe That This is a Screenshot of Ubuntu - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/02/epic-custom-openbox-ubuntu-desktop)
 
 [Canonical Is Planning Some Awesome New Content For The Snap Store](https://www.forbes.com/sites/jasonevangelho/2019/02/20/canonical-is-planning-some-awesome-new-content-for-the-snap-store/#30ad0d8120f8)
+
+[Setting up a Linux Workstation for Software Development · tkainrad](https://tkainrad.dev/posts/setting-up-linux-workstation/)
