@@ -27,3 +27,5 @@
 [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 
 [Understanding Decision Trees (once and for all!) 🙌](https://towardsdatascience.com/understanding-decision-trees-once-and-for-all-2d891b1be579)
+
+[Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild - Visual Geometry Group blog](http://www.robots.ox.ac.uk/~vgg/blog/unsupervised-learning-of-probably-symmetric-deformable-3d-objects-from-images-in-the-wild.html?image=022_paint&type=human)
