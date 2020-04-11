@@ -17,3 +17,5 @@
 [Browse good first issues to start contributing to open source - The GitHub Blog](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/)
 
 [cli/cli: GitHub’s official command line tool](https://github.com/cli/cli)
+
+[bevry/badges: The definitive rendering collection of badges](https://github.com/bevry/badges)
