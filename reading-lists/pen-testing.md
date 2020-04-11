@@ -62,3 +62,5 @@
 [Replicating A Rolljam Wireless Vehicle Entry Attack with a Yardstick One and RTL-SDR](https://www.rtl-sdr.com/replicating-a-rolljam-wireless-vehicle-entry-attack-with-a-yardstick-one-and-rtl-sdr/)
 
 [shhgit: find secrets in real time across GitHub, GitLab and BitBucket](https://shhgit.darkport.co.uk/)
+
+[Announcing the Zeek Agent | Trail of Bits Blog](https://blog.trailofbits.com/2020/03/23/announcing-the-zeek-agent/)
