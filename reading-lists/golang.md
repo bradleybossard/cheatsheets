@@ -117,3 +117,5 @@
 [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#goroutines)
 
 [Go: How Are Loops Translated to Assembly? - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3)
+
+[blackhat-go/bhg: Code samples for No Starch Press Black Hat Go](https://github.com/blackhat-go/bhg/)
