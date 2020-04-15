@@ -19,3 +19,5 @@
 [EarthPy](http://earthpy.org/)
 
 [A Guide To Building SVG Maps From Natural Earth Data — Smashing Magazine](https://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/)
+
+[Toblerity/Fiona: Fiona reads and writes geographic data files](https://github.com/Toblerity/Fiona)
