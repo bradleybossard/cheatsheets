@@ -25,3 +25,5 @@
 [3 Great Additions for your Jupyter Notebooks – Towards Data Science](https://towardsdatascience.com/three-great-additions-for-your-jupyter-notebooks-cd7373b00e96)
 
 [Jupyter is now a full-fledged IDE - Towards Data Science](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
+
+[ReviewNB/jupyterlab-gitplus: JupyterLab extension to create GitHub commits & pull requests](https://github.com/ReviewNB/jupyterlab-gitplus)
