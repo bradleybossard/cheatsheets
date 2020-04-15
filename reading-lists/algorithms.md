@@ -8,6 +8,8 @@
 
 [Pygorithm — pygorithm 1.0 documentation](https://pygorithm.readthedocs.io/en/latest/)
 
+[labuladong/fucking-algorithm at english](https://github.com/labuladong/fucking-algorithm/tree/english)
+
 ## Coursera
 
 [Algorithms, Part I - Home | Coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome)
