@@ -63,3 +63,5 @@
 [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
 
 [Pygal — pygal 2.0.0 documentation](http://www.pygal.org/en/stable/)
+
+[Pint: makes units easy — pint 0.10.1 documentation](https://pint.readthedocs.io/en/0.10.1/)
