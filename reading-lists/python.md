@@ -65,3 +65,5 @@
 [Pygal — pygal 2.0.0 documentation](http://www.pygal.org/en/stable/)
 
 [Pint: makes units easy — pint 0.10.1 documentation](https://pint.readthedocs.io/en/0.10.1/)
+
+[Only Python: pydeps: a very useful program](https://aroberge.blogspot.com/2019/12/pydeps-very-useful-program.html)
