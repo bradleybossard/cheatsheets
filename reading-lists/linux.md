@@ -139,3 +139,5 @@
 [3 Ways to Find Out Which Process Listening on a Particular Port](https://www.tecmint.com/find-out-which-process-listening-on-a-particular-port/)
 
 [How to Check Remote Ports are Reachable Using 'nc' Command](https://www.tecmint.com/check-remote-port-in-linux/)
+
+[Linux Fu: Tracing System Calls | Hackaday](https://hackaday.com/2020/04/07/linux-fu-tracing-system-calls/)
