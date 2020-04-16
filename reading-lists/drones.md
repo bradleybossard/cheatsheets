@@ -80,3 +80,5 @@
 [Indoor autonomous flight with Arducopter, ROS and Aruco Boards Detection - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/indoor-autonomous-flight-with-arducopter-ros-and-aruco-boards-detection/34699)
 
 [Blog | All That I Do - DIY | RC | FPV | DRONE | TECH](http://allthatido.com/blog/)
+
+[ArduBee, a Ready-To-Fly Micro drone for Education and Swarming - Blog - ArduPilot Discourse](https://discuss.ardupilot.org/t/ardubee-a-ready-to-fly-micro-drone-for-education-and-swarming/54362)
