@@ -25,3 +25,5 @@
 [Program Robotics - Synthiam](https://synthiam.com/)
 
 [Tutorials - Community - Synthiam](https://synthiam.com/Community/Tutorials)
+
+[mithi/hexapod-robot-simulator: 🕷️ A simple browser-based hexapod robot simulator built from first principles 🕷️](https://github.com/mithi/hexapod-robot-simulator)
