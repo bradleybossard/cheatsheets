@@ -3,3 +3,5 @@
 [Elixir + Phoenix Tutorials & Courses](https://www.toptechskills.com/elixir-phoenix-tutorials-courses/)
 
 [Lumen - Elixir & Erlang in the browser - Underjord](https://underjord.io/lumen-elixir-in-the-browser.html)
+
+[phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard)

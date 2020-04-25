@@ -70,3 +70,7 @@
 [List of Flutter apps | It's All Widgets!](https://itsallwidgets.com/)
 
 [Flutter Community – Medium](https://medium.com/flutter-community)
+
+[Style guide for Flutter repo · flutter/flutter Wiki](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo#lazy-programming)
+
+[Flutter on CodePen](https://codepen.io/flutter)
