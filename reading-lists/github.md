@@ -19,3 +19,5 @@
 [cli/cli: GitHub’s official command line tool](https://github.com/cli/cli)
 
 [bevry/badges: The definitive rendering collection of badges](https://github.com/bevry/badges)
+
+[GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog](https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/)

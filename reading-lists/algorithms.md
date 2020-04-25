@@ -15,3 +15,5 @@
 [Algorithms, Part I - Home | Coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
 [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)
+
+[trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
