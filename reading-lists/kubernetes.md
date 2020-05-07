@@ -135,3 +135,5 @@
 [Introducing Arkade - The Kubernetes app installer – Alistair Hey – Consultant Cloud Native Platform Engineer](https://blog.heyal.co.uk/introducing-arkade/)
 
 [lensapp/lens: Lens - The free, smart desktop application for managing Kubernetes clusters](https://github.com/lensapp/lens)
+
+[Domesticating Kubernetes | Practical kubernetes as a home server | Quickbird](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41)
