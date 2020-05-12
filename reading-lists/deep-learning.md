@@ -156,3 +156,7 @@
 [Dive into Deep Learning Compiler — Dive into Deep Learning Compiler 0.1 documentation](http://tvm.d2l.ai/index.html)
 
 [Deep Learning Compiler and Optimizer - Microsoft Research](https://www.microsoft.com/en-us/research/project/deep-learning-compiler-and-optimizer/)
+
+[Introduction to Fiber - Fiber](https://uber.github.io/fiber/introduction/)
+
+[horovod/horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.](https://github.com/horovod/horovod)
