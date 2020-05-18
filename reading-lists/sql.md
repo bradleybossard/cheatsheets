@@ -9,3 +9,5 @@
 [Evaluation and Implementation of Relational Operators | Yunpengs Blog](https://yunpengn.github.io/blog/2019/01/05/relational-operators/)
 
 [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
+
+[Beekeeper Studio | Free & Open Source SQL editor and database manager for MySQL, Postgres, SQLite, SQL Server, and more.](https://www.beekeeperstudio.io/)
