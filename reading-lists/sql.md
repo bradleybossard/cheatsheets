@@ -6,4 +6,6 @@
 
 [How Query Optimizer Works in RDBMS | Pixelstech.net](https://www.pixelstech.net/article/1555763094-How-Query-Optimizer-Works-in-RDBMS)
 
-[Evaluation &amp; Implementation of Relational Operators | Yunpeng&#39;s Blog](https://yunpengn.github.io/blog/2019/01/05/relational-operators/)
+[Evaluation and Implementation of Relational Operators | Yunpengs Blog](https://yunpengn.github.io/blog/2019/01/05/relational-operators/)
+
+[SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)

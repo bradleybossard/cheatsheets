@@ -160,3 +160,5 @@
 [Introduction to Fiber - Fiber](https://uber.github.io/fiber/introduction/)
 
 [horovod/horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.](https://github.com/horovod/horovod)
+
+[Deep Learning for Guitar Effect Emulation | Teddy Koker](https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/)
