@@ -13,3 +13,7 @@
 [RxMarbles: Interactive diagrams of Rx Observables](https://rxmarbles.com/)
 
 [RxViz - Animated playground for Rx Observables](https://rxviz.com/)
+
+[Easier React State Management with OvermindJS - Bits and Pieces](https://blog.bitsrc.io/making-state-management-easier-with-overmindjs-5fcdd87e8c8e)
+
+[React Testing Library · Testing Library](https://testing-library.com/docs/react-testing-library/intro)
