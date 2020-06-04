@@ -17,3 +17,5 @@
 [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)
 
 [trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+
+[bradleybossard/C-Plus-Plus: All Algorithms implemented in C++](https://github.com/bradleybossard/C-Plus-Plus)
