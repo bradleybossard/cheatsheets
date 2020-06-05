@@ -63,3 +63,7 @@
 [ahuth/raycast: HTML5 raycasting demo using React](https://github.com/ahuth/raycast)
 
 [Crank.js | Introducing Crank](https://crank.js.org/blog/introducing-crank)
+
+[Easier React State Management with OvermindJS - Bits and Pieces](https://blog.bitsrc.io/making-state-management-easier-with-overmindjs-5fcdd87e8c8e)
+
+[React Testing Library · Testing Library](https://testing-library.com/docs/react-testing-library/intro)

@@ -14,6 +14,6 @@
 
 [RxViz - Animated playground for Rx Observables](https://rxviz.com/)
 
-[Easier React State Management with OvermindJS - Bits and Pieces](https://blog.bitsrc.io/making-state-management-easier-with-overmindjs-5fcdd87e8c8e)
+[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-[React Testing Library · Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+[Understand Reactive Programming using RxJS from @andrestaltz on @eggheadio](https://egghead.io/lessons/rxjs-understand-reactive-programming-using-rxjs)
