@@ -9,3 +9,5 @@
 [Type Inference - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/type-system/type-inference)
 
 [TypeScript: Handbook - Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html)
+
+[Writing Declaration Files for @types | TypeScript](https://devblogs.microsoft.com/typescript/writing-dts-files-for-types/)
