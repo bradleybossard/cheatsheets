@@ -5,3 +5,5 @@
 [Quantum Computing for Computer Scientists - Microsoft Research](https://www.microsoft.com/en-us/research/video/quantum-computing-computer-scientists/#!related_info)
 
 [Become a Quantum Computing Programmer - Towards Data Science](https://towardsdatascience.com/intro-to-quantum-computing-a5657afaf58b)
+
+[Quantum Development Kit | Microsoft](https://www.microsoft.com/en-us/quantum/development-kit?ocid=mkto_eml_0&mkt_tok=eyJpIjoiTTJOa09UVTVNREEzTnpJeSIsInQiOiJhUVh3dk0raWVkOHNnNGZORHVtaUlwSGxcL1lFUlJPR1BzTlF2RTBVc1RDeFNJZWNtSTFWZVJoNm9oM25FeHVPV0t5NTJIUnduSEtXb215V1wvODVkendoaUltZkFPaWdJNDBkMHZRRElWREdDQUtZd2djbmFlYlp4VEdcL2VxdFh3RjY4K2FJUUhKTlpyYXpRTlBXQlNuTlE9PSJ9)
