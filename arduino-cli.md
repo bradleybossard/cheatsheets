@@ -1,4 +1,6 @@
 ```
+arduino-cli core update-index           # do this before all else
+
 arduino-cli core search uno             # search for cores for "uno"
 arduino-cli core install arduino:avr    # install core "arduino:avr"
 
