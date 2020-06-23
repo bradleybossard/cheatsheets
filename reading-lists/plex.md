@@ -18,3 +18,5 @@
 [Google Duplex arrives on iPhones, most Android devices – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2019/04/google-duplex-arrives-on-iphones-most-android-devices/?amp_js_v=a2&amp_gsa=1&amp=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2019%2F04%2Fgoogle-duplex-arrives-on-iphones-most-android-devices%2F)
 
 [Varken - The Ultimate Plex Ecosystem Dashboard - PleX](https://www.reddit.com/r/PleX/comments/ben93n/varken_the_ultimate_plex_ecosystem_dashboard/)
+
+[How to Set Up Plex Media Server on Your Cheap VPS - Low End Box](https://lowendbox.com/blog/how-to-set-up-plex-media-server-on-your-vps/)
