@@ -71,3 +71,5 @@
 [amymhaddad](https://amymhaddad.com/the-best-resources-to-learn-python-in-2020)
 
 [Manning | Python Workout](https://www.manning.com/books/python-workout)
+
+[Hypermodern Python · Claudio Jolowicz](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
