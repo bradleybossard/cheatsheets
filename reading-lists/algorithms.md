@@ -19,3 +19,5 @@
 [trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
 [bradleybossard/C-Plus-Plus: All Algorithms implemented in C++](https://github.com/bradleybossard/C-Plus-Plus)
+
+[algorithm-visualizer/algorithm-visualizer: Interactive Online Platform that Visualizes Algorithms from Code](https://github.com/algorithm-visualizer/algorithm-visualizer)

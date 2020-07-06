@@ -79,3 +79,5 @@
 [Download and install Azure Data Studio - Azure Data Studio | Microsoft Docs](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 
 [PostgreSQL extension (preview) - Azure Data Studio | Microsoft Docs](https://docs.microsoft.com/en-us/sql/azure-data-studio/postgres-extension?view=sql-server-ver15)
+
+[Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)

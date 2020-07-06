@@ -38,3 +38,5 @@
 [Install WSL 2 on Windows 10 - Thomas Maurer](https://www.thomasmaurer.ch/2019/06/install-wsl-2-on-windows-10/)
 
 [SerpentAI/D3DShot: Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API](https://github.com/SerpentAI/D3DShot)
+
+[Windows Package Manager Preview | Windows Command Line](https://devblogs.microsoft.com/commandline/windows-package-manager-preview/)
