@@ -12,3 +12,5 @@
 [Part 2: Building Filament Extruder - Endless Filament - Medium](https://medium.com/endless-filament/building-filament-extruder-9cad8df7d357)
 
 [Part 3: Make Filament Extruder for $465 - Endless Filament - Medium](https://medium.com/endless-filament/make-filament-extruder-for-465-bbc0e8a74e74)
+
+[Open-Source Grinder Makes Compression Screws For Plastic Extruders Easy | Hackaday](https://hackaday.com/2020/07/09/open-source-grinder-makes-compression-screws-for-plastic-extruders-easy/)
