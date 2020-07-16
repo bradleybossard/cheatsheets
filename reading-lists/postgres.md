@@ -81,3 +81,5 @@
 [PostgreSQL extension (preview) - Azure Data Studio | Microsoft Docs](https://docs.microsoft.com/en-us/sql/azure-data-studio/postgres-extension?view=sql-server-ver15)
 
 [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)
+
+[What are PostgreSQL templates? | Supabase](https://supabase.io/blog/2020/07/09/postgresql-templates/)

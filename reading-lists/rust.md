@@ -68,3 +68,7 @@ ea
 [Creating a Robust, Reusable Link-Checker · Michael-F-Bryan](http://adventures.michaelfbryan.com/posts/linkchecker/)
 
 [Code Slow: Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)
+
+[Moving from TypeScript to Rust / WebAssembly | nicolodavis.com](https://nicolodavis.com/blog/typescript-to-rust/)
+
+[Set up Vim as your Rust IDE | Opensource.com](https://opensource.com/article/20/7/vim-rust-ide)

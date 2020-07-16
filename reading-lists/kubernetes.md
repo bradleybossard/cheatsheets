@@ -139,3 +139,5 @@
 [Domesticating Kubernetes | Practical kubernetes as a home server | Quickbird](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41)
 
 [Kubernetes the Easy Way – DevOps Series, Part 14 - Cisco Blogs](https://blogs.cisco.com/developer/kubernetes-the-easy-way-devops-14)
+
+[A visual guide to Lens: A new way to see Kubernetes | Opensource.com](https://opensource.com/article/20/7/kubernetes-lens)
