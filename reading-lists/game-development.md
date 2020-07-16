@@ -17,3 +17,7 @@
 [Collection: Pixel Art Tools](https://github.com/collections/pixel-art-tools)
 
 [Collision detection (part 1): Overview | 0 FPS](https://0fps.net/2015/01/07/collision-detection-part-1/)
+
+[HackerPoet/NonEuclidean: A Non-Euclidean Rendering Engine for 3D scenes.](https://github.com/HackerPoet/NonEuclidean?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+[CodeParade - YouTube](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
