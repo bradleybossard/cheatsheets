@@ -9,3 +9,7 @@
 [PortAudio - an Open-Source Cross-Platform Audio API](http://www.portaudio.com/)
 
 [AudioMass - Audio Editor](https://audiomass.co/)
+
+[Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
+
+[https://cs.gmu.edu/~sean/book/synthesis/introduction.html](https://cs.gmu.edu/~sean/book/synthesis/introduction.html)
