@@ -13,3 +13,9 @@
 [(5) Disney's Practical Guide to Path Tracing - YouTube](https://www.youtube.com/watch?v=frLwRLS_ZR0&t=18s)
 
 [Ray Tracing Essentials Part 1: Basics of Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
+
+[Ray tracing in Nim - Nim Blog](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
+
+[smallpt: Global Illumination in 99 lines of C++](https://www.kevinbeason.com/smallpt/)
+
+[danieljfarrell/pvtrace: Optical ray tracing for luminescent materials and spectral converter photovoltaic devices](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=danieljfarrell%2Fpvtrace%3A%20Optical%20ray%20tracing%20for%20luminescent%20materials%20and%20spectral%20converter%20photovoltaic%20devices&pos=0&uri=https://github.com/danieljfarrell/pvtrace)

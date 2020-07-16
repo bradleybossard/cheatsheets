@@ -66,3 +66,5 @@ ea
 [Rust once and share it with Android, iOS and Flutter](https://dev.to/robertohuertasm/rust-once-and-share-it-with-android-ios-and-flutter-286o)
 
 [Creating a Robust, Reusable Link-Checker · Michael-F-Bryan](http://adventures.michaelfbryan.com/posts/linkchecker/)
+
+[Code Slow: Writing a winning 4K intro in Rust](https://www.codeslow.com/2020/07/writing-winning-4k-intro-in-rust.html)

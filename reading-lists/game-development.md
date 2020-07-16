@@ -15,3 +15,5 @@
 [AI DUNGEON 2 | Play now](https://www.aidungeon.io/)
 
 [Collection: Pixel Art Tools](https://github.com/collections/pixel-art-tools)
+
+[Collision detection (part 1): Overview | 0 FPS](https://0fps.net/2015/01/07/collision-detection-part-1/)
