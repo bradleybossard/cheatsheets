@@ -15,3 +15,7 @@
 [https://cs.gmu.edu/~sean/book/synthesis/introduction.html](https://cs.gmu.edu/~sean/book/synthesis/introduction.html)
 
 [Tunefish Synth | Home](https://tunefish-synth.com/)
+
+[Audio Handling Basics: Process Audio Files In Command-Line or Python](https://hackernoon.com/audio-handling-basics-how-to-process-audio-files-using-python-cli-jo283u3y)
+
+[Vocodes. Vocal playground.](https://vo.codes/)

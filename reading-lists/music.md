@@ -11,3 +11,5 @@
 [Home](http://www.circularlabs.com/)
 
 [Music | Robert Parker](https://robertparkerofficial.bandcamp.com/)
+
+[Massive List of 65+ Open Source Music Production Tools](https://midination.com/free-music-production-software/)
