@@ -1673,10 +1673,6 @@
 
 [Introducing the WebAssembly Hub, a service for building, deploying, sharing, and discovering Wasm extensions for Envoy Proxy](https://medium.com/solo-io/introducing-the-webassembly-hub-a-service-for-building-deploying-sharing-and-discovering-wasm-d461719383ca)
 
-[MoBe at moovel](https://www.moovel-mobe.com/login?redirect=/)
-
-[Online Shop BIGTREETECH SKR mini E3 V1.2 Control Board 32Bit With TMC2209 UART Driver 3D Printer parts skr v1.3 E3 Dip For Creality Ender 3 | Aliexpress Mobile](https://m.aliexpress.com/item/33042554065.html?trace=wwwdetail2mobilesitedetail&aff_platform=link-c-tool&cpt=1576113908006&sk=q9OF2V84&aff_trace_key=d1fe146476a649d9a306ea8840dbf408-1576113908006-06568-q9OF2V84&terminal_id=74faae90cfe849d88cdd8fa4a9869e02)
-
 [Springer Handbook of Robotics - Multimedia Extension - Chapter Videos](http://handbookofrobotics.org/view-chapter/videodetails)
 
 [Mind the Gaps | data Blog = Blog { me :: Programmer, posts :: [Opinion] }](https://asthasr.github.io/posts/mind-the-gaps/)
@@ -1685,41 +1681,19 @@
 
 [Getting Started with XOD for Arduino | DroneBot Workshop](https://dronebotworkshop.com/getting-started-with-xod/)
 
-[The Hottest Restaurants in Portland, December 2019 - Eater Portland](https://pdx-eater-com.cdn.ampproject.org/v/s/pdx.eater.com/platform/amp/maps/best-new-portland-restaurants-heatmap?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpdx.eater.com%2Fmaps%2Fbest-new-portland-restaurants-heatmap)
-
-[melissa hyp Portland - Google Search](https://www.google.com/search?q=melissa+hyp+Portland&tbm=isch&ved=2ahUKEwj-nJm63LHmAhVJk54KHXfpDYMQ2-cCegQIABAC&oq=melissa+hyp+Portland&gs_l=mobile-gws-wiz-img.3...8673.10990..11468...1.0..0.184.937.0j6......0....1.........33i299j0i8i13i30j30i10.SNJVnzEVRTc&ei=yArzXf6YEMmm-gT30reYCA&bih=604&biw=412&client=ms-android-verizon&prmd=nsiv&safe=off)
-
 [Is data science here to stay? - Data Analysis with Python](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789950069/1/ch01lvl1sec12/is-data-science-here-to-stay)
 
 [How Unix Works: Become a Better Software Engineer | Neil Kakkar](https://neilkakkar.com/unix.html)
 
-[Bing Maps Make the Revived Flight Simulator Eerily Realistic](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/microsoft-flight-simulator-2020/amp?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fmicrosoft-flight-simulator-2020%2F)
-
-[Rambler asks to stop the criminal case against Nginx - Meduza](https://meduza.io/news/2019/12/16/rambler-poprosit-prekratit-ugolovnoe-delo-protiv-nginx?utm_source=website&utm_medium=push&utm_campaign=browser_news)
-
-[in the town all year round - Google Search](https://www.google.com/search?q=in+the+town+all+year+round&oq=in+the+town+all+&aqs=chrome.1.69i57j69i59.6168j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
-
 [Home | The Perfect Loaf](https://www.theperfectloaf.com/)
 
-[In the Astrakhan region, a long-range Tu-22 bomber with a failed engine made an emergency landing - Meduza](https://meduza.io/news/2019/12/17/v-astrahanskoy-oblasti-sovershil-avariynuyu-posadku-dalniy-bombardirovschik-tu-22-s-otkazavshim-dvigatelem?utm_source=website&utm_medium=push&utm_campaign=browser_news)
-
-[Jellyfish Tanks &amp; Live Pet Jellyfish For Sale | Jellyfish Art](https://www.jellyfishart.com/)
-
 [saltado - Google Search](https://www.google.com/search?q=saltado&oq=saltado&aqs=chrome..69i57.2582j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
-
-[hospital software kansas - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNQaYqaq-0rnZ30xSOvoM_vN-1BWwg%3A1576616582944&ei=hkL5XdafOdjt-gSDr6jYCw&q=hospital+software+kansas&oq=hospital+software+kansas&gs_l=mobile-gws-wiz-serp.3..0i22i30j33i160l2j33i299.15719.20048..21131...0.1..0.1453.3774.0j15j7-1......0....1.........0i71j35i39j0.QvVVds03nIs)
-
-[iowa bowl game - Google Search](https://www.google.com/search?q=iowa+bowl+game&oq=iowa+bowl+game&aqs=chrome..69i57.6627j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
 
 [postmarketOS // real Linux distribution for phones](https://postmarketos.org/)
 
 [MACH Algorithm — A Breakthrough in Distributed Deep Learning - DZone AI](https://dzone.com/articles/mach-algorithm-a-breakthrough-in-distributed-deep)
 
-[Happy Holidays from the Windows Terminal Team! | Windows Command Line](https://devblogs.microsoft.com/commandline/happy-holidays-from-the-windows-terminal-team/)
-
 [Conquer the Winter With an All-Wheel-Drive E-Bike](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/conquer-winter-with-an-all-wheel-drive-e-bike/amp?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fconquer-winter-with-an-all-wheel-drive-e-bike%2F)
-
-[Remote Workspace in Portland | Coworking Space for Rent](https://www.workinremote.ly/)
 
 [ReconCobra : Automated Pentest Framework For Information Gathering](https://kalilinuxtutorials-com.cdn.ampproject.org/v/s/kalilinuxtutorials.com/reconcobra-automated-pentest-framework/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fkalilinuxtutorials.com%2Freconcobra-automated-pentest-framework%2F)
 
@@ -1735,19 +1709,11 @@
 
 [2020 NLP wish lists, HuggingFace + fastai, NeurIPS 2019, GPT-2 things, Machine Learning Interviews | Revue](http://newsletter.ruder.io/issues/2020-nlp-wish-lists-huggingface-fastai-neurips-2019-gpt-2-things-machine-learning-interviews-211277)
 
-[Online Courses - Anytime, Anywhere | Udemy](https://www.udemy.com/cart/success/258525692/)
-
 [Tricksinfo - Directory Of Free Courses](https://tricksinfo.net/)
-
-[iowa football - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNQtD1aqsBE23WEgFungXFesSAuV3w%3A1577248078430&ei=TuUCXprwGcS8-gS83a3YBg&q=iowa+football&oq=iowa+football&gs_l=mobile-gws-wiz-serp.3..46i39i275j0i273j0l3j0i20i263j0i131j0.40449.46047..46421...0.1..0.89.1064.17......0....1.........0i71j35i39j0i131i20i263j46i67j46j46i39.ulSV-E_a3QQ)
-
-[rat terrier jack russell mix black - Google Search](https://www.google.com/search?q=rat+terrier+jack+russell+mix+black&tbm=isch&ved=2ahUKEwjiwNjT_M_mAhUJIzQIHZoQDm8Q2-cCegQIABAC&oq=rat+terrier+jack+russell+mix+black&gs_l=mobile-gws-wiz-img.3..0j33i299l2.25273.27954..28391...0.0..0.59.334.6......0....1.........0i30j0i8i30.juXaWZIyUgA&ei=E-cCXqLrMYnG0PEPmqG4-AY&bih=604&biw=412&client=ms-android-verizon&prmd=ivsn&safe=off)
 
 [Web Scraping 101 in Python - Towards Data Science](https://towardsdatascience.com/web-scraping-101-in-python-35f8653b1c97)
 
 [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-compiler/)
-
-[The 11 best games to play on your new PlayStation 4 - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/12/25/21020841/playstation-4-ps4-best-games-top-backlog-death-stranding-star-wars-sekiro?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F12%2F25%2F21020841%2Fplaystation-4-ps4-best-games-top-backlog-death-stranding-star-wars-sekiro)
 
 [Winsipedia - USC Trojans vs. Iowa Hawkeyes football series history](http://www.winsipedia.com/usc/vs/iowa)
 
@@ -1757,21 +1723,13 @@
 
 [wegstr](https://wegstr.com/)
 
-[dogs - Google Search](https://www.google.com/search?q=dogs&oq=dogs&aqs=chrome..69i57j69i65l2.1730j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
-
-[Hotels in Kaanapali | Contact | Maui Kaanapali Villas](https://www.astonmauikaanapalivillas.com/contact/)
-
 [Google](https://www.google.com/search?q=motorized+surfboard&oq=motorized+surfboard&aqs=chrome..69i57.9713j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
 
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
-[optical punch - Google Search](https://www.google.com/search?q=optical+punch&oq=optical+punch&aqs=chrome..69i57.5422j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8#scso=_QocOXovwL4220PEPqMePoA883:0.09521484375.09521484375.428466796875.28564453125.333251953125.761962890625.90478515625.761962890625.8095703125.857177734375.90478515625.4761962890625.761962890625.4761962890625.3333740234375.047607421875.6666259765625.7142944335938.2380981445312.7142944335938.4761962890625.8095092773438.1904907226562.6666870117188.8571166992188.952392578125.6190490722656.71429443359375.95237731933594.04762268066406.38095092773438.809524536132812)
-
 [Lessons Learned From Small-Scale CNC: 7 Steps (with Pictures)](https://www.instructables.com/id/Lessons-Learned-From-Small-Scale-CNC/)
 
 [Polos GD32V Alef is a Tiny RISC-V MCU Board Selling for $3](https://www.cnx-software.com/2020/01/02/polos-gd32v-alef-tiny-risc-v-mcu-board/)
-
-[Released an ebook: $20K sales in the first 3 days - Entrepreneur](https://www.reddit.com/r/Entrepreneur/comments/ehhik6/released_an_ebook_20k_sales_in_the_first_3_days/)
 
 [Rust and WebAssembly for the masses - wasm-bindgen - DEV Community 👩‍💻👨‍💻](https://dev.to/sendilkumarn/rust-and-webassembly-for-the-masses-wasm-bindgen-57fl)
 
@@ -1811,13 +1769,9 @@
 
 [How to control multiple servo motors with Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/)
 
-[sari zipper - Google Search](https://www.google.com/search?q=sari+zipper&source=lmns&bih=604&biw=412&client=ms-android-verizon&prmd=sivn&safe=off&hl=en&ved=2ahUKEwiG_PrAsofnAhUigJ4KHTnCBHcQ_AUoAHoECAAQAw)
-
 [16BPP.net: Blog / Views on Godot (3.1)](https://16bpp.net/blog/post/views-on-godot-3_1/)
 
 [Car Alternators Make Great Electric Motors; Here’s How | Hackaday](https://hackaday.com/2020/01/16/car-alternators-make-great-electric-motors-heres-how/)
-
-[Meet the UrbanFootprint Team](https://urbanfootprint.com/about/meet-the-team/)
 
 [The PinePhone starts shipping—a Linux-powered smartphone for $150 – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2020/01/the-pinephone-starts-shipping-a-linux-powered-smartphone-for-150/?amp_js_v=a2&amp_gsa=1&amp=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2020%2F01%2Fthe-pinephone-starts-shipping-a-linux-powered-smartphone-for-150%2F)
 
@@ -1851,8 +1805,6 @@
 
 [Think Silicon&#39;s GLOVE OpenGL-Over-Vulkan Library Now Works On Wayland, Windows + macOS - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Think-Silicon-GLOVE-0.4)
 
-[Reddit - Metalfoundry - Issues with Grant Thompson Furnace](https://amp.reddit.com/r/Metalfoundry/comments/32azqr/issues_with_grant_thompson_furnace/)
-
 [Propane fired foundry](https://www.backyardmetalcasting.com/propanerig.html)
 
 [18 Impressive Applications of Generative Adversarial Networks (GANs)](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
@@ -1877,10 +1829,6 @@
 
 [Calculus Is Not As Hard As You Think | Hackaday](https://hackaday.com/2015/12/15/calculus-is-not-as-hard-as-you-think/)
 
-[no bsla quantum - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNT-YQHaJWeKDvfiUG2yuEjhkxo7_g%3A1580621216255&ei=oF02XvSPD4_B-wTgrozYCA&q=no+bsla+quantum&oq=no+bsla+quantum&gs_l=mobile-gws-wiz-serp.3...6665.10455..10710...0.1..0.144.996.0j8......0....1.........0i71j33i160.Se8GiVdAgH0)
-
-[carroll shelby spouse - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNQF5mPBnTqcfXfDifk7hVX2bnle0g:1580622218388&q=carroll+shelby+spouse&stick=H4sIAAAAAAAAAOPgE-LUz9U3MLLMyarQkshOttIvSM0vyEkFUkXF-XlWxQX5pcWpi1hFkxOLivJzchSKM1JzkioVIOIAxUI3QD8AAAA&sa=X&ved=2ahUKEwjOjufOlLLnAhVKqJ4KHaOdCYkQ44YBKAMwEHoECA8QMg&biw=412&bih=660&dpr=2.63)
-
 [ESP8266 MP3 Sound Machine v2 - Self Hosted Home](https://selfhostedhome.com/esp8266-mp3-sound-machine-v2/)
 
 [Just how big a deal is Google&#39;s new Meena chatbot model? | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2020/02/01/just-how-big-a-deal-is-googles-new-meena-chatbot-model/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2020%2F02%2F01%2Fjust-how-big-a-deal-is-googles-new-meena-chatbot-model%2F)
@@ -1897,19 +1845,18 @@
 
 [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
 
-[Menu — Red Sauce Pizza](https://www.redsaucepizza.com/menu)
-
 [Nireeka Prime 37 MPH electric bike goes on sale with 1.5 kW motor](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2020/02/06/nireeks-prime-1-5-kw-electric-bicycle-ebike/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2020%2F02%2F06%2Fnireeks-prime-1-5-kw-electric-bicycle-ebike%2F)
 
 [Online Etymology Dictionary | Origin, history and meaning of English words](https://www.etymonline.com/)
 
 [Build Your Own Selfie Drone With Computer Vision | Hackaday](https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/)
 
-[](https://medium.com/coinmonks/syncing-geth-to-the-ethereum-blockchain-9571666f3cfc)
+[syncing geth](https://medium.com/coinmonks/syncing-geth-to-the-ethereum-blockchain-9571666f3cfc)
 
 [9 Vim Cheat Sheet for Mastering Vim Faster [PDF Download]](https://linuxhandbook.com/vim-cheat-sheet/)
 
 [https://cs.opensource.google](https://cs.opensource.google/)
+
 [Won’t You Be My Neighbor? Quickly Finding Who is Nearby](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/wont-you-be-my-neighbor-quickly-finding-who-is-nearby?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fwont-you-be-my-neighbor-quickly-finding-who-is-nearby)
 
 [Home - Ballerina.io](https://ballerina.io/)
@@ -1937,8 +1884,6 @@
 [3D Printed Holo Clock from mectok on Tindie](https://www.tindie.com/products/ekaggrat/3d-printed-holo-clock/)
 
 [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/introduction.html)
-
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
 
 [Urbit / Primer](https://urbit.org/primer/)
 
@@ -3599,13 +3544,9 @@
 
 [The Hottest Restaurants in Portland, December 2019 - Eater Portland](https://pdx-eater-com.cdn.ampproject.org/v/s/pdx.eater.com/platform/amp/maps/best-new-portland-restaurants-heatmap?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpdx.eater.com%2Fmaps%2Fbest-new-portland-restaurants-heatmap)
 
-[melissa hyp Portland - Google Search](https://www.google.com/search?q=melissa+hyp+Portland&tbm=isch&ved=2ahUKEwj-nJm63LHmAhVJk54KHXfpDYMQ2-cCegQIABAC&oq=melissa+hyp+Portland&gs_l=mobile-gws-wiz-img.3...8673.10990..11468...1.0..0.184.937.0j6......0....1.........33i299j0i8i13i30j30i10.SNJVnzEVRTc&ei=yArzXf6YEMmm-gT30reYCA&bih=604&biw=412&client=ms-android-verizon&prmd=nsiv&safe=off)
-
 [Is data science here to stay? - Data Analysis with Python](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789950069/1/ch01lvl1sec12/is-data-science-here-to-stay)
 
 [How Unix Works: Become a Better Software Engineer | Neil Kakkar](https://neilkakkar.com/unix.html)
-
-[Bing Maps Make the Revived Flight Simulator Eerily Realistic](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/microsoft-flight-simulator-2020/amp?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fmicrosoft-flight-simulator-2020%2F)
 
 [Rambler asks to stop the criminal case against Nginx - Meduza](https://meduza.io/news/2019/12/16/rambler-poprosit-prekratit-ugolovnoe-delo-protiv-nginx?utm_source=website&utm_medium=push&utm_campaign=browser_news)
 
@@ -3647,21 +3588,11 @@
 
 [2020 NLP wish lists, HuggingFace + fastai, NeurIPS 2019, GPT-2 things, Machine Learning Interviews | Revue](http://newsletter.ruder.io/issues/2020-nlp-wish-lists-huggingface-fastai-neurips-2019-gpt-2-things-machine-learning-interviews-211277)
 
-[Online Courses - Anytime, Anywhere | Udemy](https://www.udemy.com/cart/success/258525692/)
-
 [Tricksinfo - Directory Of Free Courses](https://tricksinfo.net/)
-
-[iowa football - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNQtD1aqsBE23WEgFungXFesSAuV3w%3A1577248078430&ei=TuUCXprwGcS8-gS83a3YBg&q=iowa+football&oq=iowa+football&gs_l=mobile-gws-wiz-serp.3..46i39i275j0i273j0l3j0i20i263j0i131j0.40449.46047..46421...0.1..0.89.1064.17......0....1.........0i71j35i39j0i131i20i263j46i67j46j46i39.ulSV-E_a3QQ)
-
-[rat terrier jack russell mix black - Google Search](https://www.google.com/search?q=rat+terrier+jack+russell+mix+black&tbm=isch&ved=2ahUKEwjiwNjT_M_mAhUJIzQIHZoQDm8Q2-cCegQIABAC&oq=rat+terrier+jack+russell+mix+black&gs_l=mobile-gws-wiz-img.3..0j33i299l2.25273.27954..28391...0.0..0.59.334.6......0....1.........0i30j0i8i30.juXaWZIyUgA&ei=E-cCXqLrMYnG0PEPmqG4-AY&bih=604&biw=412&client=ms-android-verizon&prmd=ivsn&safe=off)
 
 [Web Scraping 101 in Python - Towards Data Science](https://towardsdatascience.com/web-scraping-101-in-python-35f8653b1c97)
 
 [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-compiler/)
-
-[The 11 best games to play on your new PlayStation 4 - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2019/12/25/21020841/playstation-4-ps4-best-games-top-backlog-death-stranding-star-wars-sekiro?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2019%2F12%2F25%2F21020841%2Fplaystation-4-ps4-best-games-top-backlog-death-stranding-star-wars-sekiro)
-
-[Winsipedia - USC Trojans vs. Iowa Hawkeyes football series history](http://www.winsipedia.com/usc/vs/iowa)
 
 [Learn Metaflow in 10 mins — Netflix’s Python/R Framework for Data Science](https://towardsdatascience.com/learn-metaflow-in-10-mins-netflixs-python-r-framework-for-data-scientists-2ef124c716e4)
 
@@ -3671,13 +3602,9 @@
 
 [dogs - Google Search](https://www.google.com/search?q=dogs&oq=dogs&aqs=chrome..69i57j69i65l2.1730j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
 
-[Hotels in Kaanapali | Contact | Maui Kaanapali Villas](https://www.astonmauikaanapalivillas.com/contact/)
-
 [Google](https://www.google.com/search?q=motorized+surfboard&oq=motorized+surfboard&aqs=chrome..69i57.9713j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
 
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
-
-[optical punch - Google Search](https://www.google.com/search?q=optical+punch&oq=optical+punch&aqs=chrome..69i57.5422j0j7&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8#scso=_QocOXovwL4220PEPqMePoA883:0.09521484375.09521484375.428466796875.28564453125.333251953125.761962890625.90478515625.761962890625.8095703125.857177734375.90478515625.4761962890625.761962890625.4761962890625.3333740234375.047607421875.6666259765625.7142944335938.2380981445312.7142944335938.4761962890625.8095092773438.1904907226562.6666870117188.8571166992188.952392578125.6190490722656.71429443359375.95237731933594.04762268066406.38095092773438.809524536132812)
 
 [Lessons Learned From Small-Scale CNC: 7 Steps (with Pictures)](https://www.instructables.com/id/Lessons-Learned-From-Small-Scale-CNC/)
 
@@ -3723,13 +3650,9 @@
 
 [How to control multiple servo motors with Raspberry Pi - Raspberry Pi](https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/)
 
-[sari zipper - Google Search](https://www.google.com/search?q=sari+zipper&source=lmns&bih=604&biw=412&client=ms-android-verizon&prmd=sivn&safe=off&hl=en&ved=2ahUKEwiG_PrAsofnAhUigJ4KHTnCBHcQ_AUoAHoECAAQAw)
-
 [16BPP.net: Blog / Views on Godot (3.1)](https://16bpp.net/blog/post/views-on-godot-3_1/)
 
 [Car Alternators Make Great Electric Motors; Here’s How | Hackaday](https://hackaday.com/2020/01/16/car-alternators-make-great-electric-motors-heres-how/)
-
-[Meet the UrbanFootprint Team](https://urbanfootprint.com/about/meet-the-team/)
 
 [The PinePhone starts shipping—a Linux-powered smartphone for $150 – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2020/01/the-pinephone-starts-shipping-a-linux-powered-smartphone-for-150/?amp_js_v=a2&amp_gsa=1&amp=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2020%2F01%2Fthe-pinephone-starts-shipping-a-linux-powered-smartphone-for-150%2F)
 
@@ -4412,8 +4335,6 @@
 
 [Faux Radar Uses Ultrasound &amp; Python | Hackaday](https://hackaday.com/2020/07/18/faux-radar-uses-ultrasound-python/)
 
-[The tragic real-life story of Woody Harrelson](https://www.nickiswift.com/216456/the-tragic-real-life-story-of-woody-harrelson/)
-
 [Zrythm Approaching Beta As An Easy-To-Use, Open-Source Digital Audio Workstation - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Zrythm-0.8.694-Open-Source-DAW)
 
 [Automating safe, hands-off deployments](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
@@ -4465,4 +4386,3 @@
 [How to whiteboard collaboratively with Drawpile | Opensource.com](https://opensource.com/article/20/3/drawpile?utm_campaign=intrel)
 
 [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)
-
