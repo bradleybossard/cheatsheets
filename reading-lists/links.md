@@ -295,8 +295,6 @@
 
 [MERN stack A to Z: Part 1 - LogRocket Blog](https://blog.logrocket.com/mern-stack-a-to-z-part-1/)
 
-[Amazon Aurora PostgreSQL Serverless – Now Generally Available | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-serverless-now-generally-available/)
-
 [Moving the World to a 4 Day Workweek – an Interview with Aidan Harper of the 4 Day Week Campaign](https://blog.30hourjobs.com/an-interview-with-aidan-harper-of-the-4-day-week-campaign/)
 
 [The Router&#39;s Obstacle-Strewn Route to Home IoT Security | Software | LinuxInsider](https://www.linuxinsider.com/story/86115.html)
@@ -314,8 +312,6 @@
 [Hubsan drones guide - hobby drones at their best - DroneRush](https://www-dronerush-com.cdn.ampproject.org/v/s/www.dronerush.com/hubsan-drones-guide-toys-x4-9810/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dronerush.com%2Fhubsan-drones-guide-toys-x4-9810%2F)
 
 [A Gallery of Voilà Examples - Jupyter Blog](https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130)
-
-[Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
 
 [JPMorgan creates robo-adviser You Invest portfolios with free ETFs](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/07/10/jpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F07%2F10%2Fjpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html)
 
@@ -441,8 +437,6 @@
 
 [Top 20+ Best Machine Learning Courses for Free in 2019](https://www.ubuntupit.com/best-machine-learning-courses-for-free/)
 
-[Using the PostgreSQL Operator with Rook Ceph Storage](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-with-rook-ceph-storage?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fcrunchy-postgresql-operator-with-rook-ceph-storage)
-
 [Matterhackers MH Build Series PLA 3D Printer Filament Review | All3DP](https://m.all3dp.com/2/matterhackers-mh-build-series-pla-filament-review/)
 
 [Nvidia recreates the Apollo 11 landing with real-time ray tracing – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/07/19/nvidia-recreates-the-apollo-11-landing-with-real-time-ray-tracing/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F07%2F19%2Fnvidia-recreates-the-apollo-11-landing-with-real-time-ray-tracing%2F)
@@ -482,8 +476,6 @@
 [Top 10 ROS-based robotics companies to know in 2019](https://www.therobotreport.com/top-10-ros-based-robotics-companies-2019/)
 
 [Wind Turbines Guide | Homebuilding &amp; Renovating](https://www.homebuilding.co.uk/wind-turbines-guide/)
-
-[Automatic Index Recommendations in PostgreSQL using pg_qualstats and hypopg - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/22/automatic-index-recommendations-in-postgresql-using-pg_qualstats-and-hypopg/)
 
 [SQL Interface within JupyterLab (article) - DataCamp](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab)
 
@@ -1539,8 +1531,6 @@
 
 [NVIDIA&#39;s RTX Studio driver speeds up ray-traced V-Ray rendering | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/11/19/nvidia-rtx-studio-driver-v-ray-renders/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F11%2F19%2Fnvidia-rtx-studio-driver-v-ray-renders%2F)
 
-[Similarity in Postgres and Rails using Trigrams · pganalyze](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
-
 [Google&#39;s Flutter Framework Could Change Software Forever by Bridging Mobile, Desktop, Web and Embedded - DEV Community 👩‍💻👨‍💻](https://dev.to/carminezacc/google-s-flutter-framework-could-change-software-forever-by-bridging-mobile-desktop-web-and-embedded-563j)
 
 [Launcher Space | 3D Printed Rocket | Rocket Combustion Chamber](https://www-popularmechanics-com.cdn.ampproject.org/v/s/www.popularmechanics.com/space/rockets/amp29833666/3d-print-rocket-engine-combustion-chamber/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.popularmechanics.com%2Fspace%2Frockets%2Fa29833666%2F3d-print-rocket-engine-combustion-chamber%2F)
@@ -1554,8 +1544,6 @@
 [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)
 
 [hacker-laws/README.md at master · dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws/blob/master/README.md)
-
-[Similarity in Postgres and Rails using Trigrams · pganalyze](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
 
 [Launcher Space | 3D Printed Rocket | Rocket Combustion Chamber](https://www-popularmechanics-com.cdn.ampproject.org/v/s/www.popularmechanics.com/space/rockets/amp29833666/3d-print-rocket-engine-combustion-chamber/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.popularmechanics.com%2Fspace%2Frockets%2Fa29833666%2F3d-print-rocket-engine-combustion-chamber%2F)
 
@@ -1798,8 +1786,6 @@
 [SmartTools&#39; updated weight lifting cuffs are cheaper and more durable | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2020/01/05/smarttools-smartcuffs-blood-flow-restriction-training/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2020%2F01%2F05%2Fsmarttools-smartcuffs-blood-flow-restriction-training%2F)
 
 [Dimensions.Guide | Database of Dimensioned Drawings](https://www.dimensions.guide/)
-
-[Reddit - PostgreSQL - (PostgreSQL) Cube... What is it used for?](https://www.google.com/amp/s/amp.reddit.com/r/PostgreSQL/comments/7mru51/postgresql_cube_what_is_it_used_for/)
 
 [$2 Wemos W600-PICO WiFi IoT Board Ships with MicroPython Firmware](https://www-cnx--software-com.cdn.ampproject.org/v/s/www.cnx-software.com/2020/01/11/2-wemos-w600-pico-wifi-iot-board-ships-with-micropython-firmware/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnx-software.com%2F2020%2F01%2F11%2F2-wemos-w600-pico-wifi-iot-board-ships-with-micropython-firmware%2F)
 
@@ -2221,8 +2207,6 @@
 
 [MERN stack A to Z: Part 1 - LogRocket Blog](https://blog.logrocket.com/mern-stack-a-to-z-part-1/)
 
-[Amazon Aurora PostgreSQL Serverless – Now Generally Available | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-serverless-now-generally-available/)
-
 [Moving the World to a 4 Day Workweek – an Interview with Aidan Harper of the 4 Day Week Campaign](https://blog.30hourjobs.com/an-interview-with-aidan-harper-of-the-4-day-week-campaign/)
 
 [The Router&#39;s Obstacle-Strewn Route to Home IoT Security | Software | LinuxInsider](https://www.linuxinsider.com/story/86115.html)
@@ -2240,8 +2224,6 @@
 [Hubsan drones guide - hobby drones at their best - DroneRush](https://www-dronerush-com.cdn.ampproject.org/v/s/www.dronerush.com/hubsan-drones-guide-toys-x4-9810/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dronerush.com%2Fhubsan-drones-guide-toys-x4-9810%2F)
 
 [A Gallery of Voilà Examples - Jupyter Blog](https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130)
-
-[Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
 
 [JPMorgan creates robo-adviser You Invest portfolios with free ETFs](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/07/10/jpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F07%2F10%2Fjpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html)
 
@@ -2367,8 +2349,6 @@
 
 [Top 20+ Best Machine Learning Courses for Free in 2019](https://www.ubuntupit.com/best-machine-learning-courses-for-free/)
 
-[Using the PostgreSQL Operator with Rook Ceph Storage](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-with-rook-ceph-storage?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fcrunchy-postgresql-operator-with-rook-ceph-storage)
-
 [Matterhackers MH Build Series PLA 3D Printer Filament Review | All3DP](https://m.all3dp.com/2/matterhackers-mh-build-series-pla-filament-review/)
 
 [Nvidia recreates the Apollo 11 landing with real-time ray tracing – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/07/19/nvidia-recreates-the-apollo-11-landing-with-real-time-ray-tracing/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F07%2F19%2Fnvidia-recreates-the-apollo-11-landing-with-real-time-ray-tracing%2F)
@@ -2408,8 +2388,6 @@
 [Top 10 ROS-based robotics companies to know in 2019](https://www.therobotreport.com/top-10-ros-based-robotics-companies-2019/)
 
 [Wind Turbines Guide | Homebuilding &amp; Renovating](https://www.homebuilding.co.uk/wind-turbines-guide/)
-
-[Automatic Index Recommendations in PostgreSQL using pg_qualstats and hypopg - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/22/automatic-index-recommendations-in-postgresql-using-pg_qualstats-and-hypopg/)
 
 [SQL Interface within JupyterLab (article) - DataCamp](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab)
 
@@ -3465,8 +3443,6 @@
 
 [NVIDIA&#39;s RTX Studio driver speeds up ray-traced V-Ray rendering | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/11/19/nvidia-rtx-studio-driver-v-ray-renders/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F11%2F19%2Fnvidia-rtx-studio-driver-v-ray-renders%2F)
 
-[Similarity in Postgres and Rails using Trigrams · pganalyze](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
-
 [Google&#39;s Flutter Framework Could Change Software Forever by Bridging Mobile, Desktop, Web and Embedded - DEV Community 👩‍💻👨‍💻](https://dev.to/carminezacc/google-s-flutter-framework-could-change-software-forever-by-bridging-mobile-desktop-web-and-embedded-563j)
 
 [Launcher Space | 3D Printed Rocket | Rocket Combustion Chamber](https://www-popularmechanics-com.cdn.ampproject.org/v/s/www.popularmechanics.com/space/rockets/amp29833666/3d-print-rocket-engine-combustion-chamber/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.popularmechanics.com%2Fspace%2Frockets%2Fa29833666%2F3d-print-rocket-engine-combustion-chamber%2F)
@@ -3480,8 +3456,6 @@
 [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)
 
 [hacker-laws/README.md at master · dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws/blob/master/README.md)
-
-[Similarity in Postgres and Rails using Trigrams · pganalyze](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
 
 [Launcher Space | 3D Printed Rocket | Rocket Combustion Chamber](https://www-popularmechanics-com.cdn.ampproject.org/v/s/www.popularmechanics.com/space/rockets/amp29833666/3d-print-rocket-engine-combustion-chamber/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.popularmechanics.com%2Fspace%2Frockets%2Fa29833666%2F3d-print-rocket-engine-combustion-chamber%2F)
 
@@ -3724,8 +3698,6 @@
 [SmartTools&#39; updated weight lifting cuffs are cheaper and more durable | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2020/01/05/smarttools-smartcuffs-blood-flow-restriction-training/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2020%2F01%2F05%2Fsmarttools-smartcuffs-blood-flow-restriction-training%2F)
 
 [Dimensions.Guide | Database of Dimensioned Drawings](https://www.dimensions.guide/)
-
-[Reddit - PostgreSQL - (PostgreSQL) Cube... What is it used for?](https://www.google.com/amp/s/amp.reddit.com/r/PostgreSQL/comments/7mru51/postgresql_cube_what_is_it_used_for/)
 
 [$2 Wemos W600-PICO WiFi IoT Board Ships with MicroPython Firmware](https://www-cnx--software-com.cdn.ampproject.org/v/s/www.cnx-software.com/2020/01/11/2-wemos-w600-pico-wifi-iot-board-ships-with-micropython-firmware/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnx-software.com%2F2020%2F01%2F11%2F2-wemos-w600-pico-wifi-iot-board-ships-with-micropython-firmware%2F)
 

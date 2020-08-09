@@ -83,3 +83,15 @@
 [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)
 
 [What are PostgreSQL templates? | Supabase](https://supabase.io/blog/2020/07/09/postgresql-templates/)
+
+[Amazon Aurora PostgreSQL Serverless – Now Generally Available | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-serverless-now-generally-available/)
+
+[Automatic Index Recommendations in PostgreSQL using pg_qualstats and hypopg - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/22/automatic-index-recommendations-in-postgresql-using-pg_qualstats-and-hypopg/)
+
+[Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
+
+[Reddit - PostgreSQL - (PostgreSQL) Cube... What is it used for?](https://www.google.com/amp/s/amp.reddit.com/r/PostgreSQL/comments/7mru51/postgresql_cube_what_is_it_used_for/)
+
+[Similarity in Postgres and Rails using Trigrams · pganalyze](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
+
+[Using the PostgreSQL Operator with Rook Ceph Storage](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-with-rook-ceph-storage?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fcrunchy-postgresql-operator-with-rook-ceph-storage)
