@@ -283,8 +283,6 @@
 
 [OpenFOAM | Free CFD Software | The OpenFOAM Foundation](https://openfoam.org/)
 
-[Blender 2.8 Launch Pad Video Course released [$] - BlenderNation](https://www.blendernation.com/2019/07/09/blender-2-8-launch-pad-video-course-released/)
-
 [Yamaha answers Brose and Bosch&#39;s new mid-drive e-bike motors with its own powerhouse - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/07/08/yamaha-new-mid-drive-e-bike-motors/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F07%2F08%2Fyamaha-new-mid-drive-e-bike-motors%2F)
 
 [US army news: Black Hornet drone no bigger than a pencil set to change modern warfare | World | News | Express.co.uk](https://www-express-co-uk.cdn.ampproject.org/v/s/www.express.co.uk/news/world/1151041/us-army-news-black-hornet-drone-robot-warfare-nanodrone-technology/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.express.co.uk%2Fnews%2Fworld%2F1151041%2Fus-army-news-black-hornet-drone-robot-warfare-nanodrone-technology)
@@ -315,15 +313,11 @@
 
 [Hubsan drones guide - hobby drones at their best - DroneRush](https://www-dronerush-com.cdn.ampproject.org/v/s/www.dronerush.com/hubsan-drones-guide-toys-x4-9810/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dronerush.com%2Fhubsan-drones-guide-toys-x4-9810%2F)
 
-[- Art Gallery — Blender Cloud](https://cloud.blender.org/p/gallery/5d2607ee6b3001d49bab798a)
-
 [A Gallery of Voilà Examples - Jupyter Blog](https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130)
 
 [Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
 
 [JPMorgan creates robo-adviser You Invest portfolios with free ETFs](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/07/10/jpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F07%2F10%2Fjpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html)
-
-[Verge3D 2.13 for Blender Released - Soft8Soft](https://www.soft8soft.com/verge3d-2-13-for-blender-released/)
 
 [Flutter Boring tab to Cool tab](https://mightytechno.com/flutter-boring-tab-to-cool-tab/)
 
@@ -393,8 +387,6 @@
 
 [The Ultimate Guide To Building Scalable Web Scrapers With Scrapy — Smashing Magazine](https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/)
 
-[A Look into Archviz in Blender](https://80.lv/articles/a-look-into-archviz-in-blender/)
-
 [Want Better Integration with Ubuntu on Windows Subsystem for Linux? Try This New Metapackage - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/07/ubuntu-wsl-metapackage-install/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F07%2Fubuntu-wsl-metapackage-install)
 
 [the unreasonable effectiveness of data - Google Search](https://www.google.com/search?q=the+unreasonable+effectiveness+of+data&oq=the+unreasonable+effectiveness+of+data&aqs=chrome..69i57.26811j0j4&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
@@ -410,8 +402,6 @@
 [These Windows 10 Vs Pop OS Benchmarks Reveal A Surprising Truth About Linux Gaming Performance](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/07/17/these-windows-10-vs-pop-os-benchmarks-reveal-a-surprising-truth-about-linux-gaming-performance/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F07%2F17%2Fthese-windows-10-vs-pop-os-benchmarks-reveal-a-surprising-truth-about-linux-gaming-performance%2F)
 
 [elife sprint: Integrating Stencila and Binder - Jupyter Blog](https://blog.jupyter.org/elife-sprint-integrating-stencila-and-binder-18834e9ad584)
-
-[BlenderKit: &quot;Coolest New Addon To Blender 2.8&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/blenderkit-coolest-new-addon-to-blender-2-8/)
 
 [Intel&#39;s RealSense SR305 camera is designed for low-cost depth tracking | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/07/16/intels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F07%2F16%2Fintels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking%2F)
 
@@ -441,13 +431,9 @@
 
 [How to Mirror &amp; Control Your Android Phone from the Ubuntu Desktop - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/07/scrcpy-mirror-android-to-ubuntu-linux/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F07%2Fscrcpy-mirror-android-to-ubuntu-linux)
 
-[Free E-book: &quot;Programming Add-ons for Blender 2.80&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/free-e-book-programming-add-ons-for-blender-2-80/)
-
 [Unleashing Predator: Precomputed Data Repositories](https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories)
 
 [hozza/tmux-hints: ☕️ Automatically show a cheat sheet or notes for any command focused in tmux. e.i. Show vim, zsh, tmux notes/key-combos in a pane automatically while you&#39;re using them.](https://github.com/hozza/tmux-hints)
-
-[55 Free addons for Blender 2.8 in 50 minutes video - BlenderNation](https://www.blendernation.com/2019/07/19/55-free-addons-for-blender-2-8-in-50-minutes-video/)
 
 [Fun With Data Structures: Random Teleport Problem - Better Programming - Medium](https://medium.com/better-programming/fun-with-data-structures-random-teleport-problem-5499c3a7387d)
 
@@ -509,8 +495,6 @@
 
 [Listen to Music through the Ubuntu Terminal](https://vitux.com/listen-to-music-through-the-ubuntu-terminal/)
 
-[X-Pose Picker [$] - BlenderNation](https://www.blendernation.com/2019/07/24/x-pose-picker/)
-
 [Introducing TensorFlow Addons - TensorFlow - Medium](https://medium.com/tensorflow/introducing-tensorflow-addons-6131a50a3dcf)
 
 [Writing a C Compiler, Part 1](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
@@ -560,8 +544,6 @@
 [Image Panorama Stitching with OpenCV - Towards Data Science](https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c)
 
 [Goodbye Docker: Purging is Such Sweet Sorrow – zwischenzugs](https://zwischenzugs-com.cdn.ampproject.org/v/s/zwischenzugs.com/2019/07/27/goodbye-docker-purging-is-such-sweet-sorrow/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fzwischenzugs.com%2F2019%2F07%2F27%2Fgoodbye-docker-purging-is-such-sweet-sorrow%2F)
-
-[Skillshare - Lessons NewClasses](https://www.skillshare.com/classes/Make-your-first-Cute-Furry-3D-Character-with-Blender-2.8/301651900/lessons)
 
 [I made a zoom video of the Mandelbrot set with Rust and I thought you would want to see it, considering how much you liked the first video of variations of the Mandelbrot set over time - rust](https://www.reddit.com/r/rust/comments/ci19o2/i_made_a_zoom_video_of_the_mandelbrot_set_with/)
 
@@ -659,8 +641,6 @@
 
 [Kubernetes Logging 101](https://www-magalix-com.cdn.ampproject.org/v/s/www.magalix.com/blog/kubernetes-logging-101?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.magalix.com%2Fblog%2Fkubernetes-logging-101)
 
-[Creating Hand-Painted Models in Blender](https://80.lv/articles/creating-hand-painted-models-in-blender/)
-
 [Building jetson-containers for Nvidia devices on Windows 10 with VS Code and WSL v2 - DEV Community 👩‍💻👨‍💻](https://dev.to/azure/building-jetson-containers-for-nvidia-devices-on-windows-10-with-vs-code-and-wsl-v2-1ao)
 
 [Know-How Notes: All About Zip Ties - NAPA Know How BlogNAPA Know How Blog](http://knowhow.napaonline.com/know-notes-zip-ties/)
@@ -714,8 +694,6 @@
 [NIKA:\git-revise\&gt;](https://mystor.github.io/git-revise.html)
 
 [How to prepare for your drone flight with Pix4Dcapture | Pix4D](https://www.pix4d.com/blog/prepare-drone-flight-pix4dcapture)
-
-[NITROX3D Track 3 now available [$] - BlenderNation](https://www.blendernation.com/2019/08/06/nitrox3d-track-3-now-available/)
 
 [Implementing Algebraic Effects in C | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-319-71237-6_17)
 
@@ -859,8 +837,6 @@
 
 [How To Create Proper Folding for Vim/Nvim Configuration - jdhao&#39;s blog](https://jdhao.github.io/2019/08/16/nvim_config_folding/)
 
-[Top 10 Blender Modeling Addons (starting at $0) - BlenderNation](https://www.blendernation.com/2019/08/16/top-10-blender-modeling-addons-starting-at-0/)
-
 [3D sculpting: How to sculpt with style | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/3d-sculpting?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2F3d-sculpting)
 
 [Types of Single Phase Induction Motor | Split Phase Capacitor Start Run Shaded Pole | Electrical4U](https://www.electrical4u.com/types-of-single-phase-induction-motor/)
@@ -993,8 +969,6 @@
 
 [andohuman/Shadowcol: A python control interface to play games and control your PC using voice commands](https://github.com/andohuman/Shadowcol)
 
-[Blender Power Sequencer 1.3 is Out! - BlenderNation](https://www.blendernation.com/2019/08/31/blender-power-sequencer-1-3-is-out/)
-
 [The shift toward open source conversational AI | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/08/31/the-shift-toward-open-source-conversational-ai/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F08%2F31%2Fthe-shift-toward-open-source-conversational-ai%2F)
 
 [The 5 Most Interesting Things John Carmack Told Joe Rogan](https://uploadvr.com/carmack-joe-rogan-podcast/)
@@ -1022,8 +996,6 @@
 [Recreating Slack app’s on-boarding animation with Flutter](https://medium.com/flutter-community/recreating-slack-apps-on-boarding-animation-with-flutter-ec226ea19403)
 
 [Reinforcement Learning: Markov-Decision Process (Part 2)](https://towardsdatascience.com/reinforcement-learning-markov-decision-process-part-2-96837c936ec3)
-
-[Blender Drivers for Hand Rig - BlenderNation](https://www.blendernation.com/2019/09/01/blender-drivers-for-hand-rig/)
 
 [How to code an Arduino with a Chromebook – About Chromebooks](https://www.aboutchromebooks.com/news/how-to-code-an-arduino-with-a-chromebook/)
 
@@ -1075,13 +1047,9 @@
 
 [Pianoforall: The New Way To Learn Piano &amp; Keyboard | Geek.com Shop](https://shop.geek.com/sales/pianoforall-incredible-new-way-to-learn-piano-keyboard?utm_source=geek.com&utm_medium=referral-cta&utm_campaign=pianoforall-incredible-new-way-to-learn-piano-keyboard&utm_term=scsf-340339&utm_content=a0x1P000004MfiK&scsonar=1)
 
-[Free Material Pack 1 to 11 (99 Materials) are now available! Link in the comments - blender](https://www.reddit.com/r/blender/comments/d01knx/free_material_pack_1_to_11_99_materials_are_now/)
-
 [Permanent Magnet DC Motor (PMDC Motor) – How Do They Work?](https://www.electrical4u.com/permanent-magnet-dc-motor-or-pmdc-motor/)
 
 [reddit: the front page of the internet](https://www.reddit.com/r/rust/comments/d02gxk/fuzzcheck_an_evolutionary_coverageguided_fuzzing/)
-
-[Create a Mograph-like Looping Animation in Blender - Lesterbanks](https://lesterbanks.com/2019/09/create-a-mograph-like-looping-animation-in-blender/)
 
 [EmbarkStudios/texture-synthesis: 🎨 Example-based texture synthesis written in Rust 🦀](https://github.com/EmbarkStudios/texture-synthesis)
 
@@ -1096,8 +1064,6 @@
 [The 3D Printer Filament Recycler&#39;s Guide | All3DP](https://m.all3dp.com/2/the-3d-printer-filament-recycler-s-guide/)
 
 [Plastic Shredder for Making 3D Printer Filament : 19 Steps (with Pictures)](https://www.instructables.com/id/Plastic-shredder-for-making-3D-printer-filament/)
-
-[This took much longer than I thought it would - blender](https://www.reddit.com/r/blender/comments/d10026/this_took_much_longer_than_i_thought_it_would/)
 
 [Go: Overview of the Compiler - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889)
 
@@ -1123,11 +1089,7 @@
 
 [Rich-Harris/code-red: Experimental toolkit for writing x-to-JavaScript compilers](https://github.com/Rich-Harris/code-red)
 
-[Add-on: Modeling Cloth for Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/09/09/add-on-modeling-cloth-for-blender-2-8/)
-
 [Functional Web Development with Elixir, OTP, and Phoenix [Book]](https://www.oreilly.com/library/view/functional-web-development/9781680505436/)
-
-[How to Crumple Paper in Blender With a Cloth Sim - Lesterbanks](https://lesterbanks.com/2019/09/how-to-crumple-paper-in-blender-with-a-cloth-sim/)
 
 [Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide - By](https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a)
 
@@ -1142,8 +1104,6 @@
 [Firefox Private Network Offers a Glimpse of the Browser&#39;s Freemium Future – Liliputing](https://liliputing-com.cdn.ampproject.org/v/s/liliputing.com/2019/09/firefox-private-network-offers-a-glimpse-of-the-browsers-freemium-future.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fliliputing.com%2F2019%2F09%2Ffirefox-private-network-offers-a-glimpse-of-the-browsers-freemium-future.html)
 
 [NVDLA Deep Learning Inference Compiler is Now Open Source | NVIDIA Developer Blog](https://devblogs.nvidia.com/nvdla/)
-
-[Free Sketch Image Shader for Blender 2.80 - BlenderNation](https://www.blendernation.com/2019/09/12/free-sketch-image-shader-for-blender-2-80/)
 
 [If you’re not using SSH certificates you’re doing SSH wrong - smallstep](https://smallstep.com/blog/use-ssh-certificates/)
 
@@ -1165,8 +1125,6 @@
 
 [Scraping the Web: A fast and simple way to scrape Amazon](https://medium.com/@tusharseth93/scraping-the-web-a-fast-and-simple-way-to-scrape-amazon-b3d6d74d649f?)
 
-[Simulating fluid in blender 2.8 part1 - BlenderNation](https://www.blendernation.com/2019/09/14/simulating-fluid-in-blender-2-8-part1/)
-
 [How JavaScript works: Optimizing the V8 compiler for efficiency - LogRocket Blog](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)
 
 [Natural Language Processing: A Crash Course! - Towards Data Science](https://towardsdatascience.com/natural-language-processing-a-crash-course-73d7a07c240c)
@@ -1181,8 +1139,6 @@
 
 [Building Powerful GraphQL Servers with Rust - DEV Community 👩‍💻👨‍💻](https://dev.to/open-graphql/building-powerful-graphql-servers-with-rust-3gla)
 
-[What is BlendFab? - BlenderNation](https://www.blendernation.com/2019/09/14/what-is-blendfab/)
-
 [Draw your own circuits with liquid metal – Chembites](https://chembites.org/2019/09/10/draw-your-own-circuits-with-liquid-metal/)
 
 [Animating lots and lots of circles with WebGL and REGL.js / Armand Emamdjomeh / Observable](https://observablehq.com/@emamd/animating-lots-and-lots-of-circles-with-regl-js)
@@ -1191,21 +1147,15 @@
 
 [A beginner&#39;s guide to hacking Microwatt](https://www.talospace.com/2019/09/a-beginners-guide-to-hacking-microwatt.html?m=1)
 
-[Blender Artists Community](https://blenderartists.org/)
-
 [Vintage Toyota Land Cruiser going all-electric—with a crate “V-8”](https://www.greencarreports.com/news/1125057_vintage-toyota-land-cruiser-going-all-electric-with-a-crate-v-8)
 
 [Create your first Image Recognition Classifier using CNN, Keras and Tensorflow backend](https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd)
 
 [](https://opensource.com/article/19/9/linux-commands-hardware-information)
 
-[Blender Eevee: The guide to real-time rendering with Blender 2.8 [$] - BlenderNation](https://www.blendernation.com/2019/09/16/blender-eevee-the-guide-to-real-time-rendering-with-blender-2-8/)
-
 [Feh is a light-weight command-line image viewer for Linux - gHacks Tech News](https://www.ghacks.net/2019/09/16/feh-is-a-light-weight-command-line-image-viewer-for-linux/)
 
 [How to Send and Receive SMS Messages With Node.js and Express - DEV Community 👩‍💻👨‍💻](https://dev.to/nexmo/how-to-send-and-receive-sms-messages-with-node-js-and-express-4g46)
-
-[The Blender Tutorial Bible - 150 Handpicked Blender Tutorials - Stylized Station - Learn Stylized Art](https://stylizedstation.com/article/blender-tutorial-bible/)
 
 [A New Shanghainese Restaurant Opens in Downtown Portland This Month - Eater Portland](https://pdx-eater-com.cdn.ampproject.org/v/s/pdx.eater.com/platform/amp/2019/9/17/20870820/shanghai-chinese-restaurant-portland-opening-downtown?amp_js_v=a2&amp_gsa=1&usqp=mq331AQEKAFwAQ%3D%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpdx.eater.com%2F2019%2F9%2F17%2F20870820%2Fshanghai-chinese-restaurant-portland-opening-downtown)
 
@@ -1253,8 +1203,6 @@
 
 [Richard Wagner: totalizing master of endless melodies](https://www.the-tls.co.uk/articles/public/richard-wagner-totalizing-master-of-endless-melodies/)
 
-[Blender 2.81 Sculpt Mode Features and Fast Sculpt - BlenderNation](https://www.blendernation.com/2019/09/21/blender-2-81-sculpt-mode-features-and-fast-sculpt/)
-
 [Lululemon: Priced Beyond Perfection - Lululemon Athletica Inc. (NASDAQ:LULU) | Seeking Alpha](https://seekingalpha-com.cdn.ampproject.org/v/s/seekingalpha.com/amp/article/4292799-lululemon-priced-beyond-perfection?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4292799-lululemon-priced-beyond-perfection)
 
 [2019 Anet ET4 3D Printer Review: 10-Hour Testing | All3DP](https://m.all3dp.com/1/anet-et4-review-3d-printer-specs/)
@@ -1275,8 +1223,6 @@
 
 [It is ⌚time to ditch ReactJS or Angular and use better web standards like web components😍 part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/lampewebdev/it-is-time-to-ditch-reactjs-or-angular-and-use-better-web-standards-like-web-components-part-1-3mba)
 
-[Appleseed team releases blenderseed 2.0 - BlenderNation](https://www.blendernation.com/2019/09/23/appleseed-team-releases-blenderseed-2-0/)
-
 [Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
 
 [RedShark News - This company has made remote workstations so responsive it&#39;s hard to believe they are in the &#39;cloud&#39;](https://www.redsharknews.com/production/item/6662-this-company-has-made-remote-workstations-so-responsive-it-s-hard-to-believe-they-are-in-the-cloud)
@@ -1293,13 +1239,9 @@
 
 [WebAssembly Isolation with Tyler McMullen - Software Engineering Daily](https://softwareengineeringdaily.com/2019/09/25/webassembly-isolation-with-tyler-mcmullen/)
 
-[Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
-
 [Teaching Tech Together](http://teachtogether.tech/)
 
 [Why don&#39;t drones use small versions of commercial aircraft engines? | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/why-dont-drones-use-small-versions-of-commercial-aircraft-engines/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwhy-dont-drones-use-small-versions-of-commercial-aircraft-engines%2F)
-
-[Eevee Toon Shaders – Blender NPR](https://blendernpr.org/eevee-toon-shaders/)
 
 [V8 release v7.8 · V8](https://v8.dev/blog/v8-release-78)
 
@@ -1359,8 +1301,6 @@
 
 [Unagi is the iPhone of scooters you actually buy – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/10/01/unagi-scooter/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F10%2F01%2Funagi-scooter%2F)
 
-[LuxCoreRender team releases LuxCoreRender 2.2 - BlenderNation](https://www.blendernation.com/2019/10/02/luxcorerender-team-releases-luxcorerender-2-2/)
-
 [Animating lots and lots of circles with WebGL and REGL.js / Armand Emamdjomeh / Observable](https://observablehq.com/@emamd/animating-lots-and-lots-of-circles-with-regl-js)
 
 [Even the AI Behind Deepfakes Can’t Save Us From Being Duped](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/ai-deepfakes-cant-save-us-duped/amp?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fai-deepfakes-cant-save-us-duped%2F)
@@ -1368,8 +1308,6 @@
 [Become a Hollywood movie hacker with these three command line tools | Opensource.com](https://opensource.com/article/18/2/command-line-tools-productivity)
 
 [](http://bradleybossard.github.io/resume/)
-
-[Realistic Grass Assistant - Free PBR Grass Pack - BlenderNation](https://www.blendernation.com/2019/10/04/realistic-grass-assistant-free-pbr-grass-pack/)
 
 [Partitioning: The Magic Recipe For Distributed Systems](https://medium.com/@Pranaykc/understanding-partitioning-in-distributed-systems-4ac3c8010fae)
 
@@ -1397,8 +1335,6 @@
 
 [Announcing WebAssembly.sh - Wasmer - Medium](https://medium.com/wasmer/webassembly-sh-408b010c14db)
 
-[3D Model Haven is coming! - BlenderNation](https://www.blendernation.com/2019/10/09/3d-model-haven-is-coming/)
-
 [0.100: Better Plex, Bye JSON, HERE Travel time. - Home Assistant](https://www.home-assistant.io/blog/2019/10/10/release-100/)
 
 [Ubuntu 19.10 Makes It So Easy To Have Your Desktop Running Off A ZFS File-System - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-19.10-ZFS-Install-Works)
@@ -1414,8 +1350,6 @@
 [FREY unveils pricing and takes orders for its 31 MPH and 1,500W electric bikes - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/10/11/frey-bikes-ex-cc-electric-bike-suspension/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F10%2F11%2Ffrey-bikes-ex-cc-electric-bike-suspension%2F)
 
 [Original Prusa MINI - Prusa3d.com - Open-source 3D printers by Josef Prusa](https://www.prusa3d.com/original-prusa-mini/)
-
-[Blender Basics Course got an Update - BlenderNation](https://www.blendernation.com/2018/07/15/blender-basics-course-got-an-update/)
 
 [Conky is a highly customizable system monitor for Linux - gHacks Tech News](https://www.ghacks.net/2019/10/11/conky-is-a-highly-customizable-system-monitor-for-linux/)
 
@@ -1442,8 +1376,6 @@
 [Learning to Simulate - Towards Data Science](https://towardsdatascience.com/learning-to-simulate-c53d8b393a56)
 
 [How much is my Plasma tv worth? | Tom&#39;s Guide Forum](https://forums.tomsguide.com/threads/how-much-is-my-plasma-tv-worth.201435/)
-
-[BlendFab Sync Package brings over 35,000 3D assets to your Blender [$] - BlenderNation](https://www.blendernation.com/2019/10/14/blendfab-sync-package-brings-over-35000-3d-assets-to-your-blender/)
 
 [Kubernetes Networking: Behind the scenes - ITNEXT](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
 
@@ -1631,8 +1563,6 @@
 
 [From Awesome Bar to Parser (1/n) – Will Writes About Things](https://www.obs.cr/2019/11/16/from-awesome-bar-to-parser-1-n/)
 
-[NVIDIA&#39;s latest RTX Studio drivers make Blender four times faster | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/11/21/nvidia-rtx-studio-blender-4x-faster/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F11%2F21%2Fnvidia-rtx-studio-blender-4x-faster%2F)
-
 [The Flux beamo is a $1,500 laser cutter with simple but powerful software – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/11/21/the-flux-beamo-is-a-1500-laser-cutter-with-simple-but-powerful-software/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F11%2F21%2Fthe-flux-beamo-is-a-1500-laser-cutter-with-simple-but-powerful-software%2F)
 
 [The Log: What every software engineer should know about real-time data&#39;s unifying abstraction | LinkedIn Engineering](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
@@ -1686,8 +1616,6 @@
 [Web Scraping Made Simple With Zenscrape | CSS-Tricks](https://css-tricks.com/web-scraping-made-simple-with-zenscrape/)
 
 [iowa jersey Nile kinnick - Google Search](https://www.google.com/search?q=iowa+jersey+Nile+kinnick&safe=off&client=ms-android-verizon&sa=X&sxsrf=ACYBGNSBTyb_ABDL8IiobnDJGk5yYObtXw:1575085886889&ved=1t:36565&uact=5#scso=_Y-fhXYOnFpy90PEP8IiU0As76:3733.71435546875.52392578125.142822265625.52392578125.71435546875.09521484375.047607421875.380859375.333251953125.047607421875.666748046875.333251953125.380859375.47607421875.857177734375.238037109375.857177734375.5714111328125.6666259765625.1904296875.761962890625.8095703125.3809814453125.1904296875.1904296875.5714111328125.1904296875.1904296875.3333129882812.4285888671875.3809814453125.1904907226562.7142944335938.6666870117188.19049072265625.2857208251953.2857208251953.28571319580078)
-
-[Rooster - Artwork / Finished Projects - Blender Artists Community](https://blenderartists.org/t/rooster/1196397)
 
 [Fuchsia and the Server: Why I&#39;m Betting on Linux - DEV Community 👩‍💻👨‍💻](https://dev.to/tylerlwsmith/fuchsia-and-the-server-why-i-m-betting-on-linux-20ah)
 
@@ -1764,8 +1692,6 @@
 [Springer Handbook of Robotics - Multimedia Extension - Chapter Videos](http://handbookofrobotics.org/view-chapter/videodetails)
 
 [Mind the Gaps | data Blog = Blog { me :: Programmer, posts :: [Opinion] }](https://asthasr.github.io/posts/mind-the-gaps/)
-
-[LeoMoon LightStudio Development Fund - BlenderNation](https://www.blendernation.com/2020/01/18/leomoon-lightstudio-development-fund/)
 
 [The new Supernova: Flutter enabled, Google approved](https://medium.com/@appsupernova/the-new-supernova-flutter-enabled-google-approved-7af2b79323df)
 
@@ -1931,8 +1857,6 @@
 
 [Introduction - Getflutter](https://docs.getflutter.dev/)
 
-[15+ Awesome BLENDER Channels to follow in 2020 - BlenderNation](https://www.blendernation.com/2020/01/18/15-awesome-blender-channels-to-follow-in-2020/)
-
 [The polygons of Another World](http://fabiensanglard.net/another_world_polygons/index.html)
 
 [Part 1: We need channels! A gentle introduction to CSP.](https://krasimirtsonev.com/blog/article/we-need-channels-intro-to-csp)
@@ -1961,8 +1885,6 @@
 
 [What is WebAssembly? And can you really compile C/C++ to it? And it&#39;ll run in browsers? Allow us to explain in this gentle introduction • The Register](https://www-theregister-co-uk.cdn.ampproject.org/v/s/www.theregister.co.uk/AMP/2020/01/27/webassembly_intro/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theregister.co.uk%2F2020%2F01%2F27%2Fwebassembly_intro%2F)
 
-[&quot;Mist-ifying&quot; Maps in Blender – Peter Atwood](https://peteratwoodprojects.wordpress.com/mist-ifying-maps-in-blender/)
-
 [VITUX - Linux Compendium](https://vitux.com/)
 
 [ACM Ubiquity: Symposia](https://ubiquity.acm.org/symposia.cfm)
@@ -1978,8 +1900,6 @@
 [Just how big a deal is Google&#39;s new Meena chatbot model? | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2020/02/01/just-how-big-a-deal-is-googles-new-meena-chatbot-model/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2020%2F02%2F01%2Fjust-how-big-a-deal-is-googles-new-meena-chatbot-model%2F)
 
 [Jeep e-bike unveiled with massive 1.5 kW electric motor and 40 mile range](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2020/02/02/jeep-unveils-electric-bicycle-1-5-kw-peak-motor/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2020%2F02%2F02%2Fjeep-unveils-electric-bicycle-1-5-kw-peak-motor%2F)
-
-[making ancient architecture in blender 2.8 - BlenderNation](https://www.blendernation.com/2020/02/02/making-ancient-architecture-in-blender-2-8/)
 
 [CNC Hot-Wire Cutter Gives Form To Foam | Hackaday](https://hackaday.com/2020/02/01/cnc-hot-wire-cutter-gives-form-to-foams/)
 
@@ -2289,8 +2209,6 @@
 
 [OpenFOAM | Free CFD Software | The OpenFOAM Foundation](https://openfoam.org/)
 
-[Blender 2.8 Launch Pad Video Course released [$] - BlenderNation](https://www.blendernation.com/2019/07/09/blender-2-8-launch-pad-video-course-released/)
-
 [Yamaha answers Brose and Bosch&#39;s new mid-drive e-bike motors with its own powerhouse - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/07/08/yamaha-new-mid-drive-e-bike-motors/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F07%2F08%2Fyamaha-new-mid-drive-e-bike-motors%2F)
 
 [US army news: Black Hornet drone no bigger than a pencil set to change modern warfare | World | News | Express.co.uk](https://www-express-co-uk.cdn.ampproject.org/v/s/www.express.co.uk/news/world/1151041/us-army-news-black-hornet-drone-robot-warfare-nanodrone-technology/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.express.co.uk%2Fnews%2Fworld%2F1151041%2Fus-army-news-black-hornet-drone-robot-warfare-nanodrone-technology)
@@ -2321,15 +2239,11 @@
 
 [Hubsan drones guide - hobby drones at their best - DroneRush](https://www-dronerush-com.cdn.ampproject.org/v/s/www.dronerush.com/hubsan-drones-guide-toys-x4-9810/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.dronerush.com%2Fhubsan-drones-guide-toys-x4-9810%2F)
 
-[- Art Gallery — Blender Cloud](https://cloud.blender.org/p/gallery/5d2607ee6b3001d49bab798a)
-
 [A Gallery of Voilà Examples - Jupyter Blog](https://blog.jupyter.org/a-gallery-of-voil%C3%A0-examples-a2ce7ef99130)
 
 [Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
 
 [JPMorgan creates robo-adviser You Invest portfolios with free ETFs](https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2019/07/10/jpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cnbc.com%2F2019%2F07%2F10%2Fjpmorgan-creates-robo-adviser-you-invest-portfolios-with-free-etfs.html)
-
-[Verge3D 2.13 for Blender Released - Soft8Soft](https://www.soft8soft.com/verge3d-2-13-for-blender-released/)
 
 [Flutter Boring tab to Cool tab](https://mightytechno.com/flutter-boring-tab-to-cool-tab/)
 
@@ -2399,8 +2313,6 @@
 
 [The Ultimate Guide To Building Scalable Web Scrapers With Scrapy — Smashing Magazine](https://www.smashingmagazine.com/2019/07/ultimate-guide-scalable-web-scrapers-scrapy/)
 
-[A Look into Archviz in Blender](https://80.lv/articles/a-look-into-archviz-in-blender/)
-
 [Want Better Integration with Ubuntu on Windows Subsystem for Linux? Try This New Metapackage - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/07/ubuntu-wsl-metapackage-install/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F07%2Fubuntu-wsl-metapackage-install)
 
 [the unreasonable effectiveness of data - Google Search](https://www.google.com/search?q=the+unreasonable+effectiveness+of+data&oq=the+unreasonable+effectiveness+of+data&aqs=chrome..69i57.26811j0j4&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8)
@@ -2416,8 +2328,6 @@
 [These Windows 10 Vs Pop OS Benchmarks Reveal A Surprising Truth About Linux Gaming Performance](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/jasonevangelho/2019/07/17/these-windows-10-vs-pop-os-benchmarks-reveal-a-surprising-truth-about-linux-gaming-performance/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjasonevangelho%2F2019%2F07%2F17%2Fthese-windows-10-vs-pop-os-benchmarks-reveal-a-surprising-truth-about-linux-gaming-performance%2F)
 
 [elife sprint: Integrating Stencila and Binder - Jupyter Blog](https://blog.jupyter.org/elife-sprint-integrating-stencila-and-binder-18834e9ad584)
-
-[BlenderKit: &quot;Coolest New Addon To Blender 2.8&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/blenderkit-coolest-new-addon-to-blender-2-8/)
 
 [Intel&#39;s RealSense SR305 camera is designed for low-cost depth tracking | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/07/16/intels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F07%2F16%2Fintels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking%2F)
 
@@ -2447,13 +2357,9 @@
 
 [How to Mirror &amp; Control Your Android Phone from the Ubuntu Desktop - OMG! Ubuntu!](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2019/07/scrcpy-mirror-android-to-ubuntu-linux/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2019%2F07%2Fscrcpy-mirror-android-to-ubuntu-linux)
 
-[Free E-book: &quot;Programming Add-ons for Blender 2.80&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/free-e-book-programming-add-ons-for-blender-2-80/)
-
 [Unleashing Predator: Precomputed Data Repositories](https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories)
 
 [hozza/tmux-hints: ☕️ Automatically show a cheat sheet or notes for any command focused in tmux. e.i. Show vim, zsh, tmux notes/key-combos in a pane automatically while you&#39;re using them.](https://github.com/hozza/tmux-hints)
-
-[55 Free addons for Blender 2.8 in 50 minutes video - BlenderNation](https://www.blendernation.com/2019/07/19/55-free-addons-for-blender-2-8-in-50-minutes-video/)
 
 [Fun With Data Structures: Random Teleport Problem - Better Programming - Medium](https://medium.com/better-programming/fun-with-data-structures-random-teleport-problem-5499c3a7387d)
 
@@ -2515,8 +2421,6 @@
 
 [Listen to Music through the Ubuntu Terminal](https://vitux.com/listen-to-music-through-the-ubuntu-terminal/)
 
-[X-Pose Picker [$] - BlenderNation](https://www.blendernation.com/2019/07/24/x-pose-picker/)
-
 [Introducing TensorFlow Addons - TensorFlow - Medium](https://medium.com/tensorflow/introducing-tensorflow-addons-6131a50a3dcf)
 
 [Writing a C Compiler, Part 1](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
@@ -2566,8 +2470,6 @@
 [Image Panorama Stitching with OpenCV - Towards Data Science](https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c)
 
 [Goodbye Docker: Purging is Such Sweet Sorrow – zwischenzugs](https://zwischenzugs-com.cdn.ampproject.org/v/s/zwischenzugs.com/2019/07/27/goodbye-docker-purging-is-such-sweet-sorrow/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fzwischenzugs.com%2F2019%2F07%2F27%2Fgoodbye-docker-purging-is-such-sweet-sorrow%2F)
-
-[Skillshare - Lessons NewClasses](https://www.skillshare.com/classes/Make-your-first-Cute-Furry-3D-Character-with-Blender-2.8/301651900/lessons)
 
 [I made a zoom video of the Mandelbrot set with Rust and I thought you would want to see it, considering how much you liked the first video of variations of the Mandelbrot set over time - rust](https://www.reddit.com/r/rust/comments/ci19o2/i_made_a_zoom_video_of_the_mandelbrot_set_with/)
 
@@ -2665,8 +2567,6 @@
 
 [Kubernetes Logging 101](https://www-magalix-com.cdn.ampproject.org/v/s/www.magalix.com/blog/kubernetes-logging-101?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.magalix.com%2Fblog%2Fkubernetes-logging-101)
 
-[Creating Hand-Painted Models in Blender](https://80.lv/articles/creating-hand-painted-models-in-blender/)
-
 [Building jetson-containers for Nvidia devices on Windows 10 with VS Code and WSL v2 - DEV Community 👩‍💻👨‍💻](https://dev.to/azure/building-jetson-containers-for-nvidia-devices-on-windows-10-with-vs-code-and-wsl-v2-1ao)
 
 [Know-How Notes: All About Zip Ties - NAPA Know How BlogNAPA Know How Blog](http://knowhow.napaonline.com/know-notes-zip-ties/)
@@ -2720,8 +2620,6 @@
 [NIKA:\git-revise\&gt;](https://mystor.github.io/git-revise.html)
 
 [How to prepare for your drone flight with Pix4Dcapture | Pix4D](https://www.pix4d.com/blog/prepare-drone-flight-pix4dcapture)
-
-[NITROX3D Track 3 now available [$] - BlenderNation](https://www.blendernation.com/2019/08/06/nitrox3d-track-3-now-available/)
 
 [Implementing Algebraic Effects in C | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-319-71237-6_17)
 
@@ -2865,8 +2763,6 @@
 
 [How To Create Proper Folding for Vim/Nvim Configuration - jdhao&#39;s blog](https://jdhao.github.io/2019/08/16/nvim_config_folding/)
 
-[Top 10 Blender Modeling Addons (starting at $0) - BlenderNation](https://www.blendernation.com/2019/08/16/top-10-blender-modeling-addons-starting-at-0/)
-
 [3D sculpting: How to sculpt with style | Creative Bloq](https://www-creativebloq-com.cdn.ampproject.org/v/s/www.creativebloq.com/amp/features/3d-sculpting?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.creativebloq.com%2Ffeatures%2F3d-sculpting)
 
 [Types of Single Phase Induction Motor | Split Phase Capacitor Start Run Shaded Pole | Electrical4U](https://www.electrical4u.com/types-of-single-phase-induction-motor/)
@@ -2999,8 +2895,6 @@
 
 [andohuman/Shadowcol: A python control interface to play games and control your PC using voice commands](https://github.com/andohuman/Shadowcol)
 
-[Blender Power Sequencer 1.3 is Out! - BlenderNation](https://www.blendernation.com/2019/08/31/blender-power-sequencer-1-3-is-out/)
-
 [The shift toward open source conversational AI | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/08/31/the-shift-toward-open-source-conversational-ai/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F08%2F31%2Fthe-shift-toward-open-source-conversational-ai%2F)
 
 [The 5 Most Interesting Things John Carmack Told Joe Rogan](https://uploadvr.com/carmack-joe-rogan-podcast/)
@@ -3028,8 +2922,6 @@
 [Recreating Slack app’s on-boarding animation with Flutter](https://medium.com/flutter-community/recreating-slack-apps-on-boarding-animation-with-flutter-ec226ea19403)
 
 [Reinforcement Learning: Markov-Decision Process (Part 2)](https://towardsdatascience.com/reinforcement-learning-markov-decision-process-part-2-96837c936ec3)
-
-[Blender Drivers for Hand Rig - BlenderNation](https://www.blendernation.com/2019/09/01/blender-drivers-for-hand-rig/)
 
 [How to code an Arduino with a Chromebook – About Chromebooks](https://www.aboutchromebooks.com/news/how-to-code-an-arduino-with-a-chromebook/)
 
@@ -3081,13 +2973,9 @@
 
 [Pianoforall: The New Way To Learn Piano &amp; Keyboard | Geek.com Shop](https://shop.geek.com/sales/pianoforall-incredible-new-way-to-learn-piano-keyboard?utm_source=geek.com&utm_medium=referral-cta&utm_campaign=pianoforall-incredible-new-way-to-learn-piano-keyboard&utm_term=scsf-340339&utm_content=a0x1P000004MfiK&scsonar=1)
 
-[Free Material Pack 1 to 11 (99 Materials) are now available! Link in the comments - blender](https://www.reddit.com/r/blender/comments/d01knx/free_material_pack_1_to_11_99_materials_are_now/)
-
 [Permanent Magnet DC Motor (PMDC Motor) – How Do They Work?](https://www.electrical4u.com/permanent-magnet-dc-motor-or-pmdc-motor/)
 
 [reddit: the front page of the internet](https://www.reddit.com/r/rust/comments/d02gxk/fuzzcheck_an_evolutionary_coverageguided_fuzzing/)
-
-[Create a Mograph-like Looping Animation in Blender - Lesterbanks](https://lesterbanks.com/2019/09/create-a-mograph-like-looping-animation-in-blender/)
 
 [EmbarkStudios/texture-synthesis: 🎨 Example-based texture synthesis written in Rust 🦀](https://github.com/EmbarkStudios/texture-synthesis)
 
@@ -3102,8 +2990,6 @@
 [The 3D Printer Filament Recycler&#39;s Guide | All3DP](https://m.all3dp.com/2/the-3d-printer-filament-recycler-s-guide/)
 
 [Plastic Shredder for Making 3D Printer Filament : 19 Steps (with Pictures)](https://www.instructables.com/id/Plastic-shredder-for-making-3D-printer-filament/)
-
-[This took much longer than I thought it would - blender](https://www.reddit.com/r/blender/comments/d10026/this_took_much_longer_than_i_thought_it_would/)
 
 [Go: Overview of the Compiler - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889)
 
@@ -3129,11 +3015,7 @@
 
 [Rich-Harris/code-red: Experimental toolkit for writing x-to-JavaScript compilers](https://github.com/Rich-Harris/code-red)
 
-[Add-on: Modeling Cloth for Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/09/09/add-on-modeling-cloth-for-blender-2-8/)
-
 [Functional Web Development with Elixir, OTP, and Phoenix [Book]](https://www.oreilly.com/library/view/functional-web-development/9781680505436/)
-
-[How to Crumple Paper in Blender With a Cloth Sim - Lesterbanks](https://lesterbanks.com/2019/09/how-to-crumple-paper-in-blender-with-a-cloth-sim/)
 
 [Understanding IPFS in Depth(1/6): A Beginner to Advanced Guide - By](https://hackernoon.com/understanding-ipfs-in-depth-1-5-a-beginner-to-advanced-guide-e937675a8c8a)
 
@@ -3148,8 +3030,6 @@
 [Firefox Private Network Offers a Glimpse of the Browser&#39;s Freemium Future – Liliputing](https://liliputing-com.cdn.ampproject.org/v/s/liliputing.com/2019/09/firefox-private-network-offers-a-glimpse-of-the-browsers-freemium-future.html/amp?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fliliputing.com%2F2019%2F09%2Ffirefox-private-network-offers-a-glimpse-of-the-browsers-freemium-future.html)
 
 [NVDLA Deep Learning Inference Compiler is Now Open Source | NVIDIA Developer Blog](https://devblogs.nvidia.com/nvdla/)
-
-[Free Sketch Image Shader for Blender 2.80 - BlenderNation](https://www.blendernation.com/2019/09/12/free-sketch-image-shader-for-blender-2-80/)
 
 [If you’re not using SSH certificates you’re doing SSH wrong - smallstep](https://smallstep.com/blog/use-ssh-certificates/)
 
@@ -3171,8 +3051,6 @@
 
 [Scraping the Web: A fast and simple way to scrape Amazon](https://medium.com/@tusharseth93/scraping-the-web-a-fast-and-simple-way-to-scrape-amazon-b3d6d74d649f?)
 
-[Simulating fluid in blender 2.8 part1 - BlenderNation](https://www.blendernation.com/2019/09/14/simulating-fluid-in-blender-2-8-part1/)
-
 [How JavaScript works: Optimizing the V8 compiler for efficiency - LogRocket Blog](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)
 
 [Natural Language Processing: A Crash Course! - Towards Data Science](https://towardsdatascience.com/natural-language-processing-a-crash-course-73d7a07c240c)
@@ -3187,8 +3065,6 @@
 
 [Building Powerful GraphQL Servers with Rust - DEV Community 👩‍💻👨‍💻](https://dev.to/open-graphql/building-powerful-graphql-servers-with-rust-3gla)
 
-[What is BlendFab? - BlenderNation](https://www.blendernation.com/2019/09/14/what-is-blendfab/)
-
 [Draw your own circuits with liquid metal – Chembites](https://chembites.org/2019/09/10/draw-your-own-circuits-with-liquid-metal/)
 
 [Animating lots and lots of circles with WebGL and REGL.js / Armand Emamdjomeh / Observable](https://observablehq.com/@emamd/animating-lots-and-lots-of-circles-with-regl-js)
@@ -3197,21 +3073,15 @@
 
 [A beginner&#39;s guide to hacking Microwatt](https://www.talospace.com/2019/09/a-beginners-guide-to-hacking-microwatt.html?m=1)
 
-[Blender Artists Community](https://blenderartists.org/)
-
 [Vintage Toyota Land Cruiser going all-electric—with a crate “V-8”](https://www.greencarreports.com/news/1125057_vintage-toyota-land-cruiser-going-all-electric-with-a-crate-v-8)
 
 [Create your first Image Recognition Classifier using CNN, Keras and Tensorflow backend](https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd)
 
 [](https://opensource.com/article/19/9/linux-commands-hardware-information)
 
-[Blender Eevee: The guide to real-time rendering with Blender 2.8 [$] - BlenderNation](https://www.blendernation.com/2019/09/16/blender-eevee-the-guide-to-real-time-rendering-with-blender-2-8/)
-
 [Feh is a light-weight command-line image viewer for Linux - gHacks Tech News](https://www.ghacks.net/2019/09/16/feh-is-a-light-weight-command-line-image-viewer-for-linux/)
 
 [How to Send and Receive SMS Messages With Node.js and Express - DEV Community 👩‍💻👨‍💻](https://dev.to/nexmo/how-to-send-and-receive-sms-messages-with-node-js-and-express-4g46)
-
-[The Blender Tutorial Bible - 150 Handpicked Blender Tutorials - Stylized Station - Learn Stylized Art](https://stylizedstation.com/article/blender-tutorial-bible/)
 
 [A New Shanghainese Restaurant Opens in Downtown Portland This Month - Eater Portland](https://pdx-eater-com.cdn.ampproject.org/v/s/pdx.eater.com/platform/amp/2019/9/17/20870820/shanghai-chinese-restaurant-portland-opening-downtown?amp_js_v=a2&amp_gsa=1&usqp=mq331AQEKAFwAQ%3D%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fpdx.eater.com%2F2019%2F9%2F17%2F20870820%2Fshanghai-chinese-restaurant-portland-opening-downtown)
 
@@ -3259,8 +3129,6 @@
 
 [Richard Wagner: totalizing master of endless melodies](https://www.the-tls.co.uk/articles/public/richard-wagner-totalizing-master-of-endless-melodies/)
 
-[Blender 2.81 Sculpt Mode Features and Fast Sculpt - BlenderNation](https://www.blendernation.com/2019/09/21/blender-2-81-sculpt-mode-features-and-fast-sculpt/)
-
 [Lululemon: Priced Beyond Perfection - Lululemon Athletica Inc. (NASDAQ:LULU) | Seeking Alpha](https://seekingalpha-com.cdn.ampproject.org/v/s/seekingalpha.com/amp/article/4292799-lululemon-priced-beyond-perfection?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4292799-lululemon-priced-beyond-perfection)
 
 [2019 Anet ET4 3D Printer Review: 10-Hour Testing | All3DP](https://m.all3dp.com/1/anet-et4-review-3d-printer-specs/)
@@ -3281,8 +3149,6 @@
 
 [It is ⌚time to ditch ReactJS or Angular and use better web standards like web components😍 part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/lampewebdev/it-is-time-to-ditch-reactjs-or-angular-and-use-better-web-standards-like-web-components-part-1-3mba)
 
-[Appleseed team releases blenderseed 2.0 - BlenderNation](https://www.blendernation.com/2019/09/23/appleseed-team-releases-blenderseed-2-0/)
-
 [Calls between JavaScript and WebAssembly are finally fast 🎉 - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
 
 [RedShark News - This company has made remote workstations so responsive it&#39;s hard to believe they are in the &#39;cloud&#39;](https://www.redsharknews.com/production/item/6662-this-company-has-made-remote-workstations-so-responsive-it-s-hard-to-believe-they-are-in-the-cloud)
@@ -3299,13 +3165,9 @@
 
 [WebAssembly Isolation with Tyler McMullen - Software Engineering Daily](https://softwareengineeringdaily.com/2019/09/25/webassembly-isolation-with-tyler-mcmullen/)
 
-[Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
-
 [Teaching Tech Together](http://teachtogether.tech/)
 
 [Why don&#39;t drones use small versions of commercial aircraft engines? | ZDNet](https://www-zdnet-com.cdn.ampproject.org/v/s/www.zdnet.com/google-amp/article/why-dont-drones-use-small-versions-of-commercial-aircraft-engines/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fwhy-dont-drones-use-small-versions-of-commercial-aircraft-engines%2F)
-
-[Eevee Toon Shaders – Blender NPR](https://blendernpr.org/eevee-toon-shaders/)
 
 [V8 release v7.8 · V8](https://v8.dev/blog/v8-release-78)
 
@@ -3365,8 +3227,6 @@
 
 [Unagi is the iPhone of scooters you actually buy – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/10/01/unagi-scooter/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F10%2F01%2Funagi-scooter%2F)
 
-[LuxCoreRender team releases LuxCoreRender 2.2 - BlenderNation](https://www.blendernation.com/2019/10/02/luxcorerender-team-releases-luxcorerender-2-2/)
-
 [Animating lots and lots of circles with WebGL and REGL.js / Armand Emamdjomeh / Observable](https://observablehq.com/@emamd/animating-lots-and-lots-of-circles-with-regl-js)
 
 [Even the AI Behind Deepfakes Can’t Save Us From Being Duped](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/ai-deepfakes-cant-save-us-duped/amp?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fai-deepfakes-cant-save-us-duped%2F)
@@ -3374,8 +3234,6 @@
 [Become a Hollywood movie hacker with these three command line tools | Opensource.com](https://opensource.com/article/18/2/command-line-tools-productivity)
 
 [](http://bradleybossard.github.io/resume/)
-
-[Realistic Grass Assistant - Free PBR Grass Pack - BlenderNation](https://www.blendernation.com/2019/10/04/realistic-grass-assistant-free-pbr-grass-pack/)
 
 [Partitioning: The Magic Recipe For Distributed Systems](https://medium.com/@Pranaykc/understanding-partitioning-in-distributed-systems-4ac3c8010fae)
 
@@ -3403,8 +3261,6 @@
 
 [Announcing WebAssembly.sh - Wasmer - Medium](https://medium.com/wasmer/webassembly-sh-408b010c14db)
 
-[3D Model Haven is coming! - BlenderNation](https://www.blendernation.com/2019/10/09/3d-model-haven-is-coming/)
-
 [0.100: Better Plex, Bye JSON, HERE Travel time. - Home Assistant](https://www.home-assistant.io/blog/2019/10/10/release-100/)
 
 [Ubuntu 19.10 Makes It So Easy To Have Your Desktop Running Off A ZFS File-System - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-19.10-ZFS-Install-Works)
@@ -3420,8 +3276,6 @@
 [FREY unveils pricing and takes orders for its 31 MPH and 1,500W electric bikes - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2019/10/11/frey-bikes-ex-cc-electric-bike-suspension/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2019%2F10%2F11%2Ffrey-bikes-ex-cc-electric-bike-suspension%2F)
 
 [Original Prusa MINI - Prusa3d.com - Open-source 3D printers by Josef Prusa](https://www.prusa3d.com/original-prusa-mini/)
-
-[Blender Basics Course got an Update - BlenderNation](https://www.blendernation.com/2018/07/15/blender-basics-course-got-an-update/)
 
 [Conky is a highly customizable system monitor for Linux - gHacks Tech News](https://www.ghacks.net/2019/10/11/conky-is-a-highly-customizable-system-monitor-for-linux/)
 
@@ -3448,8 +3302,6 @@
 [Learning to Simulate - Towards Data Science](https://towardsdatascience.com/learning-to-simulate-c53d8b393a56)
 
 [How much is my Plasma tv worth? | Tom&#39;s Guide Forum](https://forums.tomsguide.com/threads/how-much-is-my-plasma-tv-worth.201435/)
-
-[BlendFab Sync Package brings over 35,000 3D assets to your Blender [$] - BlenderNation](https://www.blendernation.com/2019/10/14/blendfab-sync-package-brings-over-35000-3d-assets-to-your-blender/)
 
 [Kubernetes Networking: Behind the scenes - ITNEXT](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
 
@@ -3637,8 +3489,6 @@
 
 [From Awesome Bar to Parser (1/n) – Will Writes About Things](https://www.obs.cr/2019/11/16/from-awesome-bar-to-parser-1-n/)
 
-[NVIDIA&#39;s latest RTX Studio drivers make Blender four times faster | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/11/21/nvidia-rtx-studio-blender-4x-faster/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F11%2F21%2Fnvidia-rtx-studio-blender-4x-faster%2F)
-
 [The Flux beamo is a $1,500 laser cutter with simple but powerful software – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2019/11/21/the-flux-beamo-is-a-1500-laser-cutter-with-simple-but-powerful-software/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2019%2F11%2F21%2Fthe-flux-beamo-is-a-1500-laser-cutter-with-simple-but-powerful-software%2F)
 
 [The Log: What every software engineer should know about real-time data&#39;s unifying abstraction | LinkedIn Engineering](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
@@ -3692,8 +3542,6 @@
 [Web Scraping Made Simple With Zenscrape | CSS-Tricks](https://css-tricks.com/web-scraping-made-simple-with-zenscrape/)
 
 [iowa jersey Nile kinnick - Google Search](https://www.google.com/search?q=iowa+jersey+Nile+kinnick&safe=off&client=ms-android-verizon&sa=X&sxsrf=ACYBGNSBTyb_ABDL8IiobnDJGk5yYObtXw:1575085886889&ved=1t:36565&uact=5#scso=_Y-fhXYOnFpy90PEP8IiU0As76:3733.71435546875.52392578125.142822265625.52392578125.71435546875.09521484375.047607421875.380859375.333251953125.047607421875.666748046875.333251953125.380859375.47607421875.857177734375.238037109375.857177734375.5714111328125.6666259765625.1904296875.761962890625.8095703125.3809814453125.1904296875.1904296875.5714111328125.1904296875.1904296875.3333129882812.4285888671875.3809814453125.1904907226562.7142944335938.6666870117188.19049072265625.2857208251953.2857208251953.28571319580078)
-
-[Rooster - Artwork / Finished Projects - Blender Artists Community](https://blenderartists.org/t/rooster/1196397)
 
 [Fuchsia and the Server: Why I&#39;m Betting on Linux - DEV Community 👩‍💻👨‍💻](https://dev.to/tylerlwsmith/fuchsia-and-the-server-why-i-m-betting-on-linux-20ah)
 
@@ -3770,8 +3618,6 @@
 [Springer Handbook of Robotics - Multimedia Extension - Chapter Videos](http://handbookofrobotics.org/view-chapter/videodetails)
 
 [Mind the Gaps | data Blog = Blog { me :: Programmer, posts :: [Opinion] }](https://asthasr.github.io/posts/mind-the-gaps/)
-
-[LeoMoon LightStudio Development Fund - BlenderNation](https://www.blendernation.com/2020/01/18/leomoon-lightstudio-development-fund/)
 
 [The new Supernova: Flutter enabled, Google approved](https://medium.com/@appsupernova/the-new-supernova-flutter-enabled-google-approved-7af2b79323df)
 
@@ -3937,8 +3783,6 @@
 
 [Introduction - Getflutter](https://docs.getflutter.dev/)
 
-[15+ Awesome BLENDER Channels to follow in 2020 - BlenderNation](https://www.blendernation.com/2020/01/18/15-awesome-blender-channels-to-follow-in-2020/)
-
 [The polygons of Another World](http://fabiensanglard.net/another_world_polygons/index.html)
 
 [Part 1: We need channels! A gentle introduction to CSP.](https://krasimirtsonev.com/blog/article/we-need-channels-intro-to-csp)
@@ -3967,8 +3811,6 @@
 
 [What is WebAssembly? And can you really compile C/C++ to it? And it&#39;ll run in browsers? Allow us to explain in this gentle introduction • The Register](https://www-theregister-co-uk.cdn.ampproject.org/v/s/www.theregister.co.uk/AMP/2020/01/27/webassembly_intro/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theregister.co.uk%2F2020%2F01%2F27%2Fwebassembly_intro%2F)
 
-[&quot;Mist-ifying&quot; Maps in Blender – Peter Atwood](https://peteratwoodprojects.wordpress.com/mist-ifying-maps-in-blender/)
-
 [VITUX - Linux Compendium](https://vitux.com/)
 
 [ACM Ubiquity: Symposia](https://ubiquity.acm.org/symposia.cfm)
@@ -3984,8 +3826,6 @@
 [Just how big a deal is Google&#39;s new Meena chatbot model? | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2020/02/01/just-how-big-a-deal-is-googles-new-meena-chatbot-model/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2020%2F02%2F01%2Fjust-how-big-a-deal-is-googles-new-meena-chatbot-model%2F)
 
 [Jeep e-bike unveiled with massive 1.5 kW electric motor and 40 mile range](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2020/02/02/jeep-unveils-electric-bicycle-1-5-kw-peak-motor/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2020%2F02%2F02%2Fjeep-unveils-electric-bicycle-1-5-kw-peak-motor%2F)
-
-[making ancient architecture in blender 2.8 - BlenderNation](https://www.blendernation.com/2020/02/02/making-ancient-architecture-in-blender-2-8/)
 
 [CNC Hot-Wire Cutter Gives Form To Foam | Hackaday](https://hackaday.com/2020/02/01/cnc-hot-wire-cutter-gives-form-to-foams/)
 
@@ -4048,8 +3888,6 @@
 
 [Set up a Tor proxy with Raspberry Pi to control internet traffic | Opensource.com](https://opensource.com/article/20/4/tor-proxy-raspberry-pi)
 
-[Blender add-on spotlight: Scatter [$] - BlenderNation](https://www.blendernation.com/2020/04/03/blender-add-on-spotlight-scatter/)
-
 [The JavaScript Framework That Puts Web Pages on a Diet](https://www-wired-com.cdn.ampproject.org/v/s/www.wired.com/story/javascript-framework-puts-web-pages-diet/amp?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.wired.com%2Fstory%2Fjavascript-framework-puts-web-pages-diet%2F)
 
 [LightBurn Software](https://lightburnsoftware.com/)
@@ -4076,8 +3914,6 @@
 
 [They’re cool, they’re green, and these Jetson e-bikes might change how you get around – Boing Boing](https://boingboing-net.cdn.ampproject.org/v/s/boingboing.net/2020/04/10/theyre-cool-theyre-gree.html/amp?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fboingboing.net%2F2020%2F04%2F10%2Ftheyre-cool-theyre-gree.html)
 
-[Octane For Blender Skin shader settup - BlenderNation](https://www.blendernation.com/2020/04/10/octane-for-blender-skin-shader-settup/)
-
 [Louvain Algorithm - Towards Data Science](https://towardsdatascience.com/louvain-algorithm-93fde589f58c)
 
 [Intermodal – Casey Rodarmor&#39;s Blog](https://rodarmor.com/blog/intermodal)
@@ -4091,8 +3927,6 @@
 [Kobo is selling the Kobo Aura One again on their website](https://goodereader-com.cdn.ampproject.org/v/s/goodereader.com/blog/kobo-ereader-news/kobo-is-selling-the-kobo-aura-one-again-on-their-website/amp?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fgoodereader.com%2Fblog%2Fkobo-ereader-news%2Fkobo-is-selling-the-kobo-aura-one-again-on-their-website)
 
 [3D Printed Skullcandy crusher wireless hinge - bottom part by yazjack | Pinshape](https://pinshape.com/items/52532-3d-printed-skullcandy-crusher-wireless-hinge-bottom-part)
-
-[Take a free course on OpenSCAD, FreeCAD, and Blender | Opensource.com](https://opensource.com/article/19/2/3d-printing-course)
 
 [Linux on Laptops: ASUS Zephyrus G14 with Ryzen 9 4900HS – Ars Technica](https://arstechnica-com.cdn.ampproject.org/v/s/arstechnica.com/gadgets/2020/04/linux-on-laptops-asus-zephyrus-g14-with-ryzen-9-4900hs/?amp_js_v=a3&amp_gsa=1&amp=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2020%2F04%2Flinux-on-laptops-asus-zephyrus-g14-with-ryzen-9-4900hs%2F)
 
@@ -4109,8 +3943,6 @@
 [My interactive portfolio - jomendez](http://www.jomendez.com/2020/04/14/my-interactive-portfolio/)
 
 [PEP 20 -- The Zen of Python | Python.org](https://www.python.org/dev/peps/pep-0020/)
-
-[Blender Quick Tip - Using Drivers to Create Perfect Satisfying Animations - BlenderNation](https://www.blendernation.com/2020/04/15/blender-quick-tip-using-drivers-to-create-perfect-satisfying-animations/)
 
 [Cannabis Delivery Services Are Finally Booming in Portland. We Tried Five of Them. - Willamette Week](https://www.wweek.com/potlander/2020/04/14/cannabis-delivery-services-are-finally-booming-in-portland-we-tried-five-of-them/)
 
@@ -4140,11 +3972,7 @@
 
 [BERT Encoder](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/bert-encoder)
 
-[Getting Started with Blender Nodes - BlenderNation](https://www.blendernation.com/2020/04/23/getting-started-with-blender-nodes/)
-
 [Work on Goodenough’s breakthrough solid-state EV battery moves forward - Electrek](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2020/04/23/work-on-goodenoughs-breakthrough-solid-state-ev-battery-moves-forward/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQIKAGwASDAAQE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2020%2F04%2F23%2Fwork-on-goodenoughs-breakthrough-solid-state-ev-battery-moves-forward%2F)
-
-[Procedural Carbon Fiber in Blender 2.8 - BlenderNation](https://www.blendernation.com/2020/04/26/procedural-carbon-fiber-in-blender-2-8/)
 
 [Springer has released 65 Machine Learning and Data books for free](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
 
@@ -4585,8 +4413,6 @@
 [Master Clutch Kit 8-1/2&quot; (7 piece kit) Fits 41-71 Jeep &amp; Willys with 4-134 engine](https://www.kaiserwillys.com/master-clutch-kit-8-1-2-7-piece-kit-fits-41-71-jeep-willys-with-4-134-6-161-engine)
 
 [NOS Radio Filterette Assembly Fits 43-45 MB, GPW](https://www.kaiserwillys.com/nos-radio-filterette-assembly-fits-43-45-mb-gpw)
-
-[Blender 2.8 Toon Outlines Tutorial for Beginners - BlenderNation](https://www.blendernation.com/2020/03/27/blender-2-8-toon-outlines-tutorial-for-beginners/)
 
 [Main Types of Neural Networks and its Applications — Tutorial | Towards AI — Multidisciplinary Science Journal](https://medium.com/towards-artificial-intelligence/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e)
 

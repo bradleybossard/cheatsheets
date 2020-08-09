@@ -51,3 +51,95 @@
 [LuxCoreRender – Open Source Physically Based Renderer](https://luxcorerender.org/)
 
 [- Characters — Blender Cloud](https://cloud.blender.org/p/characters/5f04a68bb5f1a2612f7b29da)
+
+[- Art Gallery — Blender Cloud](https://cloud.blender.org/p/gallery/5d2607ee6b3001d49bab798a)
+
+[Verge3D 2.13 for Blender Released - Soft8Soft](https://www.soft8soft.com/verge3d-2-13-for-blender-released/)
+
+[BlenderKit: &quot;Coolest New Addon To Blender 2.8&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/blenderkit-coolest-new-addon-to-blender-2-8/)
+
+[Free E-book: &quot;Programming Add-ons for Blender 2.80&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/free-e-book-programming-add-ons-for-blender-2-80/)
+
+[55 Free addons for Blender 2.8 in 50 minutes video - BlenderNation](https://www.blendernation.com/2019/07/19/55-free-addons-for-blender-2-8-in-50-minutes-video/)
+
+[Top 10 Blender Modeling Addons (starting at $0) - BlenderNation](https://www.blendernation.com/2019/08/16/top-10-blender-modeling-addons-starting-at-0/)
+
+[Create a Mograph-like Looping Animation in Blender - Lesterbanks](https://lesterbanks.com/2019/09/create-a-mograph-like-looping-animation-in-blender/)
+
+[Add-on: Modeling Cloth for Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/09/09/add-on-modeling-cloth-for-blender-2-8/)
+
+[How to Crumple Paper in Blender With a Cloth Sim - Lesterbanks](https://lesterbanks.com/2019/09/how-to-crumple-paper-in-blender-with-a-cloth-sim/)
+
+[Free Sketch Image Shader for Blender 2.80 - BlenderNation](https://www.blendernation.com/2019/09/12/free-sketch-image-shader-for-blender-2-80/)
+
+[Simulating fluid in blender 2.8 part1 - BlenderNation](https://www.blendernation.com/2019/09/14/simulating-fluid-in-blender-2-8-part1/)
+
+[Blender Eevee: The guide to real-time rendering with Blender 2.8 [$] - BlenderNation](https://www.blendernation.com/2019/09/16/blender-eevee-the-guide-to-real-time-rendering-with-blender-2-8/)
+
+[The Blender Tutorial Bible - 150 Handpicked Blender Tutorials - Stylized Station - Learn Stylized Art](https://stylizedstation.com/article/blender-tutorial-bible/)
+
+[Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
+
+[Eevee Toon Shaders – Blender NPR](https://blendernpr.org/eevee-toon-shaders/)
+
+[BlendFab Sync Package brings over 35,000 3D assets to your Blender [$] - BlenderNation](https://www.blendernation.com/2019/10/14/blendfab-sync-package-brings-over-35000-3d-assets-to-your-blender/)
+
+[NVIDIA&#39;s latest RTX Studio drivers make Blender four times faster | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/11/21/nvidia-rtx-studio-blender-4x-faster/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F11%2F21%2Fnvidia-rtx-studio-blender-4x-faster%2F)
+
+[Rooster - Artwork / Finished Projects - Blender Artists Community](https://blenderartists.org/t/rooster/1196397)
+
+[15+ Awesome BLENDER Channels to follow in 2020 - BlenderNation](https://www.blendernation.com/2020/01/18/15-awesome-blender-channels-to-follow-in-2020/)
+
+[&quot;Mist-ifying&quot; Maps in Blender – Peter Atwood](https://peteratwoodprojects.wordpress.com/mist-ifying-maps-in-blender/)
+
+[making ancient architecture in blender 2.8 - BlenderNation](https://www.blendernation.com/2020/02/02/making-ancient-architecture-in-blender-2-8/)
+
+[- Art Gallery — Blender Cloud](https://cloud.blender.org/p/gallery/5d2607ee6b3001d49bab798a)
+
+[Verge3D 2.13 for Blender Released - Soft8Soft](https://www.soft8soft.com/verge3d-2-13-for-blender-released/)
+
+[BlenderKit: &quot;Coolest New Addon To Blender 2.8&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/blenderkit-coolest-new-addon-to-blender-2-8/)
+
+[Free E-book: &quot;Programming Add-ons for Blender 2.80&quot; - BlenderNation](https://www.blendernation.com/2019/07/18/free-e-book-programming-add-ons-for-blender-2-80/)
+
+[55 Free addons for Blender 2.8 in 50 minutes video - BlenderNation](https://www.blendernation.com/2019/07/19/55-free-addons-for-blender-2-8-in-50-minutes-video/)
+
+[Top 10 Blender Modeling Addons (starting at $0) - BlenderNation](https://www.blendernation.com/2019/08/16/top-10-blender-modeling-addons-starting-at-0/)
+
+[Create a Mograph-like Looping Animation in Blender - Lesterbanks](https://lesterbanks.com/2019/09/create-a-mograph-like-looping-animation-in-blender/)
+
+[Add-on: Modeling Cloth for Blender 2.8 - BlenderNation](https://www.blendernation.com/2019/09/09/add-on-modeling-cloth-for-blender-2-8/)
+
+[How to Crumple Paper in Blender With a Cloth Sim - Lesterbanks](https://lesterbanks.com/2019/09/how-to-crumple-paper-in-blender-with-a-cloth-sim/)
+
+[Free Sketch Image Shader for Blender 2.80 - BlenderNation](https://www.blendernation.com/2019/09/12/free-sketch-image-shader-for-blender-2-80/)
+
+[Simulating fluid in blender 2.8 part1 - BlenderNation](https://www.blendernation.com/2019/09/14/simulating-fluid-in-blender-2-8-part1/)
+
+[Blender Eevee: The guide to real-time rendering with Blender 2.8 [$] - BlenderNation](https://www.blendernation.com/2019/09/16/blender-eevee-the-guide-to-real-time-rendering-with-blender-2-8/)
+
+[The Blender Tutorial Bible - 150 Handpicked Blender Tutorials - Stylized Station - Learn Stylized Art](https://stylizedstation.com/article/blender-tutorial-bible/)
+
+[Begin Learning Blender and Game Development with CG Cookie - CG Cookie](https://cgcookie.com/)
+
+[Eevee Toon Shaders – Blender NPR](https://blendernpr.org/eevee-toon-shaders/)
+
+[BlendFab Sync Package brings over 35,000 3D assets to your Blender [$] - BlenderNation](https://www.blendernation.com/2019/10/14/blendfab-sync-package-brings-over-35000-3d-assets-to-your-blender/)
+
+[NVIDIA&#39;s latest RTX Studio drivers make Blender four times faster | Engadget](https://www-engadget-com.cdn.ampproject.org/v/s/www.engadget.com/amp/2019/11/21/nvidia-rtx-studio-blender-4x-faster/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.engadget.com%2F2019%2F11%2F21%2Fnvidia-rtx-studio-blender-4x-faster%2F)
+
+[Rooster - Artwork / Finished Projects - Blender Artists Community](https://blenderartists.org/t/rooster/1196397)
+
+[15+ Awesome BLENDER Channels to follow in 2020 - BlenderNation](https://www.blendernation.com/2020/01/18/15-awesome-blender-channels-to-follow-in-2020/)
+
+[&quot;Mist-ifying&quot; Maps in Blender – Peter Atwood](https://peteratwoodprojects.wordpress.com/mist-ifying-maps-in-blender/)
+
+[making ancient architecture in blender 2.8 - BlenderNation](https://www.blendernation.com/2020/02/02/making-ancient-architecture-in-blender-2-8/)
+
+[Octane For Blender Skin shader settup - BlenderNation](https://www.blendernation.com/2020/04/10/octane-for-blender-skin-shader-settup/)
+
+[Take a free course on OpenSCAD, FreeCAD, and Blender | Opensource.com](https://opensource.com/article/19/2/3d-printing-course)
+
+[Getting Started with Blender Nodes - BlenderNation](https://www.blendernation.com/2020/04/23/getting-started-with-blender-nodes/)
+
+[Procedural Carbon Fiber in Blender 2.8 - BlenderNation](https://www.blendernation.com/2020/04/26/procedural-carbon-fiber-in-blender-2-8/)
