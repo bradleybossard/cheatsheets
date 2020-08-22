@@ -3660,8 +3660,6 @@
 
 [The SQL Murder Mystery](https://mystery.knightlab.com/)
 
-[Uber Has Been Quietly Assembling One of the Most Impressive Open Source Deep Learning Stacks in the Market](https://towardsdatascience.com/uber-has-been-quietly-assembling-one-of-the-most-impressive-open-source-deep-learning-stacks-in-b645656ddddb)
-
 [nixCraft - Page 2 of 469 - Linux and Unix tutorials for new and seasoned sysadmin](https://www.cyberciti.biz/faq/page/2/)
 
 [nixCraft - Linux and Unix tutorials for new and seasoned sysadmin](https://www.cyberciti.biz/faq/)
@@ -3712,10 +3710,6 @@
 
 [Calculus Is Not As Hard As You Think | Hackaday](https://hackaday.com/2015/12/15/calculus-is-not-as-hard-as-you-think/)
 
-[no bsla quantum - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNT-YQHaJWeKDvfiUG2yuEjhkxo7_g%3A1580621216255&ei=oF02XvSPD4_B-wTgrozYCA&q=no+bsla+quantum&oq=no+bsla+quantum&gs_l=mobile-gws-wiz-serp.3...6665.10455..10710...0.1..0.144.996.0j8......0....1.........0i71j33i160.Se8GiVdAgH0)
-
-[carroll shelby spouse - Google Search](https://www.google.com/search?safe=off&client=ms-android-verizon&sxsrf=ACYBGNQF5mPBnTqcfXfDifk7hVX2bnle0g:1580622218388&q=carroll+shelby+spouse&stick=H4sIAAAAAAAAAOPgE-LUz9U3MLLMyarQkshOttIvSM0vyEkFUkXF-XlWxQX5pcWpi1hFkxOLivJzchSKM1JzkioVIOIAxUI3QD8AAAA&sa=X&ved=2ahUKEwjOjufOlLLnAhVKqJ4KHaOdCYkQ44YBKAMwEHoECA8QMg&biw=412&bih=660&dpr=2.63)
-
 [ESP8266 MP3 Sound Machine v2 - Self Hosted Home](https://selfhostedhome.com/esp8266-mp3-sound-machine-v2/)
 
 [Just how big a deal is Google&#39;s new Meena chatbot model? | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2020/02/01/just-how-big-a-deal-is-googles-new-meena-chatbot-model/amp/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQCKAE%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2020%2F02%2F01%2Fjust-how-big-a-deal-is-googles-new-meena-chatbot-model%2F)
@@ -3740,18 +3734,17 @@
 
 [Build Your Own Selfie Drone With Computer Vision | Hackaday](https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/)
 
-[](https://medium.com/coinmonks/syncing-geth-to-the-ethereum-blockchain-9571666f3cfc)
+[syncing geth](https://medium.com/coinmonks/syncing-geth-to-the-ethereum-blockchain-9571666f3cfc)
 
 [9 Vim Cheat Sheet for Mastering Vim Faster [PDF Download]](https://linuxhandbook.com/vim-cheat-sheet/)
 
 [https://cs.opensource.google](https://cs.opensource.google/)
+
 [https://fastocloud.com/#/](https://fastocloud.com/#/)
 
 [Day 25: Other Structures In Other Words](https://shonfeder.github.io/logs/recurse-center/day-25.html)
 
 [Amazon.com : HY-C FG-16 Flame Genie Portable Smoke-Free Wood Pellet Fire Pit, USA Made, 13.5&quot; Diameter, Black : Garden &amp; Outdoor](https://www.amazon.com/gp/product/B00O40ER0G/?tag=dudeblg-20)
-
-[]()
 
 [Machine-Learning-Tokyo/papers-with-annotations: Research papers with annotations, illustrations and explanations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations)
 
@@ -3763,8 +3756,6 @@
 
 [Oregon Farms for Sale, Farmland for Sale : Page 2 of 16 : FARMFLIP](https://www.farmflip.com/farms-for-sale/oregon/2-p)
 
-[The 10 Best Whiskey Brands to Pick Up Right Now](https://www-yahoo-com.cdn.ampproject.org/v/s/www.yahoo.com/amphtml/entertainment/10-best-whiskey-brands-pick-044251239.html?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2F10-best-whiskey-brands-pick-044251239.html)
-
 [Nitrux 1.3.0 Released: A Beautiful Linux Distro With Portable App Format](https://fossbytes-com.cdn.ampproject.org/v/s/fossbytes.com/nitrux-1-3-0-released-a-beautiful-linux-distro-with-portable-app-format/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D)
 
 [Elegant Shoji Lamps From Your 3D Printer | Hackaday](https://hackaday.com/2020/07/06/elegant-shoji-lamps-from-your-3d-printer/)
@@ -3772,8 +3763,6 @@
 [How to install Flutter on Linux - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/how-to-install-flutter-on-linux/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhow-to-install-flutter-on-linux%2F)
 
 [From RHCP to St. Vincent, 16 great bands influenced by Gang of Four](https://www.brooklynvegan.com/from-rhcp-to-st-vincent-16-great-bands-influenced-by-gang-of-four/)
-
-[G503 WWII Jeep Tub Removal or Replacement steps](http://legacy.1943mb.com/c-76-G503_WWII_Jeep_Tub_Body_Removal_Replacement.aspx)
 
 [GoAudio • Dylan Meeus](https://dylanmeeus.github.io/tags/goaudio/)
 
