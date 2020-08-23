@@ -7,3 +7,5 @@
 [Try NopSCADlib For Your Next OpenSCAD Project | Hackaday](https://hackaday.com/2019/06/15/try-nopscadlib-for-your-next-openscad-project/)
 
 [OpenSCAD Snippet Pad: procedural](https://openscadsnippetpad.blogspot.com/search/label/procedural)
+
+[openscad-cheat-sheet.png (781×1379)](https://i.materialise.com/blog/wp-content/uploads/2015/12/openscad-cheat-sheet.png)

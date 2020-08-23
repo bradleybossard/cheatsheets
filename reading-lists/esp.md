@@ -37,3 +37,5 @@
 [NodeMCU ESP8266 OTA (Over-the-Air) Update Programming using Arduino IDE](https://circuitdigest.com/microcontroller-projects/esp8266-ota-update-programming-using-arduino-ide)
 
 [ESP8266 to ESP8266 Communication - Hackster.io](https://www.hackster.io/hammadiqbal12/esp8266-to-esp8266-communication-bf96ce)
+
+[ESPHome — ESPHome](https://esphome.io/index.html)
