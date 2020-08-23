@@ -3,3 +3,5 @@
 [Cryptologie](https://www.cryptologie.net/)
 
 [Manning | Real-World Cryptography](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
+
+[Why I’m Writing A Book On Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)

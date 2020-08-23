@@ -73,3 +73,5 @@
 [Manning | Python Workout](https://www.manning.com/books/python-workout)
 
 [Hypermodern Python · Claudio Jolowicz](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+
+[A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)

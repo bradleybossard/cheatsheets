@@ -143,3 +143,5 @@
 [Getting Started with Blender Nodes - BlenderNation](https://www.blendernation.com/2020/04/23/getting-started-with-blender-nodes/)
 
 [Procedural Carbon Fiber in Blender 2.8 - BlenderNation](https://www.blendernation.com/2020/04/26/procedural-carbon-fiber-in-blender-2-8/)
+
+[- Procedural Shading: Fundamentals and Beyond — Blender Cloud](https://cloud.blender.org/p/procedural-shading/5f07594bdf7b3cdd8937a945)
