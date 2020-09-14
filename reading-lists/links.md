@@ -4375,3 +4375,193 @@
 [How to whiteboard collaboratively with Drawpile | Opensource.com](https://opensource.com/article/20/3/drawpile?utm_campaign=intrel)
 
 [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)
+[Dana 18 Transfer Case Specs - GPW](https://www.kaiserwillys.com/tech-guide/transfer-case-specs)
+
+[Sandboxing in Linux with zero lines of code](https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/)
+
+[Linux kernel release 5.x &lt;http://kernel.org/&gt; — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/admin-guide/README.html)
+
+[The Linux Documentation Project: Guides](https://www.tldp.org/guides.html)
+
+[Mozilla Labs || Common Voice](https://labs.mozilla.org/projects/common-voice/)
+
+[Elegant Shoji Lamps From Your 3D Printer | Hackaday](https://hackaday.com/2020/07/06/elegant-shoji-lamps-from-your-3d-printer/)
+
+[Main Types of Neural Networks and its Applications — Tutorial | Towards AI — Multidisciplinary Science Journal](https://medium.com/towards-artificial-intelligence/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e)
+
+[](https://www-omgubuntu-co-uk.cdn.ampproject.org/v/s/www.omgubuntu.co.uk/2020/07/open-folder-in-terminal-ubuntu-plugin/amp?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.omgubuntu.co.uk%2F2020%2F07%2Fopen-folder-in-terminal-ubuntu-plugin)
+
+[OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware – TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2020%2F07%2F14%2Fopencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware%2F)
+
+[How to install Flutter on Linux - TechRepublic](https://www-techrepublic-com.cdn.ampproject.org/v/s/www.techrepublic.com/google-amp/article/how-to-install-flutter-on-linux/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhow-to-install-flutter-on-linux%2F)
+
+[This $200 Linux smartphone can also be used as a PC | ZDNet](https://www.zdnet.com/article/this-200-linux-smartphone-can-also-be-used-as-a-pc/)
+
+[The Mother(board) Of All CNC Controllers | Hackaday](https://hackaday.com/2020/07/17/the-motherboard-of-all-cnc-controllers/)
+
+[The South’s Best Butts: Pitmaster Secrets for Southern Barbecue Perfection – TRAVEL/FOOD](https://janeammeson-blog.cdn.ampproject.org/v/s/janeammeson.blog/2020/06/23/the-souths-best-butts-pitmaster-secrets-for-southern-barbecue-perfection/amp/?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fjaneammeson.blog%2F2020%2F06%2F23%2Fthe-souths-best-butts-pitmaster-secrets-for-southern-barbecue-perfection%2F)
+
+[Introduction to Graph Theory and its Implementation in Python](https://www.analyticsvidhya.com/blog/2018/09/introduction-graph-theory-applications-python/)
+
+[GPT-3: Creative Potential of NLP. New ML milestone by OpenAI — in action | by Vlad Alex (Merzmensch) | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/gpt-3-creative-potential-of-nlp-d5ccae16c1ab)
+
+[How to get source code of package using apt on Debian/Ubuntu - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/faq/how-to-get-source-code-of-package-using-the-apt-command-on-debian-or-ubuntu/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Fhow-to-get-source-code-of-package-using-the-apt-command-on-debian-or-ubuntu%2F)
+
+[From RHCP to St. Vincent, 16 great bands influenced by Gang of Four](https://www.brooklynvegan.com/from-rhcp-to-st-vincent-16-great-bands-influenced-by-gang-of-four/)
+
+[Secret Management with docker-compose and Ansible Vault](https://blog-ktz-me.cdn.ampproject.org/v/s/blog.ktz.me/secret-management-with-docker-compose-and-ansible/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fblog.ktz.me%2Fsecret-management-with-docker-compose-and-ansible%2F)
+
+[Faux Radar Uses Ultrasound &amp; Python | Hackaday](https://hackaday.com/2020/07/18/faux-radar-uses-ultrasound-python/)
+
+[The tragic real-life story of Woody Harrelson](https://www.nickiswift.com/216456/the-tragic-real-life-story-of-woody-harrelson/)
+
+[Zrythm Approaching Beta As An Easy-To-Use, Open-Source Digital Audio Workstation - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Zrythm-0.8.694-Open-Source-DAW)
+
+[Automating safe, hands-off deployments](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
+
+[Text Classification with NLP: Tf-Idf vs Word2Vec vs BERT | by Mauro Di Pietro | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
+
+[Containerized Python Development - Part 2 - Docker Blog](https://www.docker.com/blog/containerized-python-development-part-2/)
+
+[13 Raspberry Pi Zero Alternatives That Cost Less Than $20](https://itsfoss.com/raspberry-pi-zero-alternatives/)
+
+[Juiciest Grilled Whole Chicken (w/ Video) | The Mediterranean Dish](https://www.themediterraneandish.com/whole-grilled-chicken/)
+
+[TinyPilot: Build a KVM Over IP for Under $100 · mtlynch.io](https://mtlynch.io/tinypilot/)
+
+[Understanding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2020/07/neural-networks-from-scratch-in-python-and-r/)
+
+[Easy Guide To Data Preprocessing In Python](https://www.kdnuggets.com/2020/07/easy-guide-data-preprocessing-python.html)
+
+[Open source ACRN v2.0 hypervisor focuses on IoT](http://linuxgizmos.com/open-source-acrn-v2-0-hypervisor-focuses-on-iot/)
+
+[Watch This Short Tutorial On How To Instantly Sound Good In Any Situation](https://training.breakthroughguitar.com/lglm-lm-ggm-1?cf_uvid=cd008817ed0f705617164ce245ca7f09)
+
+[Linux Fu: Keep In Sync | Hackaday](https://hackaday.com/2020/07/23/linux-fu-keep-in-sync/)
+
+[10 Linux commands to know the system - nixCraft](https://www-cyberciti-biz.cdn.ampproject.org/v/s/www.cyberciti.biz/open-source/linux-commands-to-know-the-system/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.cyberciti.biz%2Fopen-source%2Flinux-commands-to-know-the-system%2F)
+
+[Porting a macOS Clojure Dev Setup to Windows WSL2 - REPL adventures](https://blog.michielborkent.nl/2020/07/26/remote-wsl2-clojure/)
+
+[OpenCV GrabCut: Foreground Segmentation and Extraction - PyImageSearch](https://www.pyimagesearch.com/2020/07/27/opencv-grabcut-foreground-segmentation-and-extraction/)
+
+[Arm Exploit Mitigations: Essential Steps to Secure IoT Devices - Arm Blueprint](https://www.arm.com/blogs/blueprint/arm-exploit-mitigation)
+
+[3D Printed Miniatures: How to 3D Print Figurines | All3DP](https://m.all3dp.com/2/3d-printed-miniatures-tips-tricks/)
+
+[Winter&#39;s Blog](https://blog.winter.dev/2020/designing-a-physics-engine/)
+
+[Meet Karmbian, an ARM Linux Distro for Ethical Hackers Based on Kali Linux and Armbian - 9to5Linux](https://9to5linux.com/meet-karmbian-an-arm-linux-distro-for-ethical-hackers-based-on-kali-linux-and-armbian)
+
+[What if You Only Invested at Market Peaks?](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/)
+
+[Contact Us – SHIFT Electric Vehicles](https://www.shiftev.com/pages/contact-us)
+
+[GoAudio • Dylan Meeus](https://dylanmeeus.github.io/tags/goaudio/)
+
+[6 Steps to the Best Barbecued Ribs](https://www-nytimes-com.cdn.ampproject.org/v/s/www.nytimes.com/2020/07/24/dining/bbq-ribs-recipe.amp.html?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.nytimes.com%2F2020%2F07%2F24%2Fdining%2Fbbq-ribs-recipe.html)
+
+[How to install KVM on Ubuntu 20.04 LTS Headless Server - nixCraft](https://www.cyberciti.biz/faq/how-to-install-kvm-on-ubuntu-20-04-lts-headless-server/)
+
+[&#39;Fresh Prince of Bel-Air&#39; reboot is in the works, but there will be one big difference](https://www-yahoo-com.cdn.ampproject.org/v/s/www.yahoo.com/amphtml/entertainment/fresh-prince-of-bel-air-reboot-planned-182239809.html?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.yahoo.com%2Fentertainment%2Ffresh-prince-of-bel-air-reboot-planned-182239809.html)
+
+[Useful PuTTY Configuration Tips and Tricks](https://www-tecmint-com.cdn.ampproject.org/v/s/www.tecmint.com/putty-configuration-tips-and-tricks/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tecmint.com%2Fputty-configuration-tips-and-tricks%2F)
+
+[GitLab’s Meltano Shows Why Open Source Is the ‘Only’ Future – The New Stack](https://thenewstack.io/gitlabs-meltano-shows-why-open-source-is-the-only-future/)
+
+[Two methods to network boot Raspberry Pi 4](https://www.virtuallyghetto.com/2020/07/two-methods-to-network-boot-raspberry-pi-4.html)
+
+[Plex &amp; Locast: Recording Local TV Without the Antenna - DIY Futurism](https://diyfuturism.com/index.php/2020/08/16/plex-locast-recording-local-tv-without-the-antenna/)
+
+[Quantum Natural Language Processing | by Konstantinos Meichanetzidis | Cambridge Quantum Computing | Medium](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d)
+
+[Google Open-Sources LIT: A Visual, Interactive Model-Understanding Tool For NLP Models | MarkTechPost](https://www.marktechpost.com/2020/08/15/google-open-sources-lit-a-visual-interactive-model-understanding-tool-for-nlp-models/)
+
+[Switching to Sway (Wayland) from i3 (X11) on Ubuntu 20.04 — The Autodidacts](https://www.autodidacts.io/switching-to-sway-wayland-from-i3-x11-ubuntu/)
+
+[The Autodidacts](https://www.autodidacts.io/)
+
+[How Superhuman uses video game design to make work feel more like a game - Brianne Kimmel](http://briannekimmel.com/how-superhuman-uses-video-game-design-to-make-work-feel-more-like-a-game/)
+
+[Atomic Design | Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+
+[React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html)
+
+[Top Productivity React Developer Tools -](https://codersera.com/blog/top-productivity-react-developer-tools/)
+
+[Use a Raspberry Pi To Catch Hackers with OpenCanary | Tom&#39;s Hardware](https://www-tomshardware-com.cdn.ampproject.org/v/s/www.tomshardware.com/uk/amp/news/use-a-raspberry-pi-to-catch-hackers-with-opencanary?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomshardware.com%2Fuk%2Fnews%2Fuse-a-raspberry-pi-to-catch-hackers-with-opencanary)
+
+[5 Reasons why you should Switch from Jupyter Notebook to Scripts | by Khuyen Tran | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95)
+
+[If you’re not using SSH certificates you’re doing SSH wrong | Episode 2: Certificates improve usability, operability, &amp; security - DEV](https://dev.to/smallstep/if-you-re-not-using-ssh-certificates-you-re-doing-ssh-wrong-episode-2-certificates-improve-usability-operability-security-45hg)
+
+[Golden Sparrow Tattoo inks deal on space in Beaumont&#39;s Dutch Village building | Northeast and North Portland Neighborhood News](https://star-news.info/2020/08/27/golden-sparrow-tattoo-inks-deal-on-space-in-beaumonts-dutch-village-building/)
+
+[Facebook’s OASIS-style VR playground Horizon enters public beta - The Verge](https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/amp/2020/8/28/21405249/facebook-vr-space-horizon-access-public-beta?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.theverge.com%2F2020%2F8%2F28%2F21405249%2Ffacebook-vr-space-horizon-access-public-beta)
+
+[Is your Pixel 3 camera “shaking” for no reason? - HardwareZone.com.sg](https://www.hardwarezone.com.sg/tech-news-your-pixel-3-camera-shaking-no-reason)
+
+[The Pixel 3 can&#39;t &#39;shake&#39; all these user complaints of stuttering camera performance](https://www.androidpolice.com/2019/08/05/the-pixel-3-cant-shake-all-these-user-complaints-of-stuttering-camera-performance/)
+
+[Pixel 3 camera shaking? - GooglePixel](https://www.reddit.com/r/GooglePixel/comments/bqft05/pixel_3_camera_shaking/)
+
+[Buy Pixel 4a Just Black - Google Store](https://store.google.com/us/config/pixel_4a?sku=_pixel_phone_4a_black_128gb_unlocked&gclsrc=aw.ds&&gclid=Cj0KCQjw-af6BRC5ARIsAALPIlWpbhIVvkW6ukpT07N0vJNnjldSWYZaqaEXwX6bd6eBOFoob8FUyY0aAvhLEALw_wcB)
+
+[DoorDash Support | 855-973-1040](https://help.doordash.com/s/?language=en_US)
+
+[Qvault - Gamified Coding Courses](https://app.qvault.io/)
+
+[Could this self-charging battery revolutionise e-bikes? NDB&#39;s nano-diamond creation could last years without needing to be charged | electric bike reviews, buying advice and news - ebiketips](https://ebiketips.road.cc/content/news/could-this-self-charging-battery-revolutionise-e-bikes-ndbs-nano-diamond-creation-could)
+
+[Buy Ancestors: The Humankind Odyssey PC, PS4, Xbox, Official | Private Division Store](https://store.privatedivision.com/en/game/ancestors-buy-official-pc-xbox-one-ps4-v2?dclid=CI2ihKiXwusCFQssrQYdCOUHtQ)
+
+[Oregon Local News, Breaking News, Sports &amp; Weather](https://www.oregonlive.com/)
+
+[Wesley Aptekar-Cassels | How traceroute works](https://blog.wesleyac.com/posts/how-traceroute-works)
+
+[Anza 35 MPH electric moped launched as lowest priced e-moped yet](https://electrek-co.cdn.ampproject.org/v/s/electrek.co/2020/09/02/anza-electric-moped-unveiled-by-monday-motorbikes-as-lowest-priced-e-moped-yet/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Felectrek.co%2F2020%2F09%2F02%2Fanza-electric-moped-unveiled-by-monday-motorbikes-as-lowest-priced-e-moped-yet%2F)
+
+[TensorFlow.js models](https://www.tensorflow.org/js/models)
+
+[Peloton Community | We&#39;re better together](https://www.reddit.com/r/pelotoncycle/)
+
+[Build a Serverless API with AWS Gateway and Lambda – The New Stack](https://thenewstack.io/build-a-serverless-api-with-aws-gateway-and-lambda/)
+
+[Slow Cooker BBQ Pulled Pork Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1020497-slow-cooker-bbq-pulled-pork)
+
+[Daily crime log - Portland Criminal Justice](https://www.portlandcriminaljustice.org/daily-crime-log/)
+
+[Incredible Soldering In The Name Of Hardware Support | Hackaday](https://hackaday.com/2020/09/05/incredible-soldering-in-the-name-of-hardware-support/)
+
+[Game theory: Chess is taking over the online video game streaming world and that will change it too](https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too)
+
+[Filament Dust Filter Helps Keep Your Print Quality High | Hackaday](https://hackaday.com/2020/09/06/filament-dust-filter-helps-keep-your-print-quality-high/)
+
+[AutoML: Creating Top-Performing Neural Networks Without Defining Architectures | by Andre Ye | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/automl-creating-top-performing-neural-networks-without-defining-architectures-c7d3b08cddc)
+
+[Building a Synthesizer in Javascript - DEV](https://dev.to/iamschulz/building-a-synthesizer-in-javascript-l3l)
+
+[New York Sour Recipe: A Twist on the Whiskey Sour With Red Wine – Robb Report](https://robbreport-com.cdn.ampproject.org/v/s/robbreport.com/food-drink/spirits/new-york-sour-recipe-rye-whiskey-cocktail-2945266/amp/?amp_js_v=a3&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Frobbreport.com%2Ffood-drink%2Fspirits%2Fnew-york-sour-recipe-rye-whiskey-cocktail-2945266%2F)
+
+[Robb Report – The Best Luxury Cars, Jets, Yachts, Travel, Watches](https://robbreport.com/)
+
+[Intel Develops $50 3D Printed OpenBot to Advance Robotics Accessibility - 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing](https://3dprint-com.cdn.ampproject.org/v/s/3dprint.com/272365/intel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2F3dprint.com%2F272365%2Fintel-develops-50-3d-printed-openbot-to-advance-robotics-accessibility%2F)
+
+[&#39;Breaking Bad&#39;: All the Terrible Symbolism of the Pink Teddy Bear, From the Eyeball of Morality To &#39;Schindler&#39;s List&#39;](https://www.cheatsheet.com/entertainment/breaking-bad-all-the-terrible-symbolism-of-the-pink-teddy-bear-from-the-eyeball-of-morality-to-schindlers-list.html/)
+
+[2020/09/12 07:40 | Zoom Earth](https://zoom.earth/#view=44.1118,-120.8116,8.48z/date=2020-09-12,07:40,-7)
+
+[One of Portland’s New Mochi Doughnut Pop-Ups Lands in Northwest - Eater Portland](https://pdx.eater.com/2020/9/8/21427669/mikiko-mochi-doughnuts-portland-west)
+
+[Nvidia brings its nifty Ansel screen capturing tool to GeForce Now | PC Gamer](https://www.pcgamer.com/nvidia-brings-its-nifty-ansel-screen-capturing-tool-to-geforce-now/)
+
+[Jimmy Carter: My son smoked pot with Willie Nelson on White House roof](https://nypost-com.cdn.ampproject.org/v/s/nypost.com/2020/09/11/jimmy-carter-my-son-smoked-pot-with-willie-nelson-on-white-house-roof/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fnypost.com%2F2020%2F09%2F11%2Fjimmy-carter-my-son-smoked-pot-with-willie-nelson-on-white-house-roof%2F)
+
+[&#39;Clementine&#39; Is an Oregon-Made Coming-of-Age Thriller That Lingers | Portland Monthly](https://www.pdxmonthly.com/arts-and-culture/2020/05/clementine-is-an-oregon-made-coming-of-age-thriller-that-lingers)
+
+[Sir David Attenborough makes stark warning about species extinction - BBC News](https://www-bbc-com.cdn.ampproject.org/v/s/www.bbc.com/news/amp/science-environment-54118769?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-54118769)
+
+[The Politics of Dancing with MicroPython | by Mark Buckaway | The IOT Magazine](https://theiotmagazine.com/the-politics-of-dancing-with-micropython-9482dc2b4aaa)
+
+[Amazon Wants to Make You an ML Practitioner— For Free | by Anthony Agnone | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)
+
