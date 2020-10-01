@@ -8,4 +8,6 @@
 
 [OpenSCAD Snippet Pad: procedural](https://openscadsnippetpad.blogspot.com/search/label/procedural)
 
-[openscad-cheat-sheet.png (781×1379)](https://i.materialise.com/blog/wp-content/uploads/2015/12/openscad-cheat-sheet.png)
+[openscad-cheat-sheet](https://i.materialise.com/blog/wp-content/uploads/2015/12/openscad-cheat-sheet.png)
+
+[libfive::Examples](https://libfive.com/examples/#stdlib)
