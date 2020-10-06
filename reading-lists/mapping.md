@@ -23,3 +23,5 @@
 [Toblerity/Fiona: Fiona reads and writes geographic data files](https://github.com/Toblerity/Fiona)
 
 [Comparing Map Projections - bl.ocks.org](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
+
+[Building interactive maps with statically generated vector tiles](https://www.monades.dev/building-interactive-maps-with-statically-generated-vector-tiles/)

@@ -95,3 +95,5 @@
 [2019 Cura Tutorial: Deep Within Cura 3D Slicer Software | All3DP](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
 
 [Reforming 3D Prints With Salt And Heat | Hackaday](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Reforming%203D%20Prints%20With%20Salt%20And%20Heat%20%7C%20Hackaday&pos=576&uri=https://hackaday.com/2020/09/23/reforming-3d-prints-with-salt-and-heat/)
+
+[Alternatives to Thingiverse, 2018 Edition « Fabbaloo](https://www.fabbaloo.com/blog/2018/9/21/alternatives-to-thingiverse-2018-edition-1)

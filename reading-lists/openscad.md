@@ -13,3 +13,5 @@
 [Know only 10 things to be dangerous in OpenSCAD | Cubehero Blog](https://cubehero.com/2013/11/19/know-only-10-things-to-be-dangerous-in-openscad/)
 
 [Axford/OpenSCADMachineDesignFramework: OpenSCAD Machine Design Framework](https://github.com/Axford/OpenSCADMachineDesignFramework)
+
+[OpenSCAD | Mailing List Archive](http://forum.openscad.org/)
