@@ -31,3 +31,5 @@
 [2ality – JavaScript and more](https://2ality.com/index.html)
 
 [RoughNotation](https://roughnotation.com/)
+
+[30 seconds of code](https://www.30secondsofcode.org)
