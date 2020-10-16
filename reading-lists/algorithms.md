@@ -21,3 +21,5 @@
 [bradleybossard/C-Plus-Plus: All Algorithms implemented in C++](https://github.com/bradleybossard/C-Plus-Plus)
 
 [algorithm-visualizer/algorithm-visualizer: Interactive Online Platform that Visualizes Algorithms from Code](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+[TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)](https://github.com/TheAlgorithms/Javascript?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)

@@ -33,3 +33,5 @@
 [RoughNotation](https://roughnotation.com/)
 
 [30 seconds of code](https://www.30secondsofcode.org)
+
+[TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)](https://github.com/TheAlgorithms/Javascript?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
