@@ -7,3 +7,5 @@
 [CSSBattle](https://cssbattle.dev/)
 
 [CSS Circles - Cloud Four](https://cloudfour.com/thinks/css-circles/)
+
+[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

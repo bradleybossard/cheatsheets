@@ -67,3 +67,11 @@
 [Easier React State Management with OvermindJS - Bits and Pieces](https://blog.bitsrc.io/making-state-management-easier-with-overmindjs-5fcdd87e8c8e)
 
 [React Testing Library · Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+
+[typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
+
+[Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
+
+[React – A JavaScript library for building user interfaces](https://reactjs.org/)
+
+[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
