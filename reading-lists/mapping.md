@@ -24,4 +24,8 @@
 
 [Comparing Map Projections - bl.ocks.org](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
 
+[How to choose a projection](http://www.geo.hunter.cuny.edu/~jochen/gtech201/lectures/lec6concepts/map%20coordinate%20systems/how%20to%20choose%20a%20projection.htm)
+
 [Building interactive maps with statically generated vector tiles](https://www.monades.dev/building-interactive-maps-with-statically-generated-vector-tiles/)
+
+[15 Free Satellite Imagery Data Sources - GIS Geography](https://gisgeography.com/free-satellite-imagery-data-list/)
