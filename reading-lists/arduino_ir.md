@@ -1,6 +1,9 @@
 
 
+
 [NEW GUIDE: Building an Infrared Transmitter and Receiver Board #AssistiveTechnology #IR #Arduino #Adafruit #AdafruitLearningSystem @Adafruit @Cyborg55 « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/08/26/new-guide-building-an-infrared-transmitter-and-receiver-board-assistivetechnology-ir-arduino-adafruit-adafruitlearningsystem-adafruit-cyborg55/)
+
+
 
 
 
@@ -8,7 +11,11 @@
 
 
 
+
+
 [About IR libraries | Using an Infrared Library on Arduino | Adafruit Learning System](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=About%20IR%20libraries%20%7C%20Using%20an%20Infrared%20Library%20on%20Arduino%20%7C%20Adafruit%20Learning%20System&pos=24&uri=https://learn.adafruit.com/using-an-infrared-library/about-ir-libraries)
+
+
 
 
 
@@ -16,7 +23,11 @@
 
 
 
+
+
 [EpicTinker.com](https://www.epictinker.com/default.asp)
+
+
 
 
 
@@ -24,7 +35,11 @@
 
 
 
+
+
 [Home | Anibit Technology](https://anibit.com/)
+
+
 
 
 
@@ -32,7 +47,11 @@
 
 
 
+
+
 [IRLib | CY's Tech Talk](http://tech.cyborg5.com/irlib/)
+
+
 
 
 
@@ -40,11 +59,17 @@
 
 
 
+
+
 [IRLib | CY's Tech Talk](http://tech.cyborg5.com/irlib/)
 
 
 
+
+
 [Arduino Nano as IR sender and receiver](http://www.harctoolbox.org/arduino_nano.html)
+
+
 
 
 
