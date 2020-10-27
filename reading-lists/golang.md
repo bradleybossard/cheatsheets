@@ -256,3 +256,5 @@
 
 
 [Learn Go Programming](https://blog.learngoprogramming.com/)
+
+[facebook/ent at stackshare](https://github.com/facebook/ent?ref=stackshare)
