@@ -44,3 +44,5 @@
 
 
 [GitHub Protips: Tips, tricks, hacks, and secrets from Jason Etcovitch - The GitHub Blog](https://github.blog/2020-04-16-github-protips-tips-tricks-hacks-and-secrets-from-jason-etcovitch/)
+
+[GitHub adds code scanning for security bugs | InfoWorld](https://www.infoworld.com/article/3584408/github-adds-code-scanning-for-security-bugs.html#tk.rss_all)
