@@ -12,3 +12,5 @@
 
 
 [Docs | Alexander Leidinger](https://www.leidinger.net/blog/category/freebsd/docs/)
+
+[Oldschool Gaming on FreeBSD | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2020/10/14/oldschool-gaming-on-freebsd/)
