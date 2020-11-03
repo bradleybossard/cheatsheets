@@ -48,3 +48,12 @@
 
 
 [dhylands/rshell: Remote Shell for MicroPython](https://github.com/dhylands/rshell)
+
+
+[MicroPython and the Internet of Things, Part I: Welcome - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/micropython-and-the-internet-of-things-part-i-welcome)
+
+[Tutorials & Projects | DroneBot Workshop | Arduino & Raspberry Pi](https://dronebotworkshop.com/)
+
+[Raspberry Pi ESP32 MicroPython Touch & Sound Tutorial | Rototron](https://www.rototron.info/raspberry-pi-esp32-micropython-touch-sound-tutorial/)
+[MicroPython libraries — MicroPython 1.13 documentation](https://docs.micropython.org/en/latest/library/index.html)
+[GitHub - mcauser/awesome-micropython: A curated list of awesome MicroPython libraries, frameworks, software and resources.](https://github.com/mcauser/awesome-micropython)

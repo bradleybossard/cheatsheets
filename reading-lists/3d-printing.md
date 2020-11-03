@@ -196,3 +196,5 @@
 
 
 [Alternatives to Thingiverse, 2018 Edition « Fabbaloo](https://www.fabbaloo.com/blog/2018/9/21/alternatives-to-thingiverse-2018-edition-1)
+
+[How to Build a 3D Printer (The Ultimate Guide) - YouTube](https://www.youtube.com/watch?v=qub5chyIQ0s&t=8451s)
