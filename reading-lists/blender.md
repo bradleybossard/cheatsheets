@@ -292,3 +292,5 @@
 
 
 [- Procedural Shading: Fundamentals and Beyond — Blender Cloud](https://cloud.blender.org/p/procedural-shading/5f07594bdf7b3cdd8937a945)
+
+[Free Resources - CG Boost](https://cgboost.com/resources/?utm_source=youtube&utm_medium=video&utm_campaign=100-modeling-tips)

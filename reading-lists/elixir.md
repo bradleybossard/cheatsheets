@@ -21,3 +21,7 @@
 [History of Erlang and Elixir](https://serokell.io/blog/history-of-erlang-and-elixir)
 
 [Introduction to Elixir](https://serokell.io/blog/introduction-to-elixir)
+
+[phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard)
+
+[Underjord | The BEAM marches forward](https://underjord.io/the-beam-marches-forward.html)

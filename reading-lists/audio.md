@@ -40,3 +40,11 @@
 
 
 [Vocodes. Vocal playground.](https://vo.codes/)
+
+[Étude in C minor](https://zserge.com/posts/etude-in-c/)
+
+[Home | Csound Community](https://csound.com/index.html)
+
+[ChucK => Strongly-timed, On-the-fly Music Programming Language](https://chuck.cs.princeton.edu/)
+
+[Sonic Pi - The Live Coding Music Synth for Everyone](https://sonic-pi.net/)

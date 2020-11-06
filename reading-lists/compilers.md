@@ -68,3 +68,5 @@
 
 
 [CS143: Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+
+[Understanding static single assignment forms](https://blog.yossarian.net/2020/10/23/Understanding-static-single-assignment-forms)
