@@ -25,3 +25,9 @@
 [phoenixframework/phoenix_live_dashboard](https://github.com/phoenixframework/phoenix_live_dashboard)
 
 [Underjord | The BEAM marches forward](https://underjord.io/the-beam-marches-forward.html)
+
+[Disassembling Elixir modules - YouTube](https://www.youtube.com/watch?v=J0JIHoJ3eIk&utm_source=elixir-radar&utm_medium=email)
+
+[A brief introduction to BEAM – A Blog from the Erlang/OTP team – The Erlang/OTP team at Ericsson, the implementors and maintainers of Erlang/OTP.](https://blog.erlang.org/a-brief-BEAM-primer/?utm_source=elixir-radar&utm_medium=email)
+
+[How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/)

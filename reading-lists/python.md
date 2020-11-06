@@ -72,82 +72,44 @@
 
 [Features](https://www.sympy.org/en/features.html)
 
-
-
 [jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.](https://github.com/jazzband/pip-tools)
-
-
 
 [omegaml/minibatch: Python stream processing for humans](https://github.com/omegaml/minibatch)
 
-
-
 [Advanced usage of Python requests - timeouts, retries, hooks](https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/)
-
-
 
 [FastAPI](https://fastapi.tiangolo.com/)
 
-
-
 [pydantic](https://pydantic-docs.helpmanual.io/)
-
-
 
 [Intermediate Python — Python Tips 0.1 documentation](https://book.pythontips.com/en/latest/index.html)
 
-
-
 [MessagePack: It's like JSON. but fast and small.](https://msgpack.org/)
-
-
 
 [The definitive guide to setup my Python workspace - Henrique Bastos - Medium](https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14)
 
-
-
 [IPython Documentation — IPython 7.13.0 documentation](https://ipython.readthedocs.io/en/stable/index.html)
-
-
 
 [geopandas/geopandas: Python tools for geographic data](https://github.com/geopandas/geopandas)
 
-
-
 [pyenv/COMMANDS.md at master · pyenv/pyenv](https://github.com/pyenv/pyenv/blob/master/COMMANDS.md)
-
-
 
 [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
 
-
-
 [Pygal — pygal 2.0.0 documentation](http://www.pygal.org/en/stable/)
-
-
 
 [Pint: makes units easy — pint 0.10.1 documentation](https://pint.readthedocs.io/en/0.10.1/)
 
-
-
 [Only Python: pydeps: a very useful program](https://aroberge.blogspot.com/2019/12/pydeps-very-useful-program.html)
-
-
 
 [Martin Heinz - Personal Website & Blog](https://martinheinz.dev/blog/14)
 
-
-
 [amymhaddad](https://amymhaddad.com/the-best-resources-to-learn-python-in-2020)
-
-
 
 [Manning | Python Workout](https://www.manning.com/books/python-workout)
 
-
-
 [Hypermodern Python · Claudio Jolowicz](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 
-
-
 [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
+
+[The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0)
