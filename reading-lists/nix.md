@@ -17,3 +17,9 @@
 [https://app.getpolarized.io/doc/12YURUa4bq](https://app.getpolarized.io/doc/12YURUa4bq)
 
 [NixOps User's Guide](https://releases.nixos.org/nixops/nixops-1.7/manual/manual.html)
+
+# NixDev
+
+[Welcome to nix.dev — nix.dev documentation](https://nix.dev/#welcome-to-nix-dev)
+
+[justinwoo/nix-shorts: A collection of short notes about Nix, down to what is immediately needed for users.](https://github.com/justinwoo/nix-shorts)
