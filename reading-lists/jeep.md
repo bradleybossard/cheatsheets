@@ -16,3 +16,11 @@
 [John_Barton3-GEARBOX](http://jeepdraw.com/John_Barton3-GEARBOX.html)
 
 [Ford marked Parts 07 TRANSMISSION](http://jeepdraw.com/GROUP_07_TRANSMISSION.htm)
+
+[How I Completely Rebuilt My Jeep's Transmission In One Night For Less Than $100](https://jalopnik.com/how-i-completely-rebuilt-my-jeeps-transmission-in-one-n-1787048965)
+
+[Borg-Warner T84 Replacement Parts ('41-'45) | Quadratec](https://www.quadratec.com/jeep-replacement-parts/jeep-transmissions/t84.php)
+
+[Borg-Warner T-84 3 Speed Transmission Parts - Jeep 4x4](https://www.morris4x4center.com/borg-warner-t84-transmission-parts.html)
+
+[Novak Conversions :: Manual](https://www.novak-adapt.com/knowledge/transmissions/manual/)
