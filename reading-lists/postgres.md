@@ -18,9 +18,9 @@
 
 [Relational databases, Express Postgres. TypeScript Express #7](https://wanago.io/2019/01/14/express-postgres-relational-databases-typeorm/)
 
-[Event Storage in Postgres, Multi-tenant - DEV Community 👩‍💻👨‍💻](https://dev.to/kspeakman/event-storage-in-postgres-multi-tenant-25hc)
+[Event Storage in Postgres, Multi-tenant - DEV Community](https://dev.to/kspeakman/event-storage-in-postgres-multi-tenant-25hc)
 
-[What&#39;s New in Crunchy PostgreSQL Operator 3.5](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-3.5-new-features?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fcrunchy-postgresql-operator-3.5-new-features)
+[What&#39;s New in Crunchy PostgreSQL Operator 3.5](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-3.5-new-features)
 
 [TypeORM Migrations with Postgres. TypeScript Express #9](https://wanago.io/2019/01/28/typeorm-migrations-postgres/)
 
@@ -94,7 +94,7 @@
 
 [Similarity in Postgres and Rails using Trigrams · pganalyze](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
 
-[Using the PostgreSQL Operator with Rook Ceph Storage](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-with-rook-ceph-storage?amp_js_v=a2&amp_gsa=1&hs_amp=true#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Finfo.crunchydata.com%2Fblog%2Fcrunchy-postgresql-operator-with-rook-ceph-storage)
+[Using the PostgreSQL Operator with Rook Ceph Storage](https://info-crunchydata-com.cdn.ampproject.org/v/s/info.crunchydata.com/blog/crunchy-postgresql-operator-with-rook-ceph-storage)
 
 [Postgres Observability](https://pgstats.dev/)
 
