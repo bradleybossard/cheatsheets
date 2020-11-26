@@ -4,7 +4,7 @@
 
 [Overview — NVIDIA Cloud Native Technologies documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/overview.html)
 
-[Architecture Overview — NVIDIA Cloud Native Technologies documentation](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Architecture%20Overview%20%E2%80%94%20NVIDIA%20Cloud%20Native%20Technologies%20documentation&pos=101&uri=https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/arch-overview.html#arch-overview)
+[Architecture Overview — NVIDIA Cloud Native Technologies documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/arch-overview.html#arch-overview)
 
 [Installation Guide — NVIDIA Cloud Native Technologies documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#install-guide)
 
