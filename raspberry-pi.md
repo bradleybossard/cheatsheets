@@ -39,7 +39,15 @@
     sudo mount -a   # Remount drives
 
 #### Determine board version
-     cat /proc/cpuinfo | grep 'Revision' | awk '{print $3}' | sed 's/^1000//'
+```
+cat /sys/firmware/devicetree/base/model
+```
+
+```
+cat /proc/cpuinfo | grep 'Revision' | awk '{print $3}' | sed 's/^1000//'   # Deprecated approach
+```
+
+
 
 Take the code and match them to the table here
 
