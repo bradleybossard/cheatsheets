@@ -31,3 +31,5 @@
 [OpenSCAD: Tieing It Together With Hull() | Hackaday](https://hackaday.com/2018/02/13/openscad-tieing-it-together-with-hull/)
 
 [OpenSCAD User Manual/Primitive Solids - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#polyhedron)
+
+[revarbat/BOSL: The Belfry OpenScad Library - A library of tools, shapes, and helpers to make OpenScad easier to use.](https://github.com/revarbat/BOSL)
