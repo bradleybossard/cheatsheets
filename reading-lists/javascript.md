@@ -37,3 +37,5 @@
 [TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)](https://github.com/TheAlgorithms/Javascript?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 [Future Studio Tutorials](https://futurestud.io/tutorials)
+
+[jonasschmedtmann/complete-javascript-course: Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
