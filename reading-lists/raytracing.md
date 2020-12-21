@@ -21,3 +21,5 @@
 [danieljfarrell/pvtrace: Optical ray tracing for luminescent materials and spectral converter photovoltaic devices](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=danieljfarrell%2Fpvtrace%3A%20Optical%20ray%20tracing%20for%20luminescent%20materials%20and%20spectral%20converter%20photovoltaic%20devices&pos=0&uri=https://github.com/danieljfarrell/pvtrace)
 
 [szellmann/visionaray: A C++-based, cross platform ray tracing library](https://github.com/szellmann/visionaray)
+
+[usd-core · PyPI](https://pypi.org/project/usd-core/)
