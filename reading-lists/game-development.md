@@ -23,3 +23,5 @@
 [CodeParade - YouTube](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
 
 [Isetta Engine](https://isetta.io/)
+
+[Entity component system - Wikipedia](https://en.wikipedia.org/wiki/Entity_component_system)
