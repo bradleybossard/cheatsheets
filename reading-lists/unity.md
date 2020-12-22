@@ -9,3 +9,5 @@
 [Unity Basics Tutorials](https://catlikecoding.com/unity/tutorials/basics/)
 
 [radiatoryang/hedera: paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time](https://github.com/radiatoryang/hedera)
+
+[fluviofx/fluviofx: Fluid dynamics for Unity's VFX graph](https://github.com/fluviofx/fluviofx)

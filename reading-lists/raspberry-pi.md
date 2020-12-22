@@ -113,3 +113,5 @@
 [Share Your Keyboard and Mouse Between Linux and Raspberry Pi - It's FOSS](https://itsfoss.com/keyboard-mouse-sharing-between-computers/)
 
 [Easy Device Configuration For Your Pi Projects | Hackaday](https://hackaday.com/2020/11/18/easy-device-configuration-for-your-pi-projects/)
+
+[DeskPi Pro + 8GB Pi 4](https://www.earth.li/~noodles/blog/2020/12/deskpi-pro-and-pi4.html)

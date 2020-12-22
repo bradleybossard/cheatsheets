@@ -39,3 +39,7 @@
 [Future Studio Tutorials](https://futurestud.io/tutorials)
 
 [jonasschmedtmann/complete-javascript-course: Starter files, final projects and FAQ for my Complete JavaScript course](https://github.com/jonasschmedtmann/complete-javascript-course)
+
+[Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
+
+[Openbase: choose the right package every time](https://openbase.io/)
