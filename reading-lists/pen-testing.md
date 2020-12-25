@@ -66,3 +66,11 @@
 [Announcing the Zeek Agent | Trail of Bits Blog](https://blog.trailofbits.com/2020/03/23/announcing-the-zeek-agent/)
 
 [fireeye/ThreatPursuit-VM: Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.](https://github.com/fireeye/ThreatPursuit-VM)
+
+[Ethical Hacking 101: Web App Penetration Testing - a full course for beginners - YouTube](https://www.youtube.com/watch?v=2_lswM1S264&t=0s)
+
+[HackerSploit - YouTube](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+
+[HackerSploit Blog - Cybersecurity Training & Penetration Testing](https://hackersploit.org/)
+
+[Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
