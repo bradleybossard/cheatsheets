@@ -79,3 +79,5 @@
 [React Patterns](https://reactpatterns.com/)
 
 [TLDr;React](https://tldreact.dev/posts/)
+
+[react-boilerplate/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](https://github.com/react-boilerplate/react-boilerplate)
