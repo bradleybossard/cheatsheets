@@ -56,3 +56,5 @@
 
 
 [Vim Awesome](https://vimawesome.com/?q=tag:syntax)
+
+[A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
