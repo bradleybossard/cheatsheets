@@ -115,3 +115,9 @@
 [Easy Device Configuration For Your Pi Projects | Hackaday](https://hackaday.com/2020/11/18/easy-device-configuration-for-your-pi-projects/)
 
 [DeskPi Pro + 8GB Pi 4](https://www.earth.li/~noodles/blog/2020/12/deskpi-pro-and-pi4.html)
+
+[Standard C++](https://isocpp.org/)
+
+[Raspberry Pi HQ Camera: Autofocus for the Telephoto Lens (JiJi) - LeMaRiva|tech](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Raspberry%20Pi%20HQ%20Camera%3A%20Autofocus%20for%20the%20Telephoto%20Lens%20(JiJi)%20-%20LeMaRiva%7Ctech&pos=8039&uri=https://lemariva.com/blog/2020/12/raspberry-pi-hq-camera-autofocus-telephoto-lens)
+
+[Armor aluminum alloy case protective shell metal enclosure for raspberry pi 4 model b only Sale - Banggood.com](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Armor%20aluminum%20alloy%20case%20protective%20shell%20metal%20enclosure%20for%20raspberry%20pi%204%20model%20b%20only%20Sale%20-%20Banggood.com&pos=0&uri=https://www.banggood.com/Armor-Aluminum-Alloy-Case-Protective-Shell-Metal-Enclosure-for-Raspberry-Pi-4-Model-B-Only-p-1539228.html?p=QW0903761303201409LG&custlinkid=1229599&cur_warehouse=CN)
