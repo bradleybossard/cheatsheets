@@ -143,3 +143,5 @@
 [Linux Fu: Tracing System Calls | Hackaday](https://hackaday.com/2020/04/07/linux-fu-tracing-system-calls/)
 
 [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
+
+[/proc · julia's drawings](https://drawings.jvns.ca/proc/)
