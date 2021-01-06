@@ -31,3 +31,5 @@
 [Robotic Manipulation](http://manipulation.csail.mit.edu/)
 
 [Petoi Bittle: Build and Program Your Very Own Robot Dog - SolidSmack](https://www.solidsmack.com/fabrication/petoi-bittle-build-and-program-your-very-own-robot-dog/)
+
+[Underactuated Robotics](http://underactuated.csail.mit.edu/index.html)
