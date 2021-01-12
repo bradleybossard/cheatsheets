@@ -23,3 +23,5 @@
 [szellmann/visionaray: A C++-based, cross platform ray tracing library](https://github.com/szellmann/visionaray)
 
 [usd-core · PyPI](https://pypi.org/project/usd-core/)
+
+[Ray Tracing: Graphics for the Masses](http://www.cs.unc.edu/~rademach/xroads-RT/RTarticle.html)
