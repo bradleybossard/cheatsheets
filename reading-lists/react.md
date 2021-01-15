@@ -81,3 +81,7 @@
 [TLDr;React](https://tldreact.dev/posts/)
 
 [react-boilerplate/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](https://github.com/react-boilerplate/react-boilerplate)
+
+[jamiebuilds/unstated-next: 200 bytes to never think about React state management libraries ever again](https://github.com/jamiebuilds/unstated-next)
+
+[SWR – SWR](https://swr.vercel.app/)
