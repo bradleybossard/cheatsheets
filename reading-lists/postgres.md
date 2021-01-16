@@ -101,3 +101,5 @@
 [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 
 [Postgres Open - YouTube](https://www.youtube.com/channel/UCCDA5Yte0itW_Bf6UHpbHug)
+
+[Planet PostgreSQL](https://planet.postgresql.org/)

@@ -25,3 +25,5 @@
 [TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)](https://github.com/TheAlgorithms/Javascript?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 [Possibly Wrong | On science, mathematics, and computing](https://possiblywrong.wordpress.com/)
+
+[Coding Practice - InterviewBit](https://www.interviewbit.com/practice/)
