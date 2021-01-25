@@ -33,3 +33,9 @@
 [Petoi Bittle: Build and Program Your Very Own Robot Dog - SolidSmack](https://www.solidsmack.com/fabrication/petoi-bittle-build-and-program-your-very-own-robot-dog/)
 
 [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html)
+
+[3D Printed Gesture-Controlled Robot Arm Is A Ton Of Tutorials | Hackaday](https://hackaday.com/2021/01/20/3d-printed-gesture-controlled-robot-arm-is-a-ton-of-tutorials/)
+
+[DIY Arduino Robot Arm - Controlled by Human Gestures - SmartBuilds.io](https://smartbuilds.io/diy-robot-arm-arduino-hand-gestures/)
+
+[ArduPilot :: LocalMotors](https://ardupilot.org/index.php/slider/Planes/plane1-2)
