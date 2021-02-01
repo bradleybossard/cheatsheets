@@ -74,3 +74,5 @@
 [HackerSploit Blog - Cybersecurity Training & Penetration Testing](https://hackersploit.org/)
 
 [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
+
+[Community Projects: Kali Linux and More | Offensive Security](https://www.offensive-security.com/community-projects/)

@@ -145,3 +145,7 @@
 [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
 
 [/proc · julia's drawings](https://drawings.jvns.ca/proc/)
+
+[Basic Scripting With Awk And Gnuplot :: CyberChris — A student's personal blog and portfolio.](https://cyberchris.xyz/posts/awk-and-gnuplot/)
+
+[leahneukirchen/nq: Unix command line queue utility](https://github.com/leahneukirchen/nq)

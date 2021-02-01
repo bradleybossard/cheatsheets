@@ -113,3 +113,7 @@
 [A deep dive into the official Docker image for Python](https://pythonspeed.com/articles/official-python-docker-image/)
 
 [The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0)
+
+[Plotnine: Grammar of Graphics for Python • Blog • Data Science Workshops](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
+
+[Making beautiful plots in Python (plus a shameless book plug!)](https://t-redactyl.io/blog/2019/10/making-beautiful-plots-in-python-plus-a-shameless-book-plug.html)
