@@ -43,3 +43,5 @@
 [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 
 [Openbase: choose the right package every time](https://openbase.io/)
+
+[Untrusted - a user javascript adventure game](https://alexnisnevich.github.io/untrusted/)

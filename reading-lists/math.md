@@ -15,3 +15,5 @@
 [Cantor | KDE Frontend to mathematical applications](https://cantor.kde.org/)
 
 [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
+
+[The Renaissance Mathematicus | Just another WordPress.com weblog](https://thonyc.wordpress.com/)

@@ -117,3 +117,7 @@
 [Plotnine: Grammar of Graphics for Python • Blog • Data Science Workshops](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 
 [Making beautiful plots in Python (plus a shameless book plug!)](https://t-redactyl.io/blog/2019/10/making-beautiful-plots-in-python-plus-a-shameless-book-plug.html)
+
+[You don't really need a virtualenv | Frost's Blog](https://frostming.com/2021/01-22/introducing-pdm/)
+
+[PDM - Python Development Master](https://pdm.fming.dev/)

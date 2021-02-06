@@ -85,3 +85,7 @@
 [jamiebuilds/unstated-next: 200 bytes to never think about React state management libraries ever again](https://github.com/jamiebuilds/unstated-next)
 
 [SWR – SWR](https://swr.vercel.app/)
+
+[3 Ways to Analyze React Performance with Reactime | by Kevin Ngo | Feb, 2021 | Medium](https://kevinngo-js.medium.com/3-ways-to-analyze-react-performance-with-reactime-64f6cbbf330d)
+
+[Create a 3D product landing page with ThreeJs and React - create-a-3d-product-landing-page-with-threejs-and-react](https://richardhaines.dev/create-a-3d-product-landing-page-with-threejs-and-react/)
