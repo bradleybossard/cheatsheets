@@ -25,3 +25,6 @@
 [usd-core · PyPI](https://pypi.org/project/usd-core/)
 
 [Ray Tracing: Graphics for the Masses](http://www.cs.unc.edu/~rademach/xroads-RT/RTarticle.html)
+
+[lighttransport/nanort: NanoRT, single header only modern ray tracing kernel.](https://github.com/lighttransport/nanort)
+
