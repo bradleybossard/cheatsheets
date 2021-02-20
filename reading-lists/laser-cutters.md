@@ -1,6 +1,3 @@
-
 [LightBurn Software](https://lightburnsoftware.com/)
 
-
-
-[40*50cm 500mw mini diy desktop blue laser engraving machine cnc laser 2axis Sale - Banggood.com](https://www.banggood.com/4050cm-500mW-Mini-DIY-Desktop-Blue-Laser-Engraving-Machine-CNC-Laser-2Axis-p-1563707.html?rmmds=category&cur_warehouse=CN)
+[Ortur Laser Master Black US Plug 20w Laser Engraving Machine Sale, Price & Reviews | Gearbest](https://www.gearbest.com/laser-engraving-machine/pp_009232255338.html?wid=1433363)

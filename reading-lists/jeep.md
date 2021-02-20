@@ -24,3 +24,5 @@
 [Borg-Warner T-84 3 Speed Transmission Parts - Jeep 4x4](https://www.morris4x4center.com/borg-warner-t84-transmission-parts.html)
 
 [Novak Conversions :: Manual](https://www.novak-adapt.com/knowledge/transmissions/manual/)
+
+[Electric Jeep Wrangler Prototype Appears to Have Conventional Gearbox and Transfer Case](https://www.thedrive.com/news/39193/electric-jeep-wrangler-prototype-appears-to-have-conventional-gearbox-and-transfer-case)

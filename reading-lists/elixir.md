@@ -31,3 +31,5 @@
 [A brief introduction to BEAM – A Blog from the Erlang/OTP team – The Erlang/OTP team at Ericsson, the implementors and maintainers of Erlang/OTP.](https://blog.erlang.org/a-brief-BEAM-primer/?utm_source=elixir-radar&utm_medium=email)
 
 [How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/)
+
+[How to use Ecto’s Repo.stream/1 to process large amounts of data | Maciej Kaszubowski](https://mkaszubowski.com/2021/02/16/ecto-repo-stream-data-processing.html)
