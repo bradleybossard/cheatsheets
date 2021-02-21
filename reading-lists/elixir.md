@@ -33,3 +33,5 @@
 [How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/)
 
 [How to use Ecto’s Repo.stream/1 to process large amounts of data | Maciej Kaszubowski](https://mkaszubowski.com/2021/02/16/ecto-repo-stream-data-processing.html)
+
+[Numerical Elixir](https://github.com/elixir-nx/nx/tree/main/nx)
