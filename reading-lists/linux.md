@@ -149,3 +149,5 @@
 [Basic Scripting With Awk And Gnuplot :: CyberChris — A student's personal blog and portfolio.](https://cyberchris.xyz/posts/awk-and-gnuplot/)
 
 [leahneukirchen/nq: Unix command line queue utility](https://github.com/leahneukirchen/nq)
+
+[Parallel shells with xargs: Utilize all your cpu cores on UNIX and Windows | Linux Journal](https://www.linuxjournal.com/content/parallel-shells-xargs-utilize-all-your-cpu-cores-unix-and-windows)
