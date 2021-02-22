@@ -9,3 +9,5 @@
 [DB Browser for SQLite](https://sqlitebrowser.org/)
 
 [DBHub.io - SQLite storage "in the cloud"](https://dbhub.io/)
+
+[DBCLI](https://www.dbcli.com/)
