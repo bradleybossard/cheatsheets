@@ -11,3 +11,5 @@
 [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
 [FullStack.Cafe - Kill Your Next Tech & Coding Interview](https://www.fullstack.cafe/)
+
+[poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
