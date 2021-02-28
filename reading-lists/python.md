@@ -121,3 +121,9 @@
 [You don't really need a virtualenv | Frost's Blog](https://frostming.com/2021/01-22/introducing-pdm/)
 
 [PDM - Python Development Master](https://pdm.fming.dev/)
+
+[Pipenv: Python Dev Workflow for Humans — pipenv 2020.11.16.dev0 documentation](https://pipenv.pypa.io/en/latest/)
+
+[Python Environment 101. How are pyenv and pipenv different and… | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/python-environment-101-1d68bda3094d)
+
+[python - What is the difference between venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv, etc? - Stack Overflow](https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe)
