@@ -26,3 +26,7 @@
 [Novak Conversions :: Manual](https://www.novak-adapt.com/knowledge/transmissions/manual/)
 
 [Electric Jeep Wrangler Prototype Appears to Have Conventional Gearbox and Transfer Case](https://www.thedrive.com/news/39193/electric-jeep-wrangler-prototype-appears-to-have-conventional-gearbox-and-transfer-case)
+
+[Transmission Diagrams - MB - 41-45 MB Diagrams - Shop By Diagram](https://www.kaiserwillys.com/diagram/mb-diagrams/transmission-diagrams-mb-gpw)
+
+[T-84 Transmission - T-84 Transmission - Transmission Diagrams - MB - 41-45 MB Diagrams - Shop By Diagram](https://www.kaiserwillys.com/diagram/mb-diagrams/transmission-diagrams-mb-gpw/t-84-transmission/t-84-transmission)
