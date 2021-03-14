@@ -39,3 +39,5 @@
 [CS 6120: The Self-Guided Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
 [AST explorer](https://astexplorer.net/)
+
+[Getting started - yacv](https://ashutoshbsathe.github.io/yacv/getting-started/)
