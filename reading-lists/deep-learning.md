@@ -165,3 +165,5 @@
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 [Deep RL Bootcamp Lecture 1: Motivation + Overview + Exact Solution Methods - YouTube](https://www.youtube.com/watch?v=qaMdN6LS9rA&t=182s)
+
+[GPU.LAND](https://gpu.land/)
