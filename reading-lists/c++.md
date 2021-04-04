@@ -5,3 +5,5 @@
 [Standard C++](https://isocpp.org/)
 
 [Joern - Open-Source Code Querying Engine](https://joern.io/)
+
+[All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
