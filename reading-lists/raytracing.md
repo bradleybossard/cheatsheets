@@ -29,3 +29,5 @@
 [lighttransport/nanort: NanoRT, single header only modern ray tracing kernel.](https://github.com/lighttransport/nanort)
 
 [Yocto/GL](https://xelatihy.github.io/yocto-gl/)
+
+[szellmann/visionaray: A C++-based, cross platform ray tracing library](https://github.com/szellmann/visionaray)
