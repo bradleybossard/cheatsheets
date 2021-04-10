@@ -17,3 +17,5 @@
 [Need Flexible Nominal Typing for TypeScript? Use Flavoring, not Branding](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/)
 
 [Performance · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Performance)
+
+[Home | TypeDoc](https://typedoc.org/)
