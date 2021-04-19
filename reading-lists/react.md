@@ -91,3 +91,5 @@
 [Create a 3D product landing page with ThreeJs and React - create-a-3d-product-landing-page-with-threejs-and-react](https://richardhaines.dev/create-a-3d-product-landing-page-with-threejs-and-react/)
 
 [segmentio/evergreen: 🌲 Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
+
+[streamich/react-use: React Hooks — 👍](https://github.com/streamich/react-use)
