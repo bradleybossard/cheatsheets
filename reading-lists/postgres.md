@@ -103,3 +103,5 @@
 [Postgres Open - YouTube](https://www.youtube.com/channel/UCCDA5Yte0itW_Bf6UHpbHug)
 
 [Planet PostgreSQL](https://planet.postgresql.org/)
+
+[ankane/pgvector: Open-source vector similarity search for Postgres](https://github.com/ankane/pgvector)
