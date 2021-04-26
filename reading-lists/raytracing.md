@@ -31,3 +31,5 @@
 [Yocto/GL](https://xelatihy.github.io/yocto-gl/)
 
 [szellmann/visionaray: A C++-based, cross platform ray tracing library](https://github.com/szellmann/visionaray)
+
+[Publications](https://www.disneyanimation.com/publications/)
