@@ -121,3 +121,5 @@
 [Armor aluminum alloy case protective shell metal enclosure for raspberry pi 4 model b only Sale - Banggood.com](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Armor%20aluminum%20alloy%20case%20protective%20shell%20metal%20enclosure%20for%20raspberry%20pi%204%20model%20b%20only%20Sale%20-%20Banggood.com&pos=0&uri=https://www.banggood.com/Armor-Aluminum-Alloy-Case-Protective-Shell-Metal-Enclosure-for-Raspberry-Pi-4-Model-B-Only-p-1539228.html?p=QW0903761303201409LG&custlinkid=1229599&cur_warehouse=CN)
 
 [Your free and decentralized audio platform - Funkwhale](https://funkwhale.audio/en_US/#get-started)
+
+[kizniche/Mycodo: An environmental monitoring and regulation system](https://github.com/kizniche/Mycodo)

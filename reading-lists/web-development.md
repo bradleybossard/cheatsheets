@@ -9,3 +9,5 @@
 [APIs-guru/graphql-apis: 📜 A collective list of public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
+
+[Choose an open source license | Choose a License](https://choosealicense.com/)
