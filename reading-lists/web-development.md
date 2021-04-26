@@ -11,3 +11,5 @@
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
 [Choose an open source license | Choose a License](https://choosealicense.com/)
+
+[Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
