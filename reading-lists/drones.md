@@ -86,6 +86,8 @@
 
 [The Drone Racing League Simulator on Steam](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
 
+[Learn How to Build Your Own Drone from Scratch | A 2020 DIY Guide](https://dojofordrones.com/build-a-drone/)
+
 ## 3D Printable Frames
 
 [3D Printed FPV Racing Quad- / Hexa- / TriCopter frame by Bitwise | Pinshape](https://pinshape.com/items/11492-3d-printed-fpv-racing-quad-hexa-tricopter-frame)
@@ -93,4 +95,5 @@
 [3D Printed Viper X210 FPV Quadcopter Frame by håvard_brenne | Pinshape](https://pinshape.com/items/30870-3d-printed-viper-x210-fpv-quadcopter-frame)
 
 [3D Printed Viper X190 FPV Quadcopter Frame by håvard_brenne | Pinshape](https://pinshape.com/items/27217-3d-printed-viper-x190-fpv-quadcopter-frame)
+
 
