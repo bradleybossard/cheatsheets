@@ -15,3 +15,17 @@
 [https://www.rtl-sdr.com](https://www.rtl-sdr.com/)
 
 [FCC ID Search and Redirection](http://fcc.io/)
+
+[Gqrx SDR – Open source software defined radio by Alexandru Csete OZ9AEC](https://gqrx.dk/)
+
+[GNU Radio and Gqrx SDR Receiver « Jeff's Skinner Box](https://jeffskinnerbox.wordpress.com/2013/07/08/gnu-radio-and-gqrx-sdr-receiver/)
+
+[Sdrangelove - SDR (Software Defined Radio) - Open Source Mobile Communications](https://osmocom.org/projects/sdr/wiki/Sdrangelove)
+
+[The "Hello World" of GNU Radio: Dial Tone - YouTube](https://www.youtube.com/watch?v=xxe87CdIq-s)
+
+[GNU Radio - The Free & Open Source Radio Ecosystem · GNU Radio](https://www.gnuradio.org/)
+
+[Volk - GNU Radio](https://wiki.gnuradio.org/index.php/Volk)
+
+[VOLK: Vector-Optimized Library of Kernels — Rondeau Research](http://www.trondeau.com/blog/2010/12/11/volk-vector-optimized-library-of-kernels.html)
