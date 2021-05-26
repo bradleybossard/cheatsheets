@@ -13,3 +13,5 @@
 [Zielon/PBRVulkan: Vulkan Real-time Path Tracer Engine](https://github.com/Zielon/PBRVulkan)
 
 [bwasty/vulkan-tutorial-rs: Rust version of https://github.com/Overv/VulkanTutorial](https://github.com/bwasty/vulkan-tutorial-rs)
+
+[GPU hardware info database launchpad](https://gpuinfo.org/)
