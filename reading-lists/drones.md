@@ -96,4 +96,12 @@
 
 [3D Printed Viper X190 FPV Quadcopter Frame by håvard_brenne | Pinshape](https://pinshape.com/items/27217-3d-printed-viper-x190-fpv-quadcopter-frame)
 
+[Cleanflight ·](http://cleanflight.com/)
 
+[MultiWii](http://www.multiwii.com/)
+
+[betaflight/betaflight-configurator: Cross platform configuration tool for the Betaflight firmware](https://github.com/betaflight/betaflight-configurator)
+
+[betaflight/betaflight: Open Source Flight Controller Firmware](https://github.com/betaflight/betaflight)
+
+[cleanflight/cleanflight: Clean-code version of the baseflight flight controller firmware](https://github.com/cleanflight/cleanflight)
