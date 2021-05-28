@@ -75,3 +75,5 @@ ea
 [Set up Vim as your Rust IDE | Opensource.com](https://opensource.com/article/20/7/vim-rust-ide)
 
 [A half-hour to learn Rust - fasterthanli.me](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+
+[The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
