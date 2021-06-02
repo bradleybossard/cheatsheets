@@ -11,4 +11,6 @@
 
 [Tailwind UI KIT – 250 components and templates for React, VueJS and Angular.](https://www.tailwind-kit.com/)
 
+[Presentation | Tailwind Starter Kit by Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+
 [Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
