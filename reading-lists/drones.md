@@ -105,3 +105,9 @@
 [betaflight/betaflight: Open Source Flight Controller Firmware](https://github.com/betaflight/betaflight)
 
 [cleanflight/cleanflight: Clean-code version of the baseflight flight controller firmware](https://github.com/cleanflight/cleanflight)
+
+[Basic Soldering Lesson 1 - "Solder & Flux" - YouTube](https://www.youtube.com/watch?v=vIT4ra6Mo0s)
+
+[THE ULTIMATE FPV SHOPPING LIST | JOSHUA BARDWELL - FPV-KNOW-IT-All](https://www.fpvknowitall.com/)
+
+[Introduction - Manual for OpenTX 2.2](https://doc.open-tx.org/manual-for-opentx-2-2/)
