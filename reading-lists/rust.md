@@ -77,3 +77,5 @@ ea
 [A half-hour to learn Rust - fasterthanli.me](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
+
+[Rocket - Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/)
