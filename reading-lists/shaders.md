@@ -9,3 +9,7 @@
 [The Book of Shaders](https://thebookofshaders.com/)
 
 [iY0Yi/ShaderBoy: Simple text editor that lets you write Shadertoy shaders more comfortably, anytime, anywhere.](https://github.com/iY0Yi/ShaderBoy)
+
+[Classroom Resources – GeoGebra](https://www.geogebra.org/materials)
+
+[Tutorials - YouTube](https://www.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
