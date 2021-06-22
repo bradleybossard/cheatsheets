@@ -3,3 +3,5 @@
 [Cryptographic essence of Bitcoin part # 1: What is a Hash function?](https://hackernoon.com/cryptographic-essence-of-bitcoin-part-1-what-is-a-hash-function-f468e7f72daa)
 
 [Bitcoin](https://www.microstrategy.com/en/bitcoin)
+
+[A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
