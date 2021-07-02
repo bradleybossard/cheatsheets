@@ -167,3 +167,5 @@
 [Deep RL Bootcamp Lecture 1: Motivation + Overview + Exact Solution Methods - YouTube](https://www.youtube.com/watch?v=qaMdN6LS9rA&t=182s)
 
 [GPU.LAND](https://gpu.land/)
+
+[CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
