@@ -27,3 +27,7 @@
 [Possibly Wrong | On science, mathematics, and computing](https://possiblywrong.wordpress.com/)
 
 [Coding Practice - InterviewBit](https://www.interviewbit.com/practice/)
+
+[Introduction - algo-en](https://labuladong.gitbook.io/algo-en/)
+
+[labuladong/fucking-algorithm: EEnglish version supported! Crack LeetCode, not only how, but also why.](https://github.com/labuladong/fucking-algorithm)
