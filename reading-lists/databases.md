@@ -11,3 +11,5 @@
 [DBHub.io - SQLite storage "in the cloud"](https://dbhub.io/)
 
 [DBCLI](https://www.dbcli.com/)
+
+[GitHub - codemix/ts-sql: A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)
