@@ -30,3 +30,7 @@
 [Transmission Diagrams - MB - 41-45 MB Diagrams - Shop By Diagram](https://www.kaiserwillys.com/diagram/mb-diagrams/transmission-diagrams-mb-gpw)
 
 [T-84 Transmission - T-84 Transmission - Transmission Diagrams - MB - 41-45 MB Diagrams - Shop By Diagram](https://www.kaiserwillys.com/diagram/mb-diagrams/transmission-diagrams-mb-gpw/t-84-transmission/t-84-transmission)
+
+[Willys CJ2A Torque Specifications](http://www.cj-2a.com/techtips/specs/torques.html)
+
+[Torque Chart](https://www.willysjeepparts.com/Torque_Chart.htm)
