@@ -169,3 +169,9 @@
 [GPU.LAND](https://gpu.land/)
 
 [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+[PaddlePaddle/PaddleHub: Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)](https://github.com/PaddlePaddle/PaddleHub)
+
+[PaddlePaddle/Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）](https://github.com/paddlepaddle/paddle)
+
+[AI Explorables | PAIR](https://pair.withgoogle.com/explorables/)
