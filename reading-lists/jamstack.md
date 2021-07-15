@@ -9,3 +9,7 @@
 [Next.js Introduction: What is Next.js? - Next.js from the Ground Up - Jamstack Explorers](https://explorers.netlify.com/learn/nextjs/nextjs-what-is-nextjs)
 
 [Missions - Jamstack Explorers](https://explorers.netlify.com/missions)
+
+[The Open Source Firebase Alternative | Supabase](https://supabase.io/)
+
+[Hasura | Instant GraphQL APIs for your data](https://hasura.io/)
