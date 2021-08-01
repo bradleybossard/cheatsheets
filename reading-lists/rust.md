@@ -30,8 +30,6 @@
 
 [bradtraversy/rust_sandbox: Fundamentals of the Rust language](https://github.com/bradtraversy/rust_sandbox)
 
-ea
-
 [5 Minute Rust - A new series where we explore Rust in 5 minute chunks - rust](https://www.reddit.com/r/rust/comments/aybtxl/5_minute_rust_a_new_series_where_we_explore_rust/)
 
 [Learning Rust With Entirely Too Many Linked Lists](https://cglab.ca/~abeinges/blah/too-many-lists/book/)
@@ -79,3 +77,7 @@ ea
 [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
 
 [Rocket - Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/)
+
+[Rust Audio - Rust Language Audio Development](https://rust-audio.discourse.group/)
+
+[jonasrmichel/rudiments: A drum machine written in Rust](https://github.com/jonasrmichel/rudiments)

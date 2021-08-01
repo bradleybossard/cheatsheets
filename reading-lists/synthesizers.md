@@ -16,6 +16,30 @@
 
 [VCV Rack - The Eurorack Simulator](https://vcvrack.com/Rack)
 
+[Audible Genius - YouTube](https://www.youtube.com/channel/UCnBxSfOzdOpU6ySNS8NVYUQ)
+
+[Syntorial Walk-Through #1 - YouTube](https://www.youtube.com/watch?v=hLeKVdqBoeQ)
+
 [Syntorial-Demo-Mac-1.6.600](http://www.mediafire.com/file/4vmnh1f011b73bi/Syntorial-Demo-Mac-1.6.600.zip/file)
 
 [Generating Musical Synthesizer Patches with Machine Learning | by Jake Spracher | Jul, 2021 | Medium](https://jakespracher.medium.com/generating-musical-synthesizer-patches-with-machine-learning-c52f66dfe751)
+
+[10 EPIC Free Synth Plugins You Need for Sound Design 🎹 - YouTube](https://www.youtube.com/watch?v=K4LnW2hOAus)
+
+[Articles at KVR Audio](https://www.kvraudio.com/articles)
+
+[Echo Sound Works | Core Wavetable Collection Free](https://www.echosoundworks.com/eswcorewavetables)
+
+[Wavetable synthesis - Wikipedia](https://en.wikipedia.org/wiki/Wavetable_synthesis)
+
+[Digital waveguide synthesis - Wikipedia](https://en.wikipedia.org/wiki/Digital_waveguide_synthesis#:~:text=Digital%20waveguide%20synthesis%20is%20the,most%20modern%20physical%20modeling%20synthesizers.)
+
+[The top 10 free synth plugins you should try in 2021](https://www.kvraudio.com/10-best-free-synth-plugins-2021)
+
+[Martin Lüders' VST site](https://sites.google.com/site/mlvst0)
+
+[VCV Rack - The Eurorack Simulator for Windows/Mac/Linux](https://vcvrack.com/)
+
+[Surge](https://surge-synthesizer.github.io/)
+
+[Freeware synthesizer Tyrell N6 plugin VST, AU, WIN, MAC - AMAZONA.de](https://www.amazona.de/freeware-synthesizer-tyrell-n6-plugin-vst-au-win-mac/)
