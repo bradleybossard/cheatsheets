@@ -175,3 +175,5 @@
 [PaddlePaddle/Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）](https://github.com/paddlepaddle/paddle)
 
 [AI Explorables | PAIR](https://pair.withgoogle.com/explorables/)
+
+[Distill — Latest articles about machine learning](https://distill.pub/)
