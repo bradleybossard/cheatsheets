@@ -9,3 +9,5 @@
 [GPU Gems | NVIDIA Developer](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 
 [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://openai.com/blog/triton/)
+
+[GPU architecture types explained – RasterGrid](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
