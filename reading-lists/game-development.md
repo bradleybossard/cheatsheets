@@ -25,3 +25,25 @@
 [Isetta Engine](https://isetta.io/)
 
 [Entity component system - Wikipedia](https://en.wikipedia.org/wiki/Entity_component_system)
+
+[A Bestiary of Functions for Systems Designers | Bruno Dias’ Personal Website](https://brunodias.dev/2021/03/19/functions-for-system-designers.html)
+
+[jsfxr](https://sfxr.me/)
+
+[Piskel - Free online sprite editor](https://www.piskelapp.com/)
+
+[LibreSprite](https://libresprite.github.io/#!/)
+
+[LibreSprite/LibreSprite: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite](https://github.com/LibreSprite/LibreSprite)
+
+[PixiEditor/PixiEditor: PixiEditor is a lightweight pixel art editor made with .NET 5](https://github.com/PixiEditor/PixiEditor)
+
+[Pixel Studio for pixel art on Steam](https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/)
+
+[Unity - Manual: Sprite Editor](https://docs.unity3d.com/Manual/SpriteEditor.html)
+
+[Aseprite - Animated sprite editor & pixel art tool](https://www.aseprite.org/)
+
+[BobSprite - Sprite Editor](https://www.bobsprite.com/)
+
+[Tiled Map Editor by Thorbjørn](https://thorbjorn.itch.io/tiled)

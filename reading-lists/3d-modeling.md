@@ -45,3 +45,5 @@
 [Models: All | 3D Model Haven](https://3dmodelhaven.com/models/)
 
 [zalo/CascadeStudio: A Full Live-Scripted CAD Kernel in the Browser](https://github.com/zalo/CascadeStudio)
+
+[Poly Haven](https://polyhaven.com/)

@@ -17,3 +17,5 @@
 [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 
 [The Renaissance Mathematicus | Just another WordPress.com weblog](https://thonyc.wordpress.com/)
+
+[susam/muboard: Self-rendering and distributable mathematics chalkboards](https://github.com/susam/muboard)
