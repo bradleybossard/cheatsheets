@@ -83,3 +83,5 @@
 [jonasrmichel/rudiments: A drum machine written in Rust](https://github.com/jonasrmichel/rudiments)
 
 [Slice Patterns · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
+
+[Posts · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/)
