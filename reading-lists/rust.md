@@ -81,3 +81,5 @@
 [Rust Audio - Rust Language Audio Development](https://rust-audio.discourse.group/)
 
 [jonasrmichel/rudiments: A drum machine written in Rust](https://github.com/jonasrmichel/rudiments)
+
+[Slice Patterns · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
