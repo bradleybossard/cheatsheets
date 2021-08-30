@@ -45,3 +45,5 @@
 [Openbase: choose the right package every time](https://openbase.io/)
 
 [Untrusted - a user javascript adventure game](https://alexnisnevich.github.io/untrusted/)
+
+[esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
