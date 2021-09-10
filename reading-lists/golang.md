@@ -135,3 +135,5 @@
 [Wails](https://wails.app/)
 
 [tmrts/go-patterns: Curated list of Go design patterns, recipes and idioms](https://github.com/tmrts/go-patterns)
+
+[Go Patterns · GitBook](http://tmrts.com/go-patterns/)
