@@ -13,3 +13,9 @@
 [FullStack.Cafe - Kill Your Next Tech & Coding Interview](https://www.fullstack.cafe/)
 
 [poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
+
+[AlgoDaily - Software interview prep made easy. Coding Interview Questions.](https://algodaily.com/dashboard)
+
+[Anonymous Technical Mock Interviews | interviewing.io](https://interviewing.io/)
+
+[Team AlgoDaily - YouTube](https://www.youtube.com/c/TeamAlgoDaily/featured)
