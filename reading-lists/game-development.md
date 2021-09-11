@@ -47,3 +47,5 @@
 [BobSprite - Sprite Editor](https://www.bobsprite.com/)
 
 [Tiled Map Editor by Thorbjørn](https://thorbjorn.itch.io/tiled)
+
+[Collection: Pixel Art Tools](https://github.com/collections/pixel-art-tools)
