@@ -96,3 +96,5 @@
 [python - What is the difference between venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv, etc? - Stack Overflow](https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe)
 
 [Pants](https://www.pantsbuild.org/)
+
+[https://pythonspeed.com/fil/docs/print.html](https://pythonspeed.com/fil/docs/print.html)
