@@ -19,3 +19,7 @@
 [Anonymous Technical Mock Interviews | interviewing.io](https://interviewing.io/)
 
 [Team AlgoDaily - YouTube](https://www.youtube.com/c/TeamAlgoDaily/featured)
+
+[AlgoExpert | Ace the Coding Interviews](https://www.algoexpert.io/product)
+
+[Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://techinterviewhandbook.org/)
