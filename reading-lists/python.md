@@ -98,3 +98,5 @@
 [Pants](https://www.pantsbuild.org/)
 
 [https://pythonspeed.com/fil/docs/print.html](https://pythonspeed.com/fil/docs/print.html)
+
+[RustPython/RustPython: A Python Interpreter written in Rust](https://github.com/RustPython/RustPython)
