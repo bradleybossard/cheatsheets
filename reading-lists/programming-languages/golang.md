@@ -141,3 +141,5 @@
 [segmentio/asm: Go library providing algorithms optimized to leverage the characteristics of modern CPUs](https://github.com/segmentio/asm)
 
 [cloudwego/kitex: A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.](https://github.com/cloudwego/kitex?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+[maxence-charriere/go-app: A package to build progressive web apps with Go programming language and WebAssembly.](https://github.com/maxence-charriere/go-app)

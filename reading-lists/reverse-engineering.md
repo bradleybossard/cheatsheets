@@ -21,3 +21,5 @@
 [radare](https://www.radare.org/n/)
 
 [Analysis of large binaries and games in Ghidra-SRE – kiwidog's blog](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)
+
+[Reverse Engineering the Neewer 660 Keylight's Remote | In the name of science🎓!](https://www.inthenameofscience.nl/reverse-engineering-neewer-660-keylight-remote-control/)

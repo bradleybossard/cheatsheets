@@ -23,3 +23,5 @@
 [Welcome to nix.dev — nix.dev documentation](https://nix.dev/#welcome-to-nix-dev)
 
 [justinwoo/nix-shorts: A collection of short notes about Nix, down to what is immediately needed for users.](https://github.com/justinwoo/nix-shorts)
+
+[Ditch your version manager | juliu.is](https://juliu.is/ditch-your-version-manager/)

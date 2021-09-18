@@ -18,3 +18,5 @@
 [ Gust UI | Elegant HTML & React Components For Tailwind CSS](https://www.gustui.com/)
 
 [TUK - Free and premium tailwind css templates and components](https://tailwinduikit.com/pricing)
+
+[FlowBite - Tailwind CSS components library](https://flowbite.com/docs/getting-started/introduction/)
