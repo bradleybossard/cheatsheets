@@ -85,3 +85,7 @@
 [Slice Patterns · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
 
 [Posts · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/)
+
+[⚙️ Reliable - Rustacean Principles](https://rustacean-principles.netlify.app/how_rust_empowers/reliable.html)
+
+[How to Rustacean - Rustacean Principles](https://rustacean-principles.netlify.app/how_to_rustacean.html)
