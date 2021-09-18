@@ -137,3 +137,5 @@
 [tmrts/go-patterns: Curated list of Go design patterns, recipes and idioms](https://github.com/tmrts/go-patterns)
 
 [Go Patterns · GitBook](http://tmrts.com/go-patterns/)
+
+[segmentio/asm: Go library providing algorithms optimized to leverage the characteristics of modern CPUs](https://github.com/segmentio/asm)
