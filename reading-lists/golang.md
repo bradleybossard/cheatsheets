@@ -139,3 +139,5 @@
 [Go Patterns · GitBook](http://tmrts.com/go-patterns/)
 
 [segmentio/asm: Go library providing algorithms optimized to leverage the characteristics of modern CPUs](https://github.com/segmentio/asm)
+
+[cloudwego/kitex: A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.](https://github.com/cloudwego/kitex?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
