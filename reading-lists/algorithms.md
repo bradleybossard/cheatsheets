@@ -33,3 +33,5 @@
 [labuladong/fucking-algorithm: EEnglish version supported! Crack LeetCode, not only how, but also why.](https://github.com/labuladong/fucking-algorithm)
 
 [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+
+[TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)](https://github.com/TheAlgorithms/Javascript)
