@@ -23,3 +23,5 @@
 [Analysis of large binaries and games in Ghidra-SRE – kiwidog's blog](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)
 
 [Reverse Engineering the Neewer 660 Keylight's Remote | In the name of science🎓!](https://www.inthenameofscience.nl/reverse-engineering-neewer-660-keylight-remote-control/)
+
+[Reverse engineering software licensing from early-2000s abandonware – Part 1](https://yingtongli.me/blog/2021/08/29/drm5-1.html)

@@ -123,3 +123,9 @@
 [Your free and decentralized audio platform - Funkwhale](https://funkwhale.audio/en_US/#get-started)
 
 [kizniche/Mycodo: An environmental monitoring and regulation system](https://github.com/kizniche/Mycodo)
+
+[Stream TV from your Raspberry Pi with Tvheadend - Pi My Life Up](https://pimylifeup.com/raspberry-pi-tvheadend/)
+
+[Raspberry Pi Index - Pi My Life Up](https://pimylifeup.com/raspberry-pi-index/)
+
+[Quinny/GuitarEffects: A low latency guitar effects processor suitable for running on a raspberry pi](https://github.com/Quinny/GuitarEffects)

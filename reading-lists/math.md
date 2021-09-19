@@ -19,3 +19,5 @@
 [The Renaissance Mathematicus | Just another WordPress.com weblog](https://thonyc.wordpress.com/)
 
 [susam/muboard: Self-rendering and distributable mathematics chalkboards](https://github.com/susam/muboard)
+
+[Extreme Learning | Always curious. Always learning.](http://extremelearning.com.au/)
