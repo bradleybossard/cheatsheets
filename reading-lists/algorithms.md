@@ -31,3 +31,5 @@
 [Introduction - algo-en](https://labuladong.gitbook.io/algo-en/)
 
 [labuladong/fucking-algorithm: EEnglish version supported! Crack LeetCode, not only how, but also why.](https://github.com/labuladong/fucking-algorithm)
+
+[TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
