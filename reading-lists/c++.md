@@ -11,3 +11,5 @@
 [Bazel - a fast, scalable, multi-language and extensible build system" - Bazel](https://bazel.build/)
 
 [fmtlib/fmt: A modern formatting library](https://github.com/fmtlib/fmt)
+
+[microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS](https://github.com/Microsoft/vcpkg)
