@@ -49,3 +49,5 @@
 [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 
 [Popular Javascript Programming Tips - Popular Tips](https://coderwall.com/t/javascript/popular)
+
+[Lesson Plans - Front-End Engineering Curriculum - Turing School of Software and Design](https://frontend.turing.edu/lessons/)
