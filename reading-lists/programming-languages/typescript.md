@@ -19,3 +19,9 @@
 [Performance · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Performance)
 
 [Home | TypeDoc](https://typedoc.org/)
+
+[Create high quality npm packages using TypeScript | egghead.io](https://egghead.io/lessons/typescript-create-high-quality-npm-packages-using-typescript)
+
+[Build and Debug NodeJS Typescript with ONLY VSCODE - YouTube](https://www.youtube.com/watch?v=JdvkaW2xeiI&list=PLYvdvJlnTOjF6aJsWWAt7kZRJvzw-en8B&index=5)
+
+[Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
