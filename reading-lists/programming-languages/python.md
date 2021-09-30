@@ -100,3 +100,9 @@
 [https://pythonspeed.com/fil/docs/print.html](https://pythonspeed.com/fil/docs/print.html)
 
 [RustPython/RustPython: A Python Interpreter written in Rust](https://github.com/RustPython/RustPython)
+
+[The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+
+[Learn Python Programming - Python Tutorial](https://pythonbasics.org/)
+
+[gregmalcolm/python_koans: Python Koans - Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
