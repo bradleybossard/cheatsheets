@@ -5,3 +5,5 @@
 [dylanaraps/fff: 📁 A simple file manager written in bash.](https://github.com/dylanaraps/fff)
 
 [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible)
+
+[denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
