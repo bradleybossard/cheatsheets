@@ -5,3 +5,5 @@
 [dlunion/DBFace: DBFace is a real-time, single-stage detector for face detection, with faster speed and higher accuracy](https://github.com/dlunion/DBFace)
 
 [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)
+
+[GitHub - deepfakes/faceswap: Deepfakes Software For All](https://github.com/deepfakes/faceswap)

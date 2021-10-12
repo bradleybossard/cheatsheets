@@ -28,3 +28,5 @@
 [GitHub - mcauser/awesome-micropython: A curated list of awesome MicroPython libraries, frameworks, software and resources.](https://github.com/mcauser/awesome-micropython)
 
 [mocleiri/tensorflow-micropython-examples: A custom micropython firmware integrating tensorflow lite for microcontrollers and ulab to implement the tensorflow micro examples.](https://github.com/mocleiri/tensorflow-micropython-examples)
+
+[CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/)

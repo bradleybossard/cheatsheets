@@ -23,3 +23,9 @@
 [Fast subsets of large datasets with Pandas and SQLite](https://pythonspeed.com/articles/indexing-pandas-sqlite/)
 
 [Accelerated Analytics Platform | OmniSci](https://www.omnisci.com/)
+
+[Intro to Data Science - Bill Howe (UW) - YouTube](https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ)
+
+[The Open Source Data Science Masters by datasciencemasters](http://datasciencemasters.org/)
+
+[GitHub - CartoDB/data-science-book](https://github.com/CartoDB/data-science-book)
