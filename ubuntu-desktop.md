@@ -21,3 +21,8 @@ super+w                  - Expo mode, all windows in current workpace
 ctrl+alt+backspace       - Logout
 ctrl+alt+l               - Lock screen
 ```
+
+# Sets app switcher to only choose between apps in current workspace
+```
+dconf write /org/gnome/shell/app-switcher/current-workspace-only 'true'
+```
