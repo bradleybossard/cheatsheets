@@ -15,3 +15,5 @@
 [Git Command Overview with Useful Flags and Aliases | Jakub Arnold Blog](https://blog.jakuba.net/git-command-overview-with-useful-flags-and-aliases/)
 
 [Overview | itoshkov.github.io](https://itoshkov.github.io/git-tutorial.html)
+
+[Git Clean, Git Remove file from commit - Cheatsheet - GitGuardian Blog](https://blog.gitguardian.com/rewriting-git-history-cheatsheet/)
