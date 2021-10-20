@@ -9,3 +9,7 @@
 [Getting started with graph analysis in Python with pandas and networkx](https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e)
 
 [Kite](https://erkal.github.io/kite/)
+
+[cola.js: Constraint-based Layout in the Browser](https://ialab.it.monash.edu/webcola/)
+
+[Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly - Casey Primozic's Homepage](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/#final-result)

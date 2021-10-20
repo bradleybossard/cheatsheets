@@ -43,3 +43,5 @@
 [Surge](https://surge-synthesizer.github.io/)
 
 [Freeware synthesizer Tyrell N6 plugin VST, AU, WIN, MAC - AMAZONA.de](https://www.amazona.de/freeware-synthesizer-tyrell-n6-plugin-vst-au-win-mac/)
+
+[Dexed](https://asb2m10.github.io/dexed/)

@@ -21,3 +21,7 @@
 [https://app.getpolarized.io/doc/1V7LWgmpUFeySzWTFZRH7HRJ2tH83MQHFqAMvndKQoviPY9WQb#?page=39&target=12pH1SswQE&pos=bottom&n=66280](https://app.getpolarized.io/doc/1V7LWgmpUFeySzWTFZRH7HRJ2tH83MQHFqAMvndKQoviPY9WQb#?page=39&target=12pH1SswQE&pos=bottom&n=66280)
 
 [The Modelica Association — Modelica Association](https://www.modelica.org/)
+
+[Simulating Real-World Processes in Python With SimPy – Real Python](https://realpython.com/courses/simulating-processes-simpy/)
+
+[SimPy in 10 Minutes — SimPy 4.0.2.dev1+g2973dbe documentation](https://simpy.readthedocs.io/en/latest/simpy_intro/index.html)

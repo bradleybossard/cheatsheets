@@ -13,3 +13,5 @@
 [Classroom Resources – GeoGebra](https://www.geogebra.org/materials)
 
 [Tutorials - YouTube](https://www.youtube.com/playlist?list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji)
+
+[vanrez-nez/awesome-glsl: Compilation of the best resources to learn programming OpenGL Shaders](https://github.com/vanrez-nez/awesome-glsl)

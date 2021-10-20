@@ -33,3 +33,5 @@
 [szellmann/visionaray: A C++-based, cross platform ray tracing library](https://github.com/szellmann/visionaray)
 
 [Publications](https://www.disneyanimation.com/publications/)
+
+[nvpro-samples/vk_raytracing_tutorial_KHR: Ray tracing examples and tutorials using VK_KHR_ray_tracing](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
