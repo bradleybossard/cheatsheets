@@ -801,9 +801,6 @@
 
 
 
-[Intel&#39;s RealSense SR305 camera is designed for low-cost depth tracking | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/07/16/intels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F07%2F16%2Fintels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking%2F)
-
-
 
 [Bust the Burglars – Machine Learning with TensorFlow and Apache Kafka | Confluent](https://www.confluent.io/blog/bust-the-burglars-machine-learning-with-tensorflow-and-apache-kafka)
 
@@ -4513,9 +4510,6 @@
 
 [elife sprint: Integrating Stencila and Binder - Jupyter Blog](https://blog.jupyter.org/elife-sprint-integrating-stencila-and-binder-18834e9ad584)
 
-
-
-[Intel&#39;s RealSense SR305 camera is designed for low-cost depth tracking | VentureBeat](https://venturebeat-com.cdn.ampproject.org/v/s/venturebeat.com/2019/07/16/intels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking/amp/?amp_js_v=a2&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fventurebeat.com%2F2019%2F07%2F16%2Fintels-realsense-sr305-camera-is-designed-for-low-cost-depth-tracking%2F)
 
 
 
