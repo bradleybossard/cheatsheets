@@ -35,3 +35,5 @@
 [The Executable Book Project — The Executable Book Project](https://executablebooks.org/en/latest/)
 
 [Introducing kepler.gl for Jupyter | by Shan He | vis.gl | Medium](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf)
+
+[Jupyter Docker Stacks — docker-stacks latest documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
