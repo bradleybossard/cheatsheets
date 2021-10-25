@@ -177,3 +177,5 @@
 [AI Explorables | PAIR](https://pair.withgoogle.com/explorables/)
 
 [Distill — Latest articles about machine learning](https://distill.pub/)
+
+[Home - Galaxy Community Hub](https://galaxyproject.org/)
