@@ -147,3 +147,5 @@
 [Free Resources - CG Boost](https://cgboost.com/resources/?utm_source=youtube&utm_medium=video&utm_campaign=100-modeling-tips)
 
 [animate1978/MB-Lab: MB-Lab is a character creation tool for Blender 2.80+, based off ManuelBastioniLAB](https://github.com/animate1978/MB-Lab)
+
+[JoeWDavies/geoblender: Tutorials for making 3D-looking maps with Blender and QGIS](https://github.com/JoeWDavies/geoblender)
