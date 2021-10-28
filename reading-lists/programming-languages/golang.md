@@ -145,3 +145,7 @@
 [maxence-charriere/go-app: A package to build progressive web apps with Go programming language and WebAssembly.](https://github.com/maxence-charriere/go-app)
 
 [goplus/gop: GoPlus - The Go+ language for engineering, STEM education, and data science](https://github.com/goplus/gop)
+
+[A comprehensive guide to go generate - Eli Bendersky's website](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
+
+[GitHub - create-go-app/cli: ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!](https://github.com/create-go-app/cli#readme)

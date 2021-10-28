@@ -13,3 +13,5 @@
 [SVG Basics Tutorials - Specifying Colours in SVG](http://www.svgbasics.com/colour.html)
 
 [SvgPathEditor](https://yqnn.github.io/svg-path-editor/)
+
+[Bestsnip Animation Studio](https://bestsnip.com/svg_animation/)
