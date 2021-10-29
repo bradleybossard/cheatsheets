@@ -9,3 +9,7 @@
 [Self-Driving Car Hardware | NVIDIA DRIVE](https://www.nvidia.com/en-us/self-driving-cars/drive-platform/hardware/)
 
 [NVIDIA DRIVE Orin Central Computer for Intelligent Vehicles - NVIDIA Blog](https://blogs.nvidia.com/blog/2021/04/12/drive-orin-central-computer/)
+
+[The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
+
+[GitHub - fzi-forschungszentrum-informatik/Lanelet2: Map handling framework for automated driving](https://github.com/fzi-forschungszentrum-informatik/Lanelet2)
