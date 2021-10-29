@@ -13,3 +13,5 @@
 [AcademySoftwareFoundation/openvdb: OpenVDB - Sparse volume data structure and tools](https://github.com/AcademySoftwareFoundation/openvdb)
 
 [nmwsharp/geometry-central: Applied 3D geometry in C++, with a focus on surface meshes.](https://github.com/nmwsharp/geometry-central)
+
+[Scratchapixel](https://www.scratchapixel.com/index.php?redirect)
