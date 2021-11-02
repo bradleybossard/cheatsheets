@@ -37,3 +37,7 @@
 [Introducing kepler.gl for Jupyter | by Shan He | vis.gl | Medium](https://medium.com/vis-gl/introducing-kepler-gl-for-jupyter-f72d41659fbf)
 
 [Jupyter Docker Stacks — docker-stacks latest documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
+
+[Kernels (Programming Languages) — Jupyter Documentation 4.1.1 alpha documentation](https://jupyter.readthedocs.io/en/latest/projects/kernels.html)
+
+[Jupyter kernels · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
