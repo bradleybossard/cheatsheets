@@ -13,3 +13,5 @@
 [cola.js: Constraint-based Layout in the Browser](https://ialab.it.monash.edu/webcola/)
 
 [Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly - Casey Primozic's Homepage](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/#final-result)
+
+[Tree Edit Distance](http://tree-edit-distance.dbresearch.uni-salzburg.at/)

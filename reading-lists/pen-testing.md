@@ -76,3 +76,5 @@
 [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
 
 [Community Projects: Kali Linux and More | Offensive Security](https://www.offensive-security.com/community-projects/)
+
+[Trojan Source: Invisible Vulnerabilities | Light Blue Touchpaper](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
