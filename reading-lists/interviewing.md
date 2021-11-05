@@ -23,3 +23,5 @@
 [AlgoExpert | Ace the Coding Interviews](https://www.algoexpert.io/product)
 
 [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://techinterviewhandbook.org/)
+
+[https://blog.webb.page/2018-01-11-why-the-job-search-sucks.txt](https://blog.webb.page/2018-01-11-why-the-job-search-sucks.txt)
