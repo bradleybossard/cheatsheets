@@ -86,3 +86,7 @@
 [Aquarium | Data Management For ML](https://www.aquariumlearning.com/)
 
 [igel — igel 0.3.1 documentation](https://igel.readthedocs.io/en/latest/README.html#motivation-goal)
+
+[GitHub - EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
+[Model Zoo - Deep learning code and pretrained models for transfer learning, educational purposes, and more](https://modelzoo.co/)
