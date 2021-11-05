@@ -16,8 +16,6 @@
 
 [Quickstart — intake 0.6.2+15.g7bacbe9.dirty documentation](https://intake.readthedocs.io/en/latest/quickstart.html)
 
-[Data Version Control · DVC](https://dvc.org/)
-
 [Beginner's Guide to Querying Data Using SQL on GPUs in Python](https://resources.nvidia.com/en-us-ds-cheat-sheets/beginners-guide-to-q)
 
 [Dask Tutorial – Beginner's Guide to Distributed Computing with GPUs in Python](https://resources.nvidia.com/en-us-ds-cheat-sheets/dask-tutorial-beginn)
