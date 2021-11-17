@@ -43,3 +43,5 @@
 [The bits and bytes of PKI | Opensource.com](https://opensource.com/article/19/6/bits-and-bytes-pki)
 
 [SSH Tunnel - Local, Remote and Dynamic Port Forwarding | Jakub Arnold Blog](https://blog.jakuba.net/ssh-tunnel---local-remote-and-dynamic-port-forwarding/)
+
+[Simple SSH Security | Disk Notifier](https://disknotifier.com/blog/simple-ssh-security/)

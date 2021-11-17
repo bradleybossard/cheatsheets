@@ -8,6 +8,8 @@
 
 [Tweag - Nix Flakes, Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes/)
 
+[How Nix and NixOS Get So Close to Perfect - Xe](https://christine.website/talks/nixos-pain-2021-11-10)
+
 # NixOS
 
 [NixOS - NixOS 20.09 manual](https://nixos.org/manual/nixos/stable/)
