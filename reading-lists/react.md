@@ -93,3 +93,5 @@
 [segmentio/evergreen: 🌲 Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
 
 [streamich/react-use: React Hooks — 👍](https://github.com/streamich/react-use)
+
+[GitHub - alan2207/bulletproof-react: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.](https://github.com/alan2207/bulletproof-react)

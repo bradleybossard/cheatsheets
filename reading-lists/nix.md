@@ -1,4 +1,4 @@
-[Configuration Collection - NixOS Wiki](https://nixos.wiki/wiki/Configuration_Collection)
+earConfiguration Collection - NixOS Wiki](https://nixos.wiki/wiki/Configuration_Collection)
 
 [Resources - NixOS Wiki](https://nixos.wiki/wiki/Resources)
 
