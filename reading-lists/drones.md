@@ -111,3 +111,5 @@
 [THE ULTIMATE FPV SHOPPING LIST | JOSHUA BARDWELL - FPV-KNOW-IT-All](https://www.fpvknowitall.com/)
 
 [Introduction - Manual for OpenTX 2.2](https://doc.open-tx.org/manual-for-opentx-2-2/)
+
+[GitHub - bmellink/IBusBM: Arduino library for RC IBUS protocol - servo (receive) and sensors/telemetry (send) using hardware UART](https://github.com/bmellink/IBusBM)
