@@ -41,3 +41,5 @@
 [Kernels (Programming Languages) — Jupyter Documentation 4.1.1 alpha documentation](https://jupyter.readthedocs.io/en/latest/projects/kernels.html)
 
 [Jupyter kernels · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
+[Table of contents — voila 0.2.12 documentation](https://voila.readthedocs.io/en/stable/)
