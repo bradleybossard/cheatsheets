@@ -15,3 +15,15 @@
 [Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly - Casey Primozic's Homepage](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/#final-result)
 
 [Tree Edit Distance](http://tree-edit-distance.dbresearch.uni-salzburg.at/)
+
+[GraphLab - Wikipedia](https://en.wikipedia.org/wiki/GraphLab)
+
+[Giraph - Introduction to Apache Giraph](https://giraph.apache.org/intro.html)
+
+[Pregel: A System for Large-Scale Graph Processing | the morning paper](https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/)
+
+[A quick introduction to Google’s Pregel graph processing system | by Aditya Chatterjee | Medium](https://medium.com/@AdityaChatterjee/googles-pregel-graph-processing-system-90341156848a)
+
+[GraphScope - graphscope blog](https://graphscope.io/blog/tech/2021/03/25/a-review-of-programming-models-for-parallel-graph-processing.html)
+
+[GraphScope](https://graphscope.io/)
