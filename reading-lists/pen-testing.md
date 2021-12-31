@@ -78,3 +78,9 @@
 [Community Projects: Kali Linux and More | Offensive Security](https://www.offensive-security.com/community-projects/)
 
 [Trojan Source: Invisible Vulnerabilities | Light Blue Touchpaper](https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/)
+
+[galkan/crowbar: Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.](https://github.com/galkan/crowbar)
+
+[Orange-Cyberdefense/arsenal: Arsenal is just a quick inventory and launcher for hacking programs](https://github.com/Orange-Cyberdefense/arsenal)
+
+[trufflesecurity/truffleHog: Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/trufflesecurity/truffleHog?is=6181de44071e9cc5eba101a0)

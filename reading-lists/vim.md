@@ -31,3 +31,5 @@
 [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
 
 [NvChad/NvChad: An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.](https://github.com/NvChad/NvChad?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+[Jackiexiao/10-minutes-to-SpaceVim: 10-minutes-to-SpaceVim](https://github.com/Jackiexiao/10-minutes-to-SpaceVim)
