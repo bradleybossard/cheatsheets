@@ -53,3 +53,5 @@
 [Lesson Plans - Front-End Engineering Curriculum - Turing School of Software and Design](https://frontend.turing.edu/lessons/)
 
 [microsoft/beginners-intro-javascript-node: Beginner's Series: Introduction to JavaScript (Node.js)](https://github.com/microsoft/beginners-intro-javascript-node)
+
+[QuickJS Javascript Engine](https://bellard.org/quickjs/)

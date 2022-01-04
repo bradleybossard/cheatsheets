@@ -39,3 +39,5 @@
 [DIY Arduino Robot Arm - Controlled by Human Gestures - SmartBuilds.io](https://smartbuilds.io/diy-robot-arm-arduino-hand-gestures/)
 
 [ArduPilot :: LocalMotors](https://ardupilot.org/index.php/slider/Planes/plane1-2)
+
+[ViSP](https://visp.inria.fr/#)
