@@ -106,3 +106,5 @@
 [Learn Python Programming - Python Tutorial](https://pythonbasics.org/)
 
 [gregmalcolm/python_koans: Python Koans - Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
+
+[Python cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/python-cheatsheet.html)

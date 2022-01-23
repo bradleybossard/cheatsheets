@@ -43,3 +43,9 @@
 [Jupyter kernels · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
 [Table of contents — voila 0.2.12 documentation](https://voila.readthedocs.io/en/stable/)
+
+[Kubernetes on a Bare Metal Host with MicroK8s — Zero to JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/kubernetes/other-infrastructure/step-zero-microk8s.html)
+
+[Jupyter Docker Stacks — docker-stacks latest documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
+
+[Deploying a containerized JupyterHub server with Docker · OpenDreamKit](https://opendreamkit.org/2018/10/17/jupyterhub-docker/)
