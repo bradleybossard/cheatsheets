@@ -15,3 +15,13 @@
 [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
 
 [matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
+
+[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+
+[UIUX Repo - Free UI and Graphic Design Resources](https://www.uiuxrepo.com/)
+
+[FONT Repo - Free Fonts for Websites & Designs](https://www.fontrepo.com/)
+
+[PNG Repo - Free Quality PNG Icons and Graphics](https://www.pngrepo.com/)
+
+[Illustrations | unDraw](https://undraw.co/illustrations)
