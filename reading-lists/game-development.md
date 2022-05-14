@@ -55,3 +55,5 @@
 [michal-z/zig-gamedev: Building game development ecosystem for @ziglang!](https://github.com/michal-z/zig-gamedev)
 
 [13 short and scary games plus source to play (or hack) this Halloween 🎃 | The GitHub Blog](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/#the-maze-of-space-goblins)
+
+[PanosK92/SpartanEngine: Game engine with an emphasis on architectural quality and performance](https://github.com/PanosK92/SpartanEngine)
