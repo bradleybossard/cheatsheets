@@ -7,3 +7,5 @@
 [Browsh](https://www.brow.sh/)
 
 [RenderingNG - Chrome Developers](https://developer.chrome.com/blog/renderingng/)
+
+[How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
