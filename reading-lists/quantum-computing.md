@@ -13,3 +13,5 @@
 [Quantum Computing References « The blog at the bottom of the sea](https://blog.demofox.org/2015/10/12/quantum-computing-references/)
 
 [Quantum Simulator  |  Google Quantum AI](https://quantumai.google/qsim)
+
+[Our new Quantum Virtual Machine will accelerate research and help people learn quantum computing](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/)
