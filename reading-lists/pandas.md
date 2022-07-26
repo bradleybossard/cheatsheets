@@ -6,3 +6,4 @@
 
 [Cookbook — pandas 1.3.3 documentation](https://pandas.pydata.org/docs/user_guide/cookbook.html)
 
+[pandera](https://pandera.readthedocs.io/en/stable/)
