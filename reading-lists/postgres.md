@@ -105,3 +105,5 @@
 [Planet PostgreSQL](https://planet.postgresql.org/)
 
 [ankane/pgvector: Open-source vector similarity search for Postgres](https://github.com/ankane/pgvector)
+
+[How PostgreSQL Views and Materialized Views Work and How They Influenced TimescaleDB Continuous Aggregates](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
