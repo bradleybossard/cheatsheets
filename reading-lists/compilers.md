@@ -45,3 +45,5 @@
 [The 25 Best Linux Compilers for Modern Developers](https://www.ubuntupit.com/best-linux-compilers-for-modern-developers/)
 
 [How to learn compilers: LLVM Edition - Low Level Bits](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
+
+[Implementing a Toy Optimizer | PyPy](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
