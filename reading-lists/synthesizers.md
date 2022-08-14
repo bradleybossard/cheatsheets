@@ -45,3 +45,9 @@
 [Freeware synthesizer Tyrell N6 plugin VST, AU, WIN, MAC - AMAZONA.de](https://www.amazona.de/freeware-synthesizer-tyrell-n6-plugin-vst-au-win-mac/)
 
 [Dexed](https://asb2m10.github.io/dexed/)
+
+[Vangelis | Nemo Studios | Unofficial fan website](https://www.nemostudios.co.uk/nemo/main/body.htm)
+
+[Vangelis scoring Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
+
+[Kate Bush's "Running Up That Hill" Synth Sounds | Reverb Machine](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)

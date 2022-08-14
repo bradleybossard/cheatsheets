@@ -9,3 +9,9 @@
 [A guide to Terraform for Kubernetes beginners | Opensource.com](https://opensource.com/article/20/7/terraform-kubernetes)
 
 [How to upgrade to Terraform 0.12 | Opensource.com](https://opensource.com/article/20/11/update-terraform)
+
+[Terramate and Terragrunt. This article dives deeper into why we… | by Sören Martius | Mineiros](https://blog.mineiros.io/terramate-and-terragrunt-f27f2ec4032f)
+
+[How to keep your Terraform code DRY by using Terramate | by Sören Martius | Jul, 2022 | Mineiros](https://blog.mineiros.io/how-to-keep-your-terraform-code-dry-by-using-terramate-be5807fef8f6)
+
+[mineiros-io/terramate: Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation.](https://github.com/mineiros-io/terramate)

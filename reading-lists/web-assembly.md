@@ -87,3 +87,9 @@
 [Running Go CLI programs in the browser](https://www.arp242.net/wasm-cli.html)
 
 [From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
+
+[Getting Started - Wasmer Docs](https://docs.wasmer.io/ecosystem/wapm/getting-started)
+
+[mbasso/awesome-wasm: 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.](https://github.com/mbasso/awesome-wasm)
+
+[WAPM - WebAssembly Package Manager](https://wapm.io/)
