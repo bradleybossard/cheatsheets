@@ -84,3 +84,11 @@
 [Orange-Cyberdefense/arsenal: Arsenal is just a quick inventory and launcher for hacking programs](https://github.com/Orange-Cyberdefense/arsenal)
 
 [trufflesecurity/truffleHog: Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/trufflesecurity/truffleHog?is=6181de44071e9cc5eba101a0)
+
+[Authentication Brute Force - Pentester's Promiscuous Notebook](https://ppn.snovvcrash.rocks/pentest/infrastructure/authentication-brute-force)
+
+[Hack The Box :: User Profile](https://app.hackthebox.com/profile/51037)
+
+[Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers](https://www.exploit-db.com/)
+
+[HackMag – Security, malware, coding, devops](https://hackmag.com/)
