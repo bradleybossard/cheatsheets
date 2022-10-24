@@ -15,3 +15,5 @@
 [GitHub - codemix/ts-sql: A SQL database implemented purely in TypeScript type annotations.](https://github.com/codemix/ts-sql)
 
 [questdb/questdb: An open source SQL database designed to process time series data, faster](https://github.com/questdb/questdb)
+
+[The Streaming Database | Materialize](https://materialize.com/)
