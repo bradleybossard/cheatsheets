@@ -49,6 +49,11 @@
 [Jupyter Docker Stacks — docker-stacks latest documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
 
 [Deploying a containerized JupyterHub server with Docker · OpenDreamKit](https://opendreamkit.org/2018/10/17/jupyterhub-docker/)
+
 [jupyter-starters · PyPI](https://pypi.org/project/jupyter-starters/)
+
 [K3D-tools/K3D-jupyter: K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK.](https://github.com/K3D-tools/K3D-jupyter#readme)
+
 [Lines — K3D-jupyter 2.10.0 documentation](https://k3d-jupyter.org/showcase/lines.html)
+
+[JupyterLite — JupyterLite 0.1.0-beta.12 documentation](https://jupyterlite.readthedocs.io/en/latest/)
