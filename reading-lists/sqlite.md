@@ -1,0 +1,1 @@
+[Many Small Queries Are Efficient In SQLite](https://www.sqlite.org/np1queryprob.html)
