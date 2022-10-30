@@ -89,3 +89,5 @@
 [⚙️ Reliable - Rustacean Principles](https://rustacean-principles.netlify.app/how_rust_empowers/reliable.html)
 
 [How to Rustacean - Rustacean Principles](https://rustacean-principles.netlify.app/how_to_rustacean.html)
+
+[Introduction - The Rust Rand Book](https://rust-random.github.io/book/intro.html)
