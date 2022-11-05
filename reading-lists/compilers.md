@@ -47,3 +47,5 @@
 [How to learn compilers: LLVM Edition - Low Level Bits](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
 
 [Implementing a Toy Optimizer | PyPy](https://www.pypy.org/posts/2022/07/toy-optimizer.html)
+
+[PEGs and the Structure of Languages – Naming Things](https://blog.bruce-hill.com/pegs-and-the-structure-of-languages)
