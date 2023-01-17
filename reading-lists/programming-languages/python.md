@@ -108,3 +108,5 @@
 [gregmalcolm/python_koans: Python Koans - Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
 
 [Python cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/python-cheatsheet.html)
+
+[Nuitka the Python Compiler — Nuitka the Python Compiler documentation](https://nuitka.net/index.html)
