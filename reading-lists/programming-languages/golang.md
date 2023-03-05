@@ -151,3 +151,5 @@
 [GitHub - create-go-app/cli: ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!](https://github.com/create-go-app/cli#readme)
 
 [DBCore - Rapidly prototype applications powered by your database.](https://www.dbcore.org/)
+
+[GitHub - adhocteam/pushup: Pushup is for making modern, page-oriented web apps in Go](https://github.com/adhocteam/pushup)

@@ -17,3 +17,5 @@
 [questdb/questdb: An open source SQL database designed to process time series data, faster](https://github.com/questdb/questdb)
 
 [The Streaming Database | Materialize](https://materialize.com/)
+
+[Stack: It's not you, it's SQL](https://stack.convex.dev/not-sql)
