@@ -25,3 +25,15 @@
 [PNG Repo - Free Quality PNG Icons and Graphics](https://www.pngrepo.com/)
 
 [Illustrations | unDraw](https://undraw.co/illustrations)
+
+[Download 1,295,600 free icons (SVG, PNG)](https://icons8.com/icons)
+
+[Free Royalty-Free Music — Fugue](https://icons8.com/music/)
+
+[Autumn Background Music playlist](https://icons8.com/music/playlists/autumn-background-1)
+
+[Free Vector Illustrations for Your Website](https://icons8.com/illustrations)
+
+[Pichon for Mac – Free Icons, Photos, Illustrations](https://icons8.com/app/macos)
+
+[Animated icons – 20 styles and GIF, JSON, AEP formats](https://icons8.com/l/animated/)
