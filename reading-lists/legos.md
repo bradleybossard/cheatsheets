@@ -27,3 +27,7 @@
 [Browse | Brickset: LEGO set guide and database](https://brickset.com/browse)
 
 [All Files - LDraw.org OMR](http://omr.ldraw.org/files)
+
+[Brickshelf](https://brickshelf.com/)
+
+[Everything LEGO : Unofficial Collection of Links](https://www.lugnet.com/links/everything.cgi)
