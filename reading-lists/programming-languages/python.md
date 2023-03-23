@@ -110,3 +110,7 @@
 [Python cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/python-cheatsheet.html)
 
 [Nuitka the Python Compiler — Nuitka the Python Compiler documentation](https://nuitka.net/index.html)
+
+[Pythex: a Python regular expression editor](https://pythex.org/)
+
+[pylint-errors | A curated list of pylint errors with explanation and examples](https://vald-phoenix.github.io/pylint-errors/)
