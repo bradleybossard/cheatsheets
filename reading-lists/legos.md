@@ -31,3 +31,5 @@
 [Brickshelf](https://brickshelf.com/)
 
 [Everything LEGO : Unofficial Collection of Links](https://www.lugnet.com/links/everything.cgi)
+
+[LEGO® Pick a Brick | Official LEGO® Shop US](https://www.lego.com/en-us/pick-and-build/pick-a-brick)
