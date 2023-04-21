@@ -11,3 +11,5 @@
 [AWS CloudShell – Command-Line Access to AWS Resources | AWS News Blog](https://aws.amazon.com/blogs/aws/aws-cloudshell-command-line-access-to-aws-resources/)
 
 [Catalog | Qwiklabs](https://amazon-run.qwiklabs.com/catalog?keywords=Introduction%20to%20AWS%20Lambda)
+
+[A Detailed Overview of AWS API Gateway | DeBrie Advisory](https://www.alexdebrie.com/posts/api-gateway-elements/)
