@@ -37,3 +37,7 @@
 [Pichon for Mac – Free Icons, Photos, Illustrations](https://icons8.com/app/macos)
 
 [Animated icons – 20 styles and GIF, JSON, AEP formats](https://icons8.com/l/animated/)
+
+[Icon Sets • Iconify](https://icon-sets.iconify.design/)
+
+[antfu/unplugin-icons: 🤹 Access thousands of icons as components on-demand universally.](https://github.com/antfu/unplugin-icons)
