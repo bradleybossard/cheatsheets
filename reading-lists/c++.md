@@ -13,3 +13,5 @@
 [fmtlib/fmt: A modern formatting library](https://github.com/fmtlib/fmt)
 
 [microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS](https://github.com/Microsoft/vcpkg)
+
+[facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
