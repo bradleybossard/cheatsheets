@@ -6,14 +6,32 @@
     whatis <application-name>  # describes an application
 ```
 
-### hardware
+## hardware
+
+### hardware overview
+```
+sudo lshw -short               # get hardware information
+sudo lshw -short -C memory     # get memory Class hardware info
+sudo inxi -Fxz                 # colored hardware summary  (must be apt installed)
+hwinfo --short                 # hardware summary  (must be apt installed)
+```
+
+### cpu
 ```
 cat /proc/cpuinfo              # get CPU information
-sudo lshw -short               # get hardware information
+lscpu                          # summarized CPU information
+```
+
+### memory
+```
 sudo dmidecode --type memory   # get memory information
-sudo lshw -short -C memory     # get memory Class hardware info
-sudo inxi -Fxz
-hwinfo --short
+```
+
+### devices
+```
+lspci         # show pci devices
+lsblk         # show block devices
+lsusb         # show usb devices
 ```
 
 ### power
@@ -47,6 +65,7 @@ fg <job-no>                # bring background job to foreground
 
 ### disk
 ```
+    hdparm                     # get/set hard disk parameters
     df                         # Report file system disk usage
     ncdu                       # Ncurses disk usage (quite awesome for analyzing entire drive usage)
 ```
