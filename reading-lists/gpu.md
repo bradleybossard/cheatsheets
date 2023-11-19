@@ -11,3 +11,5 @@
 [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://openai.com/blog/triton/)
 
 [GPU architecture types explained – RasterGrid](https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/)
+
+[What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
