@@ -51,3 +51,5 @@
 [Vangelis scoring Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
 
 [Kate Bush's "Running Up That Hill" Synth Sounds | Reverb Machine](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
+
+[Synth Emulation in MAME (Arcade machine emulator). A New Trend? - Gearspace](https://gearspace.com/board/electronic-music-instruments-and-electronic-music-production/1416192-synth-emulation-mame-arcade-machine-emulator-new-trend.html)
