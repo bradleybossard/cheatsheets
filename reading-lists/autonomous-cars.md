@@ -13,3 +13,5 @@
 [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
 
 [GitHub - fzi-forschungszentrum-informatik/Lanelet2: Map handling framework for automated driving](https://github.com/fzi-forschungszentrum-informatik/Lanelet2)
+
+[Waymo Launches New Simulator to Train Realistic Agents for Autonomous Vehicles | Robots.net](https://robots.net/news/waymo-launches-new-simulator-to-train-realistic-agents-for-autonomous-vehicles/)
