@@ -31,3 +31,5 @@
 [veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 
 [Running Docker Containers as Current Host User - Juan Treminio - Senior Web Developer Blog](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/)
+
+[wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)

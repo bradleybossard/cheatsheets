@@ -25,3 +25,5 @@
 [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://techinterviewhandbook.org/)
 
 [https://blog.webb.page/2018-01-11-why-the-job-search-sucks.txt](https://blog.webb.page/2018-01-11-why-the-job-search-sucks.txt)
+
+[DopplerHQ/awesome-interview-questions: :octocat: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/DopplerHQ/awesome-interview-questions)
