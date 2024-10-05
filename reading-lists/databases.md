@@ -19,3 +19,9 @@
 [The Streaming Database | Materialize](https://materialize.com/)
 
 [Stack: It's not you, it's SQL](https://stack.convex.dev/not-sql)
+
+[Turn Your Laptop Into a Personal Analytics Engine with DuckDB and MotherDuck - KDnuggets](https://www.kdnuggets.com/turn-your-laptop-into-a-personal-analytics-engine-with-duckdb-and-motherduck)
+
+[Why is DuckDB Getting Popular? - KDnuggets](https://www.kdnuggets.com/2023/07/duckdb-getting-popular.html)
+
+[MotherDuck: Ducking Simple Data Warehouse based on DuckDB](https://motherduck.com/)
